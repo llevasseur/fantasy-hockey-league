@@ -1,0 +1,62 @@
+{
+    "Alasdair": {
+        "Goals": 18,
+        "Assists": 25,
+        "Shots on Goal": 125,
+        "Penalties in Minutes": 14,
+        "Plus / Minus": 33,
+        "Time Played in Minutes": 832,
+        "Save Percentage": 0.8,
+        "Goals Against Average": 3.0
+    },
+    "Trevor": {
+        "Goals": 17,
+        "Assists": 16,
+        "Shots on Goal": 110,
+        "Penalties in Minutes": 36,
+        "Plus / Minus": 45,
+        "Time Played in Minutes": 888,
+        "Save Percentage": 0.967,
+        "Goals Against Average": 0.64
+    },
+    "Michael": {
+        "Goals": 20,
+        "Assists": 38,
+        "Shots on Goal": 147,
+        "Penalties in Minutes": 10,
+        "Plus / Minus": 16,
+        "Time Played in Minutes": 967,
+        "Save Percentage": 0.924,
+        "Goals Against Average": 1.7
+    },
+    "Austin": {
+        "Goals": 14,
+        "Assists": 27,
+        "Shots on Goal": 94,
+        "Penalties in Minutes": 43,
+        "Plus / Minus": 50,
+        "Time Played in Minutes": 740,
+        "Save Percentage": 0.902,
+        "Goals Against Average": 2.36
+    },
+    "Leevon": {
+        "Goals": 11,
+        "Assists": 27,
+        "Shots on Goal": 116,
+        "Penalties in Minutes": 12,
+        "Plus / Minus": 36,
+        "Time Played in Minutes": 925,
+        "Save Percentage": 1.0,
+        "Goals Against Average": 0.0
+    },
+    "Rylan": {
+        "Goals": 11,
+        "Assists": 16,
+        "Shots on Goal": 91,
+        "Penalties in Minutes": 34,
+        "Plus / Minus": -3,
+        "Time Played in Minutes": 706,
+        "Save Percentage": 0.944,
+        "Goals Against Average": 1.0
+    }
+}
