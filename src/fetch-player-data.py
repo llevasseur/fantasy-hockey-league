@@ -73,7 +73,7 @@ def main():
   players = {}
 
   for i in range(1, 4):
-    soup = getSoup("https://www.eliteprospects.com/league/wjc-20/stats/2020-2021?page="+str(i))
+    soup = getSoup("https://www.eliteprospects.com/league/wjc-20/stats/2021-2022?page="+str(i))
     getPlayersFromSoup(players, soup)
 
   with open('../json/ep-player-data.json', 'w') as json_file:
