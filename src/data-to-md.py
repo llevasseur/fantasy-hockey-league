@@ -89,14 +89,14 @@ def main():
             player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
       except:
         print("skipping", pick) 
-        
+          
     ranking_data[user] = {
       "Goals": g_total,
       "Assists": a_total,
       "Shots on Goal": sog_total,
       "Penalties in Minutes": pim_total,
       "Plus / Minus": pm_total,
-      "Time Played in Minutes": tpm_total,
+      "Time Played in Minutes": round(tpm_total,2),
       "Save Percentage": max(svp_list) if svp_list else '-',
       "Goals Against Average": min(gaa_list) if svp_list else '-'
     }

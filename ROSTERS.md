@@ -8,11 +8,12 @@
 | [Fyodor Svechkov](https://www.eliteprospects.com/player/693396/fyodor-svechkov) | F |  Russia | 1 | 0 | 1 | 0 | 0 | 14.8 |
 | [Danila Yurov](https://www.eliteprospects.com/player/672619/danila-yurov) | F |  Russia | 0 | 0 | 1 | 4 | -1 | 10.7 |
 | [Kirill Tankov](https://www.eliteprospects.com/player/292126/kirill-tankov) | F |  Russia | 0 | 1 | 1 | 0 | 0 | 15.65 |
+| [Dalibor Dvorsky](https://www.eliteprospects.com/player/527424/dalibor-dvorsky) | F |  Slovakia | 0 | 0 | 0 | 0 | 0 | 11.3 |
 | [Kaiden Guhle](https://www.eliteprospects.com/player/413363/kaiden-guhle) | D |  Canada | 0 | 0 | 0 | 0 | 1 | 19.9 |
 | [Lukas Cormier](https://www.eliteprospects.com/player/201780/lukas-cormier) | D |  Canada | 0 | 1 | 1 | 0 | 0 | 16.2 |
 | [Brian Zanetti](https://www.eliteprospects.com/player/577448/brian-zanetti) | D |  Switzerland | - | - | 0 | - |  | 0 |
 | [Lian Bichsel](https://www.eliteprospects.com/player/665087/lian-bichsel) | D |  Switzerland | - | - | 0 | - |  | 0 |
-| **Totals** | | | 1 | 4 | 7 | 4 | 1 | 104.45 |
+| **Totals** | | | 1 | 4 | 7 | 4 | 1 | 115.75 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- |  --- | -- | --: |
