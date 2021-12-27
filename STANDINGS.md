@@ -64,8 +64,8 @@
 ## Goals Against Average
 | Rank | User | Goals Against Average |
 | :--- | ---- | ---------: |
-| 1 | [Liam](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Liam) |  0.0 |
-| 2 | [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair) |  3.0 |
+| 1 | [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair) |  3.0 |
+| 1 | [Liam](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Liam) |  3.0 |
 | 3 | [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) |  4.5 |
 | 4 | [John](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John) |  100.0 |
 | 4 | [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon) |  100.0 |
