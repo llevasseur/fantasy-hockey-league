@@ -84,12 +84,12 @@ def main():
             if re.match('\d+', pim): pim_total += int(pim)
             if re.match('\-?\d+', pm): pm_total += int(pm)
             sog_total += sog
-            tpm_total = round(tpm_total + tpm, 2)
+            tpm_total += tpm
 
             player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
       except:
         print("skipping", pick) 
-          
+  
     ranking_data[user] = {
       "Goals": g_total,
       "Assists": a_total,
