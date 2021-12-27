@@ -88,7 +88,7 @@
 | [Topi Niemelä](https://www.eliteprospects.com/player/499424/topi-niemela) | D |  Finland | 0 | 0 | 1 | 0 | 2 | 21.5 |
 | [Brock Faber](https://www.eliteprospects.com/player/558598/brock-faber) | D |  USA | 0 | 0 | 2 | 0 | 1 | 18.7 |
 | [Ian Moore](https://www.eliteprospects.com/player/413015/jake-sanderson) | D |  USA | 0 | 0 | 1 | 0 | 0 | 11.7 |
-| **Totals** | | | 3 | 3 | 22 | 2 | 6 | 176.45000000000002 |
+| **Totals** | | | 3 | 3 | 22 | 2 | 6 | 176.45 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- |  --- | -- | --: |
