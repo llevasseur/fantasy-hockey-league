@@ -1,62 +1,62 @@
 {
-    "Alasdair": {
-        "Goals": 0,
-        "Assists": 0,
+    "Timo": {
+        "Goals": 1,
+        "Assists": 1,
         "Shots on Goal": 0,
-        "Penalties in Minutes": 0,
-        "Plus / Minus": 0,
+        "Penalties in Minutes": 4,
+        "Plus / Minus": -1,
         "Time Played in Minutes": 0,
         "Save Percentage": 0.0,
         "Goals Against Average": 100.0
     },
-    "Trevor": {
-        "Goals": 2,
+    "Alasdair": {
+        "Goals": 1,
         "Assists": 1,
-        "Shots on Goal": 53,
-        "Penalties in Minutes": 0,
-        "Plus / Minus": 0,
-        "Time Played in Minutes": 355,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
-    },
-    "Michael": {
-        "Goals": 0,
-        "Assists": 0,
-        "Shots on Goal": 6,
-        "Penalties in Minutes": 0,
-        "Plus / Minus": -2,
-        "Time Played in Minutes": 85,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
-    },
-    "Austin": {
-        "Goals": 0,
-        "Assists": 0,
         "Shots on Goal": 0,
         "Penalties in Minutes": 0,
+        "Plus / Minus": -2,
+        "Time Played in Minutes": 0,
+        "Save Percentage": 0.9,
+        "Goals Against Average": 3.0
+    },
+    "John": {
+        "Goals": 0,
+        "Assists": 4,
+        "Shots on Goal": 0,
+        "Penalties in Minutes": 0,
+        "Plus / Minus": -6,
+        "Time Played in Minutes": 0,
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
+    },
+    "Carsten": {
+        "Goals": 3,
+        "Assists": 2,
+        "Shots on Goal": 0,
+        "Penalties in Minutes": 2,
         "Plus / Minus": 0,
         "Time Played in Minutes": 0,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
-    },
-    "Leevon": {
-        "Goals": 0,
-        "Assists": 0,
-        "Shots on Goal": 17,
-        "Penalties in Minutes": 2,
-        "Plus / Minus": 1,
-        "Time Played in Minutes": 156,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
-    },
-    "Rylan": {
-        "Goals": 0,
-        "Assists": 2,
-        "Shots on Goal": 29,
-        "Penalties in Minutes": 0,
-        "Plus / Minus": 2,
-        "Time Played in Minutes": 233,
         "Save Percentage": 0.813,
         "Goals Against Average": 4.5
+    },
+    "Leevon": {
+        "Goals": 2,
+        "Assists": 2,
+        "Shots on Goal": 0,
+        "Penalties in Minutes": 0,
+        "Plus / Minus": 6,
+        "Time Played in Minutes": 0,
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
+    },
+    "Liam": {
+        "Goals": 2,
+        "Assists": 2,
+        "Shots on Goal": 0,
+        "Penalties in Minutes": 2,
+        "Plus / Minus": -1,
+        "Time Played in Minutes": 0,
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
     }
 }
