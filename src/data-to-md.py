@@ -50,43 +50,46 @@ def main():
 
     for pick in roster:
 
-      if validatePick(player_data[pick]):
+      try:
+        if validatePick(player_data[pick]):
 
-        href = player_data[pick]['href']
-        pos = player_data[pick]['pos']
-        team = player_data[pick]['team']
+          href = player_data[pick]['href']
+          pos = player_data[pick]['pos']
+          team = player_data[pick]['team']
 
-        if pos == "G":
-          gaa = player_data[pick]['gaa']
-          svp = player_data[pick]['svp']
+          if pos == "G":
+            gaa = player_data[pick]['gaa']
+            svp = player_data[pick]['svp']
 
-          if re.match('[\d\.]+', gaa): 
-            gaa_list.append(float(gaa)) 
+            if re.match('[\d\.]+', gaa): 
+              gaa_list.append(float(gaa)) 
+            else:
+              gaa_list.append(100.0)
+            if re.match('[\d\.]+', svp): 
+              svp_list.append(float(svp)) 
+            else:
+              svp_list.append(0.0)
+
+            player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {svp} | {gaa} |\n")
           else:
-            gaa_list.append(100.0)
-          if re.match('[\d\.]+', svp): 
-            svp_list.append(float(svp)) 
-          else:
-            svp_list.append(0.0)
+            g = player_data[pick]['g']
+            a = player_data[pick]['a']
+            pim = player_data[pick]['pim']
+            pm = player_data[pick]['pm']
+            sog = player_data[pick]['SOG']
+            tpm = player_data[pick]['TPM']
 
-          player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {svp} | {gaa} |\n")
-        else:
-          g = player_data[pick]['g']
-          a = player_data[pick]['a']
-          pim = player_data[pick]['pim']
-          pm = player_data[pick]['pm']
-          sog = player_data[pick]['SOG']
-          tpm = player_data[pick]['TPM']
+            if re.match('\d+', g): g_total += int(g)
+            if re.match('\d+', a): a_total += int(a)
+            if re.match('\d+', pim): pim_total += int(pim)
+            if re.match('\-?\d+', pm): pm_total += int(pm)
+            sog_total += sog
+            tpm_total += tpm
 
-          if re.match('\d+', g): g_total += int(g)
-          if re.match('\d+', a): a_total += int(a)
-          if re.match('\d+', pim): pim_total += int(pim)
-          if re.match('\-?\d+', pm): pm_total += int(pm)
-          sog_total += sog
-          tpm_total += tpm
-
-          player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
-
+            player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
+      except:
+        print("skipping", pick) 
+        
     ranking_data[user] = {
       "Goals": g_total,
       "Assists": a_total,

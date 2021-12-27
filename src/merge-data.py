@@ -11,9 +11,13 @@ def main():
   for team in manual_player_data:
     players = manual_player_data[team]
     for name in players:
-      stats = players[name]
-      ep_player_data[name]['SOG'] = stats['SOG']
-      ep_player_data[name]['TPM'] = stats['TPM']
+      try:
+        stats = players[name]
+        ep_player_data[name]['SOG'] = stats['SOG']
+        ep_player_data[name]['TPM'] = stats['TPM']
+      except:
+        print("skipping", name)
+      
 
   with open('../json/merged-player-data.json', 'w') as json_file:
     json_file.write(json.dumps(ep_player_data, indent=4))

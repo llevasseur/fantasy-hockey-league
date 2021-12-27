@@ -1,7 +1,7 @@
 import json 
 
-ROSTERS_URL = "https://github.com/rylancole/world-juniors/blob/master/ROSTERS.md"
-STANDINGS_URL = "https://github.com/rylancole/world-juniors/blob/master/STANDINGS.md"
+ROSTERS_URL = "https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md"
+STANDINGS_URL = "https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md"
 
 def main():
   with open('../json/standings.json', 'r') as json_file:
