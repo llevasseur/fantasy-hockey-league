@@ -99,52 +99,52 @@
     },
     " USA": {
         "Matty Beniers": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 17.3
         },
         "Jake Sanderson": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 22.4
         },
         "Logan Cooley": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 15.4
         },
         "Tanner Dickinson": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 11.8
         },
         "Luke Hughes": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 16.6
         },
         "Jack Peart": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 9.05
         },
         "Sasha Pastujov": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 3,
+            "TPM": 6.2
         },
         "Mackie Samoskevich": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 3,
+            "TPM": 13.45
         },
         "Brett Berard": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 5,
+            "TPM": 13.95
         },
         "Brock Faber": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 18.7
         },
         "Ian Moore": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 11.7
         },
         "Tyler Kleven": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 16.8
         }
     },
     " Canada": {
@@ -224,7 +224,7 @@
             "SOG": 1,
             "TPM": 15.7
         },
-        "Luca M\u00FCnzenberger": {
+        "Luca M\u00fcnzenberger": {
             "SOG": 3,
             "TPM": 22.8
         }
@@ -249,28 +249,28 @@
     },
     " Slovakia": {
         "Simon Nemec": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 22.7
         },
-        "Dalibor Dvosky": {
+        "Dalibor Dvorsky": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 11.3
         },
         "Juraj Slafkovsky": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 19.25
         },
         "Jakub Demek": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 14.4
         },
         "Filip Mesar": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 4,
+            "TPM": 17.65
         },
         "Martin Chromiak": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 5,
+            "TPM": 18.15
         }
     }
 }

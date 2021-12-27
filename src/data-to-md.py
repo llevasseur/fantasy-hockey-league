@@ -15,7 +15,7 @@ def validatePick(pick):
       print(json.dumps(pick, indent=4))
       return False
 
-  return True
+  return True 
 
 def main():
   with open('../json/draft-picks.json', 'r') as json_file:

@@ -21,4 +21,4 @@ def main():
   print(json.dumps(team_data, indent=4))
 
 if __name__ == "__main__":
-  main()
+  main() 

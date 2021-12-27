@@ -1,4 +1,4 @@
-import json
+import json 
 
 def readJSON(path):
   with open(path, 'r') as json_file:
