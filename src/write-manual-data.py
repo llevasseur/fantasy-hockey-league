@@ -10,15 +10,13 @@ import sys
 def time_to_float(x, base=2):
     return round((x/6) * 2) / 20
 
-def main():
-    # Prompt user to input list
-    data_list = input('Input, ex Firstname1 Lastname1,SOG,MM,SS, ...: ')
-    print(data_list)
+def write_to_data(manual_player_data):
+    # Replace json with updated reference to json
+    with open('../json/manual-player-data.json', 'w') as json_file:
+        json_file.write(json.dumps(manual_player_data, indent=4))
+    return
 
-    # Parse input with regex
-    matches = re.findall('[\w|\s]*,[0-9]+,[0-9]{2},[0-5][0-9]?', data_list)
-    print(matches)
-
+def parse_manual_data(matches):
     # manual-player-data.json data for reference
     manual_player_data = {}
     with open('../json/manual-player-data.json', 'r') as json_file:
@@ -43,10 +41,20 @@ def main():
                         print('FOUND!')
                         manual_player_data[country][player]["SOG"] += int(SOG)
                         manual_player_data[country][player]["TPM"] += TPM
+    write_to_data(manual_player_data)
+    return
 
-    # Replace json with updated reference to json
-    with open('../json/manual-player-data.json', 'w') as json_file:
-        json_file.write(json.dumps(manual_player_data, indent=4))
+
+def main():
+    # Prompt user to input list
+    data_list = input('Input, ex Firstname1 Lastname1,SOG,MM,SS, ...: ')
+    print(data_list)
+
+    # Parse input with regex
+    matches = re.findall('[\w|\s]*,[0-9]+,[0-9]{2},[0-5][0-9]?', data_list)
+    print(matches)
+
+    parse_manual_data(matches)
 
     print('''
         Manual player data has been updated and written to /json/manual-player-data.json

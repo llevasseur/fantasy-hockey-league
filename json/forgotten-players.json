@@ -1,13 +1,13 @@
 {
-    "Ruben Rafkin": {
-        "name": "Ruben Rafkin",
+    "Kaiden Guhle": {
+        "name": "Kaiden Guhle",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/285312/ruben-rafkin",
-        "team": " Finland",
+        "href": "https://www.eliteprospects.com/player/413363/kaiden-guhle",
+        "team": " Canada",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "0"
+        "pm": "+1"
     },
     "Jake Sanderson": {
         "name": "Jake Sanderson",
@@ -20,9 +20,9 @@
         "pm": "0"
     },
     "Ian Moore": {
-        "name": "Jake Sanderson",
+        "name": "Ian Moore",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/413015/jake-sanderson",
+        "href": "https://www.eliteprospects.com/player/201746/ian-moore",
         "team": " USA",
         "g": "0",
         "a": "0",
@@ -48,5 +48,15 @@
         "a": "0",
         "pim": "0",
         "pm": "-2"
+    },
+    "Simon Knak": {
+        "name": "Simon Knak",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/293158/simon-knak",
+        "team": " Switzerland",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
     }
 }

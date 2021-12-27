@@ -31,36 +31,36 @@
     },
     " Finland": {
         "Topi Niemel\u00e4": {
-            "SOG": 1,
-            "TPM": 21.5
+            "SOG": 5,
+            "TPM": 43.7
         },
         "Roby J\u00e4rventie": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 11.35
         },
         "Brad Lambert": {
-            "SOG": 2,
-            "TPM": 12.35
+            "SOG": 4,
+            "TPM": 24.1
         },
         "Joakim Kemell": {
-            "SOG": 0,
-            "TPM": 12.85
+            "SOG": 2,
+            "TPM": 25.6
         },
         "Samuel Helenius": {
-            "SOG": 6,
-            "TPM": 14.2
+            "SOG": 10,
+            "TPM": 25.55
         },
         "Ruben Rafkin": {
             "SOG": 0,
-            "TPM": 13.8
+            "TPM": 20.20
         },
         "Roni Hirvonen": {
-            "SOG": 2,
-            "TPM": 14.25
+            "SOG": 7,
+            "TPM": 29.55
         },
         "Kasper Simontaival": {
-            "SOG": 0,
-            "TPM": 16.9
+            "SOG": 3,
+            "TPM": 32.05
         }
     },
     " Russia": {

@@ -16,7 +16,7 @@ def main():
         ep_player_data[name]['SOG'] = stats['SOG']
         ep_player_data[name]['TPM'] = stats['TPM']
       except:
-        print("skipping", name)
+        print("skipping (in merge) "+ name)
       
 
   with open('../json/merged-player-data.json', 'w') as json_file:

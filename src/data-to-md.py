@@ -88,7 +88,7 @@ def main():
 
             player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
       except:
-        print("skipping", pick) 
+        print("skipping (data)", pick) 
           
     ranking_data[user] = {
       "Goals": g_total,
