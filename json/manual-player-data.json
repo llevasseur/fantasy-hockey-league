@@ -1,32 +1,32 @@
 {
     " Sweden": {
         "Alexander Holtz": {
-            "SOG": 3,
-            "TPM": 19.8
+            "SOG": 9,
+            "TPM": 35.15
         },
         "Theodor Niederbach": {
-            "SOG": 2,
-            "TPM": 17.7
+            "SOG": 4,
+            "TPM": 30.35
         },
         "William Eklund": {
             "SOG": 2,
-            "TPM": 19.2
+            "TPM": 34.25
         },
         "Helge Grans": {
             "SOG": 1,
-            "TPM": 21.15
+            "TPM": 37.5
         },
         "Simon Edvinsson": {
             "SOG": 2,
-            "TPM": 23.7
+            "TPM": 44.1
         },
         "Oskar Olausson": {
-            "SOG": 2,
-            "TPM": 20.05
+            "SOG": 3,
+            "TPM": 34.8
         },
         "Emil Andrae": {
-            "SOG": 4,
-            "TPM": 22.8
+            "SOG": 6,
+            "TPM": 46.15
         }
     },
     " Finland": {
@@ -52,7 +52,7 @@
         },
         "Ruben Rafkin": {
             "SOG": 0,
-            "TPM": 20.20
+            "TPM": 20.2
         },
         "Roni Hirvonen": {
             "SOG": 7,
@@ -203,12 +203,12 @@
     },
     " Czechia": {
         "Jan Mysak": {
-            "SOG": 2,
-            "TPM": 21.35
+            "SOG": 9,
+            "TPM": 38.75
         },
         "Stanislav Svozil": {
-            "SOG": 2,
-            "TPM": 20.9
+            "SOG": 9,
+            "TPM": 50.0
         },
         "David Jiricek": {
             "SOG": 2,
@@ -217,16 +217,16 @@
     },
     " Germany": {
         "Florian Elias": {
-            "SOG": 2,
-            "TPM": 19.5
+            "SOG": 8,
+            "TPM": 39.35
         },
         "Maximilian Gl\u00f6tzl": {
             "SOG": 1,
-            "TPM": 15.7
+            "TPM": 32.6
         },
         "Luca M\u00fcnzenberger": {
-            "SOG": 3,
-            "TPM": 22.8
+            "SOG": 6,
+            "TPM": 47.0
         }
     },
     " Switzerland": {
@@ -249,28 +249,28 @@
     },
     " Slovakia": {
         "Simon Nemec": {
-            "SOG": 2,
-            "TPM": 22.7
+            "SOG": 11,
+            "TPM": 51.4
         },
         "Dalibor Dvorsky": {
-            "SOG": 0,
-            "TPM": 11.3
+            "SOG": 1,
+            "TPM": 25.85
         },
         "Juraj Slafkovsky": {
-            "SOG": 1,
-            "TPM": 19.25
+            "SOG": 4,
+            "TPM": 44.1
         },
         "Jakub Demek": {
-            "SOG": 0,
-            "TPM": 14.4
+            "SOG": 1,
+            "TPM": 32.05
         },
         "Filip Mesar": {
-            "SOG": 4,
-            "TPM": 17.65
+            "SOG": 8,
+            "TPM": 38.75
         },
         "Martin Chromiak": {
-            "SOG": 5,
-            "TPM": 18.15
+            "SOG": 9,
+            "TPM": 36.7
         }
     }
 }

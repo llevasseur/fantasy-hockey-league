@@ -58,5 +58,25 @@
         "a": "-",
         "pim": "-",
         "pm": "-"
+    },
+    "Dylan Guenther": {
+        "name": "Dylan Guenther",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/476538/dylan-guenther",
+        "team": " Canada",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Brett Berard": {
+        "name": "Brett Berard",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/201740/brett-berard",
+        "team": " USA",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     }
 }
