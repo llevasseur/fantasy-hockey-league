@@ -51,7 +51,8 @@
 | [Shakir Mukhamadullin](https://www.eliteprospects.com/player/552042/shakir-mukhamadullin) | D |  Russia | 0 | 0 | 3 | 0 | -1 | 37.95 |
 | [Helge Grans](https://www.eliteprospects.com/player/395302/helge-grans) | D |  Sweden | 0 | 3 | 1 | 0 | -1 | 37.5 |
 | [David Jiricek](https://www.eliteprospects.com/player/559522/david-jiricek) | D |  Czechia | 0 | 1 | 2 | 0 | 1 | 9.1 |
-| **Totals** | | | 1 | 7 | 25 | 0 | -6 | 272.35 |
+| [Karri Aho](https://www.eliteprospects.com/player/499176/karri-aho) | D |  Finland | 0 | 2 | 0 | 0 | 3 | 13 |
+| **Totals** | | | 1 | 9 | 25 | 0 | -3 | 285.35 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- |  --- | -- | --: |
