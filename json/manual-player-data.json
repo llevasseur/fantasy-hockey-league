@@ -66,35 +66,35 @@
     " Russia": {
         "Shakir Mukhamadullin": {
             "SOG": 3,
-            "TPM": 18.3
+            "TPM": 37.95
         },
         "Marat Khusnutdinov": {
-            "SOG": 1,
-            "TPM": 17.25
+            "SOG": 2,
+            "TPM": 35.3
         },
         "Fyodor Svechkov": {
             "SOG": 1,
-            "TPM": 14.8
+            "TPM": 32.05
         },
         "Danila Yurov": {
-            "SOG": 1,
-            "TPM": 10.7
+            "SOG": 3,
+            "TPM": 23.65
         },
         "Kirill Tankov": {
-            "SOG": 1,
-            "TPM": 15.65
+            "SOG": 2,
+            "TPM": 34.15
         },
         "Nikita Chibrikov": {
-            "SOG": 4,
-            "TPM": 15.4
+            "SOG": 8,
+            "TPM": 33.05
         },
         "Kirill Steklov": {
             "SOG": 0,
             "TPM": 1.2
         },
         "Matvei Michkov": {
-            "SOG": 6,
-            "TPM": 18.3
+            "SOG": 9,
+            "TPM": 34.7
         }
     },
     " USA": {
@@ -236,15 +236,15 @@
         },
         "Brian Zanetti": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 18.4
         },
         "Lian Bichsel": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 20.1
         },
         "Lorenzo Canonica": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 17.6
         }
     },
     " Slovakia": {

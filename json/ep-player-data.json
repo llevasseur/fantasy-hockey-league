@@ -64,7 +64,7 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/699375/matvei-michkov",
         "team": " Russia",
-        "g": "2",
+        "g": "3",
         "a": "0",
         "pim": "0",
         "pm": "0"
@@ -339,16 +339,6 @@
         "pim": "4",
         "pm": "6"
     },
-    "Nikita Chibrikov": {
-        "name": "Nikita Chibrikov",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/527467/nikita-chibrikov",
-        "team": " Russia",
-        "g": "0",
-        "a": "1",
-        "pim": "0",
-        "pm": "1"
-    },
     "Oleksii Myklukha": {
         "name": "Oleksii Myklukha",
         "pos": "F",
@@ -399,16 +389,6 @@
         "pim": "0",
         "pm": "1"
     },
-    "Matej Kaslik": {
-        "name": "Matej Kaslik",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/528530/matej-kaslik",
-        "team": " Slovakia",
-        "g": "0",
-        "a": "1",
-        "pim": "0",
-        "pm": "0"
-    },
     "Matt Coronato": {
         "name": "Matt Coronato",
         "pos": "F",
@@ -439,8 +419,18 @@
         "pim": "0",
         "pm": "-1"
     },
-    "Jakub Brabenec": {
-        "name": "Jakub Brabenec",
+    "Nikita Chibrikov": {
+        "name": "Nikita Chibrikov",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/527467/nikita-chibrikov",
+        "team": " Russia",
+        "g": "0",
+        "a": "2",
+        "pim": "0",
+        "pm": "+2"
+    },
+    "Matej Kaslik": {
+        "name": "Matej Kaslik",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/522504/jakub-brabenec",
         "team": " Czechia",
@@ -1315,9 +1305,9 @@
         "href": "https://www.eliteprospects.com/player/542979/bennet-ro%C3%9Fmy",
         "team": " Germany",
         "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "-1"
+        "a": "1",
+        "pim": "2",
+        "pm": "1"
     },
     "Vojtech Jirus": {
         "name": "Vojtech Jirus",
@@ -1614,10 +1604,10 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/672619/danila-yurov",
         "team": " Russia",
-        "g": "0",
-        "a": "0",
+        "g": "1",
+        "a": "1",
         "pim": "4",
-        "pm": "-1"
+        "pm": "+1"
     },
     "Oliver Kapanen": {
         "name": "Oliver Kapanen",
@@ -1672,12 +1662,22 @@
     "Ruben Rafkin": {
         "name": "Ruben Rafkin",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/285312/ruben-rafkin",
-        "team": " Finland",
+        "href": "https://www.eliteprospects.com/player/540476/lukas-horl",
+        "team": " Austria",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": ""
+    },
+    "Lorenzo Canonica": {
+        "name": "Lorenzo Canonica",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/541803/lorenzo-canonica",
+        "team": " Switzerland",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "0"
+        "pm": "-1"
     },
     "Eemil Viro": {
         "name": "Eemil Viro",
@@ -1884,10 +1884,10 @@
         "pos": "D",
         "href": "https://www.eliteprospects.com/player/665087/lian-bichsel",
         "team": " Switzerland",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": ""
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "-1"
     },
     "Nicolas Baechler": {
         "name": "Nicolas Baechler",
@@ -2024,20 +2024,10 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/542995/lilian-garessus",
         "team": " Switzerland",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": ""
-    },
-    "Lorenzo Canonica": {
-        "name": "Lorenzo Canonica",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/541803/lorenzo-canonica",
-        "team": " Switzerland",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": ""
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
     "Louis Robin": {
         "name": "Louis Robin",

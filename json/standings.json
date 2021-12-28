@@ -1,11 +1,11 @@
 {
     "Timo": {
-        "Goals": 1,
-        "Assists": 4,
-        "Shots on Goal": 7,
+        "Goals": 2,
+        "Assists": 5,
+        "Shots on Goal": 10,
         "Penalties in Minutes": 4,
         "Plus / Minus": 0,
-        "Time Played in Minutes": 115.75,
+        "Time Played in Minutes": 202.95,
         "Save Percentage": 0.0,
         "Goals Against Average": 100.0
     },
@@ -25,17 +25,17 @@
         "Shots on Goal": 18,
         "Penalties in Minutes": 0,
         "Plus / Minus": -6,
-        "Time Played in Minutes": 175.35,
+        "Time Played in Minutes": 195.0,
         "Save Percentage": 0.92,
         "Goals Against Average": 2.0
     },
     "Carsten": {
-        "Goals": 10,
+        "Goals": 11,
         "Assists": 6,
-        "Shots on Goal": 37,
+        "Shots on Goal": 40,
         "Penalties in Minutes": 6,
-        "Plus / Minus": 8,
-        "Time Played in Minutes": 187.15,
+        "Plus / Minus": 7,
+        "Time Played in Minutes": 221.15,
         "Save Percentage": 0.813,
         "Goals Against Average": 4.5
     },
@@ -51,11 +51,11 @@
     },
     "Liam": {
         "Goals": 5,
-        "Assists": 3,
-        "Shots on Goal": 23,
+        "Assists": 4,
+        "Shots on Goal": 28,
         "Penalties in Minutes": 2,
-        "Plus / Minus": 0,
-        "Time Played in Minutes": 158.65,
+        "Plus / Minus": -1,
+        "Time Played in Minutes": 194.35,
         "Save Percentage": 0.824,
         "Goals Against Average": 3.0
     }

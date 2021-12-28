@@ -5,15 +5,15 @@
 | [Simon Knak](https://www.eliteprospects.com/player/293158/simon-knak) | F |  Switzerland | - | - | 0 | - | - | 0 |
 | [Logan Cooley](https://www.eliteprospects.com/player/651538/logan-cooley) | F |  USA | 0 | 1 | 2 | 0 | 0 | 15.4 |
 | [Tanner Dickinson](https://www.eliteprospects.com/player/201761/tanner-dickinson) | F |  USA | 0 | 1 | 1 | 0 | 1 | 11.8 |
-| [Fyodor Svechkov](https://www.eliteprospects.com/player/693396/fyodor-svechkov) | F |  Russia | 1 | 0 | 1 | 0 | 0 | 14.8 |
-| [Danila Yurov](https://www.eliteprospects.com/player/672619/danila-yurov) | F |  Russia | 0 | 0 | 1 | 4 | -1 | 10.7 |
-| [Kirill Tankov](https://www.eliteprospects.com/player/292126/kirill-tankov) | F |  Russia | 0 | 1 | 1 | 0 | 0 | 15.65 |
+| [Fyodor Svechkov](https://www.eliteprospects.com/player/693396/fyodor-svechkov) | F |  Russia | 1 | 0 | 1 | 0 | 0 | 32.05 |
+| [Danila Yurov](https://www.eliteprospects.com/player/672619/danila-yurov) | F |  Russia | 1 | 1 | 3 | 4 | +1 | 23.65 |
+| [Kirill Tankov](https://www.eliteprospects.com/player/292126/kirill-tankov) | F |  Russia | 0 | 1 | 2 | 0 | 0 | 34.15 |
 | [Dalibor Dvorsky](https://www.eliteprospects.com/player/527424/dalibor-dvorsky) | F |  Slovakia | 0 | 0 | 0 | 0 | 0 | 11.3 |
 | [Kaiden Guhle](https://www.eliteprospects.com/player/413363/kaiden-guhle) | D |  Canada | 0 | 0 | 0 | 0 | +1 | 19.9 |
 | [Lukas Cormier](https://www.eliteprospects.com/player/201780/lukas-cormier) | D |  Canada | 0 | 1 | 1 | 0 | 0 | 16.2 |
-| [Brian Zanetti](https://www.eliteprospects.com/player/577448/brian-zanetti) | D |  Switzerland | - | - | 0 | - |  | 0 |
-| [Lian Bichsel](https://www.eliteprospects.com/player/665087/lian-bichsel) | D |  Switzerland | - | - | 0 | - |  | 0 |
-| **Totals** | | | 1 | 4 | 7 | 4 | 0 | 115.75 |
+| [Brian Zanetti](https://www.eliteprospects.com/player/577448/brian-zanetti) | D |  Switzerland | - | - | 0 | - |  | 18.4 |
+| [Lian Bichsel](https://www.eliteprospects.com/player/665087/lian-bichsel) | D |  Switzerland | 0 | 0 | 0 | 0 | -1 | 20.1 |
+| **Totals** | | | 2 | 5 | 10 | 4 | 0 | 202.95 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- |  --- | -- | --: |
@@ -48,10 +48,10 @@
 | [Juraj Slafkovsky](https://www.eliteprospects.com/player/527423/juraj-slafkovsky) | F |  Slovakia | 0 | 0 | 1 | 0 | 0 | 19.25 |
 | [Filip Mesar](https://www.eliteprospects.com/player/527430/filip-mesar) | F |  Slovakia | 0 | 0 | 4 | 0 | 0 | 17.65 |
 | [Jake Sanderson](https://www.eliteprospects.com/player/413015/jake-sanderson) | D |  USA | 0 | 0 | 1 | 0 | 0 | 22.4 |
-| [Shakir Mukhamadullin](https://www.eliteprospects.com/player/552042/shakir-mukhamadullin) | D |  Russia | 0 | 0 | 3 | 0 | -2 | 18.3 |
+| [Shakir Mukhamadullin](https://www.eliteprospects.com/player/552042/shakir-mukhamadullin) | D |  Russia | 0 | 0 | 3 | 0 | -2 | 37.95 |
 | [Helge Grans](https://www.eliteprospects.com/player/395302/helge-grans) | D |  Sweden | 0 | 2 | 1 | 0 | -2 | 21.15 |
 | [David Jiricek](https://www.eliteprospects.com/player/559522/david-jiricek) | D |  Czechia | 0 | 1 | 2 | 0 | 1 | 9.1 |
-| **Totals** | | | 1 | 5 | 18 | 0 | -6 | 175.35 |
+| **Totals** | | | 1 | 5 | 18 | 0 | -6 | 195.0 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- |  --- | -- | --: |
@@ -59,17 +59,17 @@
 ## Carsten
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- |  --- | - | - | --- | --- | --- | --: |
-| [Matvei Michkov](https://www.eliteprospects.com/player/699375/matvei-michkov) | F |  Russia | 2 | 0 | 6 | 0 | 0 | 18.3 |
+| [Matvei Michkov](https://www.eliteprospects.com/player/699375/matvei-michkov) | F |  Russia | 3 | 0 | 9 | 0 | 0 | 34.7 |
 | [Florian Elias](https://www.eliteprospects.com/player/382170/florian-elias) | F |  Germany | 0 | 0 | 2 | 0 | -2 | 19.5 |
-| [Lorenzo Canonica](https://www.eliteprospects.com/player/541803/lorenzo-canonica) | F |  Switzerland | - | - | 0 | - |  | 0 |
+| [Lorenzo Canonica](https://www.eliteprospects.com/player/541803/lorenzo-canonica) | F |  Switzerland | 0 | 0 | 0 | 0 | -1 | 17.6 |
 | [Brad Lambert](https://www.eliteprospects.com/player/414961/brad-lambert) | F |  Finland | 1 | 4 | 4 | 0 | 6 | 24.1 |
 | [Samuel Helenius](https://www.eliteprospects.com/player/554237/samuel-helenius) | F |  Finland | 3 | 1 | 10 | 2 | 6 | 25.55 |
 | [Mavrik Bourque](https://www.eliteprospects.com/player/295299/mavrik-bourque) | F |  Canada | 0 | 1 | 5 | 0 | 0 | 19.2 |
 | [Owen Power](https://www.eliteprospects.com/player/504240/owen-power) | D |  Canada | 3 | 0 | 6 | 0 | 0 | 21.8 |
-| [Maximilian GlÃ¶tzl](https://www.eliteprospects.com/player/318111/maximilian-glotzl) | D |  Germany | 0 | 0 | 1 | 2 | 0 | 15.7 |
-| [Luca MÃ¼nzenberger](https://www.eliteprospects.com/player/407643/luca-munzenberger) | D |  Germany | 1 | 0 | 3 | 2 | -2 | 22.8 |
-| [Ruben Rafkin](https://www.eliteprospects.com/player/285312/ruben-rafkin) | D |  Finland | 0 | 0 | 0 | 0 | 0 | 20.2 |
-| **Totals** | | | 10 | 6 | 37 | 6 | 8 | 187.15 |
+| [Maximilian Glötzl](https://www.eliteprospects.com/player/318111/maximilian-glotzl) | D |  Germany | 0 | 0 | 1 | 2 | 0 | 15.7 |
+| [Luca Münzenberger](https://www.eliteprospects.com/player/407643/luca-munzenberger) | D |  Germany | 1 | 0 | 3 | 2 | -2 | 22.8 |
+| [Ruben Rafkin](https://www.eliteprospects.com/player/540476/lukas-horl) | D |  Austria | - | - | 0 | - |  | 20.2 |
+| **Totals** | | | 11 | 6 | 40 | 6 | 7 | 221.15 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- |  --- | -- | --: |
@@ -81,12 +81,12 @@
 | [Mason McTavish](https://www.eliteprospects.com/player/479812/mason-mctavish) | F |  Canada | 1 | 1 | 5 | 0 | 0 | 19.2 |
 | [Brett Berard](https://www.eliteprospects.com/player/201740/brett-berard) | F |  USA | 0 | 0 | 5 | 0 | 0 | 13.95 |
 | [Roni Hirvonen](https://www.eliteprospects.com/player/448946/roni-hirvonen) | F |  Finland | 0 | 1 | 7 | 0 | 3 | 29.55 |
-| [Roby JÃ¤rventie](https://www.eliteprospects.com/player/534236/roby-jarventie) | F |  Finland | 0 | 0 | 2 | 2 | 0 | 11.35 |
+| [Roby Järventie](https://www.eliteprospects.com/player/534236/roby-jarventie) | F |  Finland | 0 | 0 | 2 | 2 | 0 | 11.35 |
 | [Theodor Niederbach](https://www.eliteprospects.com/player/394717/theodor-niederbach) | F |  Sweden | 1 | 0 | 2 | 0 | 2 | 17.7 |
 | [Jan Mysak](https://www.eliteprospects.com/player/427906/jan-mysak) | F |  Czechia | 0 | 0 | 2 | 2 | -1 | 21.35 |
 | [Jakub Demek](https://www.eliteprospects.com/player/556420/jakub-demek) | F |  Slovakia | 0 | 0 | 0 | 0 | 0 | 14.4 |
 | [Simon Edvinsson](https://www.eliteprospects.com/player/394730/simon-edvinsson) | D |  Sweden | 1 | 1 | 2 | 0 | 1 | 23.7 |
-| [Topi NiemelÃ¤](https://www.eliteprospects.com/player/499424/topi-niemela) | D |  Finland | 1 | 0 | 5 | 4 | 6 | 43.7 |
+| [Topi Niemelä](https://www.eliteprospects.com/player/499424/topi-niemela) | D |  Finland | 1 | 0 | 5 | 4 | 6 | 43.7 |
 | [Brock Faber](https://www.eliteprospects.com/player/558598/brock-faber) | D |  USA | 0 | 0 | 2 | 0 | 1 | 18.7 |
 | [Ian Moore](https://www.eliteprospects.com/player/201746/ian-moore) | D |  USA | 0 | 0 | 1 | 0 | 0 | 11.7 |
 | **Totals** | | | 4 | 3 | 33 | 8 | 12 | 225.3 |
@@ -98,16 +98,16 @@
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- |  --- | - | - | --- | --- | --- | --: |
 | [Jake Neighbours](https://www.eliteprospects.com/player/391048/jake-neighbours) | F |  Canada | 0 | 1 | 1 | 0 | 0 | 14 |
-| [Nikita Chibrikov](https://www.eliteprospects.com/player/527467/nikita-chibrikov) | F |  Russia | 0 | 1 | 4 | 0 | 1 | 15.4 |
+| [Nikita Chibrikov](https://www.eliteprospects.com/player/527467/nikita-chibrikov) | F |  Russia | 0 | 2 | 8 | 0 | +2 | 33.05 |
 | [Shane Wright](https://www.eliteprospects.com/player/526239/shane-wright) | F |  Canada | 0 | 0 | 1 | 0 | 1 | 16 |
 | [Oskar Olausson](https://www.eliteprospects.com/player/430916/oskar-olausson) | F |  Sweden | 1 | 0 | 2 | 0 | -2 | 20.05 |
-| [Marat Khusnutdinov](https://www.eliteprospects.com/player/552045/marat-khusnutdinov) | F |  Russia | 0 | 0 | 1 | 2 | 1 | 17.25 |
+| [Marat Khusnutdinov](https://www.eliteprospects.com/player/552045/marat-khusnutdinov) | F |  Russia | 0 | 0 | 2 | 2 | 1 | 35.3 |
 | [Martin Chromiak](https://www.eliteprospects.com/player/292067/martin-chromiak) | F |  Slovakia | 2 | 0 | 5 | 0 | 0 | 18.15 |
 | [Olen Zellweger](https://www.eliteprospects.com/player/476596/olen-zellweger) | D |  Canada | 1 | 0 | 3 | 0 | 1 | 17 |
 | [Emil Andrae](https://www.eliteprospects.com/player/394716/emil-andrae) | D |  Sweden | 1 | 1 | 4 | 0 | -1 | 22.8 |
 | [Kirill Steklov](https://www.eliteprospects.com/player/552041/kirill-steklov) | D |  Russia | 0 | 0 | 0 | 0 | 0 | 1.2 |
 | [Tyler Kleven](https://www.eliteprospects.com/player/536644/tyler-kleven) | D |  USA | 0 | 0 | 2 | 0 | -1 | 16.8 |
-| **Totals** | | | 5 | 3 | 23 | 2 | 0 | 158.65 |
+| **Totals** | | | 5 | 4 | 28 | 2 | -1 | 194.35 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- |  --- | -- | --: |
