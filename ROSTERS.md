@@ -66,8 +66,8 @@
 | [Samuel Helenius](https://www.eliteprospects.com/player/554237/samuel-helenius) | F |  Finland | 3 | 1 | 10 | 2 | 6 | 25.55 |
 | [Mavrik Bourque](https://www.eliteprospects.com/player/295299/mavrik-bourque) | F |  Canada | 0 | 1 | 5 | 0 | 0 | 19.2 |
 | [Owen Power](https://www.eliteprospects.com/player/504240/owen-power) | D |  Canada | 3 | 0 | 6 | 0 | 0 | 21.8 |
-| [Maximilian GlÃ¶tzl](https://www.eliteprospects.com/player/318111/maximilian-glotzl) | D |  Germany | 0 | 0 | 1 | 2 | 0 | 32.6 |
-| [Luca MÃ¼nzenberger](https://www.eliteprospects.com/player/407643/luca-munzenberger) | D |  Germany | 1 | 1 | 6 | 2 | -1 | 47.0 |
+| [Maximilian Glötzl](https://www.eliteprospects.com/player/318111/maximilian-glotzl) | D |  Germany | 0 | 0 | 1 | 2 | 0 | 32.6 |
+| [Luca Münzenberger](https://www.eliteprospects.com/player/407643/luca-munzenberger) | D |  Germany | 1 | 1 | 6 | 2 | -1 | 47.0 |
 | [Ruben Rafkin](https://www.eliteprospects.com/player/285312/ruben-rafkin) | D |  Finland | 0 | 0 | 0 | 0 | 0 | 20.2 |
 | **Totals** | | | 11 | 7 | 49 | 6 | 8 | 282.1 |
 
@@ -81,12 +81,12 @@
 | [Mason McTavish](https://www.eliteprospects.com/player/479812/mason-mctavish) | F |  Canada | 1 | 1 | 5 | 0 | 0 | 19.2 |
 | [Brett Berard](https://www.eliteprospects.com/player/201740/brett-berard) | F |  USA | 0 | 0 | 5 | 0 | 0 | 13.95 |
 | [Roni Hirvonen](https://www.eliteprospects.com/player/448946/roni-hirvonen) | F |  Finland | 0 | 1 | 7 | 0 | 3 | 29.55 |
-| [Roby JÃ¤rventie](https://www.eliteprospects.com/player/534236/roby-jarventie) | F |  Finland | 0 | 0 | 2 | 2 | 0 | 11.35 |
+| [Roby Järventie](https://www.eliteprospects.com/player/534236/roby-jarventie) | F |  Finland | 0 | 0 | 2 | 2 | 0 | 11.35 |
 | [Theodor Niederbach](https://www.eliteprospects.com/player/394717/theodor-niederbach) | F |  Sweden | 2 | 0 | 4 | 0 | 3 | 30.35 |
 | [Jan Mysak](https://www.eliteprospects.com/player/427906/jan-mysak) | F |  Czechia | 1 | 0 | 9 | 2 | -1 | 38.75 |
 | [Jakub Demek](https://www.eliteprospects.com/player/556420/jakub-demek) | F |  Slovakia | 0 | 0 | 1 | 4 | -1 | 32.05 |
 | [Simon Edvinsson](https://www.eliteprospects.com/player/394730/simon-edvinsson) | D |  Sweden | 1 | 2 | 2 | 4 | 1 | 44.1 |
-| [Topi NiemelÃ¤](https://www.eliteprospects.com/player/499424/topi-niemela) | D |  Finland | 1 | 0 | 5 | 4 | 6 | 43.7 |
+| [Topi Niemelä](https://www.eliteprospects.com/player/499424/topi-niemela) | D |  Finland | 1 | 0 | 5 | 4 | 6 | 43.7 |
 | [Brock Faber](https://www.eliteprospects.com/player/558598/brock-faber) | D |  USA | 0 | 0 | 2 | 0 | 1 | 18.7 |
 | [Ian Moore](https://www.eliteprospects.com/player/201746/ian-moore) | D |  USA | 0 | 0 | 1 | 0 | 0 | 11.7 |
 | **Totals** | | | 6 | 4 | 43 | 16 | 12 | 293.4 |
