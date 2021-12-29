@@ -113,4 +113,4 @@
 | Player | Pos | Team | S% | GAA |
 | :----- | --- |  --- | -- | --: |
 | [Dylan Garand](https://www.eliteprospects.com/player/473852/dylan-garand) | G |  Canada | .824 | 3.00 |
-| [Brett Brochu](https://www.eliteprospects.com/player/485872/brett-brochu) | G |  Canada | 90.91 | 2 |
+| [Brett Brochu](https://www.eliteprospects.com/player/485872/brett-brochu) | G |  Canada | 0.909 | 2 |
