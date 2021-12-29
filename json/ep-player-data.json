@@ -35,9 +35,9 @@
         "href": "https://www.eliteprospects.com/player/504240/owen-power",
         "team": " Canada",
         "g": "3",
-        "a": "0",
+        "a": "2",
         "pim": "0",
-        "pm": "0"
+        "pm": "1"
     },
     "Matvei Michkov": {
         "name": "Matvei Michkov",
@@ -84,10 +84,10 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/201940/cole-perfetti",
         "team": " Canada",
-        "g": "0",
-        "a": "3",
+        "g": "1",
+        "a": "5",
         "pim": "0",
-        "pm": "2"
+        "pm": "4"
     },
     "William Eklund": {
         "name": "William Eklund",
@@ -144,10 +144,10 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/479812/mason-mctavish",
         "team": " Canada",
-        "g": "1",
-        "a": "1",
+        "g": "3",
+        "a": "2",
         "pim": "0",
-        "pm": "0"
+        "pm": "3"
     },
     "Alexander Holtz": {
         "name": "Alexander Holtz",
@@ -297,7 +297,7 @@
         "g": "1",
         "a": "0",
         "pim": "0",
-        "pm": "1"
+        "pm": "3"
     },
     "Mackie Samoskevich": {
         "name": "Mackie Samoskevich",
@@ -485,7 +485,7 @@
         "href": "https://www.eliteprospects.com/player/391048/jake-neighbours",
         "team": " Canada",
         "g": "0",
-        "a": "1",
+        "a": "2",
         "pim": "0",
         "pm": "0"
     },
@@ -494,10 +494,10 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/535584/connor-bedard",
         "team": " Canada",
-        "g": "0",
+        "g": "4",
         "a": "1",
         "pim": "0",
-        "pm": "1"
+        "pm": "4"
     },
     "Lucas Thaler": {
         "name": "Lucas Thaler",
@@ -524,10 +524,10 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/295299/mavrik-bourque",
         "team": " Canada",
-        "g": "0",
-        "a": "1",
+        "g": "1",
+        "a": "2",
         "pim": "0",
-        "pm": "0"
+        "pm": "2"
     },
     "Maximilian Streule": {
         "name": "Maximilian Streule",
@@ -564,10 +564,10 @@
         "pos": "D",
         "href": "https://www.eliteprospects.com/player/201780/lukas-cormier",
         "team": " Canada",
-        "g": "0",
+        "g": "1",
         "a": "1",
         "pim": "0",
-        "pm": "0"
+        "pm": "5"
     },
     "Tanner Dickinson": {
         "name": "Tanner Dickinson",
@@ -895,9 +895,9 @@
         "href": "https://www.eliteprospects.com/player/526239/shane-wright",
         "team": " Canada",
         "g": "0",
-        "a": "0",
+        "a": "1",
         "pim": "0",
-        "pm": "1"
+        "pm": "3"
     },
     "Christoph Tialler": {
         "name": "Christoph Tialler",
@@ -934,10 +934,10 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/521697/kent-johnson",
         "team": " Canada",
-        "g": "0",
+        "g": "1",
         "a": "0",
         "pim": "0",
-        "pm": "0"
+        "pm": "3"
     },
     "Matteo Mitrovic": {
         "name": "Matteo Mitrovic",
@@ -1124,8 +1124,8 @@
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/485872/brett-brochu",
         "team": " Canada",
-        "gaa": "-",
-        "svp": "-"
+        "gaa": "2",
+        "svp": "90.91"
     },
     "Tomas Bolo": {
         "name": "Tomas Bolo",
@@ -2255,9 +2255,9 @@
         "href": "https://www.eliteprospects.com/player/413363/kaiden-guhle",
         "team": " Canada",
         "g": "0",
-        "a": "0",
+        "a": "1",
         "pim": "0",
-        "pm": "+1"
+        "pm": "5"
     },
     "Jake Sanderson": {
         "name": "Jake Sanderson",
@@ -2285,7 +2285,7 @@
         "href": "https://www.eliteprospects.com/player/413174/ridly-greig",
         "team": " Canada",
         "g": "0",
-        "a": "0",
+        "a": "1",
         "pim": "0",
         "pm": "0"
     },
@@ -2315,9 +2315,9 @@
         "href": "https://www.eliteprospects.com/player/476538/dylan-guenther",
         "team": " Canada",
         "g": "0",
-        "a": "0",
+        "a": "2",
         "pim": "0",
-        "pm": "0"
+        "pm": "1"
     },
     "Brett Berard": {
         "name": "Brett Berard",

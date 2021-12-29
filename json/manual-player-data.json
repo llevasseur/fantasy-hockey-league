@@ -63,7 +63,7 @@
             "TPM": 32.05
         },
         "Karri Aho": {
-            "SOG":  0,
+            "SOG": 0,
             "TPM": 13
         }
     },
@@ -153,56 +153,56 @@
     },
     " Canada": {
         "Kaiden Guhle": {
-            "SOG": 0,
-            "TPM": 19.9
+            "SOG": 3,
+            "TPM": 36.55
         },
         "Cole Perfetti": {
-            "SOG": 3,
-            "TPM": 19.7
+            "SOG": 11,
+            "TPM": 37.55
         },
         "Lukas Cormier": {
-            "SOG": 1,
-            "TPM": 16.2
+            "SOG": 5,
+            "TPM": 31.4
         },
         "Connor Bedard": {
-            "SOG": 0,
-            "TPM": 12.35
+            "SOG": 12,
+            "TPM": 26.9
         },
         "Kent Johnson": {
-            "SOG": 0,
-            "TPM": 18.5
+            "SOG": 6,
+            "TPM": 33.75
         },
         "Ridly Greig": {
-            "SOG": 0,
-            "TPM": 13.35
+            "SOG": 3,
+            "TPM": 29.75
         },
         "Mavrik Bourque": {
-            "SOG": 5,
-            "TPM": 19.2
+            "SOG": 8,
+            "TPM": 36.10
         },
         "Mason McTavish": {
-            "SOG": 5,
-            "TPM": 19.2
+            "SOG": 8,
+            "TPM": 34.6
         },
         "Jake Neighbours": {
-            "SOG": 1,
-            "TPM": 14
+            "SOG": 3,
+            "TPM": 30.9
         },
         "Shane Wright": {
-            "SOG": 1,
-            "TPM": 16
+            "SOG": 4,
+            "TPM": 31.85
         },
         "Olen Zellweger": {
-            "SOG": 3,
-            "TPM": 17
+            "SOG": 6,
+            "TPM": 32.0
         },
         "Dylan Guenther": {
-            "SOG": 1,
-            "TPM": 3
+            "SOG": 4,
+            "TPM": 19.05
         },
         "Owen Power": {
-            "SOG": 6,
-            "TPM": 21.8
+            "SOG": 8,
+            "TPM": 40.45
         }
     },
     " Czechia": {

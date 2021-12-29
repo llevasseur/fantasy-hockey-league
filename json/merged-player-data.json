@@ -39,11 +39,11 @@
         "href": "https://www.eliteprospects.com/player/504240/owen-power",
         "team": " Canada",
         "g": "3",
-        "a": "0",
+        "a": "2",
         "pim": "0",
-        "pm": "0",
-        "SOG": 6,
-        "TPM": 21.8
+        "pm": "1",
+        "SOG": 8,
+        "TPM": 40.45
     },
     "Matvei Michkov": {
         "name": "Matvei Michkov",
@@ -94,12 +94,12 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/201940/cole-perfetti",
         "team": " Canada",
-        "g": "0",
-        "a": "3",
+        "g": "1",
+        "a": "5",
         "pim": "0",
-        "pm": "2",
-        "SOG": 3,
-        "TPM": 19.7
+        "pm": "4",
+        "SOG": 11,
+        "TPM": 37.55
     },
     "William Eklund": {
         "name": "William Eklund",
@@ -164,12 +164,12 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/479812/mason-mctavish",
         "team": " Canada",
-        "g": "1",
-        "a": "1",
+        "g": "3",
+        "a": "2",
         "pim": "0",
-        "pm": "0",
-        "SOG": 5,
-        "TPM": 19.2
+        "pm": "3",
+        "SOG": 8,
+        "TPM": 34.6
     },
     "Alexander Holtz": {
         "name": "Alexander Holtz",
@@ -335,9 +335,9 @@
         "g": "1",
         "a": "0",
         "pim": "0",
-        "pm": "1",
-        "SOG": 3,
-        "TPM": 17
+        "pm": "3",
+        "SOG": 6,
+        "TPM": 32.0
     },
     "Mackie Samoskevich": {
         "name": "Mackie Samoskevich",
@@ -539,23 +539,23 @@
         "href": "https://www.eliteprospects.com/player/391048/jake-neighbours",
         "team": " Canada",
         "g": "0",
-        "a": "1",
+        "a": "2",
         "pim": "0",
         "pm": "0",
-        "SOG": 1,
-        "TPM": 14
+        "SOG": 3,
+        "TPM": 30.9
     },
     "Connor Bedard": {
         "name": "Connor Bedard",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/535584/connor-bedard",
         "team": " Canada",
-        "g": "0",
+        "g": "4",
         "a": "1",
         "pim": "0",
-        "pm": "1",
-        "SOG": 0,
-        "TPM": 12.35
+        "pm": "4",
+        "SOG": 12,
+        "TPM": 26.9
     },
     "Lucas Thaler": {
         "name": "Lucas Thaler",
@@ -582,12 +582,12 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/295299/mavrik-bourque",
         "team": " Canada",
-        "g": "0",
-        "a": "1",
+        "g": "1",
+        "a": "2",
         "pim": "0",
-        "pm": "0",
-        "SOG": 5,
-        "TPM": 19.2
+        "pm": "2",
+        "SOG": 8,
+        "TPM": 36.1
     },
     "Maximilian Streule": {
         "name": "Maximilian Streule",
@@ -626,12 +626,12 @@
         "pos": "D",
         "href": "https://www.eliteprospects.com/player/201780/lukas-cormier",
         "team": " Canada",
-        "g": "0",
+        "g": "1",
         "a": "1",
         "pim": "0",
-        "pm": "0",
-        "SOG": 1,
-        "TPM": 16.2
+        "pm": "5",
+        "SOG": 5,
+        "TPM": 31.4
     },
     "Tanner Dickinson": {
         "name": "Tanner Dickinson",
@@ -975,11 +975,11 @@
         "href": "https://www.eliteprospects.com/player/526239/shane-wright",
         "team": " Canada",
         "g": "0",
-        "a": "0",
+        "a": "1",
         "pim": "0",
-        "pm": "1",
-        "SOG": 1,
-        "TPM": 16
+        "pm": "3",
+        "SOG": 4,
+        "TPM": 31.85
     },
     "Christoph Tialler": {
         "name": "Christoph Tialler",
@@ -1016,12 +1016,12 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/521697/kent-johnson",
         "team": " Canada",
-        "g": "0",
+        "g": "1",
         "a": "0",
         "pim": "0",
-        "pm": "0",
-        "SOG": 0,
-        "TPM": 18.5
+        "pm": "3",
+        "SOG": 6,
+        "TPM": 33.75
     },
     "Matteo Mitrovic": {
         "name": "Matteo Mitrovic",
@@ -1210,8 +1210,8 @@
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/485872/brett-brochu",
         "team": " Canada",
-        "gaa": "-",
-        "svp": "-"
+        "gaa": "2",
+        "svp": "90.91"
     },
     "Tomas Bolo": {
         "name": "Tomas Bolo",
@@ -2371,11 +2371,11 @@
         "href": "https://www.eliteprospects.com/player/413363/kaiden-guhle",
         "team": " Canada",
         "g": "0",
-        "a": "0",
+        "a": "1",
         "pim": "0",
-        "pm": "+1",
-        "SOG": 0,
-        "TPM": 19.9
+        "pm": "5",
+        "SOG": 3,
+        "TPM": 36.55
     },
     "Jake Sanderson": {
         "name": "Jake Sanderson",
@@ -2407,11 +2407,11 @@
         "href": "https://www.eliteprospects.com/player/413174/ridly-greig",
         "team": " Canada",
         "g": "0",
-        "a": "0",
+        "a": "1",
         "pim": "0",
         "pm": "0",
-        "SOG": 0,
-        "TPM": 13.35
+        "SOG": 3,
+        "TPM": 29.75
     },
     "Simon Knak": {
         "name": "Simon Knak",
@@ -2431,11 +2431,11 @@
         "href": "https://www.eliteprospects.com/player/476538/dylan-guenther",
         "team": " Canada",
         "g": "0",
-        "a": "0",
+        "a": "2",
         "pim": "0",
-        "pm": "0",
-        "SOG": 1,
-        "TPM": 3
+        "pm": "1",
+        "SOG": 4,
+        "TPM": 19.05
     },
     "Brett Berard": {
         "name": "Brett Berard",
