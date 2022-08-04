@@ -22,9 +22,10 @@ def handleTd(obj, td):
         if pos != "D": pos = 'F'
         obj["name"] = name
         obj["pos"] = pos
-      else:
+      elif a.text != "\n\n":
         obj["name"] = a.text
         obj["pos"] = "G"
+      else: continue
       obj["href"] = a.get('href')
 
   ## Parse Team
@@ -65,14 +66,14 @@ def getPlayersFromSoup(players, soup):
 
     for td in td_list:
       handleTd(player_obj, td)
-
+      
     if player_obj and "name" in player_obj.keys():
       players[player_obj["name"]] = player_obj
 
 def main():
   players = {}
 
-  for i in range(1, 4):
+  for i in range(1, 3):
     soup = getSoup("https://www.eliteprospects.com/league/wjc-20/stats/2021-2022?page="+str(i))
     getPlayersFromSoup(players, soup)
 
