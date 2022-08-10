@@ -2134,5 +2134,29 @@
         "pm": "0",
         "SOG": 1,
         "TPM": 15.8
+    },
+    "Jesper Wallstedt": {
+        "name": "Jesper Wallstedt",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/394724/jesper-wallstedt",
+        "team": " Sweden",
+        "gaa": "0",
+        "svp": "0"
+    },
+    "Sebastian Cossa": {
+        "name": "Sebastian Cossa",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/476602/sebastian-cossa",
+        "team": " Canada",
+        "gaa": "0",
+        "svp": "0"
+    },
+    "Dylan Garand": {
+        "name": "Dylan Garand",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/473852/dylan-garand",
+        "team": " Canada",
+        "gaa": "0",
+        "svp": "0"
     }
 }

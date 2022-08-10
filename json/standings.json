@@ -6,8 +6,8 @@
         "Penalties in Minutes": 2,
         "Plus / Minus": 2,
         "Time Played in Minutes": 111.52,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
+        "Save Percentage": 0.0,
+        "Goals Against Average": 0.0
     },
     "Leevon": {
         "Goals": 2,
@@ -36,8 +36,8 @@
         "Penalties in Minutes": 0,
         "Plus / Minus": 2,
         "Time Played in Minutes": 17.2,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
+        "Save Percentage": 0.0,
+        "Goals Against Average": 0.0
     },
     "John": {
         "Goals": 4,

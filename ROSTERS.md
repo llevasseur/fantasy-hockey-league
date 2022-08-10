@@ -16,6 +16,8 @@
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- |  --- | -- | --: |
+| [Sebastian Cossa](https://www.eliteprospects.com/player/476602/sebastian-cossa) | G |  Canada | 0 | 0 |
+| [Dylan Garand](https://www.eliteprospects.com/player/473852/dylan-garand) | G |  Canada | 0 | 0 |
 ## Leevon
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- |  --- | - | - | --- | --- | --- | --: |
@@ -72,6 +74,7 @@
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- |  --- | -- | --: |
+| [Jesper Wallstedt](https://www.eliteprospects.com/player/394724/jesper-wallstedt) | G |  Sweden | 0 | 0 |
 ## John
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- |  --- | - | - | --- | --- | --- | --: |
