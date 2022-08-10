@@ -24,6 +24,7 @@
 | [Samuel Helenius](https://www.eliteprospects.com/player/554237/samuel-helenius) | F |  Finland | 0 | 0 | 0 | 0 | 0 | 16.15 |
 | [Logan Stankoven](https://www.eliteprospects.com/player/556512/logan-stankoven) | F |  Canada | - | - | 0 | - | - | 0 |
 | [Jiri Kulich](https://www.eliteprospects.com/player/579198/jiri-kulich) | F |  Czechia | 0 | 1 | 3 | 0 | 2 | 16.4 |
+| [Roni Hirvonen](https://www.eliteprospects.com/player/448946/roni-hirvonen) | F |  Finland | 1 | 2 | 7 | 0 | 4 | 15.2 |
 | [Daniel Ljungman](https://www.eliteprospects.com/player/463647/daniel-ljungman) | F |  Sweden | - | - | 0 | - | - | 0 |
 | [Landon Slaggert](https://www.eliteprospects.com/player/418245/landon-slaggert) | F |  USA | 1 | 1 | 5 | 0 | 2 | 12.05 |
 | [Kasper Simontaival](https://www.eliteprospects.com/player/397010/kasper-simontaival) | F |  Finland | 0 | 1 | 4 | 0 | 0 | 14.1 |
@@ -31,7 +32,7 @@
 | [Topi Niemelä](https://www.eliteprospects.com/player/499424/topi-niemela) | D |  Finland | 0 | 0 | 0 | 0 | 0 | 21.38 |
 | [Helge Grans](https://www.eliteprospects.com/player/395302/helge-grans) | D |  Sweden | - | - | 0 | - | - | 0 |
 | [Tyler Kleven](https://www.eliteprospects.com/player/536644/tyler-kleven) | D |  USA | 0 | 0 | 2 | 0 | 2 | 16.75 |
-| **Totals** | | | 2 | 4 | 17 | 0 | 8 | 119.08 |
+| **Totals** | | | 3 | 6 | 24 | 0 | 12 | 134.28 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- |  --- | -- | --: |
