@@ -21,7 +21,7 @@ def parse_manual_data(matches):
     manual_player_data = {}
     with open('../json/manual-player-data.json', 'r') as json_file:
         manual_player_data = json.loads(json_file.read())
-        #print(manual_player_data)
+        print(manual_player_data)
 
         # Pull data from list and update reference to json
         for id in matches:
@@ -34,11 +34,8 @@ def parse_manual_data(matches):
             print(TPM)
             
             for country in manual_player_data:
-                print(country)
                 for player in manual_player_data[country]:
-                    print(player)
                     if player == name:
-                        print('FOUND!')
                         manual_player_data[country][player]["SOG"] += int(SOG)
                         manual_player_data[country][player]["TPM"] += TPM
     write_to_data(manual_player_data)

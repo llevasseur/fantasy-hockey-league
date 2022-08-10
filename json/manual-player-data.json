@@ -1,23 +1,238 @@
 {
     " Sweden": {
-        
+        "Jonathan Lekkerimaki": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Theodor Niederbach": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Isak Ros\u00e9n": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Helge Grans": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Simon Edvinsson": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Daniel Ljungman": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "M\u00e5ns Forsfj\u00e4ll": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Oskar Olausson": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Fabian Lysell": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Emil Andrae": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Anton Olsson": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Daniel Torgersson": {
+            "SOG": 0,
+            "TPM": 0
+        }
     },
     " USA": {
-        
+        "Matthew Knies": {
+            "SOG": 4,
+            "TPM": 16.9
+        },
+        "Brock Faber": {
+            "SOG": 1,
+            "TPM": 15.8
+        },
+        "Luke Hughes": {
+            "SOG": 3,
+            "TPM": 22.25
+        },
+        "Tyler Kleven": {
+            "SOG": 2,
+            "TPM": 16.75
+        },
+        "Landon Slaggert": {
+            "SOG": 5,
+            "TPM": 12.05
+        },
+        "Brett Berard": {
+            "SOG": 1,
+            "TPM": 14.8
+        },
+        "Thomas Bordeleau": {
+            "SOG": 5,
+            "TPM": 17.2
+        },
+        "Logan Cooley": {
+            "SOG": 4,
+            "TPM": 16.7
+        },
+        "Matt Coronato": {
+            "SOG": 7,
+            "TPM": 14.85
+        },
+        "Jacob Truscott": {
+            "SOG": 1,
+            "TPM": 14.45
+        }
     },
     " Canada": {
-        
+        "Connor Bedard": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Olen Zellweger": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Logan Stankoven": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Mason McTavish": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Carson Lambos": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Joshua Roy": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "William Dufour": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Lukas Cormier": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Donovan Sebrango": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Kent Johnson": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Ryan O'Rourke": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Brennan Othmann": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Ridly Greig": {
+            "SOG": 0,
+            "TPM": 0
+        }
     },
     " Czechia": {
-        
+        "David Jiricek": {
+            "SOG": 6,
+            "TPM": 21.6
+        },
+        "Jan Mysak": {
+            "SOG": 12,
+            "TPM": 21.7
+        },
+        "Stanislav Svozil": {
+            "SOG": 4,
+            "TPM": 21.75
+        },
+        "Jiri Kulich": {
+            "SOG": 3,
+            "TPM": 16.4
+        }
     },
     " Germany": {
-        
+        "Luca M\u00fcnzenberger": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Maximilian Gl\u00f6tzl": {
+            "SOG": 1,
+            "TPM": 22.85
+        }
     },
     " Switzerland": {
-        
+        "Giancarlo Chanton": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Simon Knak": {
+            "SOG": 0,
+            "TPM": 0
+        }
     },
     " Slovakia": {
-        
+        "Adam S\u00fdkora": {
+            "SOG": 0,
+            "TPM": 19.43
+        },
+        "Dalibor Dvorsky": {
+            "SOG": 1,
+            "TPM": 16.2
+        }
+    },
+    " Finland": {
+        "Roby J\u00e4rventie": {
+            "SOG": 2,
+            "TPM": 13.77
+        },
+        "Samuel Helenius": {
+            "SOG": 0,
+            "TPM": 16.15
+        },
+        "Topi Niemel\u00e4": {
+            "SOG": 0,
+            "TPM": 21.38
+        },
+        "Roni Hirvonen": {
+            "SOG": 7,
+            "TPM": 15.2
+        },
+        "Kasper Simontaival": {
+            "SOG": 4,
+            "TPM": 14.1
+        },
+        "Brad Lambert": {
+            "SOG": 2,
+            "TPM": 13.4
+        },
+        "Eemil Viro": {
+            "SOG": 3,
+            "TPM": 19.55
+        },
+        "Aatu R\u00e4ty": {
+            "SOG": 2,
+            "TPM": 15.13
+        },
+        "Joakim Kemell": {
+            "SOG": 5,
+            "TPM": 14.85
+        },
+        "Petteri Nurmi": {
+            "SOG": 0,
+            "TPM": 20.6
+        }
     }
 }

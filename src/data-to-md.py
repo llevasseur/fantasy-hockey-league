@@ -51,11 +51,14 @@ def main():
     for pick in roster:
 
       try:
+        print(pick)
+        print(player_data[pick]);
         if validatePick(player_data[pick]):
 
           href = player_data[pick]['href']
           pos = player_data[pick]['pos']
           team = player_data[pick]['team']
+          print("test")
 
           if pos == "G":
             gaa = player_data[pick]['gaa']
@@ -72,12 +75,19 @@ def main():
 
             player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {svp} | {gaa} |\n")
           else:
+            print("else")
             g = player_data[pick]['g']
+            print("goal")
             a = player_data[pick]['a']
+            print("assist")
             pim = player_data[pick]['pim']
+            print("pim")
             pm = player_data[pick]['pm']
+            print("pm")
             sog = player_data[pick]['SOG']
+            print("sog")
             tpm = player_data[pick]['TPM']
+            print("tpm")
 
             if re.match('\d+', g): g_total += int(g)
             if re.match('\d+', a): a_total += int(a)
@@ -87,6 +97,7 @@ def main():
             tpm_total = round(tpm_total + tpm, 2)
 
             player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
+            print("MADE IT END")
       except:
         print("skipping (data)", pick) 
           
