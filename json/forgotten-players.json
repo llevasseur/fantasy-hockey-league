@@ -19,28 +19,144 @@
         "pim": "0",
         "pm": "0"
     },
-    "Jesper Wallstedt": {
-        "name": "Jesper Wallstedt",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/394724/jesper-wallstedt",
+    "M\u00e5ns Forsfj\u00e4ll": {
+        "name": "M\u00e5ns Forsfj\u00e4ll",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/422034/mans-forsfjall",
         "team": " Sweden",
-        "gaa": "0",
-        "svp": "0"
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
-    "Sebastian Cossa": {
-        "name": "Sebastian Cossa",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/476602/sebastian-cossa",
-        "team": " Canada",
-        "gaa": "0",
-        "svp": "0"
+    "Oskar Olausson": {
+        "name": "Oskar Olausson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/430916/oskar-olausson",
+        "team": " Sweden",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
-    "Dylan Garand": {
-        "name": "Dylan Garand",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/473852/dylan-garand",
+    "Emil Andrae": {
+        "name": "Emil Andrae",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/394716/emil-andrae",
+        "team": " Sweden",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Matthew Knies": {
+        "name": "Matthew Knies",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/292083/matthew-knies",
+        "team": " USA",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Thomas Bordeleau": {
+        "name": "Thomas Bordeleau",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/296636/thomas-bordeleau",
+        "team": " USA",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Jacob Truscott": {
+        "name": "Jacob Truscott",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/201776/jacob-truscott",
+        "team": " USA",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Carson Lambos": {
+        "name": "Carson Lambos",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/472875/carson-lambos",
         "team": " Canada",
-        "gaa": "0",
-        "svp": "0"
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Ryan O'Rourke": {
+        "name": "Ryan O'Rourke",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/201939/ryan-o-rourke",
+        "team": " Canada",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Stanislav Svozil": {
+        "name": "Stanislav Svozil",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/428002/stanislav-svozil",
+        "team": " Czechia",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Maximilian Gl\u00f6tzl": {
+        "name": "Maximilian Gl\u00f6tzl",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/318111/maximilian-glotzl",
+        "team": " Germany",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Topi Niemel\u00e4": {
+        "name": "Topi Niemel\u00e4",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/499424/topi-niemela",
+        "team": " Finland",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Eemil Viro": {
+        "name": "Eemil Viro",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/499518/eemil-viro",
+        "team": " Finland",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Anton Olsson": {
+        "name": "Anton Olsson",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/420461/anton-olsson",
+        "team": " Sweden",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Brennan Othmann": {
+        "name": "Brennan Othmann",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/529248/brennan-othmann",
+        "team": " Canada",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     }
 }

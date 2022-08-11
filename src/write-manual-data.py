@@ -28,16 +28,18 @@ def parse_manual_data(matches):
             # id format is:
             #     Firstname Lastname,SOG,MM,SS
             name, SOG, min, sec = re.match('([\w|\s]*),([0-9]+),([0-9]{2}),([0-5][0-9]?)', id).groups()
-            print(name, SOG, min, sec)
 
             TPM = float(min) + time_to_float(float(sec))
-            print(TPM)
             
             for country in manual_player_data:
                 for player in manual_player_data[country]:
+                    print(player, name)
                     if player == name:
+                        print("FOUND", manual_player_data[country][player]["SOG"], 
+                        manual_player_data[country][player]["TPM"], int(SOG), TPM)
                         manual_player_data[country][player]["SOG"] += int(SOG)
                         manual_player_data[country][player]["TPM"] += TPM
+                        break
     write_to_data(manual_player_data)
     return
 

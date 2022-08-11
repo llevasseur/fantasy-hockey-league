@@ -1,0 +1,4 @@
+August 10/22
+
+- Web scrape each game statistics for relevant player data like SOG and TPM.
+- Make sure to detect each team.
