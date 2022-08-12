@@ -3,6 +3,8 @@ import json
 ROSTERS_URL = "https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md"
 STANDINGS_URL = "https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md"
 
+NUMBER_OF_PLAYERS=6
+
 def main():
   with open('../json/standings.json', 'r') as json_file:
     ranking_data = json.loads(json_file.read())
@@ -45,9 +47,9 @@ def main():
       last_p0 = p[0]
 
       if p[1] in overall_points.keys():
-        overall_points[p[1]].append(7-i)
+        overall_points[p[1]].append(NUMBER_OF_PLAYERS+1-i)
       else:
-        overall_points[p[1]] = [7-i]
+        overall_points[p[1]] = [NUMBER_OF_PLAYERS+1-i]
 
   README_md = open('../README.md', 'w')
 
