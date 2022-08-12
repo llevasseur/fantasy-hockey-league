@@ -6,11 +6,18 @@ import sys
 
 import fetch_player_data
 
+def handleTd(obj, td):
+    cl = td.get('class')
+
+    #print(cl)
+
 def getSTeam(div_list, type):
     # type is either "home" or "away"
-    
+    team = 's-team--'+type
+    print(team)
     for div in div_list:
-        if div.get("class") == ['s-table-wrapper']:
+        div_class = div.get("class")
+        if div_class and team in div_class:
             return div
 
 def findPlayersFromSoup(players, soup):
@@ -18,21 +25,22 @@ def findPlayersFromSoup(players, soup):
     types = ["home", "away"]
     for type in types:
         s_team = getSTeam(div_list, type)
+
         if s_team:
             tr_list = s_team.find_all('tr')
+
         else:
             print('### S TEAM '+type+' NOT FOUND')
             return
         
         for tr in tr_list:
             td_list = tr.find_all('td')
+            print(td_list)
 
             player_obj = {}
 
             for td in td_list:
-                
-    for div in div_list:
-        print(div);
+                handleTd(player_obj, td)
 
 def main():
     players = {}
