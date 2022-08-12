@@ -3,7 +3,7 @@ import json
 ROSTERS_URL = "https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md"
 STANDINGS_URL = "https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md"
 
-NUMBER_OF_PLAYERS=6
+NUMBER_OF_PLAYERS=5
 
 def main():
   with open('../json/standings.json', 'r') as json_file:
