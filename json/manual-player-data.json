@@ -1,52 +1,52 @@
 {
     " Sweden": {
         "Jonathan Lekkerim\u00e4ki": {
-            "SOG": 1,
-            "TPM": 11.0
-        },
-        "Theodor Niederbach": {
-            "SOG": 1,
-            "TPM": 15.65
-        },
-        "Isak Ros\u00e9n": {
-            "SOG": 5,
-            "TPM": 11.5
-        },
-        "Helge Grans": {
-            "SOG": 0,
+            "SOG": 3,
             "TPM": 22.25
         },
+        "Theodor Niederbach": {
+            "SOG": 6,
+            "TPM": 32.45
+        },
+        "Isak Ros\u00e9n": {
+            "SOG": 7,
+            "TPM": 25.1
+        },
+        "Helge Grans": {
+            "SOG": 4,
+            "TPM": 39.7
+        },
         "Simon Edvinsson": {
-            "SOG": 3,
-            "TPM": 26.25
+            "SOG": 5,
+            "TPM": 44.75
         },
         "Daniel Ljungman": {
             "SOG": 1,
-            "TPM": 18.85
+            "TPM": 32.6
         },
         "M\u00e5ns Forsfj\u00e4ll": {
             "SOG": 2,
-            "TPM": 15.23
+            "TPM": 29.45
         },
         "Oskar Olausson": {
-            "SOG": 3,
-            "TPM": 13.35
+            "SOG": 8,
+            "TPM": 31.75
         },
         "Fabian Lysell": {
-            "SOG": 0,
-            "TPM": 12.0
+            "SOG": 4,
+            "TPM": 26.6
         },
         "Emil Andrae": {
-            "SOG": 2,
-            "TPM": 25.0
+            "SOG": 8,
+            "TPM": 42.4
         },
         "Anton Olsson": {
             "SOG": 0,
             "TPM": 0
         },
         "Daniel Torgersson": {
-            "SOG": 3,
-            "TPM": 15.45
+            "SOG": 4,
+            "TPM": 31.5
         }
     },
     " USA": {
@@ -181,12 +181,12 @@
     },
     " Slovakia": {
         "Adam S\u00fdkora": {
-            "SOG": 0,
-            "TPM": 26.0
+            "SOG": 5,
+            "TPM": 47.77
         },
         "Dalibor Dvorsky": {
-            "SOG": 2,
-            "TPM": 33.28
+            "SOG": 4,
+            "TPM": 49.28
         }
     },
     " Finland": {
