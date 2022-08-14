@@ -51,132 +51,132 @@
     },
     " USA": {
         "Matthew Knies": {
-            "SOG": 7,
-            "TPM": 33.45
+            "SOG": 9,
+            "TPM": 50.0
         },
         "Brock Faber": {
-            "SOG": 2,
-            "TPM": 34.95
+            "SOG": 3,
+            "TPM": 52.3
         },
         "Luke Hughes": {
-            "SOG": 5,
-            "TPM": 43.55
+            "SOG": 8,
+            "TPM": 62.9
         },
         "Tyler Kleven": {
-            "SOG": 4,
-            "TPM": 35.65
+            "SOG": 6,
+            "TPM": 56.65
         },
         "Landon Slaggert": {
-            "SOG": 6,
-            "TPM": 23.55
+            "SOG": 8,
+            "TPM": 35.85
         },
         "Brett Berard": {
-            "SOG": 3,
-            "TPM": 31.6
+            "SOG": 4,
+            "TPM": 46.45
         },
         "Thomas Bordeleau": {
-            "SOG": 9,
-            "TPM": 30.75
+            "SOG": 12,
+            "TPM": 43.1
         },
         "Logan Cooley": {
-            "SOG": 8,
-            "TPM": 33.45
+            "SOG": 13,
+            "TPM": 50.6
         },
         "Matt Coronato": {
-            "SOG": 12,
-            "TPM": 32.05
+            "SOG": 16,
+            "TPM": 48.25
         },
         "Jacob Truscott": {
-            "SOG": 1,
-            "TPM": 30.45
+            "SOG": 2,
+            "TPM": 44.0
         }
     },
     " Canada": {
         "Connor Bedard": {
-            "SOG": 12,
-            "TPM": 35.45
+            "SOG": 19,
+            "TPM": 53.95
         },
         "Olen Zellweger": {
-            "SOG": 4,
-            "TPM": 35.8
+            "SOG": 9,
+            "TPM": 56.2
         },
         "Logan Stankoven": {
-            "SOG": 7,
-            "TPM": 28.35
+            "SOG": 10,
+            "TPM": 44.25
         },
         "Mason McTavish": {
-            "SOG": 10,
-            "TPM": 36.2
+            "SOG": 15,
+            "TPM": 53.4
         },
         "Carson Lambos": {
             "SOG": 0,
             "TPM": 8.0
         },
         "Joshua Roy": {
-            "SOG": 5,
-            "TPM": 35.65
+            "SOG": 6,
+            "TPM": 55.95
         },
         "William Dufour": {
-            "SOG": 7,
-            "TPM": 28.05
+            "SOG": 10,
+            "TPM": 39.95
         },
         "Lukas Cormier": {
-            "SOG": 3,
-            "TPM": 37.65
+            "SOG": 7,
+            "TPM": 55.75
         },
         "Donovan Sebrango": {
-            "SOG": 3,
-            "TPM": 39.3
+            "SOG": 5,
+            "TPM": 59.05
         },
         "Kent Johnson": {
-            "SOG": 8,
-            "TPM": 30.7
+            "SOG": 17,
+            "TPM": 47.25
         },
         "Ryan O'Rourke": {
             "SOG": 2,
             "TPM": 20.72
         },
         "Brennan Othmann": {
-            "SOG": 3,
-            "TPM": 11.05
+            "SOG": 4,
+            "TPM": 26.6
         },
         "Ridly Greig": {
-            "SOG": 3,
-            "TPM": 24.05
+            "SOG": 6,
+            "TPM": 38.6
         }
     },
     " Czechia": {
         "David Jiricek": {
             "SOG": 7,
-            "TPM": 47.3
+            "TPM": 65.65
         },
         "Jan Mysak": {
-            "SOG": 13,
-            "TPM": 46.6
+            "SOG": 14,
+            "TPM": 66.25
         },
         "Stanislav Svozil": {
             "SOG": 4,
             "TPM": 43.7
         },
         "Jiri Kulich": {
-            "SOG": 10,
-            "TPM": 35.95
+            "SOG": 11,
+            "TPM": 54.65
         }
     },
     " Germany": {
         "Luca M\u00fcnzenberger": {
-            "SOG": 3,
-            "TPM": 22.2
+            "SOG": 4,
+            "TPM": 41.45
         }
     },
     " Switzerland": {
         "Giancarlo Chanton": {
-            "SOG": 2,
-            "TPM": 36.9
+            "SOG": 3,
+            "TPM": 58.25
         },
         "Simon Knak": {
-            "SOG": 8,
-            "TPM": 43.92
+            "SOG": 11,
+            "TPM": 64.97
         }
     },
     " Slovakia": {
