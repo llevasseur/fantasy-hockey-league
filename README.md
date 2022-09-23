@@ -15,11 +15,11 @@ Participants can use this github to view stats, including the Scoreboard, Select
 
 To update scores:
 1. Run the python script `python ./src/fetch-player-data.py`
-	2. Write manual player data to `python ./src/write-manual-data.py`. Input ex: Firstname1 Lastname1,SOG,MM,SS, ...
-	3. Run `python ./src/merge-data.py`
-	4. Run `python ./src/data-to-md.py`
-	5. Run `python ./src/parse-standings.py`
-	6. Add, commit, and push changes to this github repository.
+2. Write manual player data to `python ./src/write-manual-data.py`. Input ex: Firstname1 Lastname1,SOG,MM,SS, ...
+3. Run `python ./src/merge-data.py`
+4. Run `python ./src/data-to-md.py`
+5. Run `python ./src/parse-standings.py`
+6. Add, commit, and push changes to this github repository.
 ## Design Decisions
 [Todo]
 ## Contributing
