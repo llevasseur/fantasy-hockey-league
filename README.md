@@ -29,6 +29,6 @@ This gem is available as open source under the terms of the [MIT License](https:
 ## Future Work
 Anticipated additions to this project include:
 1. Automating write-manual-data.py to pull from a web scrapped website passed in. Game-specific data, including Shots on Goal (SOG) and Total Minutes Played (TMP) can be parsed from player data. Example, [here](https://www.iihf.com/en/events/2022/wm20/gamecenter/statistics/37416/5-lat-vs-can).
-2. Display data using [Matplotlib](https://matplotlib.org/).
-3. Increase scale of project to work for more leagues, like the [NHL](https://www.eliteprospects.com/league/nhl).
-4. Handle automated input for names with unfamiliar unicode, like Topi Niemelä.
+2. Displaying data using [Matplotlib](https://matplotlib.org/).
+3. Increasing scale of project to work for more leagues, like the [NHL](https://www.eliteprospects.com/league/nhl).
+4. Handling automated input for names with unfamiliar unicode, like Topi Niemelä.
