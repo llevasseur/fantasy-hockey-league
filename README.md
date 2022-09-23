@@ -9,12 +9,12 @@ Casual Python3 project used by friends to keep track of World Junior hockey play
 | [Liam](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Liam) | 2 | 2 | 2 | 4 | 2 | 4 | 4 | 4 | 24 |
 | [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) | 1 | 1 | 1 | 5 | 1 | 1 | 5 | 5 | 20 |
 ## Installation
-Request to fork this repository to contribute. Commits will be analyzed before added to the source code.
+Request to fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage
 Participants can use this github to view stats, including the Scoreboard, Selected Roosters, and Standings in each category.
 
 To update scores:
-	1. Run the python script `python ./src/fetch-player-data.py`
+1. Run the python script `python ./src/fetch-player-data.py`
 	2. Write manual player data to `python ./src/write-manual-data.py`. Input ex: Firstname1 Lastname1,SOG,MM,SS, ...
 	3. Run `python ./src/merge-data.py`
 	4. Run `python ./src/data-to-md.py`
