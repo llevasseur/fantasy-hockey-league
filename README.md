@@ -1,5 +1,5 @@
 # World Junior Fantasy Draft
-Notes about what the project is.
+Casual Python3 project used by friends to keep track of World Junior hockey players' stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.
 ## Scoreboard
 | User | [G](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#goals) | [A](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#assists) | SOG | [PIM](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#penalties-in-minutes) | [+/-](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#plus--minus) | TPM | [S%](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#save-percentage) | [GAA](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#goals-against-average) | Total |
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
@@ -9,9 +9,17 @@ Notes about what the project is.
 | [Liam](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Liam) | 2 | 2 | 2 | 4 | 2 | 4 | 4 | 4 | 24 |
 | [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) | 1 | 1 | 1 | 5 | 1 | 1 | 5 | 5 | 20 |
 ## Installation
-[Todo]
+Request to fork this repository to contribute. Commits will be analyzed before added to the source code.
 ## Usage
-[Todo]
+Participants can use this github to view stats, including the Scoreboard, Selected Roosters, and Standings in each category.
+
+To update scores:
+	1. Run the python script `python ./src/fetch-player-data.py`
+	2. Write manual player data to `python ./src/write-manual-data.py`. Input ex: Firstname1 Lastname1,SOG,MM,SS, ...
+	3. Run `python ./src/merge-data.py`
+	4. Run `python ./src/data-to-md.py`
+	5. Run `python ./src/parse-standings.py`
+	6. Add, commit, and push changes to this github repository.
 ## Design Decisions
 [Todo]
 ## Contributing
