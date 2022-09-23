@@ -56,8 +56,8 @@ def main():
     parse_manual_data(matches)
 
     print('''
-        Manual player data has been updated and written to /json/manual-player-data.json
-  ''')
+    Manual player data has been updated and written to /json/manual-player-data.json
+    ''')
         
 
 
