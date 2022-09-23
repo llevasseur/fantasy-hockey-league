@@ -23,6 +23,6 @@ To update scores:
 ## Design Decisions
 [Todo]
 ## Contributing
-Bug reports are welcome on Github at [Issues](link here).
+Bug reports are welcome on Github at [Issues](https://github.com/llevasseur/world-juniors-2022/issues).
 ## License
 This gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
