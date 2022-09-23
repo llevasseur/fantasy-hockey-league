@@ -26,3 +26,8 @@ To update scores:
 Bug reports are welcome on Github at [Issues](https://github.com/llevasseur/world-juniors-2022/issues).
 ## License
 This gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+## Future Work
+Anticipated additions to this project include:
+1. Automating write-manual-data.py to pull from a web scrapped website passed in. Game-specific data, including Shots on Goal (SOG) and Total Minutes Played (TMP) can be parsed from player data. Example, [here](https://www.iihf.com/en/events/2022/wm20/gamecenter/statistics/37416/5-lat-vs-can).
+2. Display data using [Matplotlib](https://matplotlib.org/).
+3. Increase scale of project to work for multiple leagues, like [NHL](https://www.eliteprospects.com/league/nhl).
