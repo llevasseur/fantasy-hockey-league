@@ -53,8 +53,11 @@ def main():
 
   README_md = open('../README.md', 'w')
 
+  README_md.write("# World Junior Fantasy Draft\nNotes about what the project is.\n## Scoreboard\n")
   README_md.write(f"| User | [G]({STANDINGS_URL}#goals) | [A]({STANDINGS_URL}#assists) | SOG | [PIM]({STANDINGS_URL}#penalties-in-minutes) | [+/-]({STANDINGS_URL}#plus--minus) | TPM | [S%]({STANDINGS_URL}#save-percentage) | [GAA]({STANDINGS_URL}#goals-against-average) | Total |\n")
   README_md.write(f"| :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |\n")
+  README_md.write("## Installation\n[Todo]\n## Usage\n[Todo]\n## Design Decisions\n[Todo]\n## Contributing\nBug reports are welcome on Github at [Issues](link here).\n## License\nThis gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).\n")
+
 
   for user in overall_points:
     README_md.write(f"| [{user}]({ROSTERS_URL}#{user}) | ")
