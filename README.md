@@ -22,7 +22,7 @@ To update scores:
 6. Add, commit, and push changes to this github repository.
 ## Design Decisions
 Functional Requirements:
-1. Request a response from each webpage with player statistics.
+1. Request a response from each webpage with player statistics.![elite prospects webpage example](C:\Users\Leeovn\Desktop\MyGithub\world-juniors-2022/public/images/http_source.jpg)
 ## Contributing
 Bug reports are welcome on Github at [Issues](https://github.com/llevasseur/world-juniors-2022/issues).
 ## License
