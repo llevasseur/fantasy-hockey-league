@@ -21,7 +21,7 @@ To update scores:
 5. Run `python ./src/parse-standings.py`
 6. Add, commit, and push changes to this github repository.
 ## Design Decisions
-####Functional Requirements:
+###Functional Requirements:
 1. 
 ## Contributing
 Bug reports are welcome on Github at [Issues](https://github.com/llevasseur/world-juniors-2022/issues).
