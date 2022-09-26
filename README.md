@@ -23,7 +23,7 @@ To update scores:
 ## Design Decisions
 Functional Requirements:
 1. Request a response from each webpage with player statistics.
-![elite prospects webpage example](/public/images/http_source.jpg)
+<kbd>>![elite prospects webpage example](/public/images/http_source.jpg)</kbd>
 ## Contributing
 Bug reports are welcome on Github at [Issues](https://github.com/llevasseur/world-juniors-2022/issues).
 ## License
