@@ -22,8 +22,9 @@ To update scores:
 6. Add, commit, and push changes to this github repository.
 ## Design Decisions
 Functional Requirements:
-1. Request a response from each webpage with player statistics.
+1. Request a response from each webpage with player statistics (page=[1,3]). Extract the html from the response and pull out data using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
 <kbd>>![elite prospects webpage example](/public/images/http_source.jpg)</kbd>
+2. 
 ## Contributing
 Bug reports are welcome on Github at [Issues](https://github.com/llevasseur/world-juniors-2022/issues).
 ## License
