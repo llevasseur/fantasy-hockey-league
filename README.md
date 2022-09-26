@@ -30,9 +30,9 @@ Extract the html from the response and pull out data using [Beautiful Soup](http
 A web scraper has not been constructed for this website yet so player data is added manually to a separate `json` file. `write-manual-data.py` is a CLI API to do this easily, taking Firstname1 Lastname1,SOG,MM,SS, ... , as input. Save player data to a JSON object by querying data cells in table rows within the inner wrapper.
 
 3. Merge the fetched player database and the manual player database using the player_name as the primary key.
-4. Display the data in 3 locations:
-a. ROSTERS.md: A visualizer for each participants drafted players' statistics.
-b. STANDINGS.md: A visualizer for each participants overall totals versus each other. This determines rank.
+4. Display the data in 3 locations: 
+a. ROSTERS.md: A visualizer for each participants drafted players' statistics. 
+b. STANDINGS.md: A visualizer for each participants overall totals versus each other. This determines rank. 
 c. README.md/Scoreboard: To make the scoreboard readily available for participants when they view this github repo, the Scoreboard is attached to this README. It is a visualizer for participant points based on rank for each category (Goals, Assists, etc). Participant points determine who's winning, or who wins, and is based off the number of players.
 ## Contributing
 Bug reports are welcome on Github at [Issues](https://github.com/llevasseur/world-juniors-2022/issues).
