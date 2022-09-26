@@ -23,9 +23,7 @@ To update scores:
 ## Design Decisions
 Functional Requirements:
 1. Request a response from each [eliteprospect.com](https://www.eliteprospects.com/league/wjc-20/stats/2021-2022?page=1) webpage with player statistics (page=[1,4]).
-
 <kbd>>![elite prospects webpage example](/public/images/http_source.jpg)</kbd>
-
 Extract the html from the response and pull out data using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) Save as a `json` database.
 2. Some information is not provided on eliteprospect.com, including Shots on Goal and Time Played in Minutes. This information can be found on [iihf.com](https://www.iihf.com/en/events/2022/wm20/gamecenter/statistics/37416/5-lat-vs-can) game statistics summaries.
 
