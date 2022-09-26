@@ -78,7 +78,8 @@ def main():
   players = {}
   print(cwd)
 
-  for i in range(1, 3):
+  for i in range(1, 4):
+    print(i);
     soup = getSoup("https://www.eliteprospects.com/league/wjc-20/stats/2021-2022?page="+str(i))
     getPlayersFromSoup(players, soup)
 
