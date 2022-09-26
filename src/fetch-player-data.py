@@ -9,7 +9,6 @@ cwd = os.getcwd()
 def getSoup(url):
   response = requests.get(url)
   html = response.content
-  #print(html)
   
   return BeautifulSoup(html, 'html.parser')
 

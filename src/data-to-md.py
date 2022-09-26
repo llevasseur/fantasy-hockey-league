@@ -21,13 +21,13 @@ def validatePick(pick):
   return True 
 
 def main():
-  with open('../json/draft-picks.json', 'r') as json_file:
+  with open(cwd + '/json/draft-picks.json', 'r') as json_file:
     draft_data = json.loads(json_file.read())
 
-  with open('../json/merged-player-data.json', 'r') as json_file:
+  with open(cwd + '/json/merged-player-data.json', 'r') as json_file:
     player_data = json.loads(json_file.read())
 
-  md_file = open('../ROSTERS.md', 'w')
+  md_file = open(cwd + '/ROSTERS.md', 'w')
 
   md_file.write("# Fantasy Rosters\n")
 
@@ -92,7 +92,7 @@ def main():
 
             player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
       except:
-        print("skipping (data)", pick) 
+        print(f"skipping (data): {pick}") 
           
     ranking_data[user] = {
       "Goals": g_total,

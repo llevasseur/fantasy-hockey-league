@@ -8,8 +8,8 @@ def readJSON(path):
     return json.loads(json_file.read())
 
 def main():
-  ep_player_data = readJSON("../json/ep-player-data.json")
-  manual_player_data = readJSON("../json/manual-player-data.json")
+  ep_player_data = readJSON(cwd + "/json/ep-player-data.json")
+  manual_player_data = readJSON(cwd + "/json/manual-player-data.json")
 
   for team in manual_player_data:
     players = manual_player_data[team]
