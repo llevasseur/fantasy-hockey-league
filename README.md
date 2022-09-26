@@ -23,7 +23,7 @@ To update scores:
 ## Design Decisions
 Functional Requirements:
 1. Request a response from each [eliteprospect.com](https://www.eliteprospects.com/league/wjc-20/stats/2021-2022?page=1) webpage with player statistics (page=[1,4]).
-<kbd>>![elite prospects webpage example](/public/images/http_source.jpg)</kbd>
+<kbd>![elite prospects webpage example](/public/images/http_source.jpg)</kbd>
 Extract the html from the response and pull out data using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) Save as a `json` database.
 2. Some information is not provided on eliteprospect.com, including Shots on Goal and Time Played in Minutes. This information can be found on [iihf.com](https://www.iihf.com/en/events/2022/wm20/gamecenter/statistics/37416/5-lat-vs-can) game statistics summaries.
 <kbd>>![iihf stats summary webpage example](/public/images/additional_source.jpg)</kbd>
@@ -34,7 +34,7 @@ A web scraper has not been constructed for this website yet so player data is ad
 * ROSTERS.md: A visualizer for each participants drafted players' statistics. 
 * STANDINGS.md: A visualizer for each participants overall totals versus each other. This determines rank. 
 * README.md/Scoreboard: To make the scoreboard readily available for participants when they view this github repo, the Scoreboard is attached to this README. It is a visualizer for participant points based on rank for each category (Goals, Assists, etc). Participant points determine who's winning, or who wins, and is based off the number of players.
-## Contributing
+![](public)  |  ![](https://...Ocean.png)## Contributing
 Bug reports are welcome on Github at [Issues](https://github.com/llevasseur/world-juniors-2022/issues).
 ## License
 This project is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
