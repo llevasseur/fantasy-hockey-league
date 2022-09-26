@@ -1,5 +1,8 @@
 import json
 import re
+import os
+
+cwd = os.getcwd()
 
 def validatePick(pick):
   KEYS = [
@@ -122,12 +125,12 @@ def main():
     for g in goalies:
       md_file.write(g)
 
-  with open('../json/standings.json', 'w') as json_file:
+  with open(cwd + '/json/standings.json', 'w') as json_file:
     json_file.write(json.dumps(ranking_data, indent=4))
 
   print('''
   Player data from /json/merged-player-data.json has been used to update ROSTERS.md
-  Run `python3 parse-standings.py` to update the STANDINGS.md file with this new data
+  Run `python parse-standings.py` to update the STANDINGS.md file with this new data
   ''')
 
 

@@ -1,10 +1,13 @@
 import json
+import os
+
+cwd = os.getcwd()
 
 def main():
-  with open('../json/draft-picks.json', 'r') as json_file:
+  with open(cwd + '/json/draft-picks.json', 'r') as json_file:
     draft_data = json.loads(json_file.read())
 
-  with open('../json/ep-player-data.json', 'r') as json_file:
+  with open(cwd + '/json/ep-player-data.json', 'r') as json_file:
     player_data = json.loads(json_file.read())
 
   team_data = {}

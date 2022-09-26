@@ -2,10 +2,14 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import json
+import os
+
+cwd = os.getcwd()
 
 def getSoup(url):
   response = requests.get(url)
   html = response.content
+  #print(html)
   
   return BeautifulSoup(html, 'html.parser')
 
@@ -72,12 +76,13 @@ def getPlayersFromSoup(players, soup):
 
 def main():
   players = {}
+  print(cwd)
 
   for i in range(1, 3):
     soup = getSoup("https://www.eliteprospects.com/league/wjc-20/stats/2021-2022?page="+str(i))
     getPlayersFromSoup(players, soup)
 
-  with open('../json/ep-player-data.json', 'w') as json_file:
+  with open(cwd + '/json/ep-player-data.json', 'w') as json_file:
     json_file.write(json.dumps(players, indent=4))
 
   print('''

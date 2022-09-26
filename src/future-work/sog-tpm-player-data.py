@@ -1,10 +1,8 @@
-import requests
-from bs4 import BeautifulSoup
 import json
-import re
-import sys
-
+import os
 import fetch_player_data
+
+cwd = os.getcwd()
 
 def handleTd(obj, td):
     cl = td.get('class')
@@ -50,12 +48,12 @@ def main():
     soup = fetch_player_data.getSoup(website);
     findPlayersFromSoup(players, soup)
 
-    with open('../json/stat-player-data.json', 'w') as json_file:
+    with open(cwd + '/json/stat-player-data.json', 'w') as json_file:
         json_file.write(json.dumps(players, indent=4))
     
     print('''
     Player data has been fetched from '''+website+''' and written to /json/stat-player-data.json
-    Run `python3 merge-data.py` to update the data in /json/merged-player-data.json
+    Run `python merge-data.py` to update the data in /json/merged-player-data.json
     ''')
 if __name__ == "__main__":
     main()

@@ -1,4 +1,7 @@
 import json 
+import os
+
+cwd = os.getcwd()
 
 def readJSON(path):
   with open(path, 'r') as json_file:
@@ -19,7 +22,7 @@ def main():
         print("skipping (in merge) "+ name)
       
 
-  with open('../json/merged-player-data.json', 'w') as json_file:
+  with open(cwd + '/json/merged-player-data.json', 'w') as json_file:
     json_file.write(json.dumps(ep_player_data, indent=4))
 
   print('''
