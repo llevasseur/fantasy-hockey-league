@@ -26,7 +26,7 @@ Functional Requirements:
 <kbd>![elite prospects webpage example](/public/images/http_source.jpg)</kbd>
 Extract the html from the response and pull out data using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) Save as a `json` database.
 2. Some information is not provided on eliteprospect.com, including Shots on Goal and Time Played in Minutes. This information can be found on [iihf.com](https://www.iihf.com/en/events/2022/wm20/gamecenter/statistics/37416/5-lat-vs-can) game statistics summaries.
-<kbd>>![iihf stats summary webpage example](/public/images/additional_source.jpg)</kbd>
+<kbd>![iihf stats summary webpage example](/public/images/additional_source.jpg)</kbd>
 A web scraper has not been constructed for this website yet so player data is added manually to a separate `json` file. `write-manual-data.py` is a CLI API to do this easily, taking Firstname1 Lastname1,SOG,MM,SS, ... , as input. Save player data to a JSON object by querying data cells in table rows within the inner wrapper.
 
 3. Merge the fetched player database and the manual player database using the player_name as the primary key.
@@ -34,7 +34,8 @@ A web scraper has not been constructed for this website yet so player data is ad
 * ROSTERS.md: A visualizer for each participants drafted players' statistics. 
 * STANDINGS.md: A visualizer for each participants overall totals versus each other. This determines rank. 
 * README.md/Scoreboard: To make the scoreboard readily available for participants when they view this github repo, the Scoreboard is attached to this README. It is a visualizer for participant points based on rank for each category (Goals, Assists, etc). Participant points determine who's winning, or who wins, and is based off the number of players.
-![](public)  |  ![](https://...Ocean.png)## Contributing
+<kbd>![roster example](/public/images/roster_example.jpg)</kbd>  |  ![standings example](/public/images/standings_example.jpg)</kbd>
+## Contributing
 Bug reports are welcome on Github at [Issues](https://github.com/llevasseur/world-juniors-2022/issues).
 ## License
 This project is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
