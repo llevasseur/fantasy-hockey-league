@@ -87,7 +87,7 @@ def main():
 
   print('''
   Player data has been fetched from https://www.eliteprospects.com and written to /json/ep-player-data.json
-  Run `python3 merge-data.py` to update the data in /json/merged-player-data.json
+  Run `python merge-data.py` to update the data in /json/merged-player-data.json
   ''')
 
 if __name__ == "__main__":
