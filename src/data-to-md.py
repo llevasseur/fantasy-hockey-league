@@ -122,8 +122,9 @@ def main():
     for sk in skaters:
       md_file.write(sk)
 
+    # If WJ Cmd_file.write(f"| **Totals** | | | {g_total} | {a_total} | {sog_total} | {pim_total} | {pm_total} | {tpm_total} |\n")
     md_file.write(
-        f"| **Totals** | | | {g_total} | {a_total} | {sog_total} | {pim_total} | {pm_total} | {tpm_total} |\n")
+        f"| **Totals** | | {g_total} | {a_total} | {sog_total} | {pim_total} | {pm_total} | {tpm_total} |\n")
     # If WJC md_file.write(f"\n| Player | Pos | Team | S% | GAA |\n")
     md_file.write(f"\n| Player | Pos | S% | GAA |\n")
     md_file.write(f"| :----- | --- | -- | --: |\n")

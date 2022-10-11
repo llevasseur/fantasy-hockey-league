@@ -13,7 +13,7 @@
 | [Victor Hedman](https://www.eliteprospects.com/player/6007/victor-hedman) | D | - | - | 0 | - | - | 0 |
 | [Devon Toews](https://www.eliteprospects.com/player/59575/devon-toews) | D | - | - | 0 | - | - | 0 |
 | [Zach Werenski](https://www.eliteprospects.com/player/186311/zach-werenski) | D | - | - | 0 | - | - | 0 |
-| **Totals** | | | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Totals** | | 0 | 0 | 0 | 0 | 0 | 0 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |
@@ -32,7 +32,7 @@
 | [Moritz Seider](https://www.eliteprospects.com/player/258987/moritz-seider) | D | - | - | 0 | - | - | 0 |
 | [Morgan Rielly](https://www.eliteprospects.com/player/41184/morgan-rielly) | D | - | - | 0 | - | - | 0 |
 | [Miro Heiskanen](https://www.eliteprospects.com/player/250075/miro-heiskanen) | D | - | - | 0 | - | - | 0 |
-| **Totals** | | | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Totals** | | 0 | 0 | 0 | 0 | 0 | 0 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |
@@ -51,7 +51,7 @@
 | [MacKenzie Weegar](https://www.eliteprospects.com/player/97908/mackenzie-weegar) | D | - | - | 0 | - | - | 0 |
 | [Shea Theodore](https://www.eliteprospects.com/player/101581/shea-theodore) | D | - | - | 0 | - | - | 0 |
 | [Rasmus Dahlin](https://www.eliteprospects.com/player/310545/rasmus-dahlin) | D | - | - | 0 | - | - | 0 |
-| **Totals** | | | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Totals** | | 0 | 0 | 0 | 0 | 0 | 0 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |
@@ -70,7 +70,7 @@
 | [Aaron Ekblad](https://www.eliteprospects.com/player/49042/aaron-ekblad) | D | - | - | 0 | - | - | 0 |
 | [Thomas Chabot](https://www.eliteprospects.com/player/213607/thomas-chabot) | D | - | - | 0 | - | - | 0 |
 | [Darnell Nurse](https://www.eliteprospects.com/player/97352/darnell-nurse) | D | - | - | 0 | - | - | 0 |
-| **Totals** | | | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Totals** | | 0 | 0 | 0 | 0 | 0 | 0 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |
@@ -89,7 +89,7 @@
 | [Brent Burns](https://www.eliteprospects.com/player/9103/brent-burns) | D | - | - | 0 | - | - | 0 |
 | [Drew Doughty](https://www.eliteprospects.com/player/10430/drew-doughty) | D | - | - | 0 | - | - | 0 |
 | [Dougie Hamilton](https://www.eliteprospects.com/player/45596/dougie-hamilton) | D | - | - | 0 | - | - | 0 |
-| **Totals** | | | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Totals** | | 0 | 0 | 0 | 0 | 0 | 0 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |
@@ -108,7 +108,7 @@
 | [Kris Letang](https://www.eliteprospects.com/player/9189/kris-letang) | D | - | - | 0 | - | - | 0 |
 | [Torey Krug](https://www.eliteprospects.com/player/37747/torey-krug) | D | - | - | 0 | - | - | 0 |
 | [Alex Pietrangelo](https://www.eliteprospects.com/player/11317/alex-pietrangelo) | D | - | - | 0 | - | - | 0 |
-| **Totals** | | | 0 | 1 | 5 | 2 | 2 | 46.5 |
+| **Totals** | | 0 | 1 | 5 | 2 | 2 | 46.5 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |
