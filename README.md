@@ -7,8 +7,8 @@ Casual Python3 project used by friends to keep track of World Junior hockey play
 | [Liam](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Liam) | 6 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 41 |
 | [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon) | 6 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 41 |
 | [John](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John) | 6 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 41 |
-| [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 5 | 46 |
 | [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair) | 6 | 5 | 5 | 5 | 5 | 5 | 6 | 6 | 43 |
+| [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 5 | 46 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage
