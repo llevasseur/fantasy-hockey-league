@@ -77,9 +77,10 @@ def main():
   players = {}
   print(cwd)
 
-  for i in range(1, 4):
-    print(i);
-    soup = getSoup("https://www.eliteprospects.com/league/wjc-20/stats/2021-2022?page="+str(i))
+  for i in range(1, 9):
+    # WJC: https://www.eliteprospects.com/league/wjc-20/stats/2021-2022
+    # NHL: https://www.eliteprospects.com/league/nhl/stats/2022-2023
+    soup = getSoup("https://www.eliteprospects.com/league/nhl/stats/2022-2023?page="+str(i))
     getPlayersFromSoup(players, soup)
 
   with open(cwd + '/json/ep-player-data.json', 'w') as json_file:
