@@ -60,6 +60,9 @@ def main():
   README_md.write(f"| User | [G]({STANDINGS_URL}#goals) | [A]({STANDINGS_URL}#assists) | [SOG]({STANDINGS_URL}#shots-on-goal) | [PIM]({STANDINGS_URL}#penalties-in-minutes) | [+/-]({STANDINGS_URL}#plus--minus) | [TPM]({STANDINGS_URL}#time-played-in-minutes) | [S%]({STANDINGS_URL}#save-percentage) | [GAA]({STANDINGS_URL}#goals-against-average) | Total |\n")
   README_md.write(f"| :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |\n")
 
+  # Sort users based on Total
+  {k: v for k, v in sorted(overall_points.items(), key=lambda item: sum(item[1]))}
+
   for user in overall_points:
     README_md.write(f"| [{user}]({ROSTERS_URL}#{user}) | ")
     for p in overall_points[user]:
