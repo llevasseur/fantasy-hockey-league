@@ -104,11 +104,11 @@
 | [Andrei Svechnikov](https://www.eliteprospects.com/player/328556/andrei-svechnikov) | F | - | - | 0 | - | - | 0 |
 | [William Nylander](https://www.eliteprospects.com/player/38703/william-nylander) | F | - | - | 0 | - | - | 0 |
 | [Patrik Laine](https://www.eliteprospects.com/player/221667/patrik-laine) | F | - | - | 0 | - | - | 0 |
-| [Roman Josi](https://www.eliteprospects.com/player/12668/roman-josi) | D | 0 | 1 | 0 | 2 | 2 | 0 |
+| [Roman Josi](https://www.eliteprospects.com/player/12668/roman-josi) | D | 0 | 1 | 5 | 2 | 2 | 46.5 |
 | [Kris Letang](https://www.eliteprospects.com/player/9189/kris-letang) | D | - | - | 0 | - | - | 0 |
 | [Torey Krug](https://www.eliteprospects.com/player/37747/torey-krug) | D | - | - | 0 | - | - | 0 |
 | [Alex Pietrangelo](https://www.eliteprospects.com/player/11317/alex-pietrangelo) | D | - | - | 0 | - | - | 0 |
-| **Totals** | | | 0 | 1 | 0 | 2 | 2 | 0 |
+| **Totals** | | | 0 | 1 | 5 | 2 | 2 | 46.5 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |

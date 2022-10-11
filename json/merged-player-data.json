@@ -169,8 +169,8 @@
         "a": "1",
         "pim": "2",
         "pm": "2",
-        "SOG": 0,
-        "TPM": 0
+        "SOG": 5,
+        "TPM": 46.5
     },
     "Ryan Johansen": {
         "name": "Ryan Johansen",
@@ -1501,7 +1501,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Sammy Blais": {
         "name": "Sammy Blais",
