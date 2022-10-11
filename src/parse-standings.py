@@ -6,7 +6,7 @@ cwd = os.getcwd()
 ROSTERS_URL = "https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md"
 STANDINGS_URL = "https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md"
 
-NUMBER_OF_PLAYERS = 5
+NUMBER_OF_PLAYERS = 6
 
 def main():
   with open(cwd + '/json/standings.json', 'r') as json_file:
