@@ -6,8 +6,8 @@
         "Penalties in Minutes": 0,
         "Plus / Minus": 0,
         "Time Played in Minutes": 0,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
     },
     "Leevon": {
         "Goals": 0,
@@ -16,8 +16,8 @@
         "Penalties in Minutes": 0,
         "Plus / Minus": 0,
         "Time Played in Minutes": 0,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
     },
     "Alasdair": {
         "Goals": 0,
@@ -36,8 +36,8 @@
         "Penalties in Minutes": 0,
         "Plus / Minus": 0,
         "Time Played in Minutes": 0,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
     },
     "John": {
         "Goals": 0,
@@ -46,8 +46,8 @@
         "Penalties in Minutes": 0,
         "Plus / Minus": 0,
         "Time Played in Minutes": 0,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
     },
     "Carsten": {
         "Goals": 0,
@@ -56,7 +56,7 @@
         "Penalties in Minutes": 2,
         "Plus / Minus": 2,
         "Time Played in Minutes": 0,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
     }
 }

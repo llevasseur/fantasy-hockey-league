@@ -1,3 +1,345 @@
 {
-    
+    "Mika Zibanejad": {
+        "name": "Mika Zibanejad",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/23856/mika-zibanejad",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Victor Hedman": {
+        "name": "Victor Hedman",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/6007/victor-hedman",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Aaron Ekblad": {
+        "name": "Aaron Ekblad",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/49042/aaron-ekblad",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Aleksander Barkov": {
+        "name": "Aleksander Barkov",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/50044/aleksander-barkov",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Claude Giroux": {
+        "name": "Claude Giroux",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/10437/claude-giroux",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Steven Stamkos": {
+        "name": "Steven Stamkos",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/11113/steven-stamkos",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Morgan Rielly": {
+        "name": "Morgan Rielly",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/41184/morgan-rielly",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "William Nylander": {
+        "name": "William Nylander",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/38703/william-nylander",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Nikolaj Ehlers": {
+        "name": "Nikolaj Ehlers",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/66581/nikolaj-ehlers",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Devon Toews": {
+        "name": "Devon Toews",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/59575/devon-toews",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Torey Krug": {
+        "name": "Torey Krug",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/37747/torey-krug",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Sidney Crosby": {
+        "name": "Sidney Crosby",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/6146/sidney-crosby",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Evgeni Malkin": {
+        "name": "Evgeni Malkin",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/4231/yevgeni-malkin",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Kris Letang": {
+        "name": "Kris Letang",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/9189/kris-letang",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Dougie Hamilton": {
+        "name": "Dougie Hamilton",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/45596/dougie-hamilton",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Yevgeny Kuznetsov": {
+        "name": "Yevgeny Kuznetsov",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/34777/yevgeni-kuznetsov",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Alexander Ovechkin": {
+        "name": "Alexander Ovechkin",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/4230/alexander-ovechkin",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "John Carlson": {
+        "name": "John Carlson",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/18590/john-carlson",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Artemi Panarin": {
+        "name": "Artemi Panarin",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/24664/artemi-panarin",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Chris Kreider": {
+        "name": "Chris Kreider",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/37998/chris-kreider",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Brent Burns": {
+        "name": "Brent Burns",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/9103/brent-burns",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Jonathan Huberdeau": {
+        "name": "Jonathan Huberdeau",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/45261/jonathan-huberdeau",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Jacob Markstrom": {
+        "name": "Jacob Markstrom",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/9787/jacob-markstrom",
+        "gaa": "100.00",
+        "svp": "0"
+    },
+    "Leon Draisaitl": {
+        "name": "Leon Draisaitl",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/71913/leon-draisaitl",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Evander Kane": {
+        "name": "Evander Kane",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/14657/evander-kane",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Drew Doughty": {
+        "name": "Drew Doughty",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/10430/drew-doughty",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "J.T. Miller": {
+        "name": "J.T. Miller",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/38624/j.t.-miller",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Andrey Kuzmenko": {
+        "name": "Andrei Kuzmenko",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/211807/andrey-kuzmenko",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Alex Pietrangelo": {
+        "name": "Alex Pietrangelo",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/11317/alex-pietrangelo",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Thatcher Demko": {
+        "name": "Thatcher Demko",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/155248/thatcher-demko",
+        "gaa": "100.00",
+        "svp": "0"
+    },
+    "Connor Hellebuyck": {
+        "name": "Connor Hellebuyck",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/142796/connor-hellebuyck",
+        "gaa": "100.00",
+        "svp": "0"
+    },
+    "Igor Shesterkin": {
+        "name": "Igor Shesterkin",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/195577/igor-shestyorkin",
+        "gaa": "100.00",
+        "svp": "0"
+    },
+    "Andrei Vasilevskiy": {
+        "name": "Andrei Vasilevskiy",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/70424/andrei-vasilevsky",
+        "gaa": "100.00",
+        "svp": "0"
+    }
 }
