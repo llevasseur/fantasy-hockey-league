@@ -75,20 +75,20 @@ def getPlayersFromSoup(players, soup):
 
 def main():
   players = {}
-  print(cwd)
 
   for i in range(1, 9):
+    print(f"Processing {i}...")
     # WJC: https://www.eliteprospects.com/league/wjc-20/stats/2021-2022
     # NHL: https://www.eliteprospects.com/league/nhl/stats/2022-2023
     soup = getSoup("https://www.eliteprospects.com/league/nhl/stats/2022-2023?page="+str(i))
     getPlayersFromSoup(players, soup)
-
+  print(f"Done!")
   with open(cwd + '/json/ep-player-data.json', 'w') as json_file:
     json_file.write(json.dumps(players, indent=4))
 
   print('''
   Player data has been fetched from https://www.eliteprospects.com and written to /json/ep-player-data.json
-  Run `python merge-data.py` to update the data in /json/merged-player-data.json
+  Run `python write-manual-data.py` to add SOG and TPM to the data in /json/manual-player-data.json
   ''')
 
 if __name__ == "__main__":

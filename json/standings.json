@@ -1,31 +1,31 @@
 {
     "Timo": {
-        "Goals": 0,
-        "Assists": 0,
-        "Shots on Goal": 0,
+        "Goals": 2,
+        "Assists": 1,
+        "Shots on Goal": 15,
         "Penalties in Minutes": 0,
         "Plus / Minus": 0,
-        "Time Played in Minutes": 0,
+        "Time Played in Minutes": 72.8,
         "Save Percentage": 0.0,
         "Goals Against Average": 100.0
     },
     "Leevon": {
         "Goals": 0,
         "Assists": 0,
-        "Shots on Goal": 0,
-        "Penalties in Minutes": 0,
+        "Shots on Goal": 2,
+        "Penalties in Minutes": 2,
         "Plus / Minus": 0,
-        "Time Played in Minutes": 0,
+        "Time Played in Minutes": 37.1,
         "Save Percentage": 0.0,
         "Goals Against Average": 100.0
     },
     "Alasdair": {
-        "Goals": 0,
+        "Goals": 2,
         "Assists": 0,
-        "Shots on Goal": 0,
-        "Penalties in Minutes": 0,
+        "Shots on Goal": 13,
+        "Penalties in Minutes": 2,
         "Plus / Minus": 0,
-        "Time Played in Minutes": 0,
+        "Time Played in Minutes": 62.75,
         "Save Percentage": 0.968,
         "Goals Against Average": 1.0
     },
@@ -42,21 +42,21 @@
     "John": {
         "Goals": 0,
         "Assists": 0,
-        "Shots on Goal": 0,
+        "Shots on Goal": 2,
         "Penalties in Minutes": 0,
         "Plus / Minus": 0,
-        "Time Played in Minutes": 0,
-        "Save Percentage": 0.0,
-        "Goals Against Average": 100.0
+        "Time Played in Minutes": 25.05,
+        "Save Percentage": 0.962,
+        "Goals Against Average": 1.01
     },
     "Carsten": {
         "Goals": 0,
-        "Assists": 1,
-        "Shots on Goal": 5,
+        "Assists": 5,
+        "Shots on Goal": 13,
         "Penalties in Minutes": 2,
-        "Plus / Minus": 2,
-        "Time Played in Minutes": 46.5,
-        "Save Percentage": 0.0,
-        "Goals Against Average": 100.0
+        "Plus / Minus": 3,
+        "Time Played in Minutes": 108.45,
+        "Save Percentage": 0.923,
+        "Goals Against Average": 3.11
     }
 }

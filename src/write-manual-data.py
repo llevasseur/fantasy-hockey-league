@@ -52,6 +52,7 @@ def main():
 
   print('''
   Manual player data has been updated and written to /json/manual-player-data.json
+  Run `python merge-data.py` to update the data in /json/manual-player-data.json
   ''')
         
 

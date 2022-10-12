@@ -1,26 +1,4 @@
 {
-    "Mika Zibanejad": {
-        "name": "Mika Zibanejad",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/23856/mika-zibanejad",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
-    "Victor Hedman": {
-        "name": "Victor Hedman",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/6007/victor-hedman",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
     "Aaron Ekblad": {
         "name": "Aaron Ekblad",
         "pos": "D",
@@ -47,17 +25,6 @@
         "name": "Claude Giroux",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/10437/claude-giroux",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
-    "Steven Stamkos": {
-        "name": "Steven Stamkos",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/11113/steven-stamkos",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -197,28 +164,6 @@
         "SOG": 0,
         "TPM": 0
     },
-    "Artemi Panarin": {
-        "name": "Artemi Panarin",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/24664/artemi-panarin",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
-    "Chris Kreider": {
-        "name": "Chris Kreider",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/37998/chris-kreider",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
     "Brent Burns": {
         "name": "Brent Burns",
         "pos": "D",
@@ -270,17 +215,6 @@
         "SOG": 0,
         "TPM": 0
     },
-    "Drew Doughty": {
-        "name": "Drew Doughty",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/10430/drew-doughty",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
     "J.T. Miller": {
         "name": "J.T. Miller",
         "pos": "F",
@@ -303,17 +237,6 @@
         "SOG": 0,
         "TPM": 0
     },
-    "Alex Pietrangelo": {
-        "name": "Alex Pietrangelo",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/11317/alex-pietrangelo",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
     "Thatcher Demko": {
         "name": "Thatcher Demko",
         "pos": "G",
@@ -325,20 +248,6 @@
         "name": "Connor Hellebuyck",
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/142796/connor-hellebuyck",
-        "gaa": "100.00",
-        "svp": "0"
-    },
-    "Igor Shesterkin": {
-        "name": "Igor Shesterkin",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/195577/igor-shestyorkin",
-        "gaa": "100.00",
-        "svp": "0"
-    },
-    "Andrei Vasilevskiy": {
-        "name": "Andrei Vasilevskiy",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/70424/andrei-vasilevsky",
         "gaa": "100.00",
         "svp": "0"
     }

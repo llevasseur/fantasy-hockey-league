@@ -59,16 +59,16 @@
     },
     " Tampa Bay Lightning": {
         "Victor Hedman": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 3,
+            "TPM": 25.7
         },
         "Nikita Kucherov": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 3,
+            "TPM": 23.9
         },
         "Steven Stamkos": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 5,
+            "TPM": 23.5
         }
     },
     " Toronto Maple Leafs": {
@@ -197,20 +197,20 @@
     },
     " New York Rangers": {
         "Mika Zibanejad": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 9,
+            "TPM": 23.2
         },
         "Adam Fox": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 21.7
         },
         "Artemi Panarin": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 19.85
         },
         "Chris Kreider": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 5,
+            "TPM": 19.35
         }
     },
     " Columbus Blue Jackets": {
@@ -275,12 +275,12 @@
     },
     " Los Angeles Kings": {
         "Kevin Fiala": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 15.4
         },
         "Drew Doughty": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 25.05
         }
     },
     " Vancouver Canucks": {
@@ -303,16 +303,16 @@
     },
     " Vegas Golden Knights": {
         "Jack Eichel": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 7,
+            "TPM": 17.05
         },
         "Shea Theodore": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 22.2
         },
         "Alex Pietrangelo": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 22.75
         }
     }
 }
