@@ -1,26 +1,4 @@
 {
-    "Aaron Ekblad": {
-        "name": "Aaron Ekblad",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/49042/aaron-ekblad",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
-    "Aleksander Barkov": {
-        "name": "Aleksander Barkov",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/50044/aleksander-barkov",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
     "Claude Giroux": {
         "name": "Claude Giroux",
         "pos": "F",
@@ -47,28 +25,6 @@
         "name": "William Nylander",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/38703/william-nylander",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
-    "Nikolaj Ehlers": {
-        "name": "Nikolaj Ehlers",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/66581/nikolaj-ehlers",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
-    "Devon Toews": {
-        "name": "Devon Toews",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/59575/devon-toews",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -120,17 +76,6 @@
         "SOG": 0,
         "TPM": 0
     },
-    "Dougie Hamilton": {
-        "name": "Dougie Hamilton",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/45596/dougie-hamilton",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
     "Yevgeny Kuznetsov": {
         "name": "Yevgeny Kuznetsov",
         "pos": "F",
@@ -175,34 +120,12 @@
         "SOG": 0,
         "TPM": 0
     },
-    "Jonathan Huberdeau": {
-        "name": "Jonathan Huberdeau",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/45261/jonathan-huberdeau",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
     "Jacob Markstrom": {
         "name": "Jacob Markstrom",
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/9787/jacob-markstrom",
         "gaa": "100.00",
         "svp": "0"
-    },
-    "Leon Draisaitl": {
-        "name": "Leon Draisaitl",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/71913/leon-draisaitl",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
     },
     "Evander Kane": {
         "name": "Evander Kane",
@@ -219,17 +142,6 @@
         "name": "J.T. Miller",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/38624/j.t.-miller",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
-        "SOG": 0,
-        "TPM": 0
-    },
-    "Andrey Kuzmenko": {
-        "name": "Andrei Kuzmenko",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/211807/andrey-kuzmenko",
         "g": "-",
         "a": "-",
         "pim": "-",

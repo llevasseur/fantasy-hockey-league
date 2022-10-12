@@ -9,11 +9,11 @@
 | [Jason Robertson](https://www.eliteprospects.com/player/201455/jason-robertson) | F | - | - | 0 | - | - | 0 |
 | [Johnny Gaudreau](https://www.eliteprospects.com/player/88391/johnny-gaudreau) | F | - | - | 0 | - | - | 0 |
 | [Evander Kane](https://www.eliteprospects.com/player/14657/evander-kane) | F | - | - | 0 | - | - | 0 |
-| [Robert Thomas](https://www.eliteprospects.com/player/201681/robert-thomas) | F | - | - | 0 | - | - | 0 |
 | [Victor Hedman](https://www.eliteprospects.com/player/6007/victor-hedman) | D | 0 | 0 | 3 | 0 | 0 | 25.7 |
 | [Devon Toews](https://www.eliteprospects.com/player/59575/devon-toews) | D | - | - | 0 | - | - | 0 |
 | [Zach Werenski](https://www.eliteprospects.com/player/186311/zach-werenski) | D | - | - | 0 | - | - | 0 |
-| **Totals** | | 2 | 1 | 15 | 0 | 0 | 72.8 |
+| [Jacob Trouba](https://www.eliteprospects.com/player/90349/jacob-trouba) | D | 0 | 1 | 6 | 0 | 1 | 25.8 |
+| **Totals** | | 2 | 2 | 21 | 0 | 1 | 98.6 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |

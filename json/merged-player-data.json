@@ -257,7 +257,9 @@
         "g": "0",
         "a": "1",
         "pim": "0",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 6,
+        "TPM": 25.8
     },
     "Reilly Smith": {
         "name": "Reilly Smith",
