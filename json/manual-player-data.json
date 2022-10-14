@@ -7,8 +7,8 @@
     },
     " Boston Bruins": {
         "David Pastrnak": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 6,
+            "TPM": 19.05
         }
     },
     " Buffalo Sabres": {
@@ -73,20 +73,20 @@
     },
     " Toronto Maple Leafs": {
         "Auston Matthews": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 5,
+            "TPM": 19.9
         },
         "Morgan Rielly": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 22.55
         },
         "Mitchell Marner": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 18.45
         },
         "William Nylander": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 5,
+            "TPM": 19.0
         }
     },
     " Nashville Predators": {
@@ -107,20 +107,20 @@
     },
     " Colorado Avalanche": {
         "Devon Toews": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 19.8
         },
         "Mikko Rantanen": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 3,
+            "TPM": 19.1
         },
         "Cale Makar": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 4,
+            "TPM": 24.1
         },
         "Nathan MacKinnon": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 6,
+            "TPM": 20.25
         }
     },
     " Minnesota Wild": {
@@ -182,17 +182,17 @@
         }
     },
     " Washington Capitals": {
-        "Yevgeny Kuznetsov": {
-            "SOG": 0,
-            "TPM": 0
+        "Yevgeni Kuznetsov": {
+            "SOG": 5,
+            "TPM": 21.7
         },
         "Alexander Ovechkin": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 3,
+            "TPM": 22.15
         },
         "John Carlson": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 25.85
         }
     },
     " New York Rangers": {
@@ -219,30 +219,30 @@
     },
     " Columbus Blue Jackets": {
         "Johnny Gaudreau": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 20.2
         },
         "Zach Werenski": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 24.05
         },
         "Patrik Laine": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 7.8
         }
     },
     " Carolina Hurricanes": {
         "Brent Burns": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 6,
+            "TPM": 22.55
         },
         "Sebastian Aho": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 18.3
         },
         "Andrei Svechnikov": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 17.05
         }
     },
     " Calgary Flames": {
@@ -261,20 +261,20 @@
     },
     " Edmonton Oilers": {
         "Connor McDavid": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 5,
+            "TPM": 23.6
         },
         "Leon Draisaitl": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 21.75
         },
         "Evander Kane": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 3,
+            "TPM": 20.7
         },
         "Darnell Nurse": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 26.3
         }
     },
     " Los Angeles Kings": {
@@ -288,21 +288,21 @@
         }
     },
     " Vancouver Canucks": {
-        "J.T. Miller": {
-            "SOG": 0,
-            "TPM": 0
-        },
         "Elias Pettersson": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 5,
+            "TPM": 21.6
         },
         "Andrey Kuzmenko": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 4,
+            "TPM": 17.75
         },
         "Quinn Hughes": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 3,
+            "TPM": 24.6
+        },
+        "J.T. Miller": {
+            "SOG": 2,
+            "TPM": 22
         }
     },
     " Vegas Golden Knights": {
