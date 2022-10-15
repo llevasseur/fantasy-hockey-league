@@ -35,6 +35,7 @@
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |
+| [Jacob Markström](https://www.eliteprospects.com/player/9787/jacob-markstrom) | G | .880 | 3.00 |
 ## Alasdair
 | Player | Pos | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | - | - | --- | --- | --- | --: |

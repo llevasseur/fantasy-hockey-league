@@ -59,7 +59,8 @@
 | 2 | [John](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John) |  0.935 |
 | 3 | [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) |  0.925 |
 | 4 | [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair) |  0.917 |
-| 5 | [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) |  0.833 |
+| 5 | [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon) |  0.88 |
+| 6 | [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) |  0.833 |
 ## Goals Against Average
 | Rank | User | Goals Against Average |
 | :--- | ---- | ---------: |
@@ -67,4 +68,5 @@
 | 2 | [John](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John) |  2.02 |
 | 3 | [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair) |  2.54 |
 | 3 | [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) |  2.54 |
-| 5 | [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) |  4.13 |
+| 5 | [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon) |  3.0 |
+| 6 | [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) |  4.13 |
