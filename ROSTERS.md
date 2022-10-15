@@ -93,7 +93,7 @@
 ## Carsten
 | Player | Pos | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | - | - | --- | --- | --- | --: |
-| [Kirill Kaprizov](https://www.eliteprospects.com/player/265645/kirill-kaprizov) | F | 0 | 1 | 0 | 2 | -4 | 0 |
+| [Kirill Kaprizov](https://www.eliteprospects.com/player/265645/kirill-kaprizov) | F | 0 | 1 | 4 | 2 | -4 | 21.1 |
 | [Artemi Panarin](https://www.eliteprospects.com/player/24664/artemi-panarin) | F | 1 | 5 | 6 | 2 | 1 | 56.25 |
 | [Chris Kreider](https://www.eliteprospects.com/player/37998/chris-kreider) | F | 2 | 1 | 10 | 2 | 1 | 56.95 |
 | [Andrei Svechnikov](https://www.eliteprospects.com/player/328556/andrei-svechnikov) | F | 1 | 1 | 5 | 0 | 2 | 33.75 |
@@ -103,7 +103,7 @@
 | [Kris Letang](https://www.eliteprospects.com/player/9189/kris-letang) | D | 0 | 2 | 2 | 0 | 1 | 22.45 |
 | [Torey Krug](https://www.eliteprospects.com/player/37747/torey-krug) | D | - | - | 0 | - | - | 0 |
 | [Alex Pietrangelo](https://www.eliteprospects.com/player/11317/alex-pietrangelo) | D | 0 | 2 | 3 | 0 | 1 | 46.1 |
-| **Totals** | | 5 | 14 | 54 | 8 | 5 | 360.3 |
+| **Totals** | | 5 | 14 | 58 | 8 | 5 | 381.4 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |

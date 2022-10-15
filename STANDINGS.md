@@ -20,7 +20,7 @@
 | Rank | User | Shots on Goal |
 | :--- | ---- | ---------: |
 | 1 | [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) |  74 |
-| 2 | [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) |  54 |
+| 2 | [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) |  58 |
 | 3 | [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair) |  50 |
 | 4 | [John](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John) |  42 |
 | 5 | [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon) |  36 |
@@ -47,7 +47,7 @@
 | Rank | User | Time Played in Minutes |
 | :--- | ---- | ---------: |
 | 1 | [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) |  437.2 |
-| 2 | [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) |  360.3 |
+| 2 | [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) |  381.4 |
 | 3 | [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon) |  318.15 |
 | 4 | [John](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John) |  316.3 |
 | 5 | [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair) |  288.3 |
