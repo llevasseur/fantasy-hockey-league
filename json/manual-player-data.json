@@ -59,16 +59,16 @@
     },
     " Tampa Bay Lightning": {
         "Victor Hedman": {
-            "SOG": 3,
-            "TPM": 25.7
+            "SOG": 5,
+            "TPM": 50.7
         },
         "Nikita Kucherov": {
-            "SOG": 3,
-            "TPM": 23.9
+            "SOG": 8,
+            "TPM": 43.1
         },
         "Steven Stamkos": {
-            "SOG": 5,
-            "TPM": 23.5
+            "SOG": 12,
+            "TPM": 41.85
         }
     },
     " Toronto Maple Leafs": {
@@ -97,12 +97,12 @@
     },
     " Winnipeg Jets": {
         "Kyle Connor": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 4,
+            "TPM": 19.65
         },
         "Nikolaj Ehlers": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 3,
+            "TPM": 16.2
         }
     },
     " Colorado Avalanche": {
@@ -197,34 +197,34 @@
     },
     " New York Rangers": {
         "Mika Zibanejad": {
-            "SOG": 12,
-            "TPM": 43.15
+            "SOG": 15,
+            "TPM": 63.55
         },
         "Adam Fox": {
-            "SOG": 6,
-            "TPM": 47.65
+            "SOG": 7,
+            "TPM": 71.35
         },
         "Artemi Panarin": {
-            "SOG": 2,
-            "TPM": 36.5
+            "SOG": 6,
+            "TPM": 56.25
         },
         "Chris Kreider": {
-            "SOG": 8,
-            "TPM": 37.85
+            "SOG": 10,
+            "TPM": 56.95
         },
         "Jacob Trouba": {
-            "SOG": 8,
-            "TPM": 47.0
+            "SOG": 12,
+            "TPM": 70.1
         }
     },
     " Columbus Blue Jackets": {
         "Johnny Gaudreau": {
-            "SOG": 2,
-            "TPM": 20.2
+            "SOG": 7,
+            "TPM": 41.15
         },
         "Zach Werenski": {
-            "SOG": 2,
-            "TPM": 24.05
+            "SOG": 5,
+            "TPM": 47.0
         },
         "Patrik Laine": {
             "SOG": 2,
@@ -233,16 +233,16 @@
     },
     " Carolina Hurricanes": {
         "Brent Burns": {
-            "SOG": 6,
-            "TPM": 22.55
+            "SOG": 8,
+            "TPM": 45.85
         },
         "Sebastian Aho": {
-            "SOG": 2,
-            "TPM": 18.3
+            "SOG": 6,
+            "TPM": 37.7
         },
         "Andrei Svechnikov": {
-            "SOG": 2,
-            "TPM": 17.05
+            "SOG": 5,
+            "TPM": 33.75
         }
     },
     " Calgary Flames": {
