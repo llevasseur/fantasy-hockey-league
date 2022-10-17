@@ -24,6 +24,7 @@
 | [Auston Matthews](https://www.eliteprospects.com/player/199898/auston-matthews) | F | 1 | 1 | 10 | 0 | 1 | 38.55 |
 | [Jonathan Huberdeau](https://www.eliteprospects.com/player/45261/jonathan-huberdeau) | F | 0 | 1 | 1 | 0 | 0 | 33.5 |
 | [J.T. Miller](https://www.eliteprospects.com/player/38624/j.t.-miller) | F | 1 | 1 | 4 | 2 | -2 | 43.75 |
+| [Elias Pettersson](https://www.eliteprospects.com/player/266336/elias-pettersson) | F | 1 | 0 | 8 | 0 | -1 | 40.6 |
 | [Kevin Fiala](https://www.eliteprospects.com/player/87971/kevin-fiala) | F | 1 | 2 | 10 | 2 | -2 | 52.55 |
 | [Yevgeni Kuznetsov](https://www.eliteprospects.com/player/34777/yevgeni-kuznetsov) | F | 0 | 1 | 5 | 4 | -1 | 60.25 |
 | [Andrey Kuzmenko](https://www.eliteprospects.com/player/211807/andrey-kuzmenko) | F | 1 | 0 | 9 | 0 | 0 | 32.35 |
@@ -31,7 +32,7 @@
 | [Moritz Seider](https://www.eliteprospects.com/player/258987/moritz-seider) | D | 0 | 0 | 9 | 0 | 4 | 44.2 |
 | [Morgan Rielly](https://www.eliteprospects.com/player/41184/morgan-rielly) | D | 0 | 3 | 1 | 0 | -3 | 42.9 |
 | [Miro Heiskanen](https://www.eliteprospects.com/player/250075/miro-heiskanen) | D | 1 | 1 | 5 | 2 | 4 | 50.25 |
-| **Totals** | | 6 | 11 | 61 | 12 | 1 | 469.65 |
+| **Totals** | | 7 | 11 | 69 | 12 | 0 | 510.25 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |
@@ -45,11 +46,12 @@
 | [Steven Stamkos](https://www.eliteprospects.com/player/11113/steven-stamkos) | F | 4 | 1 | 16 | 4 | 1 | 62.15 |
 | [Jake Guentzel](https://www.eliteprospects.com/player/199870/jake-guentzel) | F | 2 | 2 | 12 | 0 | 4 | 36.65 |
 | [Jack Eichel](https://www.eliteprospects.com/player/191959/jack-eichel) | F | 1 | 2 | 11 | 0 | 2 | 48.95 |
+| [Yevgeni Malkin](https://www.eliteprospects.com/player/4231/yevgeni-malkin) | F | 1 | 1 | 11 | 4 | 2 | 35.65 |
 | [Quinn Hughes](https://www.eliteprospects.com/player/201671/quinn-hughes) | D | 0 | 1 | 5 | 0 | -1 | 53.05 |
 | [MacKenzie Weegar](https://www.eliteprospects.com/player/97908/mackenzie-weegar) | D | 0 | 2 | 3 | 0 | 0 | 42.3 |
 | [Shea Theodore](https://www.eliteprospects.com/player/101581/shea-theodore) | D | 1 | 1 | 4 | 0 | 5 | 64.65 |
 | [Rasmus Dahlin](https://www.eliteprospects.com/player/310545/rasmus-dahlin) | D | 2 | 1 | 8 | 2 | 3 | 50.05 |
-| **Totals** | | 13 | 23 | 77 | 10 | 18 | 483.25 |
+| **Totals** | | 14 | 24 | 88 | 14 | 20 | 518.9 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |
@@ -60,6 +62,7 @@
 | [Kyle Connor](https://www.eliteprospects.com/player/177671/kyle-connor) | F | 1 | 0 | 4 | 0 | 1 | 19.65 |
 | [Alexander Ovechkin](https://www.eliteprospects.com/player/4230/alexander-ovechkin) | F | 0 | 1 | 13 | 0 | -3 | 61.9 |
 | [Matthew Tkachuk](https://www.eliteprospects.com/player/233030/matthew-tkachuk) | F | 2 | 1 | 8 | 4 | 0 | 44.65 |
+| [Brady Tkachuk](https://www.eliteprospects.com/player/201473/brady-tkachuk) | F | 1 | 0 | 7 | 0 | -2 | 35.9 |
 | [Jack Hughes](https://www.eliteprospects.com/player/305432/jack-hughes) | F | 0 | 0 | 8 | 0 | -3 | 46.35 |
 | [Nikolaj Ehlers](https://www.eliteprospects.com/player/66581/nikolaj-ehlers) | F | 0 | 2 | 3 | 0 | 0 | 16.2 |
 | [Sam Reinhart](https://www.eliteprospects.com/player/95032/sam-reinhart) | F | 0 | 1 | 8 | 0 | 0 | 41.45 |
@@ -67,7 +70,7 @@
 | [Aaron Ekblad](https://www.eliteprospects.com/player/49042/aaron-ekblad) | D | 1 | 0 | 5 | 0 | 2 | 49.9 |
 | [Thomas Chabot](https://www.eliteprospects.com/player/213607/thomas-chabot) | D | 0 | 1 | 6 | 4 | -3 | 51.25 |
 | [Darnell Nurse](https://www.eliteprospects.com/player/97352/darnell-nurse) | D | 1 | 1 | 2 | 2 | 1 | 49.45 |
-| **Totals** | | 5 | 9 | 63 | 14 | -5 | 431.55 |
+| **Totals** | | 6 | 9 | 70 | 14 | -7 | 467.45 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |

@@ -54,14 +54,14 @@
         "SOG": 0,
         "TPM": 0
     },
-    "Evgeni Malkin": {
+    "Yevgeni Malkin": {
         "name": "Evgeni Malkin",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/4231/yevgeni-malkin",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-",
+        "g": "1",
+        "a": "1",
+        "pim": "4",
+        "pm": "2",
         "SOG": 0,
         "TPM": 0
     },
@@ -162,5 +162,25 @@
         "href": "https://www.eliteprospects.com/player/142796/connor-hellebuyck",
         "gaa": "100.00",
         "svp": "0"
+    },
+    "Elias Pettersson": {
+        "name": "Elias Pettersson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/266336/elias-pettersson",
+        "g": "1",
+        "a": "0",
+        "pim": "0",
+        "pm": "-1",
+        "SOG": 0,
+        "TPM": 0
+    },
+    "Brady Tkachuk": {
+        "name": "Brady Tkachuk",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/201473/brady-tkachuk",
+        "g": "1",
+        "a": "0",
+        "pim": "0",
+        "pm": "-2"
     }
 }

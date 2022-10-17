@@ -349,6 +349,17 @@
         "pim": "0",
         "pm": "-2"
     },
+    "Brady Tkachuk": {
+        "name": "Brady Tkachuk",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/201473/brady-tkachuk",
+        "g": "1",
+        "a": "0",
+        "pim": "0",
+        "pm": "-2",
+        "SOG": 7,
+        "TPM": 35.9
+    },
     "Jaden Schwartz": {
         "name": "Jaden Schwartz",
         "pos": "F",
@@ -1466,7 +1477,9 @@
         "g": "1",
         "a": "1",
         "pim": "4",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 11,
+        "TPM": 35.65
     },
     "Dillon Dub\u00e9": {
         "name": "Dillon Dub\u00e9",
@@ -6890,5 +6903,16 @@
         "a": "-",
         "pim": "-",
         "pm": "-"
+    },
+    "Elias Pettersson": {
+        "name": "Elias Pettersson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/266336/elias-pettersson",
+        "g": "1",
+        "a": "0",
+        "pim": "0",
+        "pm": "-1",
+        "SOG": 8,
+        "TPM": 40.6
     }
 }
