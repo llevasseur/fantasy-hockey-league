@@ -99,16 +99,16 @@
 | :----- | --- | - | - | --- | --- | --- | --: |
 | [Kirill Kaprizov](https://www.eliteprospects.com/player/265645/kirill-kaprizov) | F | 3 | 2 | 13 | 4 | -8 | 66.35 |
 | [Artemi Panarin](https://www.eliteprospects.com/player/24664/artemi-panarin) | F | 2 | 8 | 10 | 2 | -1 | 76.55 |
+| [Sebastian Aho](https://www.eliteprospects.com/player/152111/sebastian-aho) | F | 2 | 2 | 9 | 2 | 2 | 55.35 |
 | [Chris Kreider](https://www.eliteprospects.com/player/37998/chris-kreider) | F | 2 | 1 | 12 | 2 | 1 | 76.75 |
 | [Andrei Svechnikov](https://www.eliteprospects.com/player/328556/andrei-svechnikov) | F | 3 | 2 | 11 | 0 | 3 | 50.6 |
 | [William Nylander](https://www.eliteprospects.com/player/38703/william-nylander) | F | 3 | 1 | 15 | 0 | 0 | 55.85 |
 | [Patrik Laine](https://www.eliteprospects.com/player/221667/patrik-laine) | F | 1 | 0 | 2 | 0 | 1 | 7.8 |
 | [Roman Josi](https://www.eliteprospects.com/player/12668/roman-josi) | D | 0 | 1 | 14 | 2 | -1 | 97.7 |
-| [Sebastian Aho](https://www.eliteprospects.com/player/67208/sebastian-aho) | D | - | - | 9 | - | - | 55.35 |
 | [Kris Letang](https://www.eliteprospects.com/player/9189/kris-letang) | D | 0 | 3 | 3 | 0 | 2 | 71.1 |
 | [Torey Krug](https://www.eliteprospects.com/player/37747/torey-krug) | D | 0 | 1 | 1 | 0 | 0 | 20.95 |
 | [Alex Pietrangelo](https://www.eliteprospects.com/player/11317/alex-pietrangelo) | D | 0 | 3 | 6 | 0 | 1 | 69.15 |
-| **Totals** | | 14 | 22 | 96 | 10 | -2 | 648.15 |
+| **Totals** | | 16 | 24 | 96 | 12 | 0 | 648.15 |
 
 | Player | Pos | S% | GAA |
 | :----- | --- | -- | --: |
