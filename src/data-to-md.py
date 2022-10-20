@@ -62,6 +62,7 @@ def main():
           href=player_data[pick]['href']
           pos=player_data[pick]['pos']
           team = player_data[pick]['team']
+          print(team)
 
           if pos == "G":
             gaa=player_data[pick]['gaa']
@@ -93,7 +94,7 @@ def main():
             sog_total += sog
             tpm_total=round(tpm_total + tpm, 2)
             player_map[pos].append(
-                f"| [{pick}]({href}) | {pos} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
+                f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
       except:
         print(f"skipping (data): {pick}")
 
