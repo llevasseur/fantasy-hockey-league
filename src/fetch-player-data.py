@@ -45,7 +45,7 @@ def handleTd(obj, td):
   elif cl in [['g'], ['a'], ['pim'], ['pm'], ['gaa']]:
     obj[cl[0]] = td.text.strip()
 
-  elif 'svp' in cl:
+  elif cl and 'svp' in cl:
     obj['svp'] = td.text.strip()
 
 def getInnerWrapper(soup):
