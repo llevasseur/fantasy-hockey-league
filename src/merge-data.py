@@ -28,7 +28,7 @@ def main():
   print('''
   Player data has been merged from /json/ep-player-data.json and /json/manual-player-data.json
   into /json/merged-player-data.json
-  Run `python data-to-md.py` to update the ROSTERS.md file with this new data
+  Run `python src/data-to-md.py` to update the ROSTERS.md file with this new data
   ''')
   
 

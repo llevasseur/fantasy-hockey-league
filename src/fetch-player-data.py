@@ -74,7 +74,10 @@ def getPlayersFromSoup(players, soup):
       handleTd(player_obj, td)
       
     if player_obj and "name" in player_obj.keys():
-      players[player_obj["name"]] = player_obj
+      if player_obj["name"] == "Sebastian Aho" and not player_obj["team"] == " Carolina Hurricanes ":
+            print(f"skipping (fetch): {player_obj['name']} on {player_obj['team']}")
+      else: 
+        players[player_obj["name"]] = player_obj
 
 def main():
   players = {}
@@ -91,7 +94,7 @@ def main():
 
   print('''
   Player data has been fetched from https://www.eliteprospects.com and written to /json/ep-player-data.json
-  Run `python write-manual-data.py` to add SOG and TPM to the data in /json/manual-player-data.json
+  Run `python src/write-manual-data.py` to add SOG and TPM to the data in /json/manual-player-data.json
   ''')
 
 if __name__ == "__main__":

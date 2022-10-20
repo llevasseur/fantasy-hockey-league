@@ -133,7 +133,7 @@ def main():
 
   print('''
   Player data from /json/merged-player-data.json has been used to update ROSTERS.md
-  Run `python parse-standings.py` to update the STANDINGS.md file with this new data
+  Run `python src/parse-standings.py` to update the STANDINGS.md file with this new data
   ''')
 
 
