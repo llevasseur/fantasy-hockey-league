@@ -36,7 +36,8 @@ def handleTd(obj, td):
     # if "name" in obj.keys(): print(f"Parsing team for {obj['name']}")
     a_list = td.find_all('a')
     for a in a_list:
-      match = re.match('(.*) U20', a.text)
+      # For wjc, match = re.match('(.*) U20', a.text)
+      match = re.match('(.*)', a.text)
       if match:
         obj["team"] = match.group(1)
         # print(f"\t Found {match.group(1)}")

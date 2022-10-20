@@ -6,9 +6,9 @@ cwd = os.getcwd()
 
 
 def validatePick(pick):
-  # If WJC, KEYS = ["href", "team", "pos"]
   KEYS = [
     "href",
+    "team",
     "pos"
   ]
 
@@ -61,7 +61,7 @@ def main():
 
           href=player_data[pick]['href']
           pos=player_data[pick]['pos']
-          # If WJC team = player_data[pick]['team']
+          team = player_data[pick]['team']
 
           if pos == "G":
             gaa=player_data[pick]['gaa']
@@ -76,9 +76,8 @@ def main():
             else:
               svp_list.append(0.0)
 
-            # if WJC player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {svp} | {gaa} |\n")
             player_map[pos].append(
-                f"| [{pick}]({href}) | {pos} | {svp} | {gaa} |\n")
+              f"| [{pick}]({href}) | {pos} | {team} | {svp} | {gaa} |\n")
           else:
             g=player_data[pick]['g']
             a=player_data[pick]['a']
@@ -93,7 +92,6 @@ def main():
             if re.match('\-?\d+', pm): pm_total += int(pm)
             sog_total += sog
             tpm_total=round(tpm_total + tpm, 2)
-            # if WJC player_map[pos].append(f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
             player_map[pos].append(
                 f"| [{pick}]({href}) | {pos} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
       except:
@@ -111,9 +109,8 @@ def main():
     }
 
     md_file.write(f"## {user}\n")
-    # If WJC md_file.write(f"| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |\n")
-    md_file.write(f"| Player | Pos | G | A | SOG | PIM | +/- | TPM |\n")
-    md_file.write(f"| :----- | --- | - | - | --- | --- | --- | --: |\n")
+    md_file.write(f"| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |\n")
+    md_file.write(f"| :----- | --- | ---- | - | - | --- | --- | --- | --: |\n")
 
 
     skaters = player_map["F"]
@@ -122,12 +119,10 @@ def main():
     for sk in skaters:
       md_file.write(sk)
 
-    # If WJ Cmd_file.write(f"| **Totals** | | | {g_total} | {a_total} | {sog_total} | {pim_total} | {pm_total} | {tpm_total} |\n")
     md_file.write(
-        f"| **Totals** | | {g_total} | {a_total} | {sog_total} | {pim_total} | {pm_total} | {tpm_total} |\n")
-    # If WJC md_file.write(f"\n| Player | Pos | Team | S% | GAA |\n")
-    md_file.write(f"\n| Player | Pos | S% | GAA |\n")
-    md_file.write(f"| :----- | --- | -- | --: |\n")
+      f"| **Totals** | | | {g_total} | {a_total} | {sog_total} | {pim_total} | {pm_total} | {tpm_total} |\n")
+    md_file.write(f"\n| Player | Pos | Team | S% | GAA |\n")
+    md_file.write(f"| :----- | --- | ----| -- | --: |\n")
 
     goalies=player_map["G"]
     for g in goalies:

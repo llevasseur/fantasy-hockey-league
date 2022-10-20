@@ -1,7 +1,7 @@
 # Fantasy Rosters
 ## Timo
-| Player | Pos | G | A | SOG | PIM | +/- | TPM |
-| :----- | --- | - | - | --- | --- | --- | --: |
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Connor McDavid](https://www.eliteprospects.com/player/183442/connor-mcdavid) | F | 4 | 2 | 13 | 4 | 0 | 74.0 |
 | [Nikita Kucherov](https://www.eliteprospects.com/player/77237/nikita-kucherov) | F | 0 | 5 | 12 | 0 | -3 | 87.25 |
 | [Mika Zibanejad](https://www.eliteprospects.com/player/23856/mika-zibanejad) | F | 4 | 4 | 24 | 0 | 2 | 83.9 |
@@ -10,17 +10,17 @@
 | [Johnny Gaudreau](https://www.eliteprospects.com/player/88391/johnny-gaudreau) | F | 2 | 2 | 11 | 0 | 3 | 85.25 |
 | [Evander Kane](https://www.eliteprospects.com/player/14657/evander-kane) | F | 0 | 2 | 14 | 2 | 0 | 63.65 |
 | [Victor Hedman](https://www.eliteprospects.com/player/6007/victor-hedman) | D | 0 | 3 | 12 | 0 | -2 | 102.0 |
-| [Devon Toews](https://www.eliteprospects.com/player/59575/devon-toews) | D | 0 | 2 | 2 | 0 | 2 | 66.65 |
+| [Devon Toews](https://www.eliteprospects.com/player/59575/devon-toews) | D | 0 | 3 | 4 | 0 | 1 | 84.15 |
 | [Zach Werenski](https://www.eliteprospects.com/player/186311/zach-werenski) | D | 1 | 1 | 15 | 0 | -2 | 99.95 |
 | [Jacob Trouba](https://www.eliteprospects.com/player/90349/jacob-trouba) | D | 0 | 2 | 16 | 2 | 6 | 88.05 |
-| **Totals** | | 15 | 32 | 156 | 12 | 11 | 877.55 |
+| **Totals** | | | 15 | 33 | 158 | 12 | 10 | 895.05 |
 
-| Player | Pos | S% | GAA |
-| :----- | --- | -- | --: |
-| [Thatcher Demko](https://www.eliteprospects.com/player/155248/thatcher-demko) | G | .847 | 4.48 |
+| Player | Pos | Team | S% | GAA |
+| :----- | --- | ----| -- | --: |
+| [Thatcher Demko](https://www.eliteprospects.com/player/155248/thatcher-demko) | G |  Vancouver Canucks  | .847 | 4.48 |
 ## Leevon
-| Player | Pos | G | A | SOG | PIM | +/- | TPM |
-| :----- | --- | - | - | --- | --- | --- | --: |
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Auston Matthews](https://www.eliteprospects.com/player/199898/auston-matthews) | F | 1 | 1 | 14 | 0 | 1 | 63.25 |
 | [Jonathan Huberdeau](https://www.eliteprospects.com/player/45261/jonathan-huberdeau) | F | 0 | 3 | 2 | 0 | -1 | 49.0 |
 | [J.T. Miller](https://www.eliteprospects.com/player/38624/j.t.-miller) | F | 2 | 1 | 8 | 2 | -4 | 79.35 |
@@ -32,16 +32,16 @@
 | [Moritz Seider](https://www.eliteprospects.com/player/258987/moritz-seider) | D | 0 | 0 | 11 | 0 | 2 | 65.7 |
 | [Morgan Rielly](https://www.eliteprospects.com/player/41184/morgan-rielly) | D | 0 | 4 | 5 | 0 | -5 | 68.0 |
 | [Miro Heiskanen](https://www.eliteprospects.com/player/250075/miro-heiskanen) | D | 2 | 1 | 8 | 2 | 5 | 74.95 |
-| **Totals** | | 11 | 26 | 104 | 16 | -1 | 802.05 |
+| **Totals** | | | 11 | 26 | 104 | 16 | -1 | 802.05 |
 
-| Player | Pos | S% | GAA |
-| :----- | --- | -- | --: |
-| [Jacob MarkstrÃ¶m](https://www.eliteprospects.com/player/9787/jacob-markstrom) | G | .891 | 2.50 |
+| Player | Pos | Team | S% | GAA |
+| :----- | --- | ----| -- | --: |
+| [Jacob Markström](https://www.eliteprospects.com/player/9787/jacob-markstrom) | G |  Calgary Flames  | .891 | 2.50 |
 ## Alasdair
-| Player | Pos | G | A | SOG | PIM | +/- | TPM |
-| :----- | --- | - | - | --- | --- | --- | --: |
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Leon Draisaitl](https://www.eliteprospects.com/player/71913/leon-draisaitl) | F | 1 | 5 | 8 | 2 | 0 | 70.1 |
-| [Mikko Rantanen](https://www.eliteprospects.com/player/91186/mikko-rantanen) | F | 1 | 5 | 7 | 2 | 1 | 61.1 |
+| [Mikko Rantanen](https://www.eliteprospects.com/player/91186/mikko-rantanen) | F | 3 | 6 | 10 | 2 | 0 | 81.4 |
 | [Sidney Crosby](https://www.eliteprospects.com/player/6146/sidney-crosby) | F | 2 | 4 | 10 | 2 | 1 | 56.6 |
 | [Steven Stamkos](https://www.eliteprospects.com/player/11113/steven-stamkos) | F | 6 | 1 | 21 | 6 | 1 | 82.25 |
 | [Jake Guentzel](https://www.eliteprospects.com/player/199870/jake-guentzel) | F | 2 | 2 | 15 | 0 | 2 | 55.95 |
@@ -51,35 +51,35 @@
 | [MacKenzie Weegar](https://www.eliteprospects.com/player/97908/mackenzie-weegar) | D | 0 | 3 | 5 | 0 | 0 | 62.4 |
 | [Shea Theodore](https://www.eliteprospects.com/player/101581/shea-theodore) | D | 1 | 1 | 8 | 0 | 6 | 85.8 |
 | [Rasmus Dahlin](https://www.eliteprospects.com/player/310545/rasmus-dahlin) | D | 3 | 1 | 13 | 2 | 5 | 73.4 |
-| **Totals** | | 20 | 29 | 125 | 20 | 22 | 758.4 |
+| **Totals** | | | 22 | 30 | 128 | 20 | 21 | 778.7 |
 
-| Player | Pos | S% | GAA |
-| :----- | --- | -- | --: |
-| [Juuse Saros](https://www.eliteprospects.com/player/50744/juuse-saros) | G | .897 | 3.00 |
+| Player | Pos | Team | S% | GAA |
+| :----- | --- | ----| -- | --: |
+| [Juuse Saros](https://www.eliteprospects.com/player/50744/juuse-saros) | G |  Nashville Predators  | .897 | 3.00 |
 ## Liam
-| Player | Pos | G | A | SOG | PIM | +/- | TPM |
-| :----- | --- | - | - | --- | --- | --- | --: |
-| [Kyle Connor](https://www.eliteprospects.com/player/177671/kyle-connor) | F | 1 | 1 | 7 | 0 | 1 | 41.05 |
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
+| [Kyle Connor](https://www.eliteprospects.com/player/177671/kyle-connor) | F | 1 | 1 | 9 | 0 | 0 | 61.5 |
 | [Alexander Ovechkin](https://www.eliteprospects.com/player/4230/alexander-ovechkin) | F | 2 | 3 | 17 | 0 | -2 | 79.95 |
-| [Matthew Tkachuk](https://www.eliteprospects.com/player/233030/matthew-tkachuk) | F | 2 | 2 | 14 | 8 | -2 | 66.25 |
+| [Matthew Tkachuk](https://www.eliteprospects.com/player/233030/matthew-tkachuk) | F | 2 | 4 | 18 | 8 | 0 | 85.05 |
 | [Brady Tkachuk](https://www.eliteprospects.com/player/201473/brady-tkachuk) | F | 2 | 2 | 11 | 0 | 0 | 53.45 |
 | [Jack Hughes](https://www.eliteprospects.com/player/305432/jack-hughes) | F | 0 | 2 | 12 | 0 | -1 | 66.75 |
 | [Nikolaj Ehlers](https://www.eliteprospects.com/player/66581/nikolaj-ehlers) | F | 0 | 3 | 7 | 0 | 0 | 38.0 |
-| [Sam Reinhart](https://www.eliteprospects.com/player/95032/sam-reinhart) | F | 0 | 1 | 10 | 0 | -2 | 64.75 |
-| [Cale Makar](https://www.eliteprospects.com/player/199655/cale-makar) | D | 0 | 4 | 8 | 4 | 1 | 77.4 |
+| [Sam Reinhart](https://www.eliteprospects.com/player/95032/sam-reinhart) | F | 0 | 1 | 11 | 2 | 0 | 84.15 |
+| [Cale Makar](https://www.eliteprospects.com/player/199655/cale-makar) | D | 0 | 5 | 10 | 4 | 0 | 102.4 |
 | [Aaron Ekblad](https://www.eliteprospects.com/player/49042/aaron-ekblad) | D | 1 | 0 | 7 | 4 | 1 | 65.05 |
 | [Thomas Chabot](https://www.eliteprospects.com/player/213607/thomas-chabot) | D | 0 | 1 | 6 | 4 | -1 | 77.0 |
 | [Darnell Nurse](https://www.eliteprospects.com/player/97352/darnell-nurse) | D | 2 | 1 | 9 | 4 | 1 | 71.1 |
-| **Totals** | | 10 | 20 | 108 | 24 | -4 | 700.75 |
+| **Totals** | | | 10 | 23 | 117 | 26 | -2 | 784.4 |
 
-| Player | Pos | S% | GAA |
-| :----- | --- | -- | --: |
-| [Connor Hellebuyck](https://www.eliteprospects.com/player/142796/connor-hellebuyck) | G | .929 | 2.50 |
+| Player | Pos | Team | S% | GAA |
+| :----- | --- | ----| -- | --: |
+| [Connor Hellebuyck](https://www.eliteprospects.com/player/142796/connor-hellebuyck) | G |  Winnipeg Jets  | .922 | 2.66 |
 ## John
-| Player | Pos | G | A | SOG | PIM | +/- | TPM |
-| :----- | --- | - | - | --- | --- | --- | --: |
-| [Nathan MacKinnon](https://www.eliteprospects.com/player/99204/nathan-mackinnon) | F | 2 | 5 | 16 | 2 | 4 | 63.45 |
-| [Aleksander Barkov](https://www.eliteprospects.com/player/50044/aleksander-barkov) | F | 0 | 2 | 8 | 0 | -2 | 66.05 |
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
+| [Nathan MacKinnon](https://www.eliteprospects.com/player/99204/nathan-mackinnon) | F | 2 | 6 | 20 | 2 | 3 | 84.85 |
+| [Aleksander Barkov](https://www.eliteprospects.com/player/50044/aleksander-barkov) | F | 0 | 4 | 10 | 0 | -1 | 87.1 |
 | [Mitchell Marner](https://www.eliteprospects.com/player/223194/mitchell-marner) | F | 1 | 3 | 8 | 4 | 0 | 67.0 |
 | [Claude Giroux](https://www.eliteprospects.com/player/10437/claude-giroux) | F | 2 | 1 | 8 | 0 | -3 | 50.0 |
 | [Alex DeBrincat](https://www.eliteprospects.com/player/231275/alex-debrincat) | F | 0 | 2 | 15 | 2 | -3 | 54.35 |
@@ -89,14 +89,14 @@
 | [Brent Burns](https://www.eliteprospects.com/player/9103/brent-burns) | D | 0 | 1 | 12 | 0 | 1 | 68.8 |
 | [Drew Doughty](https://www.eliteprospects.com/player/10430/drew-doughty) | D | 1 | 1 | 13 | 8 | -1 | 138.7 |
 | [Dougie Hamilton](https://www.eliteprospects.com/player/45596/dougie-hamilton) | D | 2 | 1 | 14 | 4 | 1 | 69.1 |
-| **Totals** | | 10 | 19 | 109 | 24 | -3 | 750.15 |
+| **Totals** | | | 10 | 22 | 115 | 24 | -3 | 792.6 |
 
-| Player | Pos | S% | GAA |
-| :----- | --- | -- | --: |
-| [Igor Shestyorkin](https://www.eliteprospects.com/player/195577/igor-shestyorkin) | G | .905 | 2.68 |
+| Player | Pos | Team | S% | GAA |
+| :----- | --- | ----| -- | --: |
+| [Igor Shestyorkin](https://www.eliteprospects.com/player/195577/igor-shestyorkin) | G |  New York Rangers  | .905 | 2.68 |
 ## Carsten
-| Player | Pos | G | A | SOG | PIM | +/- | TPM |
-| :----- | --- | - | - | --- | --- | --- | --: |
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Kirill Kaprizov](https://www.eliteprospects.com/player/265645/kirill-kaprizov) | F | 3 | 2 | 13 | 4 | -8 | 66.35 |
 | [Artemi Panarin](https://www.eliteprospects.com/player/24664/artemi-panarin) | F | 2 | 8 | 10 | 2 | -1 | 76.55 |
 | [Chris Kreider](https://www.eliteprospects.com/player/37998/chris-kreider) | F | 2 | 1 | 12 | 2 | 1 | 76.75 |
@@ -106,10 +106,10 @@
 | [Roman Josi](https://www.eliteprospects.com/player/12668/roman-josi) | D | 0 | 1 | 21 | 4 | -2 | 123.25 |
 | [Sebastian Aho](https://www.eliteprospects.com/player/67208/sebastian-aho) | D | - | - | 9 | - | - | 55.35 |
 | [Kris Letang](https://www.eliteprospects.com/player/9189/kris-letang) | D | 0 | 3 | 3 | 0 | 2 | 71.1 |
-| [Torey Krug](https://www.eliteprospects.com/player/37747/torey-krug) | D | 0 | 1 | 1 | 0 | 0 | 20.95 |
+| [Torey Krug](https://www.eliteprospects.com/player/37747/torey-krug) | D | 0 | 1 | 2 | 0 | 1 | 42.2 |
 | [Alex Pietrangelo](https://www.eliteprospects.com/player/11317/alex-pietrangelo) | D | 0 | 3 | 9 | 0 | 0 | 95.0 |
-| **Totals** | | 14 | 22 | 106 | 12 | -4 | 699.55 |
+| **Totals** | | | 14 | 22 | 107 | 12 | -3 | 720.8 |
 
-| Player | Pos | S% | GAA |
-| :----- | --- | -- | --: |
-| [Andrei Vasilevsky](https://www.eliteprospects.com/player/70424/andrei-vasilevsky) | G | .912 | 2.73 |
+| Player | Pos | Team | S% | GAA |
+| :----- | --- | ----| -- | --: |
+| [Andrei Vasilevsky](https://www.eliteprospects.com/player/70424/andrei-vasilevsky) | G |  Tampa Bay Lightning  | .912 | 2.73 |

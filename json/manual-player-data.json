@@ -19,20 +19,20 @@
     },
     " Florida Panthers": {
         "Matthew Tkachuk": {
-            "SOG": 14,
-            "TPM": 66.25
+            "SOG": 18,
+            "TPM": 85.05
         },
         "Aaron Ekblad": {
             "SOG": 7,
             "TPM": 65.05
         },
         "Sam Reinhart": {
-            "SOG": 10,
-            "TPM": 64.75
+            "SOG": 11,
+            "TPM": 84.15
         },
         "Aleksander Barkov": {
-            "SOG": 8,
-            "TPM": 66.05
+            "SOG": 10,
+            "TPM": 87.1
         }
     },
     " Ottawa Senators": {
@@ -97,8 +97,8 @@
     },
     " Winnipeg Jets": {
         "Kyle Connor": {
-            "SOG": 7,
-            "TPM": 41.05
+            "SOG": 9,
+            "TPM": 61.5
         },
         "Nikolaj Ehlers": {
             "SOG": 7,
@@ -107,20 +107,20 @@
     },
     " Colorado Avalanche": {
         "Devon Toews": {
-            "SOG": 2,
-            "TPM": 66.65
+            "SOG": 4,
+            "TPM": 84.15
         },
         "Mikko Rantanen": {
-            "SOG": 7,
-            "TPM": 61.1
+            "SOG": 10,
+            "TPM": 81.4
         },
         "Cale Makar": {
-            "SOG": 8,
-            "TPM": 77.4
+            "SOG": 10,
+            "TPM": 102.4
         },
         "Nathan MacKinnon": {
-            "SOG": 16,
-            "TPM": 63.45
+            "SOG": 20,
+            "TPM": 84.85
         }
     },
     " Minnesota Wild": {
@@ -132,15 +132,15 @@
     " St. Louis Blues": {
         "Robert Thomas": {
             "SOG": 1,
-            "TPM": 19.2
+            "TPM": 40.60
         },
         "Pavel Buchnevich": {
             "SOG": 4,
             "TPM": 18.85
         },
         "Torey Krug": {
-            "SOG": 1,
-            "TPM": 20.95
+            "SOG": 2,
+            "TPM": 42.2
         }
     },
     " Dallas Stars": {
