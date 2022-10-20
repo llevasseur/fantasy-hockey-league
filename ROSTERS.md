@@ -99,16 +99,16 @@
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Kirill Kaprizov](https://www.eliteprospects.com/player/265645/kirill-kaprizov) | F |  Minnesota Wild  | 3 | 2 | 13 | 4 | -8 | 66.35 |
 | [Artemi Panarin](https://www.eliteprospects.com/player/24664/artemi-panarin) | F |  New York Rangers  | 2 | 8 | 10 | 2 | -1 | 76.55 |
+| [Sebastian Aho](https://www.eliteprospects.com/player/152111/sebastian-aho) | F |  Carolina Hurricanes  | 2 | 2 | 9 | 2 | 2 | 55.35 |
 | [Chris Kreider](https://www.eliteprospects.com/player/37998/chris-kreider) | F |  New York Rangers  | 2 | 1 | 12 | 2 | 1 | 76.75 |
 | [Andrei Svechnikov](https://www.eliteprospects.com/player/328556/andrei-svechnikov) | F |  Carolina Hurricanes  | 3 | 2 | 11 | 0 | 3 | 50.6 |
 | [William Nylander](https://www.eliteprospects.com/player/38703/william-nylander) | F |  Toronto Maple Leafs  | 3 | 1 | 15 | 0 | 0 | 55.85 |
 | [Patrik Laine](https://www.eliteprospects.com/player/221667/patrik-laine) | F |  Columbus Blue Jackets  | 1 | 0 | 2 | 0 | 1 | 7.8 |
 | [Roman Josi](https://www.eliteprospects.com/player/12668/roman-josi) | D |  Nashville Predators  | 0 | 1 | 21 | 4 | -2 | 123.25 |
-| [Sebastian Aho](https://www.eliteprospects.com/player/67208/sebastian-aho) | D |  New York Islanders  | - | - | 9 | - | - | 55.35 |
 | [Kris Letang](https://www.eliteprospects.com/player/9189/kris-letang) | D |  Pittsburgh Penguins  | 0 | 3 | 3 | 0 | 2 | 71.1 |
 | [Torey Krug](https://www.eliteprospects.com/player/37747/torey-krug) | D |  St. Louis Blues  | 0 | 1 | 2 | 0 | 1 | 42.2 |
 | [Alex Pietrangelo](https://www.eliteprospects.com/player/11317/alex-pietrangelo) | D |  Vegas Golden Knights  | 0 | 3 | 9 | 0 | 0 | 95.0 |
-| **Totals** | | | 14 | 22 | 107 | 12 | -3 | 720.8 |
+| **Totals** | | | 16 | 24 | 107 | 14 | -1 | 720.8 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |

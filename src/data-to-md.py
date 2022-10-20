@@ -62,7 +62,6 @@ def main():
           href=player_data[pick]['href']
           pos=player_data[pick]['pos']
           team = player_data[pick]['team']
-          print(team)
 
           if pos == "G":
             gaa=player_data[pick]['gaa']
