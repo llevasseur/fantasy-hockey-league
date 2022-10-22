@@ -1,8 +1,8 @@
 {
     " Detroit Red Wings": {
         "Moritz Seider": {
-            "SOG": 11,
-            "TPM": 65.7
+            "SOG": 12,
+            "TPM": 91.5
         }
     },
     " Boston Bruins": {
@@ -19,20 +19,20 @@
     },
     " Florida Panthers": {
         "Matthew Tkachuk": {
-            "SOG": 18,
-            "TPM": 85.05
+            "SOG": 24,
+            "TPM": 106.1
         },
         "Aaron Ekblad": {
             "SOG": 7,
             "TPM": 65.05
         },
         "Sam Reinhart": {
-            "SOG": 11,
-            "TPM": 84.15
+            "SOG": 15,
+            "TPM": 107.1
         },
         "Aleksander Barkov": {
-            "SOG": 10,
-            "TPM": 87.1
+            "SOG": 11,
+            "TPM": 112.75
         }
     },
     " Ottawa Senators": {
@@ -59,16 +59,16 @@
     },
     " Tampa Bay Lightning": {
         "Victor Hedman": {
-            "SOG": 12,
-            "TPM": 102.0
+            "SOG": 16,
+            "TPM": 128.55
         },
         "Nikita Kucherov": {
-            "SOG": 12,
-            "TPM": 87.25
+            "SOG": 17,
+            "TPM": 110.4
         },
         "Steven Stamkos": {
-            "SOG": 21,
-            "TPM": 82.25
+            "SOG": 25,
+            "TPM": 103.3
         }
     },
     " Toronto Maple Leafs": {
@@ -111,16 +111,16 @@
             "TPM": 84.15
         },
         "Mikko Rantanen": {
-            "SOG": 10,
-            "TPM": 81.4
+            "SOG": 13,
+            "TPM": 101.9
         },
         "Cale Makar": {
             "SOG": 10,
-            "TPM": 102.4
+            "TPM": 130.9
         },
         "Nathan MacKinnon": {
-            "SOG": 20,
-            "TPM": 84.85
+            "SOG": 22,
+            "TPM": 106.5
         }
     },
     " Minnesota Wild": {
