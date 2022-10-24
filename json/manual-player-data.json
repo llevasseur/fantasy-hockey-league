@@ -1,8 +1,8 @@
 {
     " Detroit Red Wings": {
         "Moritz Seider": {
-            "SOG": 12,
-            "TPM": 91.5
+            "SOG": 14,
+            "TPM": 112.55
         }
     },
     " Boston Bruins": {
@@ -19,20 +19,20 @@
     },
     " Florida Panthers": {
         "Matthew Tkachuk": {
-            "SOG": 24,
-            "TPM": 106.1
+            "SOG": 29,
+            "TPM": 125.15
         },
         "Aaron Ekblad": {
             "SOG": 7,
             "TPM": 65.05
         },
         "Sam Reinhart": {
-            "SOG": 15,
-            "TPM": 107.1
+            "SOG": 18,
+            "TPM": 130.85
         },
         "Aleksander Barkov": {
-            "SOG": 11,
-            "TPM": 112.75
+            "SOG": 15,
+            "TPM": 135.7
         }
     },
     " Ottawa Senators": {
@@ -197,34 +197,34 @@
     },
     " New York Rangers": {
         "Mika Zibanejad": {
-            "SOG": 27,
-            "TPM": 105.25
+            "SOG": 32,
+            "TPM": 124.75
         },
         "Adam Fox": {
-            "SOG": 8,
-            "TPM": 120.2
+            "SOG": 13,
+            "TPM": 144.85
         },
         "Artemi Panarin": {
-            "SOG": 11,
-            "TPM": 98.2
+            "SOG": 16,
+            "TPM": 121.95
         },
         "Chris Kreider": {
-            "SOG": 13,
-            "TPM": 99.0
+            "SOG": 14,
+            "TPM": 119.0
         },
         "Jacob Trouba": {
             "SOG": 16,
-            "TPM": 110.55
+            "TPM": 130.25
         }
     },
     " Columbus Blue Jackets": {
         "Johnny Gaudreau": {
-            "SOG": 21,
-            "TPM": 123.8
+            "SOG": 23,
+            "TPM": 141.45
         },
         "Zach Werenski": {
-            "SOG": 22,
-            "TPM": 148.5
+            "SOG": 26,
+            "TPM": 172.75
         },
         "Patrik Laine": {
             "SOG": 2,
