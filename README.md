@@ -3,12 +3,12 @@ Casual Python3 project used by friends to keep track of NHL and WJC players' sta
 ## Scoreboard
 | User | [G](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#goals) | [A](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#assists) | [SOG](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#shots-on-goal) | [PIM](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#penalties-in-minutes) | [+/-](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#plus--minus) | [TPM](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#time-played-in-minutes) | [S%](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#save-percentage) | [GAA](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#goals-against-average) | Total |
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
-| [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair) | 6 | 5 | 4 | 4 | 6 | 3 | 3 | 2 | 33 |
-| [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) | 4 | 6 | 6 | 2 | 5 | 6 | 1 | 1 | 31 |
-| [Liam](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Liam) | 3 | 1 | 5 | 6 | 4 | 2 | 5 | 5 | 31 |
-| [John](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John) | 3 | 2 | 3 | 5 | 3 | 4 | 4 | 5 | 29 |
-| [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) | 5 | 4 | 2 | 2 | 2 | 1 | 6 | 6 | 28 |
-| [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon) | 1 | 4 | 1 | 3 | 1 | 5 | 2 | 3 | 20 |
+| [Liam](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Liam) | 3 | 1 | 5 | 6 | 3 | 3 | 6 | 6 | 33 |
+| [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair) | 6 | 6 | 3 | 3 | 6 | 2 | 3 | 2 | 31 |
+| [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) | 4 | 5 | 6 | 2 | 5 | 6 | 1 | 1 | 30 |
+| [John](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John) | 2 | 3 | 4 | 5 | 4 | 4 | 4 | 4 | 30 |
+| [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) | 5 | 3 | 2 | 2 | 2 | 1 | 5 | 5 | 25 |
+| [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon) | 1 | 4 | 1 | 4 | 1 | 5 | 2 | 3 | 21 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage

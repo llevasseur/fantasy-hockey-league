@@ -37,20 +37,20 @@
     },
     " Ottawa Senators": {
         "Brady Tkachuk": {
-            "SOG": 23,
-            "TPM": 87.45
+            "SOG": 25,
+            "TPM": 104.55
         },
         "Thomas Chabot": {
-            "SOG": 13,
-            "TPM": 124.65
+            "SOG": 20,
+            "TPM": 151.2
         },
         "Claude Giroux": {
-            "SOG": 11,
-            "TPM": 80.2
+            "SOG": 14,
+            "TPM": 97.15
         },
         "Alex DeBrincat": {
-            "SOG": 21,
-            "TPM": 89.2
+            "SOG": 28,
+            "TPM": 110.85
         },
         "Josh Norris": {
             "SOG": 8,
@@ -73,20 +73,20 @@
     },
     " Toronto Maple Leafs": {
         "Auston Matthews": {
-            "SOG": 21,
-            "TPM": 109.45
+            "SOG": 26,
+            "TPM": 132.0
         },
         "Morgan Rielly": {
             "SOG": 10,
-            "TPM": 115.1
+            "TPM": 137.15
         },
         "Mitchell Marner": {
-            "SOG": 10,
-            "TPM": 112.8
+            "SOG": 11,
+            "TPM": 139.55
         },
         "William Nylander": {
-            "SOG": 21,
-            "TPM": 95.95
+            "SOG": 23,
+            "TPM": 114.95
         }
     },
     " Nashville Predators": {
@@ -97,8 +97,8 @@
     },
     " Winnipeg Jets": {
         "Kyle Connor": {
-            "SOG": 15,
-            "TPM": 101.85
+            "SOG": 20,
+            "TPM": 122.3
         },
         "Nikolaj Ehlers": {
             "SOG": 7,
@@ -131,68 +131,68 @@
     },
     " St. Louis Blues": {
         "Robert Thomas": {
-            "SOG": 1,
-            "TPM": 59.6
+            "SOG": 2,
+            "TPM": 79.25
         },
         "Pavel Buchnevich": {
             "SOG": 4,
             "TPM": 18.85
         },
         "Torey Krug": {
-            "SOG": 4,
-            "TPM": 61.7
+            "SOG": 6,
+            "TPM": 81.3
         }
     },
     " Dallas Stars": {
         "Jason Robertson": {
-            "SOG": 16,
-            "TPM": 77.8
+            "SOG": 20,
+            "TPM": 95.55
         },
         "Miro Heiskanen": {
-            "SOG": 11,
-            "TPM": 122.15
+            "SOG": 15,
+            "TPM": 148.85
         }
     },
     " Pittsburgh Penguins": {
         "Sidney Crosby": {
-            "SOG": 18,
-            "TPM": 94.25
+            "SOG": 21,
+            "TPM": 113.45
         },
         "Jake Guentzel": {
             "SOG": 17,
             "TPM": 70.45
         },
         "Yevgeni Malkin": {
-            "SOG": 21,
-            "TPM": 90.65
+            "SOG": 25,
+            "TPM": 108.35
         },
         "Kris Letang": {
-            "SOG": 10,
-            "TPM": 115.1
+            "SOG": 11,
+            "TPM": 137.45
         }
     },
     " New Jersey Devils": {
         "Jack Hughes": {
-            "SOG": 23,
-            "TPM": 107.3
+            "SOG": 28,
+            "TPM": 124.8
         },
         "Dougie Hamilton": {
-            "SOG": 21,
-            "TPM": 109.15
+            "SOG": 22,
+            "TPM": 128.8
         }
     },
     " Washington Capitals": {
         "Yevgeni Kuznetsov": {
-            "SOG": 8,
-            "TPM": 95.1
+            "SOG": 9,
+            "TPM": 109.85
         },
         "Alexander Ovechkin": {
-            "SOG": 22,
-            "TPM": 119.8
+            "SOG": 27,
+            "TPM": 138.55
         },
         "John Carlson": {
-            "SOG": 19,
-            "TPM": 146.45
+            "SOG": 22,
+            "TPM": 169.7
         }
     },
     " New York Rangers": {
@@ -233,16 +233,16 @@
     },
     " Carolina Hurricanes": {
         "Brent Burns": {
-            "SOG": 18,
-            "TPM": 117.1
+            "SOG": 22,
+            "TPM": 142.55
         },
         "Sebastian Aho": {
-            "SOG": 12,
-            "TPM": 94.9
+            "SOG": 16,
+            "TPM": 111.30
         },
         "Andrei Svechnikov": {
-            "SOG": 18,
-            "TPM": 91.55
+            "SOG": 23,
+            "TPM": 110.35
         }
     },
     " Calgary Flames": {
@@ -257,20 +257,20 @@
     },
     " Edmonton Oilers": {
         "Connor McDavid": {
-            "SOG": 19,
-            "TPM": 120.5
+            "SOG": 21,
+            "TPM": 139.75
         },
         "Leon Draisaitl": {
-            "SOG": 11,
-            "TPM": 91.3
+            "SOG": 15,
+            "TPM": 108.6
         },
         "Evander Kane": {
-            "SOG": 21,
-            "TPM": 106.25
+            "SOG": 30,
+            "TPM": 127.45
         },
         "Darnell Nurse": {
-            "SOG": 9,
-            "TPM": 120.05
+            "SOG": 11,
+            "TPM": 142.45
         }
     },
     " Los Angeles Kings": {
@@ -285,20 +285,20 @@
     },
     " Vancouver Canucks": {
         "Elias Pettersson": {
-            "SOG": 21,
-            "TPM": 120.1
+            "SOG": 22,
+            "TPM": 142.6
         },
         "Andrey Kuzmenko": {
-            "SOG": 19,
-            "TPM": 96.6
+            "SOG": 21,
+            "TPM": 108.5
         },
         "Quinn Hughes": {
             "SOG": 11,
             "TPM": 136.1
         },
         "J.T. Miller": {
-            "SOG": 12,
-            "TPM": 120.47
+            "SOG": 14,
+            "TPM": 142.24
         }
     },
     " Vegas Golden Knights": {
