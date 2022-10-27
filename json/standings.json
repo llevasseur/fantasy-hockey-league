@@ -1,41 +1,41 @@
 {
     "Timo": {
-        "Goals": 26,
-        "Assists": 48,
-        "Shots on Goal": 281,
-        "Penalties in Minutes": 28,
+        "Goals": 27,
+        "Assists": 53,
+        "Shots on Goal": 292,
+        "Penalties in Minutes": 30,
         "Plus / Minus": 11,
-        "Time Played in Minutes": 1631.2,
+        "Time Played in Minutes": 1761.65,
         "Save Percentage": 0.872,
         "Goals Against Average": 4.06
     },
     "Leevon": {
         "Goals": 15,
         "Assists": 37,
-        "Shots on Goal": 172,
-        "Penalties in Minutes": 37,
+        "Shots on Goal": 177,
+        "Penalties in Minutes": 39,
         "Plus / Minus": -13,
-        "Time Played in Minutes": 1459.99,
+        "Time Played in Minutes": 1484.44,
         "Save Percentage": 0.907,
         "Goals Against Average": 2.5
     },
     "Alasdair": {
         "Goals": 34,
-        "Assists": 48,
-        "Shots on Goal": 215,
-        "Penalties in Minutes": 40,
-        "Plus / Minus": 37,
-        "Time Played in Minutes": 1412.75,
+        "Assists": 49,
+        "Shots on Goal": 224,
+        "Penalties in Minutes": 42,
+        "Plus / Minus": 39,
+        "Time Played in Minutes": 1457.0,
         "Save Percentage": 0.894,
         "Goals Against Average": 3.04
     },
     "Liam": {
         "Goals": 19,
-        "Assists": 34,
-        "Shots on Goal": 214,
-        "Penalties in Minutes": 50,
-        "Plus / Minus": -7,
-        "Time Played in Minutes": 1385.85,
+        "Assists": 35,
+        "Shots on Goal": 215,
+        "Penalties in Minutes": 52,
+        "Plus / Minus": -5,
+        "Time Played in Minutes": 1410.0,
         "Save Percentage": 0.929,
         "Goals Against Average": 2.2
     },
@@ -52,10 +52,10 @@
     "Carsten": {
         "Goals": 27,
         "Assists": 35,
-        "Shots on Goal": 199,
+        "Shots on Goal": 210,
         "Penalties in Minutes": 26,
-        "Plus / Minus": -15,
-        "Time Played in Minutes": 1380.0,
+        "Plus / Minus": -20,
+        "Time Played in Minutes": 1441.2,
         "Save Percentage": 0.914,
         "Goals Against Average": 2.84
     }

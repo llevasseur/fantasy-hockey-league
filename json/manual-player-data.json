@@ -59,16 +59,16 @@
     },
     " Tampa Bay Lightning": {
         "Victor Hedman": {
-            "SOG": 20,
-            "TPM": 168.85
+            "SOG": 21,
+            "TPM": 194.35
         },
         "Nikita Kucherov": {
-            "SOG": 22,
-            "TPM": 159.6
+            "SOG": 23,
+            "TPM": 181.85
         },
         "Steven Stamkos": {
-            "SOG": 30,
-            "TPM": 148.55
+            "SOG": 36,
+            "TPM": 168.15
         }
     },
     " Toronto Maple Leafs": {
@@ -131,16 +131,16 @@
     },
     " St. Louis Blues": {
         "Robert Thomas": {
-            "SOG": 2,
-            "TPM": 79.25
+            "SOG": 3,
+            "TPM": 100.55
         },
         "Pavel Buchnevich": {
             "SOG": 4,
             "TPM": 18.85
         },
         "Torey Krug": {
-            "SOG": 6,
-            "TPM": 81.3
+            "SOG": 10,
+            "TPM": 103.05
         }
     },
     " Dallas Stars": {
@@ -197,24 +197,24 @@
     },
     " New York Rangers": {
         "Mika Zibanejad": {
-            "SOG": 38,
-            "TPM": 150.45
+            "SOG": 42,
+            "TPM": 170.8
         },
         "Adam Fox": {
-            "SOG": 14,
-            "TPM": 170.4
+            "SOG": 19,
+            "TPM": 194.85
         },
         "Artemi Panarin": {
-            "SOG": 23,
-            "TPM": 146.5
+            "SOG": 25,
+            "TPM": 166.0
         },
         "Chris Kreider": {
-            "SOG": 19,
-            "TPM": 140.8
+            "SOG": 24,
+            "TPM": 160.75
         },
         "Jacob Trouba": {
-            "SOG": 24,
-            "TPM": 155.3
+            "SOG": 25,
+            "TPM": 178.15
         }
     },
     " Columbus Blue Jackets": {
@@ -257,20 +257,20 @@
     },
     " Edmonton Oilers": {
         "Connor McDavid": {
-            "SOG": 21,
-            "TPM": 139.75
+            "SOG": 25,
+            "TPM": 160.9
         },
         "Leon Draisaitl": {
-            "SOG": 15,
-            "TPM": 108.6
+            "SOG": 18,
+            "TPM": 133.25
         },
         "Evander Kane": {
             "SOG": 30,
-            "TPM": 127.45
+            "TPM": 145.8
         },
         "Darnell Nurse": {
-            "SOG": 11,
-            "TPM": 142.45
+            "SOG": 12,
+            "TPM": 166.6
         }
     },
     " Los Angeles Kings": {
