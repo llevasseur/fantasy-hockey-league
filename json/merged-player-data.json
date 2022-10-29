@@ -1,4 +1,16 @@
 {
+    "David Pastrnak": {
+        "name": "David Pastrnak",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/130383/david-pastrnak",
+        "team": " Boston Bruins ",
+        "g": "7",
+        "a": "10",
+        "pim": "4",
+        "pm": "4",
+        "SOG": 50,
+        "TPM": 174.25
+    },
     "Connor McDavid": {
         "name": "Connor McDavid",
         "pos": "F",
@@ -11,18 +23,6 @@
         "SOG": 29,
         "TPM": 182.0
     },
-    "David Pastrnak": {
-        "name": "David Pastrnak",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/130383/david-pastrnak",
-        "team": " Boston Bruins ",
-        "g": "6",
-        "a": "9",
-        "pim": "4",
-        "pm": "2",
-        "SOG": 44,
-        "TPM": 157.5
-    },
     "Leon Draisaitl": {
         "name": "Leon Draisaitl",
         "pos": "F",
@@ -34,6 +34,16 @@
         "pm": "3",
         "SOG": 21,
         "TPM": 155.35
+    },
+    "Jesper Bratt": {
+        "name": "Jesper Bratt",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/117698/jesper-bratt",
+        "team": " New Jersey Devils ",
+        "g": "3",
+        "a": "10",
+        "pim": "2",
+        "pm": "5"
     },
     "Valeri Nichushkin": {
         "name": "Valeri Nichushkin",
@@ -56,16 +66,6 @@
         "pm": "-4",
         "SOG": 25,
         "TPM": 166.0
-    },
-    "Jesper Bratt": {
-        "name": "Jesper Bratt",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/117698/jesper-bratt",
-        "team": " New Jersey Devils ",
-        "g": "3",
-        "a": "9",
-        "pim": "2",
-        "pm": "5"
     },
     "Mats Zuccarello": {
         "name": "Mats Zuccarello",
@@ -95,9 +95,9 @@
         "g": "4",
         "a": "7",
         "pim": "4",
-        "pm": "4",
-        "SOG": 24,
-        "TPM": 133.95
+        "pm": "2",
+        "SOG": 27,
+        "TPM": 157.35
     },
     "Nikita Kucherov": {
         "name": "Nikita Kucherov",
@@ -186,8 +186,8 @@
         "a": "7",
         "pim": "8",
         "pm": "3",
-        "SOG": 34,
-        "TPM": 153.4
+        "SOG": 41,
+        "TPM": 178.9
     },
     "Kevin Hayes": {
         "name": "Kevin Hayes",
@@ -207,9 +207,9 @@
         "g": "7",
         "a": "2",
         "pim": "2",
-        "pm": "1",
-        "SOG": 23,
-        "TPM": 110.35
+        "pm": "0",
+        "SOG": 26,
+        "TPM": 127.65
     },
     "Steven Stamkos": {
         "name": "Steven Stamkos",
@@ -253,31 +253,19 @@
         "g": "4",
         "a": "5",
         "pim": "4",
-        "pm": "0",
+        "pm": "-3",
         "SOG": 16,
         "TPM": 111.3
     },
-    "Troy Terry": {
-        "name": "Troy Terry",
+    "Martin Necas": {
+        "name": "Martin Necas",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/234046/troy-terry",
-        "team": " Anaheim Ducks ",
+        "href": "https://www.eliteprospects.com/player/237071/martin-necas",
+        "team": " Carolina Hurricanes ",
         "g": "4",
         "a": "5",
         "pim": "6",
-        "pm": "2"
-    },
-    "Elias Pettersson": {
-        "name": "Elias Pettersson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/266336/elias-pettersson",
-        "team": " Vancouver Canucks ",
-        "g": "4",
-        "a": "5",
-        "pim": "2",
-        "pm": "-2",
-        "SOG": 23,
-        "TPM": 162.8
+        "pm": "1"
     },
     "Zach Hyman": {
         "name": "Zach Hyman",
@@ -289,6 +277,38 @@
         "pim": "4",
         "pm": "3"
     },
+    "Troy Terry": {
+        "name": "Troy Terry",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/234046/troy-terry",
+        "team": " Anaheim Ducks ",
+        "g": "4",
+        "a": "5",
+        "pim": "8",
+        "pm": "1"
+    },
+    "Elias Pettersson": {
+        "name": "Elias Pettersson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/266336/elias-pettersson",
+        "team": " Vancouver Canucks ",
+        "g": "4",
+        "a": "5",
+        "pim": "2",
+        "pm": "-1",
+        "SOG": 24,
+        "TPM": 182.15
+    },
+    "Patrice Bergeron": {
+        "name": "Patrice Bergeron",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/9079/patrice-bergeron",
+        "team": " Boston Bruins ",
+        "g": "4",
+        "a": "5",
+        "pim": "2",
+        "pm": "8"
+    },
     "Erik Karlsson": {
         "name": "Erik Karlsson",
         "pos": "D",
@@ -298,18 +318,6 @@
         "a": "5",
         "pim": "4",
         "pm": "-1"
-    },
-    "Mikko Rantanen": {
-        "name": "Mikko Rantanen",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/91186/mikko-rantanen",
-        "team": " Colorado Avalanche ",
-        "g": "3",
-        "a": "6",
-        "pim": "4",
-        "pm": "-2",
-        "SOG": 23,
-        "TPM": 147.4
     },
     "John Tavares": {
         "name": "John Tavares",
@@ -321,6 +329,28 @@
         "pim": "0",
         "pm": "-2"
     },
+    "Mikko Rantanen": {
+        "name": "Mikko Rantanen",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/91186/mikko-rantanen",
+        "team": " Colorado Avalanche ",
+        "g": "3",
+        "a": "6",
+        "pim": "4",
+        "pm": "-2",
+        "SOG": 24,
+        "TPM": 171.6
+    },
+    "Mathew Barzal": {
+        "name": "Mathew Barzal",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/186310/mathew-barzal",
+        "team": " New York Islanders ",
+        "g": "0",
+        "a": "9",
+        "pim": "6",
+        "pm": "-1"
+    },
     "Alex Tuch": {
         "name": "Alex Tuch",
         "pos": "F",
@@ -331,6 +361,16 @@
         "pim": "2",
         "pm": "4"
     },
+    "Bo Horvat": {
+        "name": "Bo Horvat",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/117012/bo-horvat",
+        "team": " Vancouver Canucks ",
+        "g": "6",
+        "a": "2",
+        "pim": "2",
+        "pm": "-1"
+    },
     "Johnny Gaudreau": {
         "name": "Johnny Gaudreau",
         "pos": "F",
@@ -339,9 +379,19 @@
         "g": "5",
         "a": "3",
         "pim": "0",
-        "pm": "2",
-        "SOG": 27,
-        "TPM": 164.35
+        "pm": "0",
+        "SOG": 29,
+        "TPM": 182.75
+    },
+    "Jonathan Marchessault": {
+        "name": "Jonathan Marchessault",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/32872/jonathan-marchessault",
+        "team": " Vegas Golden Knights ",
+        "g": "5",
+        "a": "3",
+        "pim": "0",
+        "pm": "5"
     },
     "Jared McCann": {
         "name": "Jared McCann",
@@ -353,16 +403,6 @@
         "pim": "0",
         "pm": "-3"
     },
-    "Shayne Gostisbehere": {
-        "name": "Shayne Gostisbehere",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/122787/shayne-gostisbehere",
-        "team": " Arizona Coyotes ",
-        "g": "4",
-        "a": "4",
-        "pim": "4",
-        "pm": "-4"
-    },
     "Dylan Larkin": {
         "name": "Dylan Larkin",
         "pos": "F",
@@ -372,6 +412,16 @@
         "a": "4",
         "pim": "2",
         "pm": "4"
+    },
+    "Shayne Gostisbehere": {
+        "name": "Shayne Gostisbehere",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/122787/shayne-gostisbehere",
+        "team": " Arizona Coyotes ",
+        "g": "4",
+        "a": "4",
+        "pim": "4",
+        "pm": "-7"
     },
     "Travis Konecny": {
         "name": "Travis Konecny",
@@ -395,15 +445,27 @@
         "SOG": 42,
         "TPM": 170.8
     },
-    "Patrice Bergeron": {
-        "name": "Patrice Bergeron",
+    "Yevgeni Malkin": {
+        "name": "Yevgeni Malkin",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/9079/patrice-bergeron",
-        "team": " Boston Bruins ",
+        "href": "https://www.eliteprospects.com/player/4231/yevgeni-malkin",
+        "team": " Pittsburgh Penguins ",
         "g": "4",
         "a": "4",
-        "pim": "2",
-        "pm": "6"
+        "pim": "6",
+        "pm": "1",
+        "SOG": 33,
+        "TPM": 149.25
+    },
+    "Anders Lee": {
+        "name": "Anders Lee",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/19068/anders-lee",
+        "team": " New York Islanders ",
+        "g": "4",
+        "a": "4",
+        "pim": "14",
+        "pm": "1"
     },
     "Jaden Schwartz": {
         "name": "Jaden Schwartz",
@@ -415,15 +477,15 @@
         "pim": "0",
         "pm": "-7"
     },
-    "Martin Necas": {
-        "name": "Martin Necas",
+    "Chandler Stephenson": {
+        "name": "Chandler Stephenson",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/237071/martin-necas",
-        "team": " Carolina Hurricanes ",
-        "g": "3",
-        "a": "5",
-        "pim": "6",
-        "pm": "2"
+        "href": "https://www.eliteprospects.com/player/60726/chandler-stephenson",
+        "team": " Vegas Golden Knights ",
+        "g": "4",
+        "a": "4",
+        "pim": "2",
+        "pm": "5"
     },
     "Jason Robertson": {
         "name": "Jason Robertson",
@@ -436,6 +498,18 @@
         "pm": "5",
         "SOG": 22,
         "TPM": 131.1
+    },
+    "Jack Eichel": {
+        "name": "Jack Eichel",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/191959/jack-eichel",
+        "team": " Vegas Golden Knights ",
+        "g": "3",
+        "a": "5",
+        "pim": "0",
+        "pm": "6",
+        "SOG": 24,
+        "TPM": 136.5
     },
     "Andr\u00e9 Burakovsky": {
         "name": "Andr\u00e9 Burakovsky",
@@ -489,6 +563,16 @@
         "pim": "4",
         "pm": "-3"
     },
+    "Brock Nelson": {
+        "name": "Brock Nelson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/74997/brock-nelson",
+        "team": " New York Islanders ",
+        "g": "2",
+        "a": "6",
+        "pim": "6",
+        "pm": "1"
+    },
     "Evander Kane": {
         "name": "Evander Kane",
         "pos": "F",
@@ -501,15 +585,15 @@
         "SOG": 33,
         "TPM": 162.8
     },
-    "Jonathan Marchessault": {
-        "name": "Jonathan Marchessault",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/32872/jonathan-marchessault",
-        "team": " Vegas Golden Knights ",
-        "g": "5",
-        "a": "2",
-        "pim": "0",
-        "pm": "4"
+    "Josh Morrissey": {
+        "name": "Josh Morrissey",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/62293/josh-morrissey",
+        "team": " Winnipeg Jets ",
+        "g": "0",
+        "a": "8",
+        "pim": "15",
+        "pm": "3"
     },
     "Cole Caufield": {
         "name": "Cole Caufield",
@@ -531,17 +615,17 @@
         "pim": "12",
         "pm": "-3"
     },
-    "Yevgeni Malkin": {
-        "name": "Yevgeni Malkin",
+    "J.T. Miller": {
+        "name": "J.T. Miller",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/4231/yevgeni-malkin",
-        "team": " Pittsburgh Penguins ",
-        "g": "4",
-        "a": "3",
-        "pim": "4",
-        "pm": "2",
-        "SOG": 31,
-        "TPM": 128.05
+        "href": "https://www.eliteprospects.com/player/38624/j.t.-miller",
+        "team": " Vancouver Canucks ",
+        "g": "5",
+        "a": "2",
+        "pim": "13",
+        "pm": "-4",
+        "SOG": 18,
+        "TPM": 186.4
     },
     "Max Domi": {
         "name": "Max Domi",
@@ -552,16 +636,6 @@
         "a": "3",
         "pim": "8",
         "pm": "2"
-    },
-    "Anders Lee": {
-        "name": "Anders Lee",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/19068/anders-lee",
-        "team": " New York Islanders ",
-        "g": "4",
-        "a": "3",
-        "pim": "14",
-        "pm": "0"
     },
     "William Nylander": {
         "name": "William Nylander",
@@ -595,6 +669,16 @@
         "pim": "0",
         "pm": "-8"
     },
+    "William Karlsson": {
+        "name": "William Karlsson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/19432/william-karlsson",
+        "team": " Vegas Golden Knights ",
+        "g": "4",
+        "a": "3",
+        "pim": "2",
+        "pm": "6"
+    },
     "Logan Couture": {
         "name": "Logan Couture",
         "pos": "F",
@@ -625,27 +709,15 @@
         "pim": "2",
         "pm": "2"
     },
-    "Jack Eichel": {
-        "name": "Jack Eichel",
+    "Jake DeBrusk": {
+        "name": "Jake DeBrusk",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/191959/jack-eichel",
-        "team": " Vegas Golden Knights ",
+        "href": "https://www.eliteprospects.com/player/84242/jake-debrusk",
+        "team": " Boston Bruins ",
         "g": "3",
         "a": "4",
         "pim": "0",
-        "pm": "6",
-        "SOG": 20,
-        "TPM": 118.6
-    },
-    "Chandler Stephenson": {
-        "name": "Chandler Stephenson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/60726/chandler-stephenson",
-        "team": " Vegas Golden Knights ",
-        "g": "3",
-        "a": "4",
-        "pim": "2",
-        "pm": "5"
+        "pm": "7"
     },
     "Nick Suzuki": {
         "name": "Nick Suzuki",
@@ -657,15 +729,15 @@
         "pim": "2",
         "pm": "4"
     },
-    "Clayton Keller": {
-        "name": "Clayton Keller",
+    "Bryan Rust": {
+        "name": "Bryan Rust",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/226432/clayton-keller",
-        "team": " Arizona Coyotes ",
-        "g": "2",
-        "a": "5",
-        "pim": "0",
-        "pm": "-4"
+        "href": "https://www.eliteprospects.com/player/20708/bryan-rust",
+        "team": " Pittsburgh Penguins ",
+        "g": "3",
+        "a": "4",
+        "pim": "4",
+        "pm": "0"
     },
     "Brayden Schenn": {
         "name": "Brayden Schenn",
@@ -677,15 +749,15 @@
         "pim": "6",
         "pm": "-4"
     },
-    "Filip Forsberg": {
-        "name": "Filip Forsberg",
+    "Clayton Keller": {
+        "name": "Clayton Keller",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/29626/filip-forsberg",
-        "team": " Nashville Predators ",
+        "href": "https://www.eliteprospects.com/player/226432/clayton-keller",
+        "team": " Arizona Coyotes ",
         "g": "2",
         "a": "5",
         "pim": "0",
-        "pm": "-3"
+        "pm": "-7"
     },
     "Auston Matthews": {
         "name": "Auston Matthews",
@@ -699,6 +771,16 @@
         "SOG": 33,
         "TPM": 152.35
     },
+    "Filip Forsberg": {
+        "name": "Filip Forsberg",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/29626/filip-forsberg",
+        "team": " Nashville Predators ",
+        "g": "2",
+        "a": "5",
+        "pim": "0",
+        "pm": "-3"
+    },
     "Colin White": {
         "name": "Colin White",
         "pos": "F",
@@ -708,6 +790,16 @@
         "a": "5",
         "pim": "4",
         "pm": "7"
+    },
+    "Blake Wheeler": {
+        "name": "Blake Wheeler",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/9215/blake-wheeler",
+        "team": " Winnipeg Jets ",
+        "g": "2",
+        "a": "5",
+        "pim": "4",
+        "pm": "0"
     },
     "Adam Fox": {
         "name": "Adam Fox",
@@ -733,15 +825,17 @@
         "SOG": 12,
         "TPM": 161.6
     },
-    "Hampus Lindholm": {
-        "name": "Hampus Lindholm",
+    "Dougie Hamilton": {
+        "name": "Dougie Hamilton",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/34882/hampus-lindholm",
-        "team": " Boston Bruins ",
+        "href": "https://www.eliteprospects.com/player/45596/dougie-hamilton",
+        "team": " New Jersey Devils ",
         "g": "2",
         "a": "5",
-        "pim": "12",
-        "pm": "7"
+        "pim": "6",
+        "pm": "-1",
+        "SOG": 25,
+        "TPM": 168.5
     },
     "Matt Duchene": {
         "name": "Matt Duchene",
@@ -752,6 +846,26 @@
         "a": "5",
         "pim": "18",
         "pm": "0"
+    },
+    "Reilly Smith": {
+        "name": "Reilly Smith",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/33903/reilly-smith",
+        "team": " Vegas Golden Knights ",
+        "g": "2",
+        "a": "5",
+        "pim": "2",
+        "pm": "7"
+    },
+    "Hampus Lindholm": {
+        "name": "Hampus Lindholm",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/34882/hampus-lindholm",
+        "team": " Boston Bruins ",
+        "g": "2",
+        "a": "5",
+        "pim": "12",
+        "pm": "9"
     },
     "Rasmus Andersson": {
         "name": "Rasmus Andersson",
@@ -815,28 +929,6 @@
         "SOG": 21,
         "TPM": 155.85
     },
-    "Mathew Barzal": {
-        "name": "Mathew Barzal",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/186310/mathew-barzal",
-        "team": " New York Islanders ",
-        "g": "0",
-        "a": "7",
-        "pim": "4",
-        "pm": "-3"
-    },
-    "Cale Makar": {
-        "name": "Cale Makar",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/199655/cale-makar",
-        "team": " Colorado Avalanche ",
-        "g": "0",
-        "a": "7",
-        "pim": "4",
-        "pm": "0",
-        "SOG": 15,
-        "TPM": 183.55
-    },
     "Calen Addison": {
         "name": "Calen Addison",
         "pos": "D",
@@ -859,6 +951,18 @@
         "SOG": 21,
         "TPM": 194.35
     },
+    "Cale Makar": {
+        "name": "Cale Makar",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/199655/cale-makar",
+        "team": " Colorado Avalanche ",
+        "g": "0",
+        "a": "7",
+        "pim": "4",
+        "pm": "0",
+        "SOG": 17,
+        "TPM": 209.35
+    },
     "Morgan Rielly": {
         "name": "Morgan Rielly",
         "pos": "D",
@@ -870,6 +974,16 @@
         "pm": "-2",
         "SOG": 12,
         "TPM": 162.2
+    },
+    "Mark Scheifele": {
+        "name": "Mark Scheifele",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/75379/mark-scheifele",
+        "team": " Winnipeg Jets ",
+        "g": "6",
+        "a": "0",
+        "pim": "0",
+        "pm": "-2"
     },
     "Shane Pinto": {
         "name": "Shane Pinto",
@@ -901,16 +1015,6 @@
         "pim": "0",
         "pm": "1"
     },
-    "Bo Horvat": {
-        "name": "Bo Horvat",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/117012/bo-horvat",
-        "team": " Vancouver Canucks ",
-        "g": "4",
-        "a": "2",
-        "pim": "2",
-        "pm": "-2"
-    },
     "Taylor Hall": {
         "name": "Taylor Hall",
         "pos": "F",
@@ -919,29 +1023,7 @@
         "g": "4",
         "a": "2",
         "pim": "8",
-        "pm": "1"
-    },
-    "J.T. Miller": {
-        "name": "J.T. Miller",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/38624/j.t.-miller",
-        "team": " Vancouver Canucks ",
-        "g": "4",
-        "a": "2",
-        "pim": "9",
-        "pm": "-5",
-        "SOG": 15,
-        "TPM": 164.0
-    },
-    "Bryan Rust": {
-        "name": "Bryan Rust",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/20708/bryan-rust",
-        "team": " Pittsburgh Penguins ",
-        "g": "3",
-        "a": "3",
-        "pim": "2",
-        "pm": "1"
+        "pm": "2"
     },
     "Matt Boldy": {
         "name": "Matt Boldy",
@@ -953,15 +1035,17 @@
         "pim": "2",
         "pm": "2"
     },
-    "Danton Heinen": {
-        "name": "Danton Heinen",
+    "Jack Hughes": {
+        "name": "Jack Hughes",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/105821/danton-heinen",
-        "team": " Pittsburgh Penguins ",
+        "href": "https://www.eliteprospects.com/player/305432/jack-hughes",
+        "team": " New Jersey Devils ",
         "g": "3",
         "a": "3",
-        "pim": "2",
-        "pm": "4"
+        "pim": "0",
+        "pm": "-1",
+        "SOG": 32,
+        "TPM": 158.6
     },
     "Alexander Ovechkin": {
         "name": "Alexander Ovechkin",
@@ -975,97 +1059,15 @@
         "SOG": 27,
         "TPM": 138.55
     },
-    "Mason Marchment": {
-        "name": "Mason Marchment",
+    "Danton Heinen": {
+        "name": "Danton Heinen",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/208693/mason-marchment",
-        "team": " Dallas Stars ",
-        "g": "3",
-        "a": "3",
-        "pim": "4",
-        "pm": "0"
-    },
-    "Eetu Luostarinen": {
-        "name": "Eetu Luostarinen",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/299319/eetu-luostarinen",
-        "team": " Florida Panthers ",
-        "g": "3",
-        "a": "3",
-        "pim": "4",
-        "pm": "8"
-    },
-    "Vladimir Tarasenko": {
-        "name": "Vladimir Tarasenko",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/24787/vladimir-tarasenko",
-        "team": " St. Louis Blues ",
-        "g": "2",
-        "a": "4",
-        "pim": "0",
-        "pm": "1"
-    },
-    "Tyler Johnson": {
-        "name": "Tyler Johnson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/12078/tyler-johnson",
-        "team": " Chicago Blackhawks ",
-        "g": "2",
-        "a": "4",
-        "pim": "6",
-        "pm": "1"
-    },
-    "Jake DeBrusk": {
-        "name": "Jake DeBrusk",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/84242/jake-debrusk",
-        "team": " Boston Bruins ",
-        "g": "2",
-        "a": "4",
-        "pim": "0",
-        "pm": "5"
-    },
-    "Tyler Motte": {
-        "name": "Tyler Motte",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/151824/tyler-motte",
-        "team": " Ottawa Senators ",
-        "g": "2",
-        "a": "4",
-        "pim": "0",
-        "pm": "5"
-    },
-    "Jeff Carter": {
-        "name": "Jeff Carter",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/8813/jeff-carter",
+        "href": "https://www.eliteprospects.com/player/105821/danton-heinen",
         "team": " Pittsburgh Penguins ",
-        "g": "2",
-        "a": "4",
+        "g": "3",
+        "a": "3",
         "pim": "2",
-        "pm": "0"
-    },
-    "Dougie Hamilton": {
-        "name": "Dougie Hamilton",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/45596/dougie-hamilton",
-        "team": " New Jersey Devils ",
-        "g": "2",
-        "a": "4",
-        "pim": "6",
-        "pm": "-1",
-        "SOG": 22,
-        "TPM": 149.7
-    },
-    "Tony DeAngelo": {
-        "name": "Tony DeAngelo",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/89818/tony-deangelo",
-        "team": " Philadelphia Flyers ",
-        "g": "2",
-        "a": "4",
-        "pim": "6",
-        "pm": "2"
+        "pm": "3"
     },
     "Craig Anderson": {
         "name": "Craig Anderson",
@@ -1099,13 +1101,13 @@
         "gaa": "2.00",
         "svp": ".947"
     },
-    "Logan Thompson": {
-        "name": "Logan Thompson",
+    "Linus Ullmark": {
+        "name": "Linus Ullmark",
         "pos": "G",
-        "href": "https://www.eliteprospects.com/player/161070/logan-thompson",
-        "team": " Vegas Golden Knights ",
-        "gaa": "2.03",
-        "svp": ".938"
+        "href": "https://www.eliteprospects.com/player/19760/linus-ullmark",
+        "team": " Boston Bruins ",
+        "gaa": "1.70",
+        "svp": ".945"
     },
     "Jordan Binnington": {
         "name": "Jordan Binnington",
@@ -1113,14 +1115,6 @@
         "href": "https://www.eliteprospects.com/player/45580/jordan-binnington",
         "team": " St. Louis Blues ",
         "gaa": "1.74",
-        "svp": ".936"
-    },
-    "Linus Ullmark": {
-        "name": "Linus Ullmark",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/19760/linus-ullmark",
-        "team": " Boston Bruins ",
-        "gaa": "2.01",
         "svp": ".936"
     },
     "Adin Hill": {
@@ -1139,6 +1133,14 @@
         "gaa": "2.00",
         "svp": ".935"
     },
+    "Ilya Sorokin": {
+        "name": "Ilya Sorokin",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/214182/ilya-sorokin",
+        "team": " New York Islanders ",
+        "gaa": "2.21",
+        "svp": ".933"
+    },
     "Ilya Samsonov": {
         "name": "Ilya Samsonov",
         "pos": "G",
@@ -1147,12 +1149,12 @@
         "gaa": "2.01",
         "svp": ".932"
     },
-    "Ilya Sorokin": {
-        "name": "Ilya Sorokin",
+    "Logan Thompson": {
+        "name": "Logan Thompson",
         "pos": "G",
-        "href": "https://www.eliteprospects.com/player/214182/ilya-sorokin",
-        "team": " New York Islanders ",
-        "gaa": "2.26",
+        "href": "https://www.eliteprospects.com/player/161070/logan-thompson",
+        "team": " Vegas Golden Knights ",
+        "gaa": "2.03",
         "svp": ".931"
     },
     "Samuel Montembeault": {
@@ -1162,6 +1164,14 @@
         "team": " Montr\u00e9al Canadiens ",
         "gaa": "2.32",
         "svp": ".931"
+    },
+    "Spencer Martin": {
+        "name": "Spencer Martin",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/99040/spencer-martin",
+        "team": " Vancouver Canucks ",
+        "gaa": "2.43",
+        "svp": ".926"
     },
     "Connor Hellebuyck": {
         "name": "Connor Hellebuyck",
@@ -1185,14 +1195,6 @@
         "href": "https://www.eliteprospects.com/player/11538/james-reimer",
         "team": " San Jose Sharks ",
         "gaa": "2.55",
-        "svp": ".923"
-    },
-    "Tristan Jarry": {
-        "name": "Tristan Jarry",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/88602/tristan-jarry",
-        "team": " Pittsburgh Penguins ",
-        "gaa": "2.81",
         "svp": ".923"
     },
     "Antti Raanta": {
@@ -1251,6 +1253,14 @@
         "gaa": "2.75",
         "svp": ".916"
     },
+    "Tristan Jarry": {
+        "name": "Tristan Jarry",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/88602/tristan-jarry",
+        "team": " Pittsburgh Penguins ",
+        "gaa": "3.02",
+        "svp": ".915"
+    },
     "Andrei Vasilevsky": {
         "name": "Andrei Vasilevsky",
         "pos": "G",
@@ -1258,14 +1268,6 @@
         "team": " Tampa Bay Lightning ",
         "gaa": "2.84",
         "svp": ".914"
-    },
-    "Frederik Andersen": {
-        "name": "Frederik Andersen",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/15205/frederik-andersen",
-        "team": " Carolina Hurricanes ",
-        "gaa": "2.26",
-        "svp": ".913"
     },
     "Alex Stalock": {
         "name": "Alex Stalock",
@@ -1331,6 +1333,14 @@
         "gaa": "4.10",
         "svp": ".904"
     },
+    "Juuse Saros": {
+        "name": "Juuse Saros",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/50744/juuse-saros",
+        "team": " Nashville Predators ",
+        "gaa": "2.86",
+        "svp": ".903"
+    },
     "Darcy Kuemper": {
         "name": "Darcy Kuemper",
         "pos": "G",
@@ -1355,13 +1365,13 @@
         "gaa": "3.35",
         "svp": ".900"
     },
-    "Juuse Saros": {
-        "name": "Juuse Saros",
+    "Pavel Francouz": {
+        "name": "Pavel Francouz",
         "pos": "G",
-        "href": "https://www.eliteprospects.com/player/50744/juuse-saros",
-        "team": " Nashville Predators ",
-        "gaa": "3.00",
-        "svp": ".897"
+        "href": "https://www.eliteprospects.com/player/18084/pavel-francouz",
+        "team": " Colorado Avalanche ",
+        "gaa": "3.08",
+        "svp": ".898"
     },
     "Sergei Bobrovski": {
         "name": "Sergei Bobrovski",
@@ -1371,6 +1381,14 @@
         "gaa": "3.06",
         "svp": ".897"
     },
+    "Frederik Andersen": {
+        "name": "Frederik Andersen",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/15205/frederik-andersen",
+        "team": " Carolina Hurricanes ",
+        "gaa": "2.81",
+        "svp": ".896"
+    },
     "Dan Vladar": {
         "name": "Dan Vladar",
         "pos": "G",
@@ -1379,13 +1397,21 @@
         "gaa": "3.03",
         "svp": ".896"
     },
-    "John Gibson": {
-        "name": "John Gibson",
+    "Daniil Tarasov": {
+        "name": "Daniil Tarasov",
         "pos": "G",
-        "href": "https://www.eliteprospects.com/player/45399/john-gibson",
-        "team": " Anaheim Ducks ",
-        "gaa": "4.26",
+        "href": "https://www.eliteprospects.com/player/359971/daniil-tarasov",
+        "team": " Columbus Blue Jackets ",
+        "gaa": "3.57",
         "svp": ".893"
+    },
+    "Anthony Stolarz": {
+        "name": "Anthony Stolarz",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/131368/anthony-stolarz",
+        "team": " Anaheim Ducks ",
+        "gaa": "3.58",
+        "svp": ".892"
     },
     "Alex Nedeljkovic": {
         "name": "Alex Nedeljkovic",
@@ -1395,6 +1421,14 @@
         "gaa": "3.96",
         "svp": ".890"
     },
+    "Vitek Vanecek": {
+        "name": "Vitek Vanecek",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/161469/vitek-vanecek",
+        "team": " New Jersey Devils ",
+        "gaa": "2.40",
+        "svp": ".889"
+    },
     "Jack Campbell": {
         "name": "Jack Campbell",
         "pos": "G",
@@ -1403,29 +1437,29 @@
         "gaa": "3.89",
         "svp": ".888"
     },
-    "Daniil Tarasov": {
-        "name": "Daniil Tarasov",
+    "David Rittich": {
+        "name": "David Rittich",
         "pos": "G",
-        "href": "https://www.eliteprospects.com/player/359971/daniil-tarasov",
-        "team": " Columbus Blue Jackets ",
-        "gaa": "3.90",
-        "svp": ".888"
-    },
-    "Anthony Stolarz": {
-        "name": "Anthony Stolarz",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/131368/anthony-stolarz",
-        "team": " Anaheim Ducks ",
-        "gaa": "4.31",
+        "href": "https://www.eliteprospects.com/player/131342/david-rittich",
+        "team": " Winnipeg Jets ",
+        "gaa": "3.07",
         "svp": ".885"
     },
-    "Spencer Martin": {
-        "name": "Spencer Martin",
+    "Karel Vejmelka": {
+        "name": "Karel Vejmelka",
         "pos": "G",
-        "href": "https://www.eliteprospects.com/player/99040/spencer-martin",
-        "team": " Vancouver Canucks ",
-        "gaa": "3.79",
-        "svp": ".879"
+        "href": "https://www.eliteprospects.com/player/189829/karel-vejmelka",
+        "team": " Arizona Coyotes ",
+        "gaa": "4.41",
+        "svp": ".884"
+    },
+    "John Gibson": {
+        "name": "John Gibson",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/45399/john-gibson",
+        "team": " Anaheim Ducks ",
+        "gaa": "4.45",
+        "svp": ".884"
     },
     "Marc-Andr\u00e9 Fleury": {
         "name": "Marc-Andr\u00e9 Fleury",
@@ -1442,22 +1476,6 @@
         "team": " Los Angeles Kings ",
         "gaa": "3.81",
         "svp": ".878"
-    },
-    "Pavel Francouz": {
-        "name": "Pavel Francouz",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/18084/pavel-francouz",
-        "team": " Colorado Avalanche ",
-        "gaa": "4.10",
-        "svp": ".877"
-    },
-    "Karel Vejmelka": {
-        "name": "Karel Vejmelka",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/189829/karel-vejmelka",
-        "team": " Arizona Coyotes ",
-        "gaa": "4.77",
-        "svp": ".877"
     },
     "Kaapo K\u00e4hk\u00f6nen": {
         "name": "Kaapo K\u00e4hk\u00f6nen",
@@ -1507,14 +1525,6 @@
         "gaa": "4.02",
         "svp": ".871"
     },
-    "David Rittich": {
-        "name": "David Rittich",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/131342/david-rittich",
-        "team": " Winnipeg Jets ",
-        "gaa": "4.23",
-        "svp": ".871"
-    },
     "Jaroslav Hal\u00e1k": {
         "name": "Jaroslav Hal\u00e1k",
         "pos": "G",
@@ -1528,8 +1538,8 @@
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/66584/elvis-merzlikins",
         "team": " Columbus Blue Jackets ",
-        "gaa": "4.06",
-        "svp": ".863"
+        "gaa": "4.31",
+        "svp": ".862"
     },
     "Philipp Grubauer": {
         "name": "Philipp Grubauer",
@@ -1571,14 +1581,6 @@
         "gaa": "4.97",
         "svp": ".842"
     },
-    "Vitek Vanecek": {
-        "name": "Vitek Vanecek",
-        "pos": "G",
-        "href": "https://www.eliteprospects.com/player/161469/vitek-vanecek",
-        "team": " New Jersey Devils ",
-        "gaa": "3.43",
-        "svp": ".833"
-    },
     "Matt Murray": {
         "name": "Matt Murray",
         "pos": "G",
@@ -1611,27 +1613,117 @@
         "gaa": "-",
         "svp": "-"
     },
-    "Mark Stone": {
-        "name": "Mark Stone",
+    "Cole Perfetti": {
+        "name": "Cole Perfetti",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/32806/mark-stone",
-        "team": " Vegas Golden Knights ",
+        "href": "https://www.eliteprospects.com/player/201940/cole-perfetti",
+        "team": " Winnipeg Jets ",
+        "g": "3",
+        "a": "3",
+        "pim": "4",
+        "pm": "0"
+    },
+    "Mason Marchment": {
+        "name": "Mason Marchment",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/208693/mason-marchment",
+        "team": " Dallas Stars ",
+        "g": "3",
+        "a": "3",
+        "pim": "4",
+        "pm": "0"
+    },
+    "Eetu Luostarinen": {
+        "name": "Eetu Luostarinen",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/299319/eetu-luostarinen",
+        "team": " Florida Panthers ",
+        "g": "3",
+        "a": "3",
+        "pim": "4",
+        "pm": "8"
+    },
+    "Pierre-Luc Dubois": {
+        "name": "Pierre-Luc Dubois",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/252480/pierre-luc-dubois",
+        "team": " Winnipeg Jets ",
+        "g": "3",
+        "a": "3",
+        "pim": "8",
+        "pm": "-2"
+    },
+    "Andrey Kuzmenko": {
+        "name": "Andrey Kuzmenko",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/211807/andrey-kuzmenko",
+        "team": " Vancouver Canucks ",
+        "g": "3",
+        "a": "3",
+        "pim": "0",
+        "pm": "-3",
+        "SOG": 26,
+        "TPM": 137.95
+    },
+    "Vladimir Tarasenko": {
+        "name": "Vladimir Tarasenko",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/24787/vladimir-tarasenko",
+        "team": " St. Louis Blues ",
         "g": "2",
         "a": "4",
         "pim": "0",
-        "pm": "6"
+        "pm": "1"
     },
-    "Shea Theodore": {
-        "name": "Shea Theodore",
+    "Tyler Johnson": {
+        "name": "Tyler Johnson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/12078/tyler-johnson",
+        "team": " Chicago Blackhawks ",
+        "g": "2",
+        "a": "4",
+        "pim": "6",
+        "pm": "1"
+    },
+    "Tyler Motte": {
+        "name": "Tyler Motte",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/151824/tyler-motte",
+        "team": " Ottawa Senators ",
+        "g": "2",
+        "a": "4",
+        "pim": "0",
+        "pm": "5"
+    },
+    "Tony DeAngelo": {
+        "name": "Tony DeAngelo",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/101581/shea-theodore",
-        "team": " Vegas Golden Knights ",
+        "href": "https://www.eliteprospects.com/player/89818/tony-deangelo",
+        "team": " Philadelphia Flyers ",
+        "g": "2",
+        "a": "4",
+        "pim": "6",
+        "pm": "2"
+    },
+    "Vincent Trocheck": {
+        "name": "Vincent Trocheck",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/45560/vincent-trocheck",
+        "team": " New York Rangers ",
         "g": "2",
         "a": "4",
         "pim": "2",
-        "pm": "10",
-        "SOG": 16,
-        "TPM": 145.6
+        "pm": "-4"
+    },
+    "Jeff Carter": {
+        "name": "Jeff Carter",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/8813/jeff-carter",
+        "team": " Pittsburgh Penguins ",
+        "g": "2",
+        "a": "4",
+        "pim": "2",
+        "pm": "-2"
     },
     "Tyler Seguin": {
         "name": "Tyler Seguin",
@@ -1655,16 +1747,6 @@
         "SOG": 26,
         "TPM": 193.55
     },
-    "Vincent Trocheck": {
-        "name": "Vincent Trocheck",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/45560/vincent-trocheck",
-        "team": " New York Rangers ",
-        "g": "2",
-        "a": "4",
-        "pim": "2",
-        "pm": "-4"
-    },
     "Gustav Forsling": {
         "name": "Gustav Forsling",
         "pos": "D",
@@ -1674,6 +1756,28 @@
         "a": "4",
         "pim": "4",
         "pm": "5"
+    },
+    "Mark Stone": {
+        "name": "Mark Stone",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/32806/mark-stone",
+        "team": " Vegas Golden Knights ",
+        "g": "2",
+        "a": "4",
+        "pim": "0",
+        "pm": "6"
+    },
+    "Shea Theodore": {
+        "name": "Shea Theodore",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/101581/shea-theodore",
+        "team": " Vegas Golden Knights ",
+        "g": "2",
+        "a": "4",
+        "pim": "2",
+        "pm": "10",
+        "SOG": 16,
+        "TPM": 166.25
     },
     "Jason Zucker": {
         "name": "Jason Zucker",
@@ -1715,25 +1819,17 @@
         "pim": "4",
         "pm": "-3"
     },
-    "Brock Nelson": {
-        "name": "Brock Nelson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/74997/brock-nelson",
-        "team": " New York Islanders ",
-        "g": "0",
-        "a": "6",
-        "pim": "6",
-        "pm": "0"
-    },
-    "Josh Morrissey": {
-        "name": "Josh Morrissey",
+    "Alex Pietrangelo": {
+        "name": "Alex Pietrangelo",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/62293/josh-morrissey",
-        "team": " Winnipeg Jets ",
+        "href": "https://www.eliteprospects.com/player/11317/alex-pietrangelo",
+        "team": " Vegas Golden Knights ",
         "g": "0",
         "a": "6",
-        "pim": "13",
-        "pm": "2"
+        "pim": "0",
+        "pm": "2",
+        "SOG": 17,
+        "TPM": 188.55
     },
     "Jordan Eberle": {
         "name": "Jordan Eberle",
@@ -1745,16 +1841,6 @@
         "pim": "4",
         "pm": "-6"
     },
-    "Mark Scheifele": {
-        "name": "Mark Scheifele",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/75379/mark-scheifele",
-        "team": " Winnipeg Jets ",
-        "g": "5",
-        "a": "0",
-        "pim": "0",
-        "pm": "-3"
-    },
     "Victor Olofsson": {
         "name": "Victor Olofsson",
         "pos": "F",
@@ -1765,15 +1851,15 @@
         "pim": "0",
         "pm": "4"
     },
-    "Trevor Zegras": {
-        "name": "Trevor Zegras",
+    "Oliver Wahlstrom": {
+        "name": "Oliver Wahlstrom",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/424453/trevor-zegras",
-        "team": " Anaheim Ducks ",
+        "href": "https://www.eliteprospects.com/player/241370/oliver-wahlstrom",
+        "team": " New York Islanders ",
         "g": "4",
         "a": "1",
         "pim": "2",
-        "pm": "-2"
+        "pm": "3"
     },
     "David Perron": {
         "name": "David Perron",
@@ -1795,11 +1881,31 @@
         "pim": "6",
         "pm": "1"
     },
+    "Rickard Rakell": {
+        "name": "Rickard Rakell",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/17435/rickard-rakell",
+        "team": " Pittsburgh Penguins ",
+        "g": "4",
+        "a": "1",
+        "pim": "0",
+        "pm": "7"
+    },
     "Nino Niederreiter": {
         "name": "Nino Niederreiter",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/17679/nino-niederreiter",
         "team": " Nashville Predators ",
+        "g": "4",
+        "a": "1",
+        "pim": "2",
+        "pm": "-3"
+    },
+    "Trevor Zegras": {
+        "name": "Trevor Zegras",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/424453/trevor-zegras",
+        "team": " Anaheim Ducks ",
         "g": "4",
         "a": "1",
         "pim": "2",
@@ -1837,16 +1943,6 @@
         "SOG": 17,
         "TPM": 70.45
     },
-    "A.J. Greer": {
-        "name": "A.J. Greer",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/151125/a.j.-greer",
-        "team": " Boston Bruins ",
-        "g": "3",
-        "a": "2",
-        "pim": "2",
-        "pm": "2"
-    },
     "Tyler Toffoli": {
         "name": "Tyler Toffoli",
         "pos": "F",
@@ -1856,26 +1952,6 @@
         "a": "2",
         "pim": "4",
         "pm": "0"
-    },
-    "Nick Ritchie": {
-        "name": "Nick Ritchie",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/99036/nick-ritchie",
-        "team": " Arizona Coyotes ",
-        "g": "3",
-        "a": "2",
-        "pim": "10",
-        "pm": "-5"
-    },
-    "Kent Johnson": {
-        "name": "Kent Johnson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/521697/kent-johnson",
-        "team": " Columbus Blue Jackets ",
-        "g": "3",
-        "a": "2",
-        "pim": "2",
-        "pm": "2"
     },
     "Dylan Cozens": {
         "name": "Dylan Cozens",
@@ -1887,6 +1963,46 @@
         "pim": "2",
         "pm": "0"
     },
+    "A.J. Greer": {
+        "name": "A.J. Greer",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/151125/a.j.-greer",
+        "team": " Boston Bruins ",
+        "g": "3",
+        "a": "2",
+        "pim": "2",
+        "pm": "2"
+    },
+    "Christian Fischer": {
+        "name": "Christian Fischer",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/226901/christian-fischer",
+        "team": " Arizona Coyotes ",
+        "g": "3",
+        "a": "2",
+        "pim": "2",
+        "pm": "2"
+    },
+    "Nick Ritchie": {
+        "name": "Nick Ritchie",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/99036/nick-ritchie",
+        "team": " Arizona Coyotes ",
+        "g": "3",
+        "a": "2",
+        "pim": "10",
+        "pm": "-5"
+    },
+    "Conor Garland": {
+        "name": "Conor Garland",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/177208/conor-garland",
+        "team": " Vancouver Canucks ",
+        "g": "3",
+        "a": "2",
+        "pim": "0",
+        "pm": "0"
+    },
     "Neal Pionk": {
         "name": "Neal Pionk",
         "pos": "D",
@@ -1895,27 +2011,17 @@
         "g": "3",
         "a": "2",
         "pim": "2",
-        "pm": "-1"
+        "pm": "0"
     },
-    "Pierre-Luc Dubois": {
-        "name": "Pierre-Luc Dubois",
+    "Kent Johnson": {
+        "name": "Kent Johnson",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/252480/pierre-luc-dubois",
-        "team": " Winnipeg Jets ",
-        "g": "3",
-        "a": "2",
-        "pim": "8",
-        "pm": "-3"
-    },
-    "William Karlsson": {
-        "name": "William Karlsson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/19432/william-karlsson",
-        "team": " Vegas Golden Knights ",
+        "href": "https://www.eliteprospects.com/player/521697/kent-johnson",
+        "team": " Columbus Blue Jackets ",
         "g": "3",
         "a": "2",
         "pim": "2",
-        "pm": "4"
+        "pm": "1"
     },
     "Ryan Johansen": {
         "name": "Ryan Johansen",
@@ -1926,6 +2032,16 @@
         "a": "2",
         "pim": "4",
         "pm": "-1"
+    },
+    "Charlie Coyle": {
+        "name": "Charlie Coyle",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/60251/charlie-coyle",
+        "team": " Boston Bruins ",
+        "g": "3",
+        "a": "2",
+        "pim": "4",
+        "pm": "3"
     },
     "Alex Iafallo": {
         "name": "Alex Iafallo",
@@ -1946,6 +2062,16 @@
         "a": "3",
         "pim": "2",
         "pm": "0"
+    },
+    "Ilya Mikheyev": {
+        "name": "Ilya Mikheyev",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/180935/ilya-mikheyev",
+        "team": " Vancouver Canucks ",
+        "g": "2",
+        "a": "3",
+        "pim": "0",
+        "pm": "2"
     },
     "Michael Stone": {
         "name": "Michael Stone",
@@ -1987,27 +2113,15 @@
         "pim": "0",
         "pm": "0"
     },
-    "Jack Hughes": {
-        "name": "Jack Hughes",
+    "Anthony Beauvillier": {
+        "name": "Anthony Beauvillier",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/305432/jack-hughes",
-        "team": " New Jersey Devils ",
-        "g": "2",
-        "a": "3",
-        "pim": "0",
-        "pm": "-1",
-        "SOG": 31,
-        "TPM": 140.85
-    },
-    "Noah Dobson": {
-        "name": "Noah Dobson",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/275797/noah-dobson",
+        "href": "https://www.eliteprospects.com/player/213435/anthony-beauvillier",
         "team": " New York Islanders ",
         "g": "2",
         "a": "3",
         "pim": "0",
-        "pm": "-3"
+        "pm": "-1"
     },
     "Taylor Raddysh": {
         "name": "Taylor Raddysh",
@@ -2018,16 +2132,6 @@
         "a": "3",
         "pim": "0",
         "pm": "1"
-    },
-    "Bowen Byram": {
-        "name": "Bowen Byram",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/326522/bowen-byram",
-        "team": " Colorado Avalanche ",
-        "g": "2",
-        "a": "3",
-        "pim": "2",
-        "pm": "6"
     },
     "Claude Giroux": {
         "name": "Claude Giroux",
@@ -2040,26 +2144,6 @@
         "pm": "-1",
         "SOG": 14,
         "TPM": 97.15
-    },
-    "Cole Perfetti": {
-        "name": "Cole Perfetti",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/201940/cole-perfetti",
-        "team": " Winnipeg Jets ",
-        "g": "2",
-        "a": "3",
-        "pim": "4",
-        "pm": "0"
-    },
-    "Artturi Lehkonen": {
-        "name": "Artturi Lehkonen",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/43584/artturi-lehkonen",
-        "team": " Colorado Avalanche ",
-        "g": "2",
-        "a": "3",
-        "pim": "6",
-        "pm": "-2"
     },
     "Thomas Chabot": {
         "name": "Thomas Chabot",
@@ -2103,6 +2187,16 @@
         "pim": "0",
         "pm": "3"
     },
+    "Noah Dobson": {
+        "name": "Noah Dobson",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/275797/noah-dobson",
+        "team": " New York Islanders ",
+        "g": "2",
+        "a": "3",
+        "pim": "0",
+        "pm": "0"
+    },
     "Arthur Kaliyev": {
         "name": "Arthur Kaliyev",
         "pos": "F",
@@ -2112,6 +2206,26 @@
         "a": "3",
         "pim": "2",
         "pm": "-2"
+    },
+    "Bowen Byram": {
+        "name": "Bowen Byram",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/326522/bowen-byram",
+        "team": " Colorado Avalanche ",
+        "g": "2",
+        "a": "3",
+        "pim": "4",
+        "pm": "6"
+    },
+    "T.J. Oshie": {
+        "name": "T.J. Oshie",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/9209/t.j.-oshie",
+        "team": " Washington Capitals ",
+        "g": "2",
+        "a": "3",
+        "pim": "6",
+        "pm": "0"
     },
     "Sean Monahan": {
         "name": "Sean Monahan",
@@ -2123,15 +2237,15 @@
         "pim": "6",
         "pm": "0"
     },
-    "T.J. Oshie": {
-        "name": "T.J. Oshie",
+    "Artturi Lehkonen": {
+        "name": "Artturi Lehkonen",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/9209/t.j.-oshie",
-        "team": " Washington Capitals ",
+        "href": "https://www.eliteprospects.com/player/43584/artturi-lehkonen",
+        "team": " Colorado Avalanche ",
         "g": "2",
         "a": "3",
         "pim": "6",
-        "pm": "0"
+        "pm": "-2"
     },
     "Michael Bunting": {
         "name": "Michael Bunting",
@@ -2154,6 +2268,16 @@
         "pm": "4",
         "SOG": 19,
         "TPM": 191.35
+    },
+    "Nicolas Roy": {
+        "name": "Nicolas Roy",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/151361/nicolas-roy",
+        "team": " Vegas Golden Knights ",
+        "g": "2",
+        "a": "3",
+        "pim": "0",
+        "pm": "1"
     },
     "Robert Thomas": {
         "name": "Robert Thomas",
@@ -2179,16 +2303,6 @@
         "SOG": 8,
         "TPM": 96.6
     },
-    "Travis Boyd": {
-        "name": "Travis Boyd",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/38621/travis-boyd",
-        "team": " Arizona Coyotes ",
-        "g": "1",
-        "a": "4",
-        "pim": "2",
-        "pm": "-3"
-    },
     "Oskar Sundqvist": {
         "name": "Oskar Sundqvist",
         "pos": "F",
@@ -2198,16 +2312,6 @@
         "a": "4",
         "pim": "8",
         "pm": "-2"
-    },
-    "Kasperi Kapanen": {
-        "name": "Kasperi Kapanen",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/92226/kasperi-kapanen",
-        "team": " Pittsburgh Penguins ",
-        "g": "1",
-        "a": "4",
-        "pim": "0",
-        "pm": "0"
     },
     "Olli M\u00e4\u00e4tt\u00e4": {
         "name": "Olli M\u00e4\u00e4tt\u00e4",
@@ -2219,15 +2323,15 @@
         "pim": "0",
         "pm": "4"
     },
-    "Adam Lowry": {
-        "name": "Adam Lowry",
+    "Travis Boyd": {
+        "name": "Travis Boyd",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/45633/adam-lowry",
-        "team": " Winnipeg Jets ",
+        "href": "https://www.eliteprospects.com/player/38621/travis-boyd",
+        "team": " Arizona Coyotes ",
         "g": "1",
         "a": "4",
         "pim": "2",
-        "pm": "2"
+        "pm": "-5"
     },
     "Casey Mittelstadt": {
         "name": "Casey Mittelstadt",
@@ -2239,15 +2343,17 @@
         "pim": "2",
         "pm": "2"
     },
-    "Blake Wheeler": {
-        "name": "Blake Wheeler",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/9215/blake-wheeler",
-        "team": " Winnipeg Jets ",
+    "Brent Burns": {
+        "name": "Brent Burns",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/9103/brent-burns",
+        "team": " Carolina Hurricanes ",
         "g": "1",
         "a": "4",
         "pim": "4",
-        "pm": "0"
+        "pm": "-4",
+        "SOG": 27,
+        "TPM": 162.95
     },
     "Michael Rasmussen": {
         "name": "Michael Rasmussen",
@@ -2259,15 +2365,15 @@
         "pim": "10",
         "pm": "0"
     },
-    "Jack Roslovic": {
-        "name": "Jack Roslovic",
+    "Kasperi Kapanen": {
+        "name": "Kasperi Kapanen",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/226309/jack-roslovic",
-        "team": " Columbus Blue Jackets ",
+        "href": "https://www.eliteprospects.com/player/92226/kasperi-kapanen",
+        "team": " Pittsburgh Penguins ",
         "g": "1",
         "a": "4",
         "pim": "0",
-        "pm": "1"
+        "pm": "-1"
     },
     "Nick Jensen": {
         "name": "Nick Jensen",
@@ -2279,25 +2385,15 @@
         "pim": "2",
         "pm": "2"
     },
-    "Reilly Smith": {
-        "name": "Reilly Smith",
+    "Adam Lowry": {
+        "name": "Adam Lowry",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/33903/reilly-smith",
-        "team": " Vegas Golden Knights ",
-        "g": "1",
-        "a": "4",
-        "pim": "2",
-        "pm": "5"
-    },
-    "Yegor Chinakhov": {
-        "name": "Yegor Chinakhov",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/519779/yegor-chinakhov",
-        "team": " Columbus Blue Jackets ",
+        "href": "https://www.eliteprospects.com/player/45633/adam-lowry",
+        "team": " Winnipeg Jets ",
         "g": "1",
         "a": "4",
         "pim": "4",
-        "pm": "-4"
+        "pm": "2"
     },
     "Sean Durzi": {
         "name": "Sean Durzi",
@@ -2309,6 +2405,26 @@
         "pim": "6",
         "pm": "-3"
     },
+    "Pavel Zacha": {
+        "name": "Pavel Zacha",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/130786/pavel-zacha",
+        "team": " Boston Bruins ",
+        "g": "1",
+        "a": "4",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Jack Roslovic": {
+        "name": "Jack Roslovic",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/226309/jack-roslovic",
+        "team": " Columbus Blue Jackets ",
+        "g": "1",
+        "a": "4",
+        "pim": "0",
+        "pm": "-1"
+    },
     "Brandon Tanev": {
         "name": "Brandon Tanev",
         "pos": "F",
@@ -2319,6 +2435,16 @@
         "pim": "2",
         "pm": "6"
     },
+    "Yegor Chinakhov": {
+        "name": "Yegor Chinakhov",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/519779/yegor-chinakhov",
+        "team": " Columbus Blue Jackets ",
+        "g": "1",
+        "a": "4",
+        "pim": "4",
+        "pm": "-4"
+    },
     "Justin Schultz": {
         "name": "Justin Schultz",
         "pos": "D",
@@ -2328,6 +2454,16 @@
         "a": "4",
         "pim": "6",
         "pm": "-5"
+    },
+    "Tanner Pearson": {
+        "name": "Tanner Pearson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/75951/tanner-pearson",
+        "team": " Vancouver Canucks ",
+        "g": "1",
+        "a": "4",
+        "pim": "15",
+        "pm": "-2"
     },
     "Vinnie Hinostroza": {
         "name": "Vinnie Hinostroza",
@@ -2383,16 +2519,6 @@
         "SOG": 12,
         "TPM": 126.2
     },
-    "Jakub Voracek": {
-        "name": "Jakub Voracek",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/9285/jakub-voracek",
-        "team": " Columbus Blue Jackets ",
-        "g": "0",
-        "a": "5",
-        "pim": "0",
-        "pm": "-5"
-    },
     "Aleksander Barkov": {
         "name": "Aleksander Barkov",
         "pos": "F",
@@ -2405,17 +2531,25 @@
         "SOG": 26,
         "TPM": 181.4
     },
-    "Alex Pietrangelo": {
-        "name": "Alex Pietrangelo",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/11317/alex-pietrangelo",
-        "team": " Vegas Golden Knights ",
+    "Jakub Voracek": {
+        "name": "Jakub Voracek",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/9285/jakub-voracek",
+        "team": " Columbus Blue Jackets ",
         "g": "0",
         "a": "5",
         "pim": "0",
-        "pm": "1",
-        "SOG": 16,
-        "TPM": 167.25
+        "pm": "-6"
+    },
+    "Oliver Ekman Larsson": {
+        "name": "Oliver Ekman Larsson",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/7693/oliver-ekman-larsson",
+        "team": " Vancouver Canucks ",
+        "g": "0",
+        "a": "5",
+        "pim": "4",
+        "pm": "-3"
     },
     "Nico Sturm": {
         "name": "Nico Sturm",
@@ -2427,46 +2561,6 @@
         "pim": "4",
         "pm": "2"
     },
-    "Oliver Wahlstrom": {
-        "name": "Oliver Wahlstrom",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/241370/oliver-wahlstrom",
-        "team": " New York Islanders ",
-        "g": "3",
-        "a": "1",
-        "pim": "2",
-        "pm": "2"
-    },
-    "Conor Garland": {
-        "name": "Conor Garland",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/177208/conor-garland",
-        "team": " Vancouver Canucks ",
-        "g": "3",
-        "a": "1",
-        "pim": "0",
-        "pm": "-1"
-    },
-    "Rickard Rakell": {
-        "name": "Rickard Rakell",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/17435/rickard-rakell",
-        "team": " Pittsburgh Penguins ",
-        "g": "3",
-        "a": "1",
-        "pim": "0",
-        "pm": "8"
-    },
-    "Dawson Mercer": {
-        "name": "Dawson Mercer",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/320305/dawson-mercer",
-        "team": " New Jersey Devils ",
-        "g": "3",
-        "a": "1",
-        "pim": "6",
-        "pm": "-4"
-    },
     "Wyatt Johnston": {
         "name": "Wyatt Johnston",
         "pos": "F",
@@ -2476,16 +2570,6 @@
         "a": "1",
         "pim": "2",
         "pm": "0"
-    },
-    "Nick Foligno": {
-        "name": "Nick Foligno",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/10675/nick-foligno",
-        "team": " Boston Bruins ",
-        "g": "3",
-        "a": "1",
-        "pim": "2",
-        "pm": "1"
     },
     "Josh Anderson": {
         "name": "Josh Anderson",
@@ -2517,6 +2601,16 @@
         "pim": "5",
         "pm": "-3"
     },
+    "Dawson Mercer": {
+        "name": "Dawson Mercer",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/320305/dawson-mercer",
+        "team": " New Jersey Devils ",
+        "g": "3",
+        "a": "1",
+        "pim": "6",
+        "pm": "-4"
+    },
     "Brandon Hagel": {
         "name": "Brandon Hagel",
         "pos": "F",
@@ -2547,15 +2641,15 @@
         "pim": "0",
         "pm": "-2"
     },
-    "Lawson Crouse": {
-        "name": "Lawson Crouse",
+    "Nick Foligno": {
+        "name": "Nick Foligno",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/205155/lawson-crouse",
-        "team": " Arizona Coyotes ",
-        "g": "2",
-        "a": "2",
-        "pim": "0",
-        "pm": "-2"
+        "href": "https://www.eliteprospects.com/player/10675/nick-foligno",
+        "team": " Boston Bruins ",
+        "g": "3",
+        "a": "1",
+        "pim": "2",
+        "pm": "1"
     },
     "Andrew Mangiapane": {
         "name": "Andrew Mangiapane",
@@ -2567,15 +2661,15 @@
         "pim": "0",
         "pm": "-2"
     },
-    "Yegor Sharangovich": {
-        "name": "Yegor Sharangovich",
+    "Adam Erne": {
+        "name": "Adam Erne",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/271111/yegor-sharangovich",
-        "team": " New Jersey Devils ",
+        "href": "https://www.eliteprospects.com/player/90359/adam-erne",
+        "team": " Detroit Red Wings ",
         "g": "2",
         "a": "2",
-        "pim": "0",
-        "pm": "0"
+        "pim": "2",
+        "pm": "1"
     },
     "Philipp Kurashev": {
         "name": "Philipp Kurashev",
@@ -2587,15 +2681,15 @@
         "pim": "2",
         "pm": "-5"
     },
-    "Adam Erne": {
-        "name": "Adam Erne",
+    "Lawson Crouse": {
+        "name": "Lawson Crouse",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/90359/adam-erne",
-        "team": " Detroit Red Wings ",
+        "href": "https://www.eliteprospects.com/player/205155/lawson-crouse",
+        "team": " Arizona Coyotes ",
         "g": "2",
         "a": "2",
         "pim": "2",
-        "pm": "1"
+        "pm": "-3"
     },
     "JJ Peterka": {
         "name": "JJ Peterka",
@@ -2617,35 +2711,21 @@
         "pim": "14",
         "pm": "2"
     },
-    "Andrey Kuzmenko": {
-        "name": "Andrey Kuzmenko",
+    "Yegor Sharangovich": {
+        "name": "Yegor Sharangovich",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/211807/andrey-kuzmenko",
-        "team": " Vancouver Canucks ",
+        "href": "https://www.eliteprospects.com/player/271111/yegor-sharangovich",
+        "team": " New Jersey Devils ",
         "g": "2",
         "a": "2",
-        "pim": "0",
-        "pm": "-4",
-        "SOG": 23,
-        "TPM": 124.9
+        "pim": "2",
+        "pm": "0"
     },
-    "Zach Werenski": {
-        "name": "Zach Werenski",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/186311/zach-werenski",
-        "team": " Columbus Blue Jackets ",
-        "g": "2",
-        "a": "2",
-        "pim": "0",
-        "pm": "-1",
-        "SOG": 29,
-        "TPM": 199.7
-    },
-    "Nick Paul": {
-        "name": "Nick Paul",
+    "Matt Martin": {
+        "name": "Matt Martin",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/149617/nick-paul",
-        "team": " Tampa Bay Lightning ",
+        "href": "https://www.eliteprospects.com/player/19225/matt-martin",
+        "team": " New York Islanders ",
         "g": "2",
         "a": "2",
         "pim": "2",
@@ -2662,6 +2742,16 @@
         "pm": "-2",
         "SOG": 24,
         "TPM": 160.75
+    },
+    "Nick Paul": {
+        "name": "Nick Paul",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/149617/nick-paul",
+        "team": " Tampa Bay Lightning ",
+        "g": "2",
+        "a": "2",
+        "pim": "2",
+        "pm": "3"
     },
     "Barclay Goodrow": {
         "name": "Barclay Goodrow",
@@ -2683,26 +2773,6 @@
         "pim": "4",
         "pm": "0"
     },
-    "Charlie Coyle": {
-        "name": "Charlie Coyle",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/60251/charlie-coyle",
-        "team": " Boston Bruins ",
-        "g": "2",
-        "a": "2",
-        "pim": "4",
-        "pm": "2"
-    },
-    "Gustav Nyquist": {
-        "name": "Gustav Nyquist",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/6223/gustav-nyquist",
-        "team": " Columbus Blue Jackets ",
-        "g": "2",
-        "a": "2",
-        "pim": "4",
-        "pm": "1"
-    },
     "Corey Perry": {
         "name": "Corey Perry",
         "pos": "F",
@@ -2712,6 +2782,18 @@
         "a": "2",
         "pim": "5",
         "pm": "-3"
+    },
+    "Zach Werenski": {
+        "name": "Zach Werenski",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/186311/zach-werenski",
+        "team": " Columbus Blue Jackets ",
+        "g": "2",
+        "a": "2",
+        "pim": "0",
+        "pm": "-4",
+        "SOG": 30,
+        "TPM": 223.3
     },
     "Yevgeni Svechnikov": {
         "name": "Yevgeni Svechnikov",
@@ -2723,6 +2805,26 @@
         "pim": "2",
         "pm": "1"
     },
+    "Gustav Nyquist": {
+        "name": "Gustav Nyquist",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/6223/gustav-nyquist",
+        "team": " Columbus Blue Jackets ",
+        "g": "2",
+        "a": "2",
+        "pim": "4",
+        "pm": "0"
+    },
+    "Matt Grzelcyk": {
+        "name": "Matt Grzelcyk",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/90350/matt-grzelcyk",
+        "team": " Boston Bruins ",
+        "g": "1",
+        "a": "3",
+        "pim": "0",
+        "pm": "4"
+    },
     "Dillon Dub\u00e9": {
         "name": "Dillon Dub\u00e9",
         "pos": "F",
@@ -2732,28 +2834,6 @@
         "a": "3",
         "pim": "4",
         "pm": "1"
-    },
-    "J.J. Moser": {
-        "name": "J.J. Moser",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/338571/j.j.-moser",
-        "team": " Arizona Coyotes ",
-        "g": "1",
-        "a": "3",
-        "pim": "6",
-        "pm": "-5"
-    },
-    "Kyle Connor": {
-        "name": "Kyle Connor",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/177671/kyle-connor",
-        "team": " Winnipeg Jets ",
-        "g": "1",
-        "a": "3",
-        "pim": "0",
-        "pm": "-1",
-        "SOG": 23,
-        "TPM": 142.7
     },
     "Jared Spurgeon": {
         "name": "Jared Spurgeon",
@@ -2765,15 +2845,25 @@
         "pim": "0",
         "pm": "3"
     },
-    "Ryan Strome": {
-        "name": "Ryan Strome",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/44789/ryan-strome",
-        "team": " Anaheim Ducks ",
+    "Brady Skjei": {
+        "name": "Brady Skjei",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/90352/brady-skjei",
+        "team": " Carolina Hurricanes ",
         "g": "1",
         "a": "3",
-        "pim": "2",
-        "pm": "-3"
+        "pim": "4",
+        "pm": "7"
+    },
+    "J.J. Moser": {
+        "name": "J.J. Moser",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/338571/j.j.-moser",
+        "team": " Arizona Coyotes ",
+        "g": "1",
+        "a": "3",
+        "pim": "6",
+        "pm": "-4"
     },
     "Jacob Middleton": {
         "name": "Jacob Middleton",
@@ -2785,16 +2875,6 @@
         "pim": "8",
         "pm": "4"
     },
-    "Jeff Petry": {
-        "name": "Jeff Petry",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/12265/jeff-petry",
-        "team": " Pittsburgh Penguins ",
-        "g": "1",
-        "a": "3",
-        "pim": "10",
-        "pm": "2"
-    },
     "Ryan Hartman": {
         "name": "Ryan Hartman",
         "pos": "F",
@@ -2805,25 +2885,27 @@
         "pim": "12",
         "pm": "0"
     },
-    "Nicolas Roy": {
-        "name": "Nicolas Roy",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/151361/nicolas-roy",
-        "team": " Vegas Golden Knights ",
+    "Ryan Pulock": {
+        "name": "Ryan Pulock",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/86761/ryan-pulock",
+        "team": " New York Islanders ",
         "g": "1",
         "a": "3",
         "pim": "0",
-        "pm": "0"
+        "pm": "5"
     },
-    "Pavel Zacha": {
-        "name": "Pavel Zacha",
+    "Kyle Connor": {
+        "name": "Kyle Connor",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/130786/pavel-zacha",
-        "team": " Boston Bruins ",
+        "href": "https://www.eliteprospects.com/player/177671/kyle-connor",
+        "team": " Winnipeg Jets ",
         "g": "1",
         "a": "3",
         "pim": "0",
-        "pm": "-2"
+        "pm": "-1",
+        "SOG": 30,
+        "TPM": 165.7
     },
     "Tyson Barrie": {
         "name": "Tyson Barrie",
@@ -2835,15 +2917,15 @@
         "pim": "2",
         "pm": "4"
     },
-    "Jake Bean": {
-        "name": "Jake Bean",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/199660/jake-bean",
-        "team": " Columbus Blue Jackets ",
+    "Ryan Strome": {
+        "name": "Ryan Strome",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/44789/ryan-strome",
+        "team": " Anaheim Ducks ",
         "g": "1",
         "a": "3",
         "pim": "4",
-        "pm": "-2"
+        "pm": "-3"
     },
     "Ross Colton": {
         "name": "Ross Colton",
@@ -2855,15 +2937,15 @@
         "pim": "4",
         "pm": "-2"
     },
-    "Boone Jenner": {
-        "name": "Boone Jenner",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/45587/boone-jenner",
+    "Jake Bean": {
+        "name": "Jake Bean",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/199660/jake-bean",
         "team": " Columbus Blue Jackets ",
         "g": "1",
         "a": "3",
-        "pim": "6",
-        "pm": "0"
+        "pim": "4",
+        "pm": "-2"
     },
     "Alexander Kerfoot": {
         "name": "Alexander Kerfoot",
@@ -2897,6 +2979,16 @@
         "pim": "8",
         "pm": "-3"
     },
+    "Jeff Petry": {
+        "name": "Jeff Petry",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/12265/jeff-petry",
+        "team": " Pittsburgh Penguins ",
+        "g": "1",
+        "a": "3",
+        "pim": "10",
+        "pm": "2"
+    },
     "Oliver Bjorkstrand": {
         "name": "Oliver Bjorkstrand",
         "pos": "F",
@@ -2905,6 +2997,16 @@
         "g": "1",
         "a": "3",
         "pim": "0",
+        "pm": "-1"
+    },
+    "Boone Jenner": {
+        "name": "Boone Jenner",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/45587/boone-jenner",
+        "team": " Columbus Blue Jackets ",
+        "g": "1",
+        "a": "3",
+        "pim": "8",
         "pm": "-1"
     },
     "Drew Doughty": {
@@ -2929,16 +3031,6 @@
         "pim": "0",
         "pm": "-6"
     },
-    "Matt Nieto": {
-        "name": "Matt Nieto",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/20723/matt-nieto",
-        "team": " San Jose Sharks ",
-        "g": "1",
-        "a": "3",
-        "pim": "4",
-        "pm": "-1"
-    },
     "Tomas Hertl": {
         "name": "Tomas Hertl",
         "pos": "F",
@@ -2948,6 +3040,16 @@
         "a": "3",
         "pim": "4",
         "pm": "-7"
+    },
+    "Matt Nieto": {
+        "name": "Matt Nieto",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/20723/matt-nieto",
+        "team": " San Jose Sharks ",
+        "g": "1",
+        "a": "3",
+        "pim": "4",
+        "pm": "-1"
     },
     "Luke Kunin": {
         "name": "Luke Kunin",
@@ -2967,7 +3069,7 @@
         "g": "0",
         "a": "4",
         "pim": "2",
-        "pm": "1"
+        "pm": "-1"
     },
     "Brock Boeser": {
         "name": "Brock Boeser",
@@ -2979,18 +3081,6 @@
         "pim": "4",
         "pm": "-3"
     },
-    "Brent Burns": {
-        "name": "Brent Burns",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/9103/brent-burns",
-        "team": " Carolina Hurricanes ",
-        "g": "0",
-        "a": "4",
-        "pim": "4",
-        "pm": "-2",
-        "SOG": 22,
-        "TPM": 142.55
-    },
     "Kris Letang": {
         "name": "Kris Letang",
         "pos": "D",
@@ -2999,9 +3089,29 @@
         "g": "0",
         "a": "4",
         "pim": "0",
-        "pm": "-1",
-        "SOG": 12,
-        "TPM": 162.85
+        "pm": "-3",
+        "SOG": 15,
+        "TPM": 187.45
+    },
+    "Dmitri Orlov": {
+        "name": "Dmitri Orlov",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/17758/dmitri-orlov",
+        "team": " Washington Capitals ",
+        "g": "0",
+        "a": "4",
+        "pim": "2",
+        "pm": "1"
+    },
+    "David Savard": {
+        "name": "David Savard",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/32878/david-savard",
+        "team": " Montr\u00e9al Canadiens ",
+        "g": "0",
+        "a": "4",
+        "pim": "2",
+        "pm": "-4"
     },
     "Jean-Gabriel Pageau": {
         "name": "Jean-Gabriel Pageau",
@@ -3012,6 +3122,26 @@
         "a": "4",
         "pim": "2",
         "pm": "-1"
+    },
+    "Nils Lundkvist": {
+        "name": "Nils Lundkvist",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/384079/nils-lundkvist",
+        "team": " Dallas Stars ",
+        "g": "0",
+        "a": "4",
+        "pim": "2",
+        "pm": "1"
+    },
+    "Evan Bouchard": {
+        "name": "Evan Bouchard",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/300591/evan-bouchard",
+        "team": " Edmonton Oilers ",
+        "g": "0",
+        "a": "4",
+        "pim": "2",
+        "pm": "-2"
     },
     "Marcus Pettersson": {
         "name": "Marcus Pettersson",
@@ -3031,7 +3161,7 @@
         "g": "0",
         "a": "4",
         "pim": "6",
-        "pm": "-3"
+        "pm": "-4"
     },
     "Adam Pelech": {
         "name": "Adam Pelech",
@@ -3040,58 +3170,28 @@
         "team": " New York Islanders ",
         "g": "0",
         "a": "4",
-        "pim": "8",
-        "pm": "1"
+        "pim": "10",
+        "pm": "3"
     },
-    "David Savard": {
-        "name": "David Savard",
+    "Brayden McNabb": {
+        "name": "Brayden McNabb",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/32878/david-savard",
-        "team": " Montr\u00e9al Canadiens ",
+        "href": "https://www.eliteprospects.com/player/31079/brayden-mcnabb",
+        "team": " Vegas Golden Knights ",
         "g": "0",
         "a": "4",
-        "pim": "2",
-        "pm": "-4"
+        "pim": "6",
+        "pm": "7"
     },
-    "Evan Bouchard": {
-        "name": "Evan Bouchard",
+    "Luke Schenn": {
+        "name": "Luke Schenn",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/300591/evan-bouchard",
-        "team": " Edmonton Oilers ",
-        "g": "0",
-        "a": "4",
-        "pim": "2",
-        "pm": "-2"
-    },
-    "Nils Lundkvist": {
-        "name": "Nils Lundkvist",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/384079/nils-lundkvist",
-        "team": " Dallas Stars ",
-        "g": "0",
-        "a": "4",
-        "pim": "2",
-        "pm": "1"
-    },
-    "Oliver Ekman Larsson": {
-        "name": "Oliver Ekman Larsson",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/7693/oliver-ekman-larsson",
+        "href": "https://www.eliteprospects.com/player/11400/luke-schenn",
         "team": " Vancouver Canucks ",
         "g": "0",
         "a": "4",
-        "pim": "2",
-        "pm": "-3"
-    },
-    "Dmitri Orlov": {
-        "name": "Dmitri Orlov",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/17758/dmitri-orlov",
-        "team": " Washington Capitals ",
-        "g": "0",
-        "a": "4",
-        "pim": "2",
-        "pm": "1"
+        "pim": "13",
+        "pm": "2"
     },
     "Connor Clifton": {
         "name": "Connor Clifton",
@@ -3100,18 +3200,8 @@
         "team": " Boston Bruins ",
         "g": "0",
         "a": "4",
-        "pim": "14",
-        "pm": "2"
-    },
-    "Tanner Pearson": {
-        "name": "Tanner Pearson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/75951/tanner-pearson",
-        "team": " Vancouver Canucks ",
-        "g": "0",
-        "a": "4",
-        "pim": "15",
-        "pm": "-3"
+        "pim": "16",
+        "pm": "4"
     },
     "Ondrej Palat": {
         "name": "Ondrej Palat",
@@ -3123,26 +3213,6 @@
         "pim": "0",
         "pm": "-1"
     },
-    "Sam Gagner": {
-        "name": "Sam Gagner",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/10425/sam-gagner",
-        "team": " Winnipeg Jets ",
-        "g": "3",
-        "a": "0",
-        "pim": "0",
-        "pm": "3"
-    },
-    "Frank Vatrano": {
-        "name": "Frank Vatrano",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/59733/frank-vatrano",
-        "team": " Anaheim Ducks ",
-        "g": "3",
-        "a": "0",
-        "pim": "4",
-        "pm": "-4"
-    },
     "Scott Laughton": {
         "name": "Scott Laughton",
         "pos": "F",
@@ -3153,6 +3223,16 @@
         "pim": "4",
         "pm": "-2"
     },
+    "Sam Gagner": {
+        "name": "Sam Gagner",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/10425/sam-gagner",
+        "team": " Winnipeg Jets ",
+        "g": "3",
+        "a": "0",
+        "pim": "0",
+        "pm": "3"
+    },
     "David K\u00e4mpf": {
         "name": "David K\u00e4mpf",
         "pos": "F",
@@ -3162,6 +3242,16 @@
         "a": "0",
         "pim": "2",
         "pm": "-1"
+    },
+    "Frank Vatrano": {
+        "name": "Frank Vatrano",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/59733/frank-vatrano",
+        "team": " Anaheim Ducks ",
+        "g": "3",
+        "a": "0",
+        "pim": "4",
+        "pm": "-5"
     },
     "Joel Kiviranta": {
         "name": "Joel Kiviranta",
@@ -3203,26 +3293,6 @@
         "pim": "0",
         "pm": "1"
     },
-    "Dylan Guenther": {
-        "name": "Dylan Guenther",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/476538/dylan-guenther",
-        "team": " Arizona Coyotes ",
-        "g": "2",
-        "a": "1",
-        "pim": "0",
-        "pm": "-5"
-    },
-    "Ilya Mikheyev": {
-        "name": "Ilya Mikheyev",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/180935/ilya-mikheyev",
-        "team": " Vancouver Canucks ",
-        "g": "2",
-        "a": "1",
-        "pim": "0",
-        "pm": "0"
-    },
     "Zack MacEwen": {
         "name": "Zack MacEwen",
         "pos": "F",
@@ -3233,25 +3303,15 @@
         "pim": "4",
         "pm": "2"
     },
-    "Seth Jarvis": {
-        "name": "Seth Jarvis",
+    "Dylan Guenther": {
+        "name": "Dylan Guenther",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/201952/seth-jarvis",
-        "team": " Carolina Hurricanes ",
+        "href": "https://www.eliteprospects.com/player/476538/dylan-guenther",
+        "team": " Arizona Coyotes ",
         "g": "2",
         "a": "1",
         "pim": "0",
-        "pm": "3"
-    },
-    "Anthony Beauvillier": {
-        "name": "Anthony Beauvillier",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/213435/anthony-beauvillier",
-        "team": " New York Islanders ",
-        "g": "2",
-        "a": "1",
-        "pim": "0",
-        "pm": "-2"
+        "pm": "-5"
     },
     "Brett Ritchie": {
         "name": "Brett Ritchie",
@@ -3295,25 +3355,15 @@
         "pim": "6",
         "pm": "3"
     },
-    "Jan Rutta": {
-        "name": "Jan Rutta",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/18090/jan-rutta",
-        "team": " Pittsburgh Penguins ",
-        "g": "2",
-        "a": "1",
-        "pim": "2",
-        "pm": "8"
-    },
-    "Kyle Palmieri": {
-        "name": "Kyle Palmieri",
+    "Seth Jarvis": {
+        "name": "Seth Jarvis",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/17508/kyle-palmieri",
-        "team": " New York Islanders ",
+        "href": "https://www.eliteprospects.com/player/201952/seth-jarvis",
+        "team": " Carolina Hurricanes ",
         "g": "2",
         "a": "1",
-        "pim": "2",
-        "pm": "-2"
+        "pim": "0",
+        "pm": "1"
     },
     "Morgan Frost": {
         "name": "Morgan Frost",
@@ -3335,6 +3385,46 @@
         "pim": "14",
         "pm": "2"
     },
+    "Scott Mayfield": {
+        "name": "Scott Mayfield",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/45906/scott-mayfield",
+        "team": " New York Islanders ",
+        "g": "2",
+        "a": "1",
+        "pim": "2",
+        "pm": "0"
+    },
+    "Jan Rutta": {
+        "name": "Jan Rutta",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/18090/jan-rutta",
+        "team": " Pittsburgh Penguins ",
+        "g": "2",
+        "a": "1",
+        "pim": "2",
+        "pm": "7"
+    },
+    "Zach Parise": {
+        "name": "Zach Parise",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/8903/zach-parise",
+        "team": " New York Islanders ",
+        "g": "2",
+        "a": "1",
+        "pim": "2",
+        "pm": "3"
+    },
+    "Kyle Palmieri": {
+        "name": "Kyle Palmieri",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/17508/kyle-palmieri",
+        "team": " New York Islanders ",
+        "g": "2",
+        "a": "1",
+        "pim": "2",
+        "pm": "-2"
+    },
     "Rudolfs Balcers": {
         "name": "Rudolfs Balcers",
         "pos": "F",
@@ -3345,16 +3435,6 @@
         "pim": "4",
         "pm": "-2"
     },
-    "Andrew Peeke": {
-        "name": "Andrew Peeke",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/291905/andrew-peeke",
-        "team": " Columbus Blue Jackets ",
-        "g": "2",
-        "a": "1",
-        "pim": "8",
-        "pm": "4"
-    },
     "Adam Larsson": {
         "name": "Adam Larsson",
         "pos": "D",
@@ -3363,6 +3443,16 @@
         "g": "2",
         "a": "1",
         "pim": "9",
+        "pm": "3"
+    },
+    "Andrew Peeke": {
+        "name": "Andrew Peeke",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/291905/andrew-peeke",
+        "team": " Columbus Blue Jackets ",
+        "g": "2",
+        "a": "1",
+        "pim": "10",
         "pm": "3"
     },
     "Jamie Oleksiak": {
@@ -3395,46 +3485,6 @@
         "pim": "0",
         "pm": "0"
     },
-    "Christian Fischer": {
-        "name": "Christian Fischer",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/226901/christian-fischer",
-        "team": " Arizona Coyotes ",
-        "g": "1",
-        "a": "2",
-        "pim": "2",
-        "pm": "0"
-    },
-    "Craig Smith": {
-        "name": "Craig Smith",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/27038/craig-smith",
-        "team": " Boston Bruins ",
-        "g": "1",
-        "a": "2",
-        "pim": "2",
-        "pm": "0"
-    },
-    "Brady Skjei": {
-        "name": "Brady Skjei",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/90352/brady-skjei",
-        "team": " Carolina Hurricanes ",
-        "g": "1",
-        "a": "2",
-        "pim": "4",
-        "pm": "8"
-    },
-    "Ryan Pulock": {
-        "name": "Ryan Pulock",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/86761/ryan-pulock",
-        "team": " New York Islanders ",
-        "g": "1",
-        "a": "2",
-        "pim": "0",
-        "pm": "5"
-    },
     "Fr\u00e9d\u00e9rick Gaudreau": {
         "name": "Fr\u00e9d\u00e9rick Gaudreau",
         "pos": "F",
@@ -3443,16 +3493,6 @@
         "g": "1",
         "a": "2",
         "pim": "0",
-        "pm": "3"
-    },
-    "Andrew Cogliano": {
-        "name": "Andrew Cogliano",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/9187/andrew-cogliano",
-        "team": " Colorado Avalanche ",
-        "g": "1",
-        "a": "2",
-        "pim": "2",
         "pm": "3"
     },
     "Eeli Tolvanen": {
@@ -3475,25 +3515,15 @@
         "pim": "2",
         "pm": "1"
     },
-    "Matt Martin": {
-        "name": "Matt Martin",
+    "Craig Smith": {
+        "name": "Craig Smith",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/19225/matt-martin",
-        "team": " New York Islanders ",
+        "href": "https://www.eliteprospects.com/player/27038/craig-smith",
+        "team": " Boston Bruins ",
         "g": "1",
         "a": "2",
         "pim": "2",
-        "pm": "2"
-    },
-    "Morgan Barron": {
-        "name": "Morgan Barron",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/195024/morgan-barron",
-        "team": " Winnipeg Jets ",
-        "g": "1",
-        "a": "2",
-        "pim": "2",
-        "pm": "2"
+        "pm": "1"
     },
     "Viktor Arvidsson": {
         "name": "Viktor Arvidsson",
@@ -3515,15 +3545,15 @@
         "pim": "4",
         "pm": "2"
     },
-    "Samuel Girard": {
-        "name": "Samuel Girard",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/251476/samuel-girard",
-        "team": " Colorado Avalanche ",
+    "Jordan Martinook": {
+        "name": "Jordan Martinook",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/44271/jordan-martinook",
+        "team": " Carolina Hurricanes ",
         "g": "1",
         "a": "2",
         "pim": "4",
-        "pm": "0"
+        "pm": "2"
     },
     "Tage Thompson": {
         "name": "Tage Thompson",
@@ -3565,6 +3595,16 @@
         "pim": "2",
         "pm": "0"
     },
+    "Andrew Cogliano": {
+        "name": "Andrew Cogliano",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/9187/andrew-cogliano",
+        "team": " Colorado Avalanche ",
+        "g": "1",
+        "a": "2",
+        "pim": "2",
+        "pm": "3"
+    },
     "Alex Killorn": {
         "name": "Alex Killorn",
         "pos": "F",
@@ -3575,15 +3615,15 @@
         "pim": "2",
         "pm": "-1"
     },
-    "Sean Kuraly": {
-        "name": "Sean Kuraly",
+    "Morgan Barron": {
+        "name": "Morgan Barron",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/49938/sean-kuraly",
-        "team": " Columbus Blue Jackets ",
+        "href": "https://www.eliteprospects.com/player/195024/morgan-barron",
+        "team": " Winnipeg Jets ",
         "g": "1",
         "a": "2",
         "pim": "2",
-        "pm": "-4"
+        "pm": "2"
     },
     "Yakov Trenin": {
         "name": "Yakov Trenin",
@@ -3595,25 +3635,15 @@
         "pim": "4",
         "pm": "1"
     },
-    "Phil Kessel": {
-        "name": "Phil Kessel",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/8793/phil-kessel",
-        "team": " Vegas Golden Knights ",
+    "Samuel Girard": {
+        "name": "Samuel Girard",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/251476/samuel-girard",
+        "team": " Colorado Avalanche ",
         "g": "1",
         "a": "2",
         "pim": "4",
         "pm": "0"
-    },
-    "Derek Forbort": {
-        "name": "Derek Forbort",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/31265/derek-forbort",
-        "team": " Boston Bruins ",
-        "g": "1",
-        "a": "2",
-        "pim": "6",
-        "pm": "2"
     },
     "Esa Lindell": {
         "name": "Esa Lindell",
@@ -3655,6 +3685,36 @@
         "pim": "15",
         "pm": "2"
     },
+    "Sean Kuraly": {
+        "name": "Sean Kuraly",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/49938/sean-kuraly",
+        "team": " Columbus Blue Jackets ",
+        "g": "1",
+        "a": "2",
+        "pim": "2",
+        "pm": "-5"
+    },
+    "Phil Kessel": {
+        "name": "Phil Kessel",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/8793/phil-kessel",
+        "team": " Vegas Golden Knights ",
+        "g": "1",
+        "a": "2",
+        "pim": "4",
+        "pm": "1"
+    },
+    "Derek Forbort": {
+        "name": "Derek Forbort",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/31265/derek-forbort",
+        "team": " Boston Bruins ",
+        "g": "1",
+        "a": "2",
+        "pim": "6",
+        "pm": "3"
+    },
     "Alexander Wennberg": {
         "name": "Alexander Wennberg",
         "pos": "F",
@@ -3687,15 +3747,15 @@
         "SOG": 7,
         "TPM": 38.0
     },
-    "Matt Grzelcyk": {
-        "name": "Matt Grzelcyk",
+    "Caleb Jones": {
+        "name": "Caleb Jones",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/90350/matt-grzelcyk",
-        "team": " Boston Bruins ",
+        "href": "https://www.eliteprospects.com/player/199902/caleb-jones",
+        "team": " Chicago Blackhawks ",
         "g": "0",
         "a": "3",
-        "pim": "0",
-        "pm": "3"
+        "pim": "8",
+        "pm": "4"
     },
     "Devon Toews": {
         "name": "Devon Toews",
@@ -3707,17 +3767,7 @@
         "pim": "0",
         "pm": "0",
         "SOG": 10,
-        "TPM": 110.6
-    },
-    "Caleb Jones": {
-        "name": "Caleb Jones",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/199902/caleb-jones",
-        "team": " Chicago Blackhawks ",
-        "g": "0",
-        "a": "3",
-        "pim": "8",
-        "pm": "4"
+        "TPM": 131.9
     },
     "Alexander Barabanov": {
         "name": "Alexander Barabanov",
@@ -3739,16 +3789,6 @@
         "pim": "0",
         "pm": "6"
     },
-    "Teuvo Ter\u00e4v\u00e4inen": {
-        "name": "Teuvo Ter\u00e4v\u00e4inen",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/44567/teuvo-teravainen",
-        "team": " Carolina Hurricanes ",
-        "g": "0",
-        "a": "3",
-        "pim": "2",
-        "pm": "5"
-    },
     "MacKenzie Weegar": {
         "name": "MacKenzie Weegar",
         "pos": "D",
@@ -3761,45 +3801,15 @@
         "SOG": 9,
         "TPM": 127.15
     },
-    "Matias Maccelli": {
-        "name": "Matias Maccelli",
+    "Teuvo Ter\u00e4v\u00e4inen": {
+        "name": "Teuvo Ter\u00e4v\u00e4inen",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/375953/matias-maccelli",
-        "team": " Arizona Coyotes ",
+        "href": "https://www.eliteprospects.com/player/44567/teuvo-teravainen",
+        "team": " Carolina Hurricanes ",
         "g": "0",
         "a": "3",
         "pim": "2",
-        "pm": "-2"
-    },
-    "Pierre-Olivier Joseph": {
-        "name": "Pierre-Olivier Joseph",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/284911/pierre-olivier-joseph",
-        "team": " Pittsburgh Penguins ",
-        "g": "0",
-        "a": "3",
-        "pim": "4",
-        "pm": "5"
-    },
-    "Ryan Graves": {
-        "name": "Ryan Graves",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/103763/ryan-graves",
-        "team": " New Jersey Devils ",
-        "g": "0",
-        "a": "3",
-        "pim": "0",
-        "pm": "4"
-    },
-    "John Marino": {
-        "name": "John Marino",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/278675/john-marino",
-        "team": " New Jersey Devils ",
-        "g": "0",
-        "a": "3",
-        "pim": "2",
-        "pm": "4"
+        "pm": "2"
     },
     "Jake Sanderson": {
         "name": "Jake Sanderson",
@@ -3821,11 +3831,11 @@
         "pim": "2",
         "pm": "-4"
     },
-    "Mason Appleton": {
-        "name": "Mason Appleton",
+    "Matias Maccelli": {
+        "name": "Matias Maccelli",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/266919/mason-appleton",
-        "team": " Winnipeg Jets ",
+        "href": "https://www.eliteprospects.com/player/375953/matias-maccelli",
+        "team": " Arizona Coyotes ",
         "g": "0",
         "a": "3",
         "pim": "4",
@@ -3840,6 +3850,16 @@
         "a": "3",
         "pim": "6",
         "pm": "-4"
+    },
+    "Pierre-Olivier Joseph": {
+        "name": "Pierre-Olivier Joseph",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/284911/pierre-olivier-joseph",
+        "team": " Pittsburgh Penguins ",
+        "g": "0",
+        "a": "3",
+        "pim": "6",
+        "pm": "4"
     },
     "Ryan McDonagh": {
         "name": "Ryan McDonagh",
@@ -3861,35 +3881,15 @@
         "pim": "0",
         "pm": "2"
     },
-    "Vladislav Namestnikov": {
-        "name": "Vladislav Namestnikov",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/39029/vladislav-namestnikov",
-        "team": " Tampa Bay Lightning ",
-        "g": "0",
-        "a": "3",
-        "pim": "2",
-        "pm": "-3"
-    },
-    "Jaycob Megna": {
-        "name": "Jaycob Megna",
+    "Ryan Graves": {
+        "name": "Ryan Graves",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/84762/jaycob-megna",
-        "team": " San Jose Sharks ",
+        "href": "https://www.eliteprospects.com/player/103763/ryan-graves",
+        "team": " New Jersey Devils ",
         "g": "0",
         "a": "3",
-        "pim": "2",
-        "pm": "1"
-    },
-    "Rasmus Sandin": {
-        "name": "Rasmus Sandin",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/289453/rasmus-sandin",
-        "team": " Toronto Maple Leafs ",
-        "g": "0",
-        "a": "3",
-        "pim": "2",
-        "pm": "-1"
+        "pim": "0",
+        "pm": "4"
     },
     "Ty Dellandrea": {
         "name": "Ty Dellandrea",
@@ -3901,15 +3901,45 @@
         "pim": "2",
         "pm": "0"
     },
-    "Brayden McNabb": {
-        "name": "Brayden McNabb",
+    "Rasmus Sandin": {
+        "name": "Rasmus Sandin",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/31079/brayden-mcnabb",
-        "team": " Vegas Golden Knights ",
+        "href": "https://www.eliteprospects.com/player/289453/rasmus-sandin",
+        "team": " Toronto Maple Leafs ",
         "g": "0",
         "a": "3",
-        "pim": "4",
-        "pm": "7"
+        "pim": "2",
+        "pm": "-1"
+    },
+    "Jaycob Megna": {
+        "name": "Jaycob Megna",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/84762/jaycob-megna",
+        "team": " San Jose Sharks ",
+        "g": "0",
+        "a": "3",
+        "pim": "2",
+        "pm": "1"
+    },
+    "Vladislav Namestnikov": {
+        "name": "Vladislav Namestnikov",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/39029/vladislav-namestnikov",
+        "team": " Tampa Bay Lightning ",
+        "g": "0",
+        "a": "3",
+        "pim": "2",
+        "pm": "-3"
+    },
+    "John Marino": {
+        "name": "John Marino",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/278675/john-marino",
+        "team": " New Jersey Devils ",
+        "g": "0",
+        "a": "3",
+        "pim": "2",
+        "pm": "4"
     },
     "Quinton Byfield": {
         "name": "Quinton Byfield",
@@ -3931,6 +3961,16 @@
         "pim": "4",
         "pm": "-1"
     },
+    "Mason Appleton": {
+        "name": "Mason Appleton",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/266919/mason-appleton",
+        "team": " Winnipeg Jets ",
+        "g": "0",
+        "a": "3",
+        "pim": "4",
+        "pm": "-1"
+    },
     "Radko Gudas": {
         "name": "Radko Gudas",
         "pos": "D",
@@ -3940,16 +3980,6 @@
         "a": "3",
         "pim": "6",
         "pm": "0"
-    },
-    "Erik Gudbranson": {
-        "name": "Erik Gudbranson",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/31282/erik-gudbranson",
-        "team": " Columbus Blue Jackets ",
-        "g": "0",
-        "a": "3",
-        "pim": "6",
-        "pm": "-7"
     },
     "Jacob Trouba": {
         "name": "Jacob Trouba",
@@ -3972,16 +4002,6 @@
         "a": "3",
         "pim": "9",
         "pm": "3"
-    },
-    "Luke Schenn": {
-        "name": "Luke Schenn",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/11400/luke-schenn",
-        "team": " Vancouver Canucks ",
-        "g": "0",
-        "a": "3",
-        "pim": "13",
-        "pm": "1"
     },
     "Brendan Lemieux": {
         "name": "Brendan Lemieux",
@@ -4013,6 +4033,26 @@
         "pim": "2",
         "pm": "-1"
     },
+    "Erik Gudbranson": {
+        "name": "Erik Gudbranson",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/31282/erik-gudbranson",
+        "team": " Columbus Blue Jackets ",
+        "g": "0",
+        "a": "3",
+        "pim": "6",
+        "pm": "-7"
+    },
+    "Zach Whitecloud": {
+        "name": "Zach Whitecloud",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/202774/zach-whitecloud",
+        "team": " Vegas Golden Knights ",
+        "g": "0",
+        "a": "3",
+        "pim": "11",
+        "pm": "1"
+    },
     "Carson Soucy": {
         "name": "Carson Soucy",
         "pos": "D",
@@ -4043,16 +4083,6 @@
         "pim": "4",
         "pm": "1"
     },
-    "Jakob Silfverberg": {
-        "name": "Jakob Silfverberg",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/6562/jakob-silfverberg",
-        "team": " Anaheim Ducks ",
-        "g": "2",
-        "a": "0",
-        "pim": "0",
-        "pm": "0"
-    },
     "Elias Lindholm": {
         "name": "Elias Lindholm",
         "pos": "F",
@@ -4073,15 +4103,25 @@
         "pim": "4",
         "pm": "-1"
     },
-    "Scott Mayfield": {
-        "name": "Scott Mayfield",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/45906/scott-mayfield",
+    "Jakob Silfverberg": {
+        "name": "Jakob Silfverberg",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/6562/jakob-silfverberg",
+        "team": " Anaheim Ducks ",
+        "g": "2",
+        "a": "0",
+        "pim": "0",
+        "pm": "-2"
+    },
+    "Josh Bailey": {
+        "name": "Josh Bailey",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/14013/josh-bailey",
         "team": " New York Islanders ",
         "g": "2",
         "a": "0",
-        "pim": "2",
-        "pm": "0"
+        "pim": "0",
+        "pm": "3"
     },
     "Zemgus Girgensons": {
         "name": "Zemgus Girgensons",
@@ -4123,16 +4163,6 @@
         "pim": "5",
         "pm": "2"
     },
-    "Evan Rodrigues": {
-        "name": "Evan Rodrigues",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/62525/evan-rodrigues",
-        "team": " Colorado Avalanche ",
-        "g": "2",
-        "a": "0",
-        "pim": "6",
-        "pm": "-3"
-    },
     "Kaapo Kakko": {
         "name": "Kaapo Kakko",
         "pos": "F",
@@ -4141,6 +4171,16 @@
         "g": "2",
         "a": "0",
         "pim": "2",
+        "pm": "-3"
+    },
+    "Evan Rodrigues": {
+        "name": "Evan Rodrigues",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/62525/evan-rodrigues",
+        "team": " Colorado Avalanche ",
+        "g": "2",
+        "a": "0",
+        "pim": "6",
         "pm": "-3"
     },
     "Brendan Gallagher": {
@@ -4215,16 +4255,6 @@
         "pim": "2",
         "pm": "-2"
     },
-    "Michael Amadio": {
-        "name": "Michael Amadio",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/151385/michael-amadio",
-        "team": " Vegas Golden Knights ",
-        "g": "1",
-        "a": "1",
-        "pim": "0",
-        "pm": "0"
-    },
     "Josh Norris": {
         "name": "Josh Norris",
         "pos": "F",
@@ -4249,25 +4279,15 @@
         "SOG": 11,
         "TPM": 122.85
     },
-    "Jordan Martinook": {
-        "name": "Jordan Martinook",
+    "Michael Amadio": {
+        "name": "Michael Amadio",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/44271/jordan-martinook",
-        "team": " Carolina Hurricanes ",
+        "href": "https://www.eliteprospects.com/player/151385/michael-amadio",
+        "team": " Vegas Golden Knights ",
         "g": "1",
         "a": "1",
-        "pim": "2",
-        "pm": "1"
-    },
-    "Josh Brown": {
-        "name": "Josh Brown",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/82512/josh-brown",
-        "team": " Arizona Coyotes ",
-        "g": "1",
-        "a": "1",
-        "pim": "4",
-        "pm": "1"
+        "pim": "0",
+        "pm": "0"
     },
     "Morgan Geekie": {
         "name": "Morgan Geekie",
@@ -4289,46 +4309,6 @@
         "pim": "12",
         "pm": "3"
     },
-    "Zach Parise": {
-        "name": "Zach Parise",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/8903/zach-parise",
-        "team": " New York Islanders ",
-        "g": "1",
-        "a": "1",
-        "pim": "0",
-        "pm": "3"
-    },
-    "Ryan Poehling": {
-        "name": "Ryan Poehling",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/288045/ryan-poehling",
-        "team": " Pittsburgh Penguins ",
-        "g": "1",
-        "a": "1",
-        "pim": "0",
-        "pm": "2"
-    },
-    "Damon Severson": {
-        "name": "Damon Severson",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/55867/damon-severson",
-        "team": " New Jersey Devils ",
-        "g": "1",
-        "a": "1",
-        "pim": "2",
-        "pm": "-4"
-    },
-    "William Carrier": {
-        "name": "William Carrier",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/88662/william-carrier",
-        "team": " Vegas Golden Knights ",
-        "g": "1",
-        "a": "1",
-        "pim": "2",
-        "pm": "-1"
-    },
     "Cody Glass": {
         "name": "Cody Glass",
         "pos": "F",
@@ -4349,21 +4329,21 @@
         "pim": "4",
         "pm": "0"
     },
-    "Logan O'Connor": {
-        "name": "Logan O'Connor",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/62327/logan-o-connor",
-        "team": " Colorado Avalanche ",
+    "Josh Brown": {
+        "name": "Josh Brown",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/82512/josh-brown",
+        "team": " Arizona Coyotes ",
         "g": "1",
         "a": "1",
         "pim": "4",
-        "pm": "4"
+        "pm": "-1"
     },
-    "Tomas Tatar": {
-        "name": "Tomas Tatar",
+    "Jack McBain": {
+        "name": "Jack McBain",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/17750/tomas-tatar",
-        "team": " New Jersey Devils ",
+        "href": "https://www.eliteprospects.com/player/363685/jack-mcbain",
+        "team": " Arizona Coyotes ",
         "g": "1",
         "a": "1",
         "pim": "6",
@@ -4378,36 +4358,6 @@
         "a": "1",
         "pim": "7",
         "pm": "0"
-    },
-    "Trent Frederic": {
-        "name": "Trent Frederic",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/272221/trent-frederic",
-        "team": " Boston Bruins ",
-        "g": "1",
-        "a": "1",
-        "pim": "9",
-        "pm": "3"
-    },
-    "Nils \u00c5man": {
-        "name": "Nils \u00c5man",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/343876/nils-aman",
-        "team": " Vancouver Canucks ",
-        "g": "1",
-        "a": "1",
-        "pim": "0",
-        "pm": "0"
-    },
-    "Karson Kuhlman": {
-        "name": "Karson Kuhlman",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/118663/karson-kuhlman",
-        "team": " Seattle Kraken ",
-        "g": "1",
-        "a": "1",
-        "pim": "0",
-        "pm": "3"
     },
     "Cody Ceci": {
         "name": "Cody Ceci",
@@ -4429,6 +4379,26 @@
         "pim": "0",
         "pm": "-4"
     },
+    "Karson Kuhlman": {
+        "name": "Karson Kuhlman",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/118663/karson-kuhlman",
+        "team": " Seattle Kraken ",
+        "g": "1",
+        "a": "1",
+        "pim": "0",
+        "pm": "3"
+    },
+    "Ryan Poehling": {
+        "name": "Ryan Poehling",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/288045/ryan-poehling",
+        "team": " Pittsburgh Penguins ",
+        "g": "1",
+        "a": "1",
+        "pim": "0",
+        "pm": "2"
+    },
     "Alexei Protas": {
         "name": "Alexei Protas",
         "pos": "F",
@@ -4449,15 +4419,15 @@
         "pim": "2",
         "pm": "1"
     },
-    "Eric Robinson": {
-        "name": "Eric Robinson",
+    "William Carrier": {
+        "name": "William Carrier",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/206755/eric-robinson",
-        "team": " Columbus Blue Jackets ",
+        "href": "https://www.eliteprospects.com/player/88662/william-carrier",
+        "team": " Vegas Golden Knights ",
         "g": "1",
         "a": "1",
         "pim": "2",
-        "pm": "-3"
+        "pm": "-1"
     },
     "Mike Hoffman": {
         "name": "Mike Hoffman",
@@ -4469,15 +4439,95 @@
         "pim": "4",
         "pm": "0"
     },
-    "Vladislav Gavrikov": {
-        "name": "Vladislav Gavrikov",
+    "Damon Severson": {
+        "name": "Damon Severson",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/165015/vladislav-gavrikov",
-        "team": " Columbus Blue Jackets ",
+        "href": "https://www.eliteprospects.com/player/55867/damon-severson",
+        "team": " New Jersey Devils ",
         "g": "1",
         "a": "1",
         "pim": "4",
+        "pm": "-4"
+    },
+    "Calle J\u00e4rnkrok": {
+        "name": "Calle J\u00e4rnkrok",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/6020/calle-jarnkrok",
+        "team": " Toronto Maple Leafs ",
+        "g": "1",
+        "a": "1",
+        "pim": "6",
+        "pm": "-1"
+    },
+    "Logan O'Connor": {
+        "name": "Logan O'Connor",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/62327/logan-o-connor",
+        "team": " Colorado Avalanche ",
+        "g": "1",
+        "a": "1",
+        "pim": "6",
+        "pm": "4"
+    },
+    "Garnet Hathaway": {
+        "name": "Garnet Hathaway",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/75018/garnet-hathaway",
+        "team": " Washington Capitals ",
+        "g": "1",
+        "a": "1",
+        "pim": "8",
+        "pm": "0"
+    },
+    "Trent Frederic": {
+        "name": "Trent Frederic",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/272221/trent-frederic",
+        "team": " Boston Bruins ",
+        "g": "1",
+        "a": "1",
+        "pim": "9",
         "pm": "3"
+    },
+    "Tomas Tatar": {
+        "name": "Tomas Tatar",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/17750/tomas-tatar",
+        "team": " New Jersey Devils ",
+        "g": "1",
+        "a": "1",
+        "pim": "10",
+        "pm": "-1"
+    },
+    "Kevin Labanc": {
+        "name": "Kevin Labanc",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/133841/kevin-labanc",
+        "team": " San Jose Sharks ",
+        "g": "1",
+        "a": "1",
+        "pim": "0",
+        "pm": "-4"
+    },
+    "Nils \u00c5man": {
+        "name": "Nils \u00c5man",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/343876/nils-aman",
+        "team": " Vancouver Canucks ",
+        "g": "1",
+        "a": "1",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Eric Robinson": {
+        "name": "Eric Robinson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/206755/eric-robinson",
+        "team": " Columbus Blue Jackets ",
+        "g": "1",
+        "a": "1",
+        "pim": "2",
+        "pm": "-4"
     },
     "Dakota Joshua": {
         "name": "Dakota Joshua",
@@ -4497,37 +4547,17 @@
         "g": "1",
         "a": "1",
         "pim": "4",
+        "pm": "2"
+    },
+    "Vladislav Gavrikov": {
+        "name": "Vladislav Gavrikov",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/165015/vladislav-gavrikov",
+        "team": " Columbus Blue Jackets ",
+        "g": "1",
+        "a": "1",
+        "pim": "4",
         "pm": "1"
-    },
-    "Calle J\u00e4rnkrok": {
-        "name": "Calle J\u00e4rnkrok",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/6020/calle-jarnkrok",
-        "team": " Toronto Maple Leafs ",
-        "g": "1",
-        "a": "1",
-        "pim": "6",
-        "pm": "-1"
-    },
-    "Garnet Hathaway": {
-        "name": "Garnet Hathaway",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/75018/garnet-hathaway",
-        "team": " Washington Capitals ",
-        "g": "1",
-        "a": "1",
-        "pim": "8",
-        "pm": "0"
-    },
-    "Kevin Labanc": {
-        "name": "Kevin Labanc",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/133841/kevin-labanc",
-        "team": " San Jose Sharks ",
-        "g": "1",
-        "a": "1",
-        "pim": "0",
-        "pm": "-4"
     },
     "Will Borgen": {
         "name": "Will Borgen",
@@ -4547,7 +4577,7 @@
         "g": "0",
         "a": "2",
         "pim": "0",
-        "pm": "2"
+        "pm": "1"
     },
     "Juuso V\u00e4lim\u00e4ki": {
         "name": "Juuso V\u00e4lim\u00e4ki",
@@ -4557,7 +4587,7 @@
         "g": "0",
         "a": "2",
         "pim": "0",
-        "pm": "0"
+        "pm": "1"
     },
     "Pavol Regenda": {
         "name": "Pavol Regenda",
@@ -4579,16 +4609,6 @@
         "pim": "0",
         "pm": "-3"
     },
-    "Nick Bjugstad": {
-        "name": "Nick Bjugstad",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/40265/nick-bjugstad",
-        "team": " Arizona Coyotes ",
-        "g": "0",
-        "a": "2",
-        "pim": "0",
-        "pm": "0"
-    },
     "Colton Parayko": {
         "name": "Colton Parayko",
         "pos": "D",
@@ -4598,16 +4618,6 @@
         "a": "2",
         "pim": "0",
         "pm": "-3"
-    },
-    "Jaccob Slavin": {
-        "name": "Jaccob Slavin",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/97621/jaccob-slavin",
-        "team": " Carolina Hurricanes ",
-        "g": "0",
-        "a": "2",
-        "pim": "0",
-        "pm": "0"
     },
     "Jonathan Drouin": {
         "name": "Jonathan Drouin",
@@ -4629,26 +4639,6 @@
         "pim": "0",
         "pm": "-1"
     },
-    "Jesperi Kotkaniemi": {
-        "name": "Jesperi Kotkaniemi",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/363872/jesperi-kotkaniemi",
-        "team": " Carolina Hurricanes ",
-        "g": "0",
-        "a": "2",
-        "pim": "2",
-        "pm": "3"
-    },
-    "Paul Stastny": {
-        "name": "Paul Stastny",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/10212/paul-stastny",
-        "team": " Carolina Hurricanes ",
-        "g": "0",
-        "a": "2",
-        "pim": "4",
-        "pm": "1"
-    },
     "Milan Lucic": {
         "name": "Milan Lucic",
         "pos": "F",
@@ -4669,15 +4659,25 @@
         "pim": "6",
         "pm": "0"
     },
-    "John Klingberg": {
-        "name": "John Klingberg",
+    "Tyler Myers": {
+        "name": "Tyler Myers",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/21717/john-klingberg",
-        "team": " Anaheim Ducks ",
+        "href": "https://www.eliteprospects.com/player/17521/tyler-myers",
+        "team": " Vancouver Canucks ",
+        "g": "0",
+        "a": "2",
+        "pim": "8",
+        "pm": "1"
+    },
+    "Nick Bjugstad": {
+        "name": "Nick Bjugstad",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/40265/nick-bjugstad",
+        "team": " Arizona Coyotes ",
         "g": "0",
         "a": "2",
         "pim": "0",
-        "pm": "-5"
+        "pm": "-1"
     },
     "Jack Johnson": {
         "name": "Jack Johnson",
@@ -4688,16 +4688,6 @@
         "a": "2",
         "pim": "0",
         "pm": "-5"
-    },
-    "David Gustafsson": {
-        "name": "David Gustafsson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/293796/david-gustafsson",
-        "team": " Winnipeg Jets ",
-        "g": "0",
-        "a": "2",
-        "pim": "0",
-        "pm": "3"
     },
     "Yegor Zamula": {
         "name": "Yegor Zamula",
@@ -4719,6 +4709,16 @@
         "pim": "0",
         "pm": "3"
     },
+    "Jaccob Slavin": {
+        "name": "Jaccob Slavin",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/97621/jaccob-slavin",
+        "team": " Carolina Hurricanes ",
+        "g": "0",
+        "a": "2",
+        "pim": "0",
+        "pm": "-2"
+    },
     "Colin Blackwell": {
         "name": "Colin Blackwell",
         "pos": "F",
@@ -4728,26 +4728,6 @@
         "a": "2",
         "pim": "0",
         "pm": "-1"
-    },
-    "Michael McLeod": {
-        "name": "Michael McLeod",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/240821/michael-mcleod",
-        "team": " New Jersey Devils ",
-        "g": "0",
-        "a": "2",
-        "pim": "0",
-        "pm": "0"
-    },
-    "Brian Dumoulin": {
-        "name": "Brian Dumoulin",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/33896/brian-dumoulin",
-        "team": " Pittsburgh Penguins ",
-        "g": "0",
-        "a": "2",
-        "pim": "0",
-        "pm": "2"
     },
     "Owen Power": {
         "name": "Owen Power",
@@ -4759,41 +4739,21 @@
         "pim": "2",
         "pm": "0"
     },
-    "Isac Lundestr\u00f6m": {
-        "name": "Isac Lundestr\u00f6m",
+    "Jesperi Kotkaniemi": {
+        "name": "Jesperi Kotkaniemi",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/265570/isac-lundestrom",
-        "team": " Anaheim Ducks ",
+        "href": "https://www.eliteprospects.com/player/363872/jesperi-kotkaniemi",
+        "team": " Carolina Hurricanes ",
         "g": "0",
         "a": "2",
         "pim": "2",
-        "pm": "-2"
+        "pm": "3"
     },
-    "Erik Br\u00e4nnstr\u00f6m": {
-        "name": "Erik Br\u00e4nnstr\u00f6m",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/255167/erik-brannstrom",
-        "team": " Ottawa Senators ",
-        "g": "0",
-        "a": "2",
-        "pim": "2",
-        "pm": "-3"
-    },
-    "Mathieu Joseph": {
-        "name": "Mathieu Joseph",
+    "Kyle Okposo": {
+        "name": "Kyle Okposo",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/227640/mathieu-joseph",
-        "team": " Ottawa Senators ",
-        "g": "0",
-        "a": "2",
-        "pim": "2",
-        "pm": "6"
-    },
-    "Jonas Siegenthaler": {
-        "name": "Jonas Siegenthaler",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/105407/jonas-siegenthaler",
-        "team": " New Jersey Devils ",
+        "href": "https://www.eliteprospects.com/player/10458/kyle-okposo",
+        "team": " Buffalo Sabres ",
         "g": "0",
         "a": "2",
         "pim": "2",
@@ -4809,55 +4769,45 @@
         "pim": "2",
         "pm": "-1"
     },
-    "Erik Haula": {
-        "name": "Erik Haula",
+    "Brett Pesce": {
+        "name": "Brett Pesce",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/121869/brett-pesce",
+        "team": " Carolina Hurricanes ",
+        "g": "0",
+        "a": "2",
+        "pim": "2",
+        "pm": "9"
+    },
+    "Mathieu Joseph": {
+        "name": "Mathieu Joseph",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/16042/erik-haula",
-        "team": " New Jersey Devils ",
+        "href": "https://www.eliteprospects.com/player/227640/mathieu-joseph",
+        "team": " Ottawa Senators ",
         "g": "0",
         "a": "2",
         "pim": "2",
-        "pm": "0"
+        "pm": "6"
     },
-    "Dmitri Kulikov": {
-        "name": "Dmitri Kulikov",
+    "Erik Br\u00e4nnstr\u00f6m": {
+        "name": "Erik Br\u00e4nnstr\u00f6m",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/11866/dmitri-kulikov",
-        "team": " Anaheim Ducks ",
+        "href": "https://www.eliteprospects.com/player/255167/erik-brannstrom",
+        "team": " Ottawa Senators ",
         "g": "0",
         "a": "2",
         "pim": "2",
-        "pm": "-6"
+        "pm": "-3"
     },
-    "Kyle Okposo": {
-        "name": "Kyle Okposo",
+    "Paul Stastny": {
+        "name": "Paul Stastny",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/10458/kyle-okposo",
-        "team": " Buffalo Sabres ",
-        "g": "0",
-        "a": "2",
-        "pim": "2",
-        "pm": "1"
-    },
-    "Erik Johnson": {
-        "name": "Erik Johnson",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/9207/erik-johnson",
-        "team": " Colorado Avalanche ",
-        "g": "0",
-        "a": "2",
-        "pim": "2",
-        "pm": "3"
-    },
-    "Brenden Dillon": {
-        "name": "Brenden Dillon",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/23790/brenden-dillon",
-        "team": " Winnipeg Jets ",
+        "href": "https://www.eliteprospects.com/player/10212/paul-stastny",
+        "team": " Carolina Hurricanes ",
         "g": "0",
         "a": "2",
         "pim": "4",
-        "pm": "2"
+        "pm": "0"
     },
     "Robert H\u00e4gg": {
         "name": "Robert H\u00e4gg",
@@ -4919,6 +4869,26 @@
         "pim": "0",
         "pm": "-2"
     },
+    "John Klingberg": {
+        "name": "John Klingberg",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/21717/john-klingberg",
+        "team": " Anaheim Ducks ",
+        "g": "0",
+        "a": "2",
+        "pim": "0",
+        "pm": "-6"
+    },
+    "Brian Dumoulin": {
+        "name": "Brian Dumoulin",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/33896/brian-dumoulin",
+        "team": " Pittsburgh Penguins ",
+        "g": "0",
+        "a": "2",
+        "pim": "0",
+        "pm": "0"
+    },
     "Trevor van Riemsdyk": {
         "name": "Trevor van Riemsdyk",
         "pos": "D",
@@ -4929,15 +4899,85 @@
         "pim": "0",
         "pm": "0"
     },
-    "Vasili Podkolzin": {
-        "name": "Vasili Podkolzin",
+    "Michael McLeod": {
+        "name": "Michael McLeod",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/512832/vasili-podkolzin",
-        "team": " Vancouver Canucks ",
+        "href": "https://www.eliteprospects.com/player/240821/michael-mcleod",
+        "team": " New Jersey Devils ",
         "g": "0",
         "a": "2",
         "pim": "0",
-        "pm": "-3"
+        "pm": "0"
+    },
+    "David Gustafsson": {
+        "name": "David Gustafsson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/293796/david-gustafsson",
+        "team": " Winnipeg Jets ",
+        "g": "0",
+        "a": "2",
+        "pim": "0",
+        "pm": "2"
+    },
+    "Isac Lundestr\u00f6m": {
+        "name": "Isac Lundestr\u00f6m",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/265570/isac-lundestrom",
+        "team": " Anaheim Ducks ",
+        "g": "0",
+        "a": "2",
+        "pim": "2",
+        "pm": "-2"
+    },
+    "Nicolas Hague": {
+        "name": "Nicolas Hague",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/253977/nicolas-hague",
+        "team": " Vegas Golden Knights ",
+        "g": "0",
+        "a": "2",
+        "pim": "2",
+        "pm": "4"
+    },
+    "Erik Haula": {
+        "name": "Erik Haula",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/16042/erik-haula",
+        "team": " New Jersey Devils ",
+        "g": "0",
+        "a": "2",
+        "pim": "2",
+        "pm": "0"
+    },
+    "Jonas Siegenthaler": {
+        "name": "Jonas Siegenthaler",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/105407/jonas-siegenthaler",
+        "team": " New Jersey Devils ",
+        "g": "0",
+        "a": "2",
+        "pim": "2",
+        "pm": "1"
+    },
+    "Dmitri Kulikov": {
+        "name": "Dmitri Kulikov",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/11866/dmitri-kulikov",
+        "team": " Anaheim Ducks ",
+        "g": "0",
+        "a": "2",
+        "pim": "2",
+        "pm": "-6"
+    },
+    "Erik Johnson": {
+        "name": "Erik Johnson",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/9207/erik-johnson",
+        "team": " Colorado Avalanche ",
+        "g": "0",
+        "a": "2",
+        "pim": "2",
+        "pm": "3"
     },
     "Sam Reinhart": {
         "name": "Sam Reinhart",
@@ -4950,6 +4990,16 @@
         "pm": "-1",
         "SOG": 22,
         "TPM": 173.6
+    },
+    "Ryan Suter": {
+        "name": "Ryan Suter",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/8897/ryan-suter",
+        "team": " Dallas Stars ",
+        "g": "0",
+        "a": "2",
+        "pim": "4",
+        "pm": "-1"
     },
     "Brett Kulak": {
         "name": "Brett Kulak",
@@ -4971,16 +5021,6 @@
         "pim": "4",
         "pm": "0"
     },
-    "Ryan Suter": {
-        "name": "Ryan Suter",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/8897/ryan-suter",
-        "team": " Dallas Stars ",
-        "g": "0",
-        "a": "2",
-        "pim": "4",
-        "pm": "-1"
-    },
     "Brandt Clarke": {
         "name": "Brandt Clarke",
         "pos": "D",
@@ -4991,15 +5031,15 @@
         "pim": "6",
         "pm": "-1"
     },
-    "Zach Whitecloud": {
-        "name": "Zach Whitecloud",
+    "Brenden Dillon": {
+        "name": "Brenden Dillon",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/202774/zach-whitecloud",
-        "team": " Vegas Golden Knights ",
+        "href": "https://www.eliteprospects.com/player/23790/brenden-dillon",
+        "team": " Winnipeg Jets ",
         "g": "0",
         "a": "2",
         "pim": "6",
-        "pm": "-1"
+        "pm": "2"
     },
     "Yanni Gourde": {
         "name": "Yanni Gourde",
@@ -5021,6 +5061,16 @@
         "pim": "8",
         "pm": "0"
     },
+    "Vasili Podkolzin": {
+        "name": "Vasili Podkolzin",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/512832/vasili-podkolzin",
+        "team": " Vancouver Canucks ",
+        "g": "0",
+        "a": "2",
+        "pim": "0",
+        "pm": "-3"
+    },
     "Reese Johnson": {
         "name": "Reese Johnson",
         "pos": "F",
@@ -5041,17 +5091,15 @@
         "pim": "2",
         "pm": "2"
     },
-    "Patrik Laine": {
-        "name": "Patrik Laine",
+    "Michael McCarron": {
+        "name": "Michael McCarron",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/221667/patrik-laine",
-        "team": " Columbus Blue Jackets ",
+        "href": "https://www.eliteprospects.com/player/135703/michael-mccarron",
+        "team": " Nashville Predators ",
         "g": "1",
         "a": "0",
-        "pim": "2",
-        "pm": "1",
-        "SOG": 7,
-        "TPM": 32.3
+        "pim": "0",
+        "pm": "1"
     },
     "Zach Sanford": {
         "name": "Zach Sanford",
@@ -5073,15 +5121,17 @@
         "pim": "0",
         "pm": "1"
     },
-    "Michael McCarron": {
-        "name": "Michael McCarron",
+    "Patrik Laine": {
+        "name": "Patrik Laine",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/135703/michael-mccarron",
-        "team": " Nashville Predators ",
+        "href": "https://www.eliteprospects.com/player/221667/patrik-laine",
+        "team": " Columbus Blue Jackets ",
         "g": "1",
         "a": "0",
-        "pim": "0",
-        "pm": "1"
+        "pim": "2",
+        "pm": "-1",
+        "SOG": 11,
+        "TPM": 51.6
     },
     "Aaron Ekblad": {
         "name": "Aaron Ekblad",
@@ -5135,16 +5185,6 @@
         "pim": "0",
         "pm": "2"
     },
-    "Axel Jonsson Fj\u00e4llby": {
-        "name": "Axel Jonsson Fj\u00e4llby",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/246070/axel-jonsson-fjallby",
-        "team": " Winnipeg Jets ",
-        "g": "1",
-        "a": "0",
-        "pim": "2",
-        "pm": "1"
-    },
     "Juraj Slafkovsk\u00fd": {
         "name": "Juraj Slafkovsk\u00fd",
         "pos": "F",
@@ -5154,16 +5194,6 @@
         "a": "0",
         "pim": "2",
         "pm": "0"
-    },
-    "Cal Foote": {
-        "name": "Cal Foote",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/247895/cal-foote",
-        "team": " Tampa Bay Lightning ",
-        "g": "1",
-        "a": "0",
-        "pim": "0",
-        "pm": "3"
     },
     "Ryan O'Reilly": {
         "name": "Ryan O'Reilly",
@@ -5175,25 +5205,25 @@
         "pim": "0",
         "pm": "-8"
     },
-    "Jesper Fast": {
-        "name": "Jesper Fast",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/10967/jesper-fast",
-        "team": " Carolina Hurricanes ",
+    "Cal Foote": {
+        "name": "Cal Foote",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/247895/cal-foote",
+        "team": " Tampa Bay Lightning ",
         "g": "1",
         "a": "0",
         "pim": "0",
-        "pm": "-1"
+        "pm": "3"
     },
-    "Josh Bailey": {
-        "name": "Josh Bailey",
+    "Trevor Lewis": {
+        "name": "Trevor Lewis",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/14013/josh-bailey",
-        "team": " New York Islanders ",
+        "href": "https://www.eliteprospects.com/player/10461/trevor-lewis",
+        "team": " Calgary Flames ",
         "g": "1",
         "a": "0",
-        "pim": "0",
-        "pm": "1"
+        "pim": "2",
+        "pm": "2"
     },
     "Ivan Barbashev": {
         "name": "Ivan Barbashev",
@@ -5205,15 +5235,15 @@
         "pim": "2",
         "pm": "0"
     },
-    "Nathan Bastian": {
-        "name": "Nathan Bastian",
+    "Axel Jonsson Fj\u00e4llby": {
+        "name": "Axel Jonsson Fj\u00e4llby",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/245157/nathan-bastian",
-        "team": " New Jersey Devils ",
+        "href": "https://www.eliteprospects.com/player/246070/axel-jonsson-fjallby",
+        "team": " Winnipeg Jets ",
         "g": "1",
         "a": "0",
         "pim": "2",
-        "pm": "-1"
+        "pm": "1"
     },
     "Jordan Kyrou": {
         "name": "Jordan Kyrou",
@@ -5235,35 +5265,6 @@
         "pim": "2",
         "pm": "2"
     },
-    "Trevor Lewis": {
-        "name": "Trevor Lewis",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/10461/trevor-lewis",
-        "team": " Calgary Flames ",
-        "g": "1",
-        "a": "0",
-        "pim": "2",
-        "pm": "2"
-    },
-    "Cal Clutterbuck": {
-        "name": "Cal Clutterbuck",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/9359/cal-clutterbuck",
-        "team": " New York Islanders ",
-        "g": "1",
-        "a": "0",
-        "pim": "4",
-        "pm": "2"
-    },
-    "Dryden Hunt": {
-        "name": "Dryden Hunt",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/84609/dryden-hunt",
-        "g": "1",
-        "a": "0",
-        "pim": "4",
-        "pm": "-2"
-    },
     "Jake Neighbours": {
         "name": "Jake Neighbours",
         "pos": "F",
@@ -5273,16 +5274,6 @@
         "a": "0",
         "pim": "4",
         "pm": "-4"
-    },
-    "Jack McBain": {
-        "name": "Jack McBain",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/363685/jack-mcbain",
-        "team": " Arizona Coyotes ",
-        "g": "1",
-        "a": "0",
-        "pim": "6",
-        "pm": "-3"
     },
     "Nikita Zadorov": {
         "name": "Nikita Zadorov",
@@ -5294,25 +5285,15 @@
         "pim": "8",
         "pm": "4"
     },
-    "Zack Kassian": {
-        "name": "Zack Kassian",
+    "Jesper Fast": {
+        "name": "Jesper Fast",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/15390/zack-kassian",
-        "team": " Arizona Coyotes ",
-        "g": "1",
-        "a": "0",
-        "pim": "9",
-        "pm": "-4"
-    },
-    "Josh Archibald": {
-        "name": "Josh Archibald",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/122788/josh-archibald",
-        "team": " Pittsburgh Penguins ",
+        "href": "https://www.eliteprospects.com/player/10967/jesper-fast",
+        "team": " Carolina Hurricanes ",
         "g": "1",
         "a": "0",
         "pim": "0",
-        "pm": "1"
+        "pm": "-1"
     },
     "Noah Cates": {
         "name": "Noah Cates",
@@ -5324,25 +5305,25 @@
         "pim": "0",
         "pm": "1"
     },
-    "Nate Schmidt": {
-        "name": "Nate Schmidt",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/38039/nate-schmidt",
-        "team": " Winnipeg Jets ",
-        "g": "1",
-        "a": "0",
-        "pim": "0",
-        "pm": "1"
-    },
-    "Brock McGinn": {
-        "name": "Brock McGinn",
+    "Jujhar Khaira": {
+        "name": "Jujhar Khaira",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/76486/brock-mcginn",
-        "team": " Pittsburgh Penguins ",
+        "href": "https://www.eliteprospects.com/player/93577/jujhar-khaira",
+        "team": " Chicago Blackhawks ",
         "g": "1",
         "a": "0",
         "pim": "2",
         "pm": "0"
+    },
+    "Nathan Bastian": {
+        "name": "Nathan Bastian",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/245157/nathan-bastian",
+        "team": " New Jersey Devils ",
+        "g": "1",
+        "a": "0",
+        "pim": "2",
+        "pm": "-1"
     },
     "Curtis Lazar": {
         "name": "Curtis Lazar",
@@ -5354,15 +5335,15 @@
         "pim": "2",
         "pm": "3"
     },
-    "Jujhar Khaira": {
-        "name": "Jujhar Khaira",
+    "Cal Clutterbuck": {
+        "name": "Cal Clutterbuck",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/93577/jujhar-khaira",
-        "team": " Chicago Blackhawks ",
+        "href": "https://www.eliteprospects.com/player/9359/cal-clutterbuck",
+        "team": " New York Islanders ",
         "g": "1",
         "a": "0",
-        "pim": "2",
-        "pm": "0"
+        "pim": "4",
+        "pm": "3"
     },
     "Connor Murphy": {
         "name": "Connor Murphy",
@@ -5374,6 +5355,15 @@
         "pim": "4",
         "pm": "3"
     },
+    "Dryden Hunt": {
+        "name": "Dryden Hunt",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/84609/dryden-hunt",
+        "g": "1",
+        "a": "0",
+        "pim": "4",
+        "pm": "-2"
+    },
     "Wade Allison": {
         "name": "Wade Allison",
         "pos": "F",
@@ -5384,55 +5374,25 @@
         "pim": "4",
         "pm": "0"
     },
-    "Derek Grant": {
-        "name": "Derek Grant",
+    "Zack Kassian": {
+        "name": "Zack Kassian",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/18242/derek-grant",
-        "team": " Anaheim Ducks ",
+        "href": "https://www.eliteprospects.com/player/15390/zack-kassian",
+        "team": " Arizona Coyotes ",
         "g": "1",
         "a": "0",
-        "pim": "6",
-        "pm": "-1"
+        "pim": "13",
+        "pm": "-5"
     },
-    "Miles Wood": {
-        "name": "Miles Wood",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/131890/miles-wood",
-        "team": " New Jersey Devils ",
-        "g": "1",
-        "a": "0",
-        "pim": "6",
-        "pm": "1"
-    },
-    "Kyle Burroughs": {
-        "name": "Kyle Burroughs",
+    "Nate Schmidt": {
+        "name": "Nate Schmidt",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/87758/kyle-burroughs",
-        "team": " Vancouver Canucks ",
+        "href": "https://www.eliteprospects.com/player/38039/nate-schmidt",
+        "team": " Winnipeg Jets ",
         "g": "1",
         "a": "0",
-        "pim": "10",
-        "pm": "-3"
-    },
-    "Josh Manson": {
-        "name": "Josh Manson",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/47762/josh-manson",
-        "team": " Colorado Avalanche ",
-        "g": "1",
-        "a": "0",
-        "pim": "17",
-        "pm": "-1"
-    },
-    "Maxime Comtois": {
-        "name": "Maxime Comtois",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/201534/maxime-comtois",
-        "team": " Anaheim Ducks ",
-        "g": "1",
-        "a": "0",
-        "pim": "28",
-        "pm": "-1"
+        "pim": "0",
+        "pm": "0"
     },
     "Keegan Kolesar": {
         "name": "Keegan Kolesar",
@@ -5443,6 +5403,16 @@
         "a": "0",
         "pim": "0",
         "pm": "-1"
+    },
+    "Brock McGinn": {
+        "name": "Brock McGinn",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/76486/brock-mcginn",
+        "team": " Pittsburgh Penguins ",
+        "g": "1",
+        "a": "0",
+        "pim": "2",
+        "pm": "0"
     },
     "Jesse Puljuj\u00e4rvi": {
         "name": "Jesse Puljuj\u00e4rvi",
@@ -5464,6 +5434,16 @@
         "pim": "4",
         "pm": "3"
     },
+    "Josh Archibald": {
+        "name": "Josh Archibald",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/122788/josh-archibald",
+        "team": " Pittsburgh Penguins ",
+        "g": "1",
+        "a": "0",
+        "pim": "4",
+        "pm": "1"
+    },
     "Patric H\u00f6rnqvist": {
         "name": "Patric H\u00f6rnqvist",
         "pos": "F",
@@ -5473,6 +5453,16 @@
         "a": "0",
         "pim": "6",
         "pm": "0"
+    },
+    "Derek Grant": {
+        "name": "Derek Grant",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/18242/derek-grant",
+        "team": " Anaheim Ducks ",
+        "g": "1",
+        "a": "0",
+        "pim": "6",
+        "pm": "-2"
     },
     "Justin Holl": {
         "name": "Justin Holl",
@@ -5484,6 +5474,26 @@
         "pim": "6",
         "pm": "0"
     },
+    "Miles Wood": {
+        "name": "Miles Wood",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/131890/miles-wood",
+        "team": " New Jersey Devils ",
+        "g": "1",
+        "a": "0",
+        "pim": "8",
+        "pm": "1"
+    },
+    "Kyle Burroughs": {
+        "name": "Kyle Burroughs",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/87758/kyle-burroughs",
+        "team": " Vancouver Canucks ",
+        "g": "1",
+        "a": "0",
+        "pim": "12",
+        "pm": "-3"
+    },
     "Jani Hakanp\u00e4\u00e4": {
         "name": "Jani Hakanp\u00e4\u00e4",
         "pos": "D",
@@ -5493,6 +5503,26 @@
         "a": "0",
         "pim": "19",
         "pm": "1"
+    },
+    "Josh Manson": {
+        "name": "Josh Manson",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/47762/josh-manson",
+        "team": " Colorado Avalanche ",
+        "g": "1",
+        "a": "0",
+        "pim": "19",
+        "pm": "-1"
+    },
+    "Maxime Comtois": {
+        "name": "Maxime Comtois",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/201534/maxime-comtois",
+        "team": " Anaheim Ducks ",
+        "g": "1",
+        "a": "0",
+        "pim": "28",
+        "pm": "-1"
     },
     "Radim Simek": {
         "name": "Radim Simek",
@@ -5512,27 +5542,7 @@
         "g": "0",
         "a": "1",
         "pim": "0",
-        "pm": "-1"
-    },
-    "Samuel Poulin": {
-        "name": "Samuel Poulin",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/290171/samuel-poulin",
-        "team": " Pittsburgh Penguins ",
-        "g": "0",
-        "a": "1",
-        "pim": "2",
-        "pm": "-2"
-    },
-    "Fabian Zetterlund": {
-        "name": "Fabian Zetterlund",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/265608/fabian-zetterlund",
-        "team": " New Jersey Devils ",
-        "g": "0",
-        "a": "1",
-        "pim": "0",
-        "pm": "2"
+        "pm": "0"
     },
     "Tyler Bertuzzi": {
         "name": "Tyler Bertuzzi",
@@ -5563,6 +5573,16 @@
         "a": "1",
         "pim": "0",
         "pm": "1"
+    },
+    "Patrik Nemeth": {
+        "name": "Patrik Nemeth",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/10383/patrik-nemeth",
+        "team": " Arizona Coyotes ",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "-1"
     },
     "Wayne Simmonds": {
         "name": "Wayne Simmonds",
@@ -5604,6 +5624,16 @@
         "pim": "2",
         "pm": "1"
     },
+    "Samuel Poulin": {
+        "name": "Samuel Poulin",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/290171/samuel-poulin",
+        "team": " Pittsburgh Penguins ",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "-2"
+    },
     "Tucker Poolman": {
         "name": "Tucker Poolman",
         "pos": "D",
@@ -5613,6 +5643,26 @@
         "a": "1",
         "pim": "0",
         "pm": "1"
+    },
+    "Guillaume Brisebois": {
+        "name": "Guillaume Brisebois",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/213397/guillaume-brisebois",
+        "team": " Vancouver Canucks ",
+        "g": "0",
+        "a": "1",
+        "pim": "0",
+        "pm": "1"
+    },
+    "Fabian Zetterlund": {
+        "name": "Fabian Zetterlund",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/265608/fabian-zetterlund",
+        "team": " New Jersey Devils ",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "2"
     },
     "Haydn Fleury": {
         "name": "Haydn Fleury",
@@ -5634,16 +5684,6 @@
         "pim": "2",
         "pm": "0"
     },
-    "Jakub Lauko": {
-        "name": "Jakub Lauko",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/273830/jakub-lauko",
-        "team": " Boston Bruins ",
-        "g": "0",
-        "a": "1",
-        "pim": "2",
-        "pm": "1"
-    },
     "Henri Jokiharju": {
         "name": "Henri Jokiharju",
         "pos": "D",
@@ -5664,21 +5704,21 @@
         "pim": "8",
         "pm": "3"
     },
-    "Jack Quinn": {
-        "name": "Jack Quinn",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/336828/jack-quinn",
-        "team": " Buffalo Sabres ",
-        "g": "0",
-        "a": "1",
-        "pim": "0",
-        "pm": "2"
-    },
     "Shane Wright": {
         "name": "Shane Wright",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/526239/shane-wright",
         "team": " Seattle Kraken ",
+        "g": "0",
+        "a": "1",
+        "pim": "0",
+        "pm": "2"
+    },
+    "Jack Quinn": {
+        "name": "Jack Quinn",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/336828/jack-quinn",
+        "team": " Buffalo Sabres ",
         "g": "0",
         "a": "1",
         "pim": "0",
@@ -5704,6 +5744,16 @@
         "pim": "2",
         "pm": "1"
     },
+    "Jakub Lauko": {
+        "name": "Jakub Lauko",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/273830/jakub-lauko",
+        "team": " Boston Bruins ",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "1"
+    },
     "Peyton Krebs": {
         "name": "Peyton Krebs",
         "pos": "F",
@@ -5713,26 +5763,6 @@
         "a": "1",
         "pim": "4",
         "pm": "0"
-    },
-    "Tyler Myers": {
-        "name": "Tyler Myers",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/17521/tyler-myers",
-        "team": " Vancouver Canucks ",
-        "g": "0",
-        "a": "1",
-        "pim": "6",
-        "pm": "0"
-    },
-    "Derek Stepan": {
-        "name": "Derek Stepan",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/19040/derek-stepan",
-        "team": " Carolina Hurricanes ",
-        "g": "0",
-        "a": "1",
-        "pim": "0",
-        "pm": "3"
     },
     "Tyson Jost": {
         "name": "Tyson Jost",
@@ -5764,36 +5794,6 @@
         "pim": "0",
         "pm": "-2"
     },
-    "Jordan Staal": {
-        "name": "Jordan Staal",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/10157/jordan-staal",
-        "team": " Carolina Hurricanes ",
-        "g": "0",
-        "a": "1",
-        "pim": "2",
-        "pm": "-1"
-    },
-    "Brett Pesce": {
-        "name": "Brett Pesce",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/121869/brett-pesce",
-        "team": " Carolina Hurricanes ",
-        "g": "0",
-        "a": "1",
-        "pim": "2",
-        "pm": "9"
-    },
-    "Nils H\u00f6glander": {
-        "name": "Nils H\u00f6glander",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/311906/nils-hoglander",
-        "team": " Vancouver Canucks ",
-        "g": "0",
-        "a": "1",
-        "pim": "2",
-        "pm": "-2"
-    },
     "Philippe Myers": {
         "name": "Philippe Myers",
         "pos": "D",
@@ -5814,45 +5814,15 @@
         "pim": "10",
         "pm": "2"
     },
-    "Liam O'Brien": {
-        "name": "Liam O'Brien",
+    "Jimmy Vesey": {
+        "name": "Jimmy Vesey",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/84724/liam-o-brien",
-        "team": " Arizona Coyotes ",
-        "g": "0",
-        "a": "1",
-        "pim": "14",
-        "pm": "-2"
-    },
-    "Adam Henrique": {
-        "name": "Adam Henrique",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/19043/adam-henrique",
-        "team": " Anaheim Ducks ",
-        "g": "0",
-        "a": "1",
-        "pim": "0",
-        "pm": "-3"
-    },
-    "Dylan DeMelo": {
-        "name": "Dylan DeMelo",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/45603/dylan-demelo",
-        "team": " Winnipeg Jets ",
+        "href": "https://www.eliteprospects.com/player/121865/jimmy-vesey",
+        "team": " New York Rangers ",
         "g": "0",
         "a": "1",
         "pim": "0",
         "pm": "1"
-    },
-    "Saku M\u00e4enalanen": {
-        "name": "Saku M\u00e4enalanen",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/73109/saku-maenalanen",
-        "team": " Winnipeg Jets ",
-        "g": "0",
-        "a": "1",
-        "pim": "0",
-        "pm": "0"
     },
     "Mike Reilly": {
         "name": "Mike Reilly",
@@ -5864,15 +5834,65 @@
         "pim": "0",
         "pm": "2"
     },
-    "Jimmy Vesey": {
-        "name": "Jimmy Vesey",
+    "Derek Stepan": {
+        "name": "Derek Stepan",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/121865/jimmy-vesey",
-        "team": " New York Rangers ",
+        "href": "https://www.eliteprospects.com/player/19040/derek-stepan",
+        "team": " Carolina Hurricanes ",
         "g": "0",
         "a": "1",
         "pim": "0",
-        "pm": "1"
+        "pm": "2"
+    },
+    "Jordan Staal": {
+        "name": "Jordan Staal",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/10157/jordan-staal",
+        "team": " Carolina Hurricanes ",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "-2"
+    },
+    "Ryan Murray": {
+        "name": "Ryan Murray",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/41768/ryan-murray",
+        "team": " Edmonton Oilers ",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "-4"
+    },
+    "Ryan Carpenter": {
+        "name": "Ryan Carpenter",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/46952/ryan-carpenter",
+        "team": " New York Rangers ",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "-4"
+    },
+    "Derek Ryan": {
+        "name": "Derek Ryan",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/67660/derek-ryan",
+        "team": " Edmonton Oilers ",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "0"
+    },
+    "Gustav Lindstr\u00f6m": {
+        "name": "Gustav Lindstr\u00f6m",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/212379/gustav-lindstrom",
+        "team": " Detroit Red Wings ",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "-2"
     },
     "Moritz Seider": {
         "name": "Moritz Seider",
@@ -5886,75 +5906,15 @@
         "SOG": 16,
         "TPM": 152.95
     },
-    "Nicolas Hague": {
-        "name": "Nicolas Hague",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/253977/nicolas-hague",
-        "team": " Vegas Golden Knights ",
-        "g": "0",
-        "a": "1",
-        "pim": "2",
-        "pm": "2"
-    },
-    "Gustav Lindstr\u00f6m": {
-        "name": "Gustav Lindstr\u00f6m",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/212379/gustav-lindstrom",
-        "team": " Detroit Red Wings ",
+    "Nils H\u00f6glander": {
+        "name": "Nils H\u00f6glander",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/311906/nils-hoglander",
+        "team": " Vancouver Canucks ",
         "g": "0",
         "a": "1",
         "pim": "2",
         "pm": "-2"
-    },
-    "Ryan Carpenter": {
-        "name": "Ryan Carpenter",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/46952/ryan-carpenter",
-        "team": " New York Rangers ",
-        "g": "0",
-        "a": "1",
-        "pim": "2",
-        "pm": "-4"
-    },
-    "Ryan Murray": {
-        "name": "Ryan Murray",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/41768/ryan-murray",
-        "team": " Edmonton Oilers ",
-        "g": "0",
-        "a": "1",
-        "pim": "2",
-        "pm": "-4"
-    },
-    "Cam Fowler": {
-        "name": "Cam Fowler",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/31261/cam-fowler",
-        "team": " Anaheim Ducks ",
-        "g": "0",
-        "a": "1",
-        "pim": "2",
-        "pm": "-1"
-    },
-    "Derek Ryan": {
-        "name": "Derek Ryan",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/67660/derek-ryan",
-        "team": " Edmonton Oilers ",
-        "g": "0",
-        "a": "1",
-        "pim": "2",
-        "pm": "0"
-    },
-    "J.T. Compher": {
-        "name": "J.T. Compher",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/114800/j.t.-compher",
-        "team": " Colorado Avalanche ",
-        "g": "0",
-        "a": "1",
-        "pim": "4",
-        "pm": "1"
     },
     "MacKenzie Entwistle": {
         "name": "MacKenzie Entwistle",
@@ -5976,15 +5936,15 @@
         "pim": "5",
         "pm": "2"
     },
-    "Kevin Shattenkirk": {
-        "name": "Kevin Shattenkirk",
+    "Troy Stecher": {
+        "name": "Troy Stecher",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/11460/kevin-shattenkirk",
-        "team": " Anaheim Ducks ",
+        "href": "https://www.eliteprospects.com/player/59042/troy-stecher",
+        "team": " Arizona Coyotes ",
         "g": "0",
         "a": "1",
         "pim": "6",
-        "pm": "1"
+        "pm": "-6"
     },
     "Warren Foegele": {
         "name": "Warren Foegele",
@@ -5996,16 +5956,6 @@
         "pim": "6",
         "pm": "0"
     },
-    "Max Jones": {
-        "name": "Max Jones",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/233448/max-jones",
-        "team": " Anaheim Ducks ",
-        "g": "0",
-        "a": "1",
-        "pim": "8",
-        "pm": "-2"
-    },
     "Travis Hamonic": {
         "name": "Travis Hamonic",
         "pos": "D",
@@ -6015,6 +5965,16 @@
         "a": "1",
         "pim": "10",
         "pm": "7"
+    },
+    "Liam O'Brien": {
+        "name": "Liam O'Brien",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/84724/liam-o-brien",
+        "team": " Arizona Coyotes ",
+        "g": "0",
+        "a": "1",
+        "pim": "14",
+        "pm": "0"
     },
     "Nicolas Deslauriers": {
         "name": "Nicolas Deslauriers",
@@ -6026,15 +5986,55 @@
         "pim": "17",
         "pm": "0"
     },
-    "Christian Dvorak": {
-        "name": "Christian Dvorak",
+    "Pierre-\u00c9douard Bellemare": {
+        "name": "Pierre-\u00c9douard Bellemare",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/194889/christian-dvorak",
-        "team": " Montr\u00e9al Canadiens ",
+        "href": "https://www.eliteprospects.com/player/8339/pierre-edouard-bellemare",
+        "team": " Tampa Bay Lightning ",
         "g": "0",
         "a": "1",
         "pim": "0",
-        "pm": "-1"
+        "pm": "-5"
+    },
+    "Casey Cizikas": {
+        "name": "Casey Cizikas",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/14960/casey-cizikas",
+        "team": " New York Islanders ",
+        "g": "0",
+        "a": "1",
+        "pim": "0",
+        "pm": "3"
+    },
+    "Adam Henrique": {
+        "name": "Adam Henrique",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/19043/adam-henrique",
+        "team": " Anaheim Ducks ",
+        "g": "0",
+        "a": "1",
+        "pim": "0",
+        "pm": "-4"
+    },
+    "Dylan DeMelo": {
+        "name": "Dylan DeMelo",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/45603/dylan-demelo",
+        "team": " Winnipeg Jets ",
+        "g": "0",
+        "a": "1",
+        "pim": "0",
+        "pm": "1"
+    },
+    "Saku M\u00e4enalanen": {
+        "name": "Saku M\u00e4enalanen",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/73109/saku-maenalanen",
+        "team": " Winnipeg Jets ",
+        "g": "0",
+        "a": "1",
+        "pim": "0",
+        "pm": "0"
     },
     "Jake Evans": {
         "name": "Jake Evans",
@@ -6046,15 +6046,15 @@
         "pim": "0",
         "pm": "-1"
     },
-    "Pierre-\u00c9douard Bellemare": {
-        "name": "Pierre-\u00c9douard Bellemare",
+    "Christian Dvorak": {
+        "name": "Christian Dvorak",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/8339/pierre-edouard-bellemare",
-        "team": " Tampa Bay Lightning ",
+        "href": "https://www.eliteprospects.com/player/194889/christian-dvorak",
+        "team": " Montr\u00e9al Canadiens ",
         "g": "0",
         "a": "1",
         "pim": "0",
-        "pm": "-5"
+        "pm": "-1"
     },
     "Jordan Harris": {
         "name": "Jordan Harris",
@@ -6066,15 +6066,25 @@
         "pim": "2",
         "pm": "3"
     },
-    "Alec Martinez": {
-        "name": "Alec Martinez",
+    "Cam Fowler": {
+        "name": "Cam Fowler",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/12531/alec-martinez",
-        "team": " Vegas Golden Knights ",
+        "href": "https://www.eliteprospects.com/player/31261/cam-fowler",
+        "team": " Anaheim Ducks ",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "-2"
+    },
+    "Alexander Romanov": {
+        "name": "Alexander Romanov",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/396529/alexander-romanov",
+        "team": " New York Islanders ",
         "g": "0",
         "a": "1",
         "pim": "4",
-        "pm": "1"
+        "pm": "4"
     },
     "T.J. Brodie": {
         "name": "T.J. Brodie",
@@ -6096,15 +6106,15 @@
         "pim": "4",
         "pm": "4"
     },
-    "Tomas Nosek": {
-        "name": "Tomas Nosek",
+    "J.T. Compher": {
+        "name": "J.T. Compher",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/102439/tomas-nosek",
-        "team": " Boston Bruins ",
+        "href": "https://www.eliteprospects.com/player/114800/j.t.-compher",
+        "team": " Colorado Avalanche ",
         "g": "0",
         "a": "1",
         "pim": "4",
-        "pm": "3"
+        "pm": "1"
     },
     "Martin Feh\u00e9rv\u00e1ry": {
         "name": "Martin Feh\u00e9rv\u00e1ry",
@@ -6136,6 +6146,16 @@
         "pim": "6",
         "pm": "5"
     },
+    "Kevin Shattenkirk": {
+        "name": "Kevin Shattenkirk",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/11460/kevin-shattenkirk",
+        "team": " Anaheim Ducks ",
+        "g": "0",
+        "a": "1",
+        "pim": "6",
+        "pm": "-1"
+    },
     "Chris Wideman": {
         "name": "Chris Wideman",
         "pos": "D",
@@ -6145,16 +6165,6 @@
         "a": "1",
         "pim": "6",
         "pm": "3"
-    },
-    "Cole Sillinger": {
-        "name": "Cole Sillinger",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/201844/cole-sillinger",
-        "team": " Columbus Blue Jackets ",
-        "g": "0",
-        "a": "1",
-        "pim": "6",
-        "pm": "-1"
     },
     "Mathieu Olivier": {
         "name": "Mathieu Olivier",
@@ -6176,6 +6186,46 @@
         "pim": "8",
         "pm": "-1"
     },
+    "Max Jones": {
+        "name": "Max Jones",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/233448/max-jones",
+        "team": " Anaheim Ducks ",
+        "g": "0",
+        "a": "1",
+        "pim": "13",
+        "pm": "-3"
+    },
+    "Alec Martinez": {
+        "name": "Alec Martinez",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/12531/alec-martinez",
+        "team": " Vegas Golden Knights ",
+        "g": "0",
+        "a": "1",
+        "pim": "4",
+        "pm": "2"
+    },
+    "Tomas Nosek": {
+        "name": "Tomas Nosek",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/102439/tomas-nosek",
+        "team": " Boston Bruins ",
+        "g": "0",
+        "a": "1",
+        "pim": "6",
+        "pm": "3"
+    },
+    "Cole Sillinger": {
+        "name": "Cole Sillinger",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/201844/cole-sillinger",
+        "team": " Columbus Blue Jackets ",
+        "g": "0",
+        "a": "1",
+        "pim": "6",
+        "pm": "-1"
+    },
     "Matt Benning": {
         "name": "Matt Benning",
         "pos": "D",
@@ -6186,45 +6236,15 @@
         "pim": "10",
         "pm": "-5"
     },
-    "Colton White": {
-        "name": "Colton White",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/204911/colton-white",
-        "team": " Anaheim Ducks ",
+    "Jordan Greenway": {
+        "name": "Jordan Greenway",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/183455/jordan-greenway",
+        "team": " Minnesota Wild ",
         "g": "0",
         "a": "0",
         "pim": "0",
         "pm": "-1"
-    },
-    "Eric Staal": {
-        "name": "Eric Staal",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/3656/eric-staal",
-        "team": " Florida Panthers ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "0"
-    },
-    "Mikhail Maltsev": {
-        "name": "Mikhail Maltsev",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/312218/mikhail-maltsev",
-        "team": " Colorado Avalanche ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "0"
-    },
-    "Jacob Peterson": {
-        "name": "Jacob Peterson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/313350/jacob-peterson",
-        "team": " Dallas Stars ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "-2"
     },
     "Gabriel Fortier": {
         "name": "Gabriel Fortier",
@@ -6245,6 +6265,26 @@
         "a": "0",
         "pim": "0",
         "pm": "0"
+    },
+    "David Jiricek": {
+        "name": "David Jiricek",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/559522/david-jiricek",
+        "team": " Columbus Blue Jackets ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "-1"
+    },
+    "Jacob Peterson": {
+        "name": "Jacob Peterson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/313350/jacob-peterson",
+        "team": " Dallas Stars ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "-2"
     },
     "Kieffer Bellows": {
         "name": "Kieffer Bellows",
@@ -6275,21 +6315,21 @@
         "pim": "0",
         "pm": "0"
     },
-    "Jesper Boqvist": {
-        "name": "Jesper Boqvist",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/212690/jesper-boqvist",
-        "team": " New Jersey Devils ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "-1"
-    },
     "Lucas Carlsson": {
         "name": "Lucas Carlsson",
         "pos": "D",
         "href": "https://www.eliteprospects.com/player/212334/lucas-carlsson",
         "team": " Florida Panthers ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "-1"
+    },
+    "Colton White": {
+        "name": "Colton White",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/204911/colton-white",
+        "team": " Anaheim Ducks ",
         "g": "0",
         "a": "0",
         "pim": "0",
@@ -6305,15 +6345,15 @@
         "pim": "0",
         "pm": "0"
     },
-    "Jordan Greenway": {
-        "name": "Jordan Greenway",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/183455/jordan-greenway",
-        "team": " Minnesota Wild ",
+    "Gavin Bayreuther": {
+        "name": "Gavin Bayreuther",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/178941/gavin-bayreuther",
+        "team": " Columbus Blue Jackets ",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "-1"
+        "pm": "0"
     },
     "Ondrej Kase": {
         "name": "Ondrej Kase",
@@ -6375,30 +6415,20 @@
         "pim": "0",
         "pm": "0"
     },
-    "Jacob MacDonald": {
-        "name": "Jacob MacDonald",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/60064/jacob-macdonald",
-        "team": " Colorado Avalanche ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "1"
-    },
-    "Anton Str\u00e5lman": {
-        "name": "Anton Str\u00e5lman",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/4152/anton-stralman",
-        "team": " Boston Bruins ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "-2"
-    },
-    "Olle Lycksell": {
-        "name": "Olle Lycksell",
+    "Eric Staal": {
+        "name": "Eric Staal",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/265290/olle-lycksell",
+        "href": "https://www.eliteprospects.com/player/3656/eric-staal",
+        "team": " Florida Panthers ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Rasmus Ristolainen": {
+        "name": "Rasmus Ristolainen",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/43497/rasmus-ristolainen",
         "team": " Philadelphia Flyers ",
         "g": "0",
         "a": "0",
@@ -6415,25 +6445,15 @@
         "pim": "2",
         "pm": "0"
     },
-    "Rasmus Ristolainen": {
-        "name": "Rasmus Ristolainen",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/43497/rasmus-ristolainen",
-        "team": " Philadelphia Flyers ",
+    "Jake Leschyshyn": {
+        "name": "Jake Leschyshyn",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/279125/jake-leschyshyn",
+        "team": " Vegas Golden Knights ",
         "g": "0",
         "a": "0",
         "pim": "2",
         "pm": "0"
-    },
-    "Patrik Nemeth": {
-        "name": "Patrik Nemeth",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/10383/patrik-nemeth",
-        "team": " Arizona Coyotes ",
-        "g": "0",
-        "a": "0",
-        "pim": "2",
-        "pm": "-2"
     },
     "Ross Johnston": {
         "name": "Ross Johnston",
@@ -6444,6 +6464,16 @@
         "a": "0",
         "pim": "2",
         "pm": "-1"
+    },
+    "Olle Lycksell": {
+        "name": "Olle Lycksell",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/265290/olle-lycksell",
+        "team": " Philadelphia Flyers ",
+        "g": "0",
+        "a": "0",
+        "pim": "2",
+        "pm": "0"
     },
     "Jack Studnicka": {
         "name": "Jack Studnicka",
@@ -6464,15 +6494,15 @@
         "pim": "5",
         "pm": "0"
     },
-    "Dylan Samberg": {
-        "name": "Dylan Samberg",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/201527/dylan-samberg",
-        "team": " Winnipeg Jets ",
+    "Joe Snively": {
+        "name": "Joe Snively",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/193445/joe-snively",
+        "team": " Washington Capitals ",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "-2"
+        "pm": "1"
     },
     "Jaret Anderson-Dolan": {
         "name": "Jaret Anderson-Dolan",
@@ -6504,11 +6534,11 @@
         "pim": "0",
         "pm": "-1"
     },
-    "Guillaume Brisebois": {
-        "name": "Guillaume Brisebois",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/213397/guillaume-brisebois",
-        "team": " Vancouver Canucks ",
+    "Jesper Boqvist": {
+        "name": "Jesper Boqvist",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/212690/jesper-boqvist",
+        "team": " New Jersey Devils ",
         "g": "0",
         "a": "0",
         "pim": "0",
@@ -6524,16 +6554,6 @@
         "pim": "0",
         "pm": "-1"
     },
-    "Joe Snively": {
-        "name": "Joe Snively",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/193445/joe-snively",
-        "team": " Washington Capitals ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "1"
-    },
     "Mason Shaw": {
         "name": "Mason Shaw",
         "pos": "F",
@@ -6544,16 +6564,6 @@
         "pim": "0",
         "pm": "0"
     },
-    "Drake Caggiula": {
-        "name": "Drake Caggiula",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/97396/drake-caggiula",
-        "team": " Pittsburgh Penguins ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "-1"
-    },
     "Nikita Soshnikov": {
         "name": "Nikita Soshnikov",
         "pos": "F",
@@ -6563,6 +6573,16 @@
         "a": "0",
         "pim": "0",
         "pm": "-2"
+    },
+    "Jacob MacDonald": {
+        "name": "Jacob MacDonald",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/60064/jacob-macdonald",
+        "team": " Colorado Avalanche ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "1"
     },
     "Tyler Pitlick": {
         "name": "Tyler Pitlick",
@@ -6594,6 +6614,26 @@
         "pim": "0",
         "pm": "-1"
     },
+    "Mikhail Maltsev": {
+        "name": "Mikhail Maltsev",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/312218/mikhail-maltsev",
+        "team": " Colorado Avalanche ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Anton Str\u00e5lman": {
+        "name": "Anton Str\u00e5lman",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/4152/anton-stralman",
+        "team": " Boston Bruins ",
+        "g": "0",
+        "a": "0",
+        "pim": "2",
+        "pm": "-2"
+    },
     "Brad Malone": {
         "name": "Brad Malone",
         "pos": "F",
@@ -6613,16 +6653,6 @@
         "a": "0",
         "pim": "2",
         "pm": "1"
-    },
-    "Dylan Coghlan": {
-        "name": "Dylan Coghlan",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/247901/dylan-coghlan",
-        "team": " Carolina Hurricanes ",
-        "g": "0",
-        "a": "0",
-        "pim": "2",
-        "pm": "0"
     },
     "Chad Ruhwedel": {
         "name": "Chad Ruhwedel",
@@ -6644,16 +6674,6 @@
         "pim": "0",
         "pm": "-2"
     },
-    "Jayson Megna": {
-        "name": "Jayson Megna",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/46027/jayson-megna",
-        "team": " Colorado Avalanche ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "-1"
-    },
     "Josh Leivo": {
         "name": "Josh Leivo",
         "pos": "F",
@@ -6664,25 +6684,15 @@
         "pim": "0",
         "pm": "-1"
     },
-    "Simon Beno\u00eet": {
-        "name": "Simon Beno\u00eet",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/254891/simon-benoit",
-        "team": " Anaheim Ducks ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "1"
-    },
-    "Brett Leason": {
-        "name": "Brett Leason",
+    "Jayson Megna": {
+        "name": "Jayson Megna",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/257755/brett-leason",
-        "team": " Anaheim Ducks ",
+        "href": "https://www.eliteprospects.com/player/46027/jayson-megna",
+        "team": " Colorado Avalanche ",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "-3"
+        "pm": "-1"
     },
     "Vitali Kravtsov": {
         "name": "Vitali Kravtsov",
@@ -6704,11 +6714,11 @@
         "pim": "0",
         "pm": "0"
     },
-    "Jack Rathbone": {
-        "name": "Jack Rathbone",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/311766/jack-rathbone",
-        "team": " Vancouver Canucks ",
+    "Brett Leason": {
+        "name": "Brett Leason",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/257755/brett-leason",
+        "team": " Anaheim Ducks ",
         "g": "0",
         "a": "0",
         "pim": "0",
@@ -6724,6 +6734,26 @@
         "pim": "0",
         "pm": "-1"
     },
+    "Drake Caggiula": {
+        "name": "Drake Caggiula",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/97396/drake-caggiula",
+        "team": " Pittsburgh Penguins ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "-1"
+    },
+    "Dylan Samberg": {
+        "name": "Dylan Samberg",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/201527/dylan-samberg",
+        "team": " Winnipeg Jets ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "-2"
+    },
     "Jon Merrill": {
         "name": "Jon Merrill",
         "pos": "D",
@@ -6733,6 +6763,16 @@
         "a": "0",
         "pim": "2",
         "pm": "0"
+    },
+    "Dylan Coghlan": {
+        "name": "Dylan Coghlan",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/247901/dylan-coghlan",
+        "team": " Carolina Hurricanes ",
+        "g": "0",
+        "a": "0",
+        "pim": "2",
+        "pm": "-1"
     },
     "Kevin Bahl": {
         "name": "Kevin Bahl",
@@ -6744,25 +6784,15 @@
         "pim": "2",
         "pm": "0"
     },
-    "Nathan Beaulieu": {
-        "name": "Nathan Beaulieu",
+    "Adam Boqvist": {
+        "name": "Adam Boqvist",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/37422/nathan-beaulieu",
-        "team": " Anaheim Ducks ",
-        "g": "0",
-        "a": "0",
-        "pim": "4",
-        "pm": "-1"
-    },
-    "Victor Mete": {
-        "name": "Victor Mete",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/232703/victor-mete",
-        "team": " Toronto Maple Leafs ",
+        "href": "https://www.eliteprospects.com/player/265684/adam-boqvist",
+        "team": " Columbus Blue Jackets ",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "2"
+        "pm": "-1"
     },
     "Filip Roos": {
         "name": "Filip Roos",
@@ -6774,15 +6804,35 @@
         "pim": "0",
         "pm": "2"
     },
-    "Adam Boqvist": {
-        "name": "Adam Boqvist",
+    "Jack Rathbone": {
+        "name": "Jack Rathbone",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/265684/adam-boqvist",
-        "team": " Columbus Blue Jackets ",
+        "href": "https://www.eliteprospects.com/player/311766/jack-rathbone",
+        "team": " Vancouver Canucks ",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "-1"
+        "pm": "-2"
+    },
+    "Simon Beno\u00eet": {
+        "name": "Simon Beno\u00eet",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/254891/simon-benoit",
+        "team": " Anaheim Ducks ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
+    "Victor Mete": {
+        "name": "Victor Mete",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/232703/victor-mete",
+        "team": " Toronto Maple Leafs ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "2"
     },
     "Casey Fitzgerald": {
         "name": "Casey Fitzgerald",
@@ -6814,21 +6864,21 @@
         "pim": "0",
         "pm": "-5"
     },
-    "Martin Kaut": {
-        "name": "Martin Kaut",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/237068/martin-kaut",
-        "team": " Colorado Avalanche ",
-        "g": "0",
-        "a": "0",
-        "pim": "2",
-        "pm": "-1"
-    },
     "Dylan Holloway": {
         "name": "Dylan Holloway",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/322111/dylan-holloway",
         "team": " Edmonton Oilers ",
+        "g": "0",
+        "a": "0",
+        "pim": "4",
+        "pm": "-2"
+    },
+    "Nathan Beaulieu": {
+        "name": "Nathan Beaulieu",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/37422/nathan-beaulieu",
+        "team": " Anaheim Ducks ",
         "g": "0",
         "a": "0",
         "pim": "4",
@@ -6843,16 +6893,6 @@
         "a": "0",
         "pim": "5",
         "pm": "-2"
-    },
-    "Brandon Carlo": {
-        "name": "Brandon Carlo",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/120965/brandon-carlo",
-        "team": " Boston Bruins ",
-        "g": "0",
-        "a": "0",
-        "pim": "6",
-        "pm": "2"
     },
     "J\u00e9r\u00e9my Lauzon": {
         "name": "J\u00e9r\u00e9my Lauzon",
@@ -6894,6 +6934,16 @@
         "pim": "0",
         "pm": "2"
     },
+    "Dysin Mayo": {
+        "name": "Dysin Mayo",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/120638/dysin-mayo",
+        "team": " Arizona Coyotes ",
+        "g": "0",
+        "a": "0",
+        "pim": "2",
+        "pm": "-5"
+    },
     "Mattias Samuelsson": {
         "name": "Mattias Samuelsson",
         "pos": "D",
@@ -6934,15 +6984,25 @@
         "pim": "2",
         "pm": "0"
     },
-    "Dysin Mayo": {
-        "name": "Dysin Mayo",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/120638/dysin-mayo",
-        "team": " Arizona Coyotes ",
+    "Martin Kaut": {
+        "name": "Martin Kaut",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/237068/martin-kaut",
+        "team": " Colorado Avalanche ",
         "g": "0",
         "a": "0",
         "pim": "2",
-        "pm": "-5"
+        "pm": "-1"
+    },
+    "Matt Kiersted": {
+        "name": "Matt Kiersted",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/291904/matt-kiersted",
+        "team": " Florida Panthers ",
+        "g": "0",
+        "a": "0",
+        "pim": "4",
+        "pm": "2"
     },
     "Nicolas Aub\u00e9-Kubel": {
         "name": "Nicolas Aub\u00e9-Kubel",
@@ -6984,15 +7044,25 @@
         "pim": "4",
         "pm": "-2"
     },
-    "Matt Kiersted": {
-        "name": "Matt Kiersted",
+    "Logan Stanley": {
+        "name": "Logan Stanley",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/291904/matt-kiersted",
-        "team": " Florida Panthers ",
+        "href": "https://www.eliteprospects.com/player/240108/logan-stanley",
+        "team": " Winnipeg Jets ",
         "g": "0",
         "a": "0",
-        "pim": "4",
-        "pm": "2"
+        "pim": "6",
+        "pm": "0"
+    },
+    "Brandon Carlo": {
+        "name": "Brandon Carlo",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/120965/brandon-carlo",
+        "team": " Boston Bruins ",
+        "g": "0",
+        "a": "0",
+        "pim": "6",
+        "pm": "4"
     },
     "Ian Cole": {
         "name": "Ian Cole",
@@ -7003,16 +7073,6 @@
         "a": "0",
         "pim": "6",
         "pm": "-3"
-    },
-    "Logan Stanley": {
-        "name": "Logan Stanley",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/240108/logan-stanley",
-        "team": " Winnipeg Jets ",
-        "g": "0",
-        "a": "0",
-        "pim": "6",
-        "pm": "0"
     },
     "Riley Stillman": {
         "name": "Riley Stillman",
@@ -7034,45 +7094,6 @@
         "pim": "0",
         "pm": "-1"
     },
-    "Christopher Tanev": {
-        "name": "Christopher Tanev",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/39601/christopher-tanev",
-        "team": " Calgary Flames ",
-        "g": "0",
-        "a": "0",
-        "pim": "2",
-        "pm": "-1"
-    },
-    "Noel Acciari": {
-        "name": "Noel Acciari",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/214725/noel-acciari",
-        "team": " St. Louis Blues ",
-        "g": "0",
-        "a": "0",
-        "pim": "2",
-        "pm": "-2"
-    },
-    "Markus Niemel\u00e4inen": {
-        "name": "Markus Niemel\u00e4inen",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/175894/markus-niemelainen",
-        "team": " Edmonton Oilers ",
-        "g": "0",
-        "a": "0",
-        "pim": "2",
-        "pm": "0"
-    },
-    "Lukas Sedlak": {
-        "name": "Lukas Sedlak",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/56037/lukas-sedlak",
-        "g": "0",
-        "a": "0",
-        "pim": "2",
-        "pm": "2"
-    },
     "Alexei Toropchenko": {
         "name": "Alexei Toropchenko",
         "pos": "F",
@@ -7093,15 +7114,44 @@
         "pim": "2",
         "pm": "-2"
     },
-    "Troy Stecher": {
-        "name": "Troy Stecher",
+    "Christopher Tanev": {
+        "name": "Christopher Tanev",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/59042/troy-stecher",
-        "team": " Arizona Coyotes ",
+        "href": "https://www.eliteprospects.com/player/39601/christopher-tanev",
+        "team": " Calgary Flames ",
         "g": "0",
         "a": "0",
-        "pim": "4",
-        "pm": "-7"
+        "pim": "2",
+        "pm": "-1"
+    },
+    "Lukas Sedlak": {
+        "name": "Lukas Sedlak",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/56037/lukas-sedlak",
+        "g": "0",
+        "a": "0",
+        "pim": "2",
+        "pm": "2"
+    },
+    "Markus Niemel\u00e4inen": {
+        "name": "Markus Niemel\u00e4inen",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/175894/markus-niemelainen",
+        "team": " Edmonton Oilers ",
+        "g": "0",
+        "a": "0",
+        "pim": "2",
+        "pm": "0"
+    },
+    "Noel Acciari": {
+        "name": "Noel Acciari",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/214725/noel-acciari",
+        "team": " St. Louis Blues ",
+        "g": "0",
+        "a": "0",
+        "pim": "2",
+        "pm": "-2"
     },
     "Nathan Walker": {
         "name": "Nathan Walker",
@@ -7112,26 +7162,6 @@
         "a": "0",
         "pim": "4",
         "pm": "0"
-    },
-    "Barrett Hayton": {
-        "name": "Barrett Hayton",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/317885/barrett-hayton",
-        "team": " Arizona Coyotes ",
-        "g": "0",
-        "a": "0",
-        "pim": "4",
-        "pm": "-8"
-    },
-    "Jalen Chatfield": {
-        "name": "Jalen Chatfield",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/205562/jalen-chatfield",
-        "team": " Carolina Hurricanes ",
-        "g": "0",
-        "a": "0",
-        "pim": "5",
-        "pm": "-1"
     },
     "Alexander Edler": {
         "name": "Alexander Edler",
@@ -7163,6 +7193,16 @@
         "pim": "11",
         "pm": "-1"
     },
+    "Travis Sanheim": {
+        "name": "Travis Sanheim",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/120938/travis-sanheim",
+        "team": " Philadelphia Flyers ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
+    },
     "Devin Shore": {
         "name": "Devin Shore",
         "pos": "F",
@@ -7173,16 +7213,6 @@
         "pim": "0",
         "pm": "1"
     },
-    "Casey Cizikas": {
-        "name": "Casey Cizikas",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/14960/casey-cizikas",
-        "team": " New York Islanders ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "2"
-    },
     "Jakub Zboril": {
         "name": "Jakub Zboril",
         "pos": "D",
@@ -7192,16 +7222,6 @@
         "a": "0",
         "pim": "0",
         "pm": "1"
-    },
-    "Travis Sanheim": {
-        "name": "Travis Sanheim",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/120938/travis-sanheim",
-        "team": " Philadelphia Flyers ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "0"
     },
     "Nick Bonino": {
         "name": "Nick Bonino",
@@ -7233,16 +7253,6 @@
         "pim": "2",
         "pm": "-2"
     },
-    "Jamie Drysdale": {
-        "name": "Jamie Drysdale",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/201868/jamie-drysdale",
-        "team": " Anaheim Ducks ",
-        "g": "0",
-        "a": "0",
-        "pim": "2",
-        "pm": "-3"
-    },
     "Denis Guryanov": {
         "name": "Denis Guryanov",
         "pos": "F",
@@ -7263,24 +7273,34 @@
         "pim": "4",
         "pm": "-1"
     },
-    "Alexander Romanov": {
-        "name": "Alexander Romanov",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/396529/alexander-romanov",
-        "team": " New York Islanders ",
-        "g": "0",
-        "a": "0",
-        "pim": "4",
-        "pm": "1"
-    },
-    "Alex Newhook": {
-        "name": "Alex Newhook",
+    "Barrett Hayton": {
+        "name": "Barrett Hayton",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/320307/alex-newhook",
-        "team": " Colorado Avalanche ",
+        "href": "https://www.eliteprospects.com/player/317885/barrett-hayton",
+        "team": " Arizona Coyotes ",
         "g": "0",
         "a": "0",
         "pim": "4",
+        "pm": "-8"
+    },
+    "Jalen Chatfield": {
+        "name": "Jalen Chatfield",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/205562/jalen-chatfield",
+        "team": " Carolina Hurricanes ",
+        "g": "0",
+        "a": "0",
+        "pim": "5",
+        "pm": "-2"
+    },
+    "Erik Cernak": {
+        "name": "Erik Cernak",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/166368/erik-cernak",
+        "team": " Tampa Bay Lightning ",
+        "g": "0",
+        "a": "0",
+        "pim": "6",
         "pm": "-4"
     },
     "Jarred Tinordi": {
@@ -7292,16 +7312,6 @@
         "a": "0",
         "pim": "6",
         "pm": "1"
-    },
-    "Erik Cernak": {
-        "name": "Erik Cernak",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/166368/erik-cernak",
-        "team": " Tampa Bay Lightning ",
-        "g": "0",
-        "a": "0",
-        "pim": "6",
-        "pm": "-4"
     },
     "Justin Braun": {
         "name": "Justin Braun",
@@ -7323,26 +7333,6 @@
         "pim": "12",
         "pm": "1"
     },
-    "Brendan Smith": {
-        "name": "Brendan Smith",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/12506/brendan-smith",
-        "team": " New Jersey Devils ",
-        "g": "0",
-        "a": "0",
-        "pim": "15",
-        "pm": "-3"
-    },
-    "Braden Schneider": {
-        "name": "Braden Schneider",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/351820/braden-schneider",
-        "team": " New York Rangers ",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "-4"
-    },
     "Yevgeni Dadonov": {
         "name": "Yevgeni Dadonov",
         "pos": "F",
@@ -7362,6 +7352,16 @@
         "a": "0",
         "pim": "0",
         "pm": "0"
+    },
+    "Braden Schneider": {
+        "name": "Braden Schneider",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/351820/braden-schneider",
+        "team": " New York Rangers ",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "-4"
     },
     "Marc Staal": {
         "name": "Marc Staal",
@@ -7383,6 +7383,26 @@
         "pim": "2",
         "pm": "-1"
     },
+    "Jamie Drysdale": {
+        "name": "Jamie Drysdale",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/201868/jamie-drysdale",
+        "team": " Anaheim Ducks ",
+        "g": "0",
+        "a": "0",
+        "pim": "2",
+        "pm": "-3"
+    },
+    "Alex Newhook": {
+        "name": "Alex Newhook",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/320307/alex-newhook",
+        "team": " Colorado Avalanche ",
+        "g": "0",
+        "a": "0",
+        "pim": "4",
+        "pm": "-4"
+    },
     "Ryan Reaves": {
         "name": "Ryan Reaves",
         "pos": "F",
@@ -7392,6 +7412,16 @@
         "a": "0",
         "pim": "5",
         "pm": "-4"
+    },
+    "Brendan Smith": {
+        "name": "Brendan Smith",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/12506/brendan-smith",
+        "team": " New Jersey Devils ",
+        "g": "0",
+        "a": "0",
+        "pim": "15",
+        "pm": "-3"
     },
     "Colin Miller": {
         "name": "Colin Miller",
@@ -7413,81 +7443,11 @@
         "pim": "0",
         "pm": "-5"
     },
-    "Sam Carrick": {
-        "name": "Sam Carrick",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/32716/sam-carrick",
+    "John Moore": {
+        "name": "John Moore",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/30901/john-moore",
         "team": " Anaheim Ducks ",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
-    "Joonas Donskoi": {
-        "name": "Joonas Donskoi",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/16039/joonas-donskoi",
-        "team": " Seattle Kraken ",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
-    "Oscar Klefbom": {
-        "name": "Oscar Klefbom",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/16804/oscar-klefbom",
-        "team": " Edmonton Oilers ",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
-    "Marco Scandella": {
-        "name": "Marco Scandella",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/17520/marco-scandella",
-        "team": " St. Louis Blues ",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
-    "Jake Gardiner": {
-        "name": "Jake Gardiner",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/18592/jake-gardiner",
-        "team": " Carolina Hurricanes ",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
-    "Matt Irwin": {
-        "name": "Matt Irwin",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/18745/matt-irwin",
-        "team": " Washington Capitals ",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
-    "Cam Atkinson": {
-        "name": "Cam Atkinson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/19166/cam-atkinson",
-        "team": " Philadelphia Flyers ",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
-    "Jordie Benn": {
-        "name": "Jordie Benn",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/19742/jordie-benn",
-        "team": " Toronto Maple Leafs ",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -7503,31 +7463,71 @@
         "pim": "-",
         "pm": "-"
     },
-    "John Moore": {
-        "name": "John Moore",
+    "Jordie Benn": {
+        "name": "Jordie Benn",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/30901/john-moore",
-        "team": " Anaheim Ducks ",
+        "href": "https://www.eliteprospects.com/player/19742/jordie-benn",
+        "team": " Toronto Maple Leafs ",
         "g": "-",
         "a": "-",
         "pim": "-",
         "pm": "-"
     },
-    "Sean Couturier": {
-        "name": "Sean Couturier",
+    "Cam Atkinson": {
+        "name": "Cam Atkinson",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/32885/sean-couturier",
+        "href": "https://www.eliteprospects.com/player/19166/cam-atkinson",
         "team": " Philadelphia Flyers ",
         "g": "-",
         "a": "-",
         "pim": "-",
         "pm": "-"
     },
-    "Riley Sheahan": {
-        "name": "Riley Sheahan",
+    "Matt Irwin": {
+        "name": "Matt Irwin",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/18745/matt-irwin",
+        "team": " Washington Capitals ",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
+    },
+    "Jake Gardiner": {
+        "name": "Jake Gardiner",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/18592/jake-gardiner",
+        "team": " Carolina Hurricanes ",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
+    },
+    "Marco Scandella": {
+        "name": "Marco Scandella",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/17520/marco-scandella",
+        "team": " St. Louis Blues ",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
+    },
+    "Oscar Klefbom": {
+        "name": "Oscar Klefbom",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/16804/oscar-klefbom",
+        "team": " Edmonton Oilers ",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
+    },
+    "Joonas Donskoi": {
+        "name": "Joonas Donskoi",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/33929/riley-sheahan",
-        "team": " Buffalo Sabres ",
+        "href": "https://www.eliteprospects.com/player/16039/joonas-donskoi",
+        "team": " Seattle Kraken ",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -7663,11 +7663,31 @@
         "pim": "-",
         "pm": "-"
     },
-    "Will Lockwood": {
-        "name": "Will Lockwood",
+    "Michael Pezzetta": {
+        "name": "Michael Pezzetta",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/272186/will-lockwood",
-        "team": " Vancouver Canucks ",
+        "href": "https://www.eliteprospects.com/player/269038/michael-pezzetta",
+        "team": " Montr\u00e9al Canadiens ",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
+    },
+    "Nolan Patrick": {
+        "name": "Nolan Patrick",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/201274/nolan-patrick",
+        "team": " Vegas Golden Knights ",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
+    },
+    "Ian Mitchell": {
+        "name": "Ian Mitchell",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/201362/ian-mitchell",
+        "team": " Chicago Blackhawks ",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -7753,11 +7773,21 @@
         "pim": "-",
         "pm": "-"
     },
-    "Michael Pezzetta": {
-        "name": "Michael Pezzetta",
+    "Givani Smith": {
+        "name": "Givani Smith",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/269038/michael-pezzetta",
-        "team": " Montr\u00e9al Canadiens ",
+        "href": "https://www.eliteprospects.com/player/252472/givani-smith",
+        "team": " Detroit Red Wings ",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
+    },
+    "Cale Fleury": {
+        "name": "Cale Fleury",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/200710/cale-fleury",
+        "team": " Seattle Kraken ",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -7773,11 +7803,11 @@
         "pim": "-",
         "pm": "-"
     },
-    "Ian Mitchell": {
-        "name": "Ian Mitchell",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/201362/ian-mitchell",
-        "team": " Chicago Blackhawks ",
+    "Will Lockwood": {
+        "name": "Will Lockwood",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/272186/will-lockwood",
+        "team": " Vancouver Canucks ",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -7803,16 +7833,6 @@
         "pim": "-",
         "pm": "-"
     },
-    "Jake Leschyshyn": {
-        "name": "Jake Leschyshyn",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/279125/jake-leschyshyn",
-        "team": " Vegas Golden Knights ",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
     "Jalen Luypen": {
         "name": "Jalen Luypen",
         "pos": "F",
@@ -7823,21 +7843,21 @@
         "pim": "-",
         "pm": "-"
     },
-    "Bobby Brink": {
-        "name": "Bobby Brink",
+    "Rasmus Kupari": {
+        "name": "Rasmus Kupari",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/496724/bobby-brink",
-        "team": " Philadelphia Flyers ",
+        "href": "https://www.eliteprospects.com/player/319079/rasmus-kupari",
+        "team": " Los Angeles Kings ",
         "g": "-",
         "a": "-",
         "pim": "-",
         "pm": "-"
     },
-    "Philip Broberg": {
-        "name": "Philip Broberg",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/349467/philip-broberg",
-        "team": " Edmonton Oilers ",
+    "Bobby Brink": {
+        "name": "Bobby Brink",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/496724/bobby-brink",
+        "team": " Philadelphia Flyers ",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -7863,21 +7883,51 @@
         "pim": "-",
         "pm": "-"
     },
-    "David Jiricek": {
-        "name": "David Jiricek",
+    "Philip Broberg": {
+        "name": "Philip Broberg",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/559522/david-jiricek",
-        "team": " Columbus Blue Jackets ",
+        "href": "https://www.eliteprospects.com/player/349467/philip-broberg",
+        "team": " Edmonton Oilers ",
         "g": "-",
         "a": "-",
         "pim": "-",
         "pm": "-"
     },
-    "Dominic Toninato": {
-        "name": "Dominic Toninato",
+    "Anthony Duclair": {
+        "name": "Anthony Duclair",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/122004/dominic-toninato",
-        "team": " Winnipeg Jets ",
+        "href": "https://www.eliteprospects.com/player/98665/anthony-duclair",
+        "team": " Florida Panthers ",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
+    },
+    "Sean Couturier": {
+        "name": "Sean Couturier",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/32885/sean-couturier",
+        "team": " Philadelphia Flyers ",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
+    },
+    "Riley Sheahan": {
+        "name": "Riley Sheahan",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/33929/riley-sheahan",
+        "team": " Buffalo Sabres ",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
+    },
+    "Joel Armia": {
+        "name": "Joel Armia",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/40624/joel-armia",
+        "team": " Montr\u00e9al Canadiens ",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -7908,6 +7958,16 @@
         "pos": "D",
         "href": "https://www.eliteprospects.com/player/59478/joel-edmundson",
         "team": " Montr\u00e9al Canadiens ",
+        "g": "-",
+        "a": "-",
+        "pim": "-",
+        "pm": "-"
+    },
+    "Dillon Heatherington": {
+        "name": "Dillon Heatherington",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/62233/dillon-heatherington",
+        "team": " Ottawa Senators ",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -7953,11 +8013,11 @@
         "pim": "-",
         "pm": "-"
     },
-    "Anthony Duclair": {
-        "name": "Anthony Duclair",
+    "Sam Carrick": {
+        "name": "Sam Carrick",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/98665/anthony-duclair",
-        "team": " Florida Panthers ",
+        "href": "https://www.eliteprospects.com/player/32716/sam-carrick",
+        "team": " Anaheim Ducks ",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -7983,11 +8043,11 @@
         "pim": "-",
         "pm": "-"
     },
-    "Joel Armia": {
-        "name": "Joel Armia",
+    "Dominic Toninato": {
+        "name": "Dominic Toninato",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/40624/joel-armia",
-        "team": " Montr\u00e9al Canadiens ",
+        "href": "https://www.eliteprospects.com/player/122004/dominic-toninato",
+        "team": " Winnipeg Jets ",
         "g": "-",
         "a": "-",
         "pim": "-",
@@ -8023,16 +8083,6 @@
         "pim": "-",
         "pm": "-"
     },
-    "Gavin Bayreuther": {
-        "name": "Gavin Bayreuther",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/178941/gavin-bayreuther",
-        "team": " Columbus Blue Jackets ",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
     "Urho Vaakanainen": {
         "name": "Urho Vaakanainen",
         "pos": "D",
@@ -8057,27 +8107,16 @@
         "name": "Ethan Bear",
         "pos": "D",
         "href": "https://www.eliteprospects.com/player/197561/ethan-bear",
-        "team": " Carolina Hurricanes ",
         "g": "-",
         "a": "-",
         "pim": "-",
         "pm": "-"
     },
-    "Cale Fleury": {
-        "name": "Cale Fleury",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/200710/cale-fleury",
-        "team": " Seattle Kraken ",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
-    "Nolan Patrick": {
-        "name": "Nolan Patrick",
+    "Lane Pederson": {
+        "name": "Lane Pederson",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/201274/nolan-patrick",
-        "team": " Vegas Golden Knights ",
+        "href": "https://www.eliteprospects.com/player/199918/lane-pederson",
+        "team": " Vancouver Canucks ",
         "g": "-",
         "a": "-",
         "pim": "-",
