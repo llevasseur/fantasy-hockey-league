@@ -83,7 +83,7 @@ def main():
   players = {}
 
   for i in range(1, 10):
-    print(f"Processing {i}...")
+    print(f"Processing webpage {i}...")
     # WJC: https://www.eliteprospects.com/league/wjc-20/stats/2021-2022
     # NHL: https://www.eliteprospects.com/league/nhl/stats/2022-2023
     soup = getSoup("https://www.eliteprospects.com/league/nhl/stats/2022-2023?page="+str(i))
