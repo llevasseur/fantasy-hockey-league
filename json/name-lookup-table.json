@@ -1,0 +1,117 @@
+{
+    " Detroit Red Wings": {
+        "M. Seider": "Moritz Seider"
+    },
+    " Boston Bruins": {
+        "D. Pastrnak": "David Pastrnak"
+    },
+    " Buffalo Sabres": {
+        "R. Dahlin": "Rasmus Dahlin"
+    },
+    " Florida Panthers": {
+        "M. Tkachuk": "Matthew Tkachuk",
+        "A. Ekblad": "Aaron Ekblad",
+        "S. Reinhart": "Sam Reinhart",
+        "A. Barkov": "Aleksander Barkov"
+    },
+    " Ottawa Senators": {
+        "B. Tkachuk": "Brady Tkachuk",
+        "T. Chabot": "Thomas Chabot",
+        "C. Giroux": "Claude Giroux",
+        "A. DeBrincat": "Alex DeBrincat",
+        "T. Stutzle": "Tim St\u00fctzle"
+    },
+    " Tampa Bay Lightning": {
+        "V. Hedman": "Victor Hedman",
+        "N. Kucherov": "Nikita Kucherov",
+        "S. Stamkos": "Steven Stamkos"
+    },
+    " Toronto Maple Leafs": {
+        "A. Matthews": "Auston Matthews",
+        "M. Rielly": "Morgan Rielly",
+        "M. Marner": "Mitchell Marner",
+        "W. Nylander": "William Nylander"
+    },
+    " Nashville Predators": {
+        "R. Josi": "Roman Josi"
+    },
+    " Winnipeg Jets": {
+        "K. Connor": "Kyle Connor",
+        "N. Ehlers": "Nikolaj Ehlers"
+    },
+    " Colorado Avalanche": {
+        "D. Toews": "Devon Toews",
+        "M. Rantanen": "Mikko Rantanen",
+        "C. Makar": "Cale Makar",
+        "N. MacKinnon": "Nathan MacKinnon"
+    },
+    " Minnesota Wild": {
+        "K. Kaprizov": "Kirill Kaprizov"
+    },
+    " St. Louis Blues": {
+        "R. Thomas": "Robert Thomas",
+        "P. Buchnevich": "Pavel Buchnevich",
+        "T. Krug": "Torey Krug"
+    },
+    " Dallas Stars": {
+        "J. Robertson": "Jason Robertson",
+        "M. Heiskanen": "Miro Heiskanen"
+    },
+    " Pittsburgh Penguins": {
+        "S. Crosby": "Sidney Crosby",
+        "J. Guentzel": "Jake Guentzel",
+        "E. Malkin": "Yevgeni Malkin",
+        "K. Letang": "Kris Letang"
+    },
+    " New Jersey Devils": {
+        "J. Hughes": "Jack Hughes",
+        "D. Hamilton": "Dougie Hamilton"
+    },
+    " Washington Capitals": {
+        "E. Kuznetsov": "Yevgeni Kuznetsov",
+        "A. Ovechkin": "Alexander Ovechkin",
+        "J. Carlson": "John Carlson"
+    },
+    " New York Rangers": {
+        "M. Zibanejad": "Mika Zibanejad",
+        "A. Fox": "Adam Fox",
+        "A. Panarin": "Artemi Panarin",
+        "C. Kreider": "Chris Kreider",
+        "J. Trouba": "Jacob Trouba"
+    },
+    " Columbus Blue Jackets": {
+        "J. Gaudreau": "Johnny Gaudreau",
+        "Z. Werenski": "Zach Werenski", 
+        "P. Laine": "Patrik Laine"
+    },
+    " Carolina Hurricanes": {
+        "B. Burns": "Brent Burns",
+        "S. Aho": "Sebastian Aho",
+        "A. Svechnikov": "Andrei Svechnikov"
+    },
+    " Calgary Flames": {
+        "J. Huberdeau": "Jonathan Huberdeau",
+        "M. Weegar": "MacKenzie Weegar"
+    },
+    " Edmonton Oilers": {
+        "C. McDavid": "Connor McDavid",
+        "L. Draisaitl": "Leon Draisaitl",
+        "E. Kane": "Evander Kane",
+        "D. Nurse": "Darnell Nurse"
+    },
+    " Los Angeles Kings": {
+        "K. Fiala": "Kevin Fiala",
+        "D. Doughty": "Drew Doughty"
+    },
+    " Vancouver Canucks": {
+        "E. Pettersson": "Elias Pettersson",
+        "A. Kuzmenko": "Andrey Kuzmenko",
+        "Q. Hughes": "Quinn Hughes",
+        "J.T. Miller": "J.T. Miller"
+    },
+    " Vegas Golden Knights": {
+        "J. Eichel": "Jack Eichel",
+        "S. Theodore": "Shea Theodore",
+        "A. Pietrangelo": "Alex Pietrangelo"
+    }
+}
