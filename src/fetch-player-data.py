@@ -50,8 +50,6 @@ def handleTd(obj, td):
     obj['svp'] = td.text.strip()
 
 def getInnerWrapper(soup):
-  with open(cwd + "/src/test.html", "w", encoding="utf-8") as file:
-        file.write(str(soup))
   div_list = soup.find_all('div')
   for div in div_list:
     if div.get("class") == ['innerwrapper']:
