@@ -1,8 +1,8 @@
 {
     " Detroit Red Wings": {
         "Moritz Seider": {
-            "SOG": 16,
-            "TPM": 175.95
+            "SOG": 17,
+            "TPM": 197.38
         }
     },
     " Boston Bruins": {
@@ -13,8 +13,8 @@
     },
     " Buffalo Sabres": {
         "Rasmus Dahlin": {
-            "SOG": 28,
-            "TPM": 202.5
+            "SOG": 31,
+            "TPM": 228.45
         }
     },
     " Florida Panthers": {
@@ -131,16 +131,16 @@
     },
     " St. Louis Blues": {
         "Robert Thomas": {
-            "SOG": 6,
-            "TPM": 141.6
+            "SOG": 9,
+            "TPM": 160.83
         },
         "Pavel Buchnevich": {
             "SOG": 6,
-            "TPM": 36.8
+            "TPM": 56.4
         },
         "Torey Krug": {
-            "SOG": 14,
-            "TPM": 142.15
+            "SOG": 15,
+            "TPM": 158.47
         }
     },
     " Dallas Stars": {
@@ -183,12 +183,12 @@
     },
     " Washington Capitals": {
         "Yevgeni Kuznetsov": {
-            "SOG": 16,
-            "TPM": 143.15
+            "SOG": 18,
+            "TPM": 159.62
         },
         "Alexander Ovechkin": {
-            "SOG": 39,
-            "TPM": 184.3
+            "SOG": 42,
+            "TPM": 204.23
         },
         "John Carlson": {
             "SOG": 27,
@@ -233,16 +233,16 @@
     },
     " Carolina Hurricanes": {
         "Brent Burns": {
-            "SOG": 28,
-            "TPM": 185.7
+            "SOG": 34,
+            "TPM": 210.0
         },
         "Sebastian Aho": {
-            "SOG": 17,
-            "TPM": 132.95
+            "SOG": 19,
+            "TPM": 155.6
         },
         "Andrei Svechnikov": {
-            "SOG": 31,
-            "TPM": 147.85
+            "SOG": 33,
+            "TPM": 169.63
         }
     },
     " Calgary Flames": {
@@ -275,12 +275,12 @@
     },
     " Los Angeles Kings": {
         "Kevin Fiala": {
-            "SOG": 23,
-            "TPM": 170.8
+            "SOG": 26,
+            "TPM": 185.87
         },
         "Drew Doughty": {
-            "SOG": 22,
-            "TPM": 276.1
+            "SOG": 23,
+            "TPM": 299.05
         }
     },
     " Vancouver Canucks": {

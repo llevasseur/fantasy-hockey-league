@@ -25,14 +25,14 @@
 | [Jonathan Huberdeau](https://www.eliteprospects.com/player/45261/jonathan-huberdeau) | F |  Calgary Flames  | 1 | 4 | 12 | 0 | -1 | 113.05 |
 | [J.T. Miller](https://www.eliteprospects.com/player/38624/j.t.-miller) | F |  Vancouver Canucks  | 5 | 2 | 18 | 13 | -4 | 186.55 |
 | [Elias Pettersson](https://www.eliteprospects.com/player/266336/elias-pettersson) | F |  Vancouver Canucks  | 4 | 5 | 24 | 2 | -1 | 182.15 |
-| [Kevin Fiala](https://www.eliteprospects.com/player/87971/kevin-fiala) | F |  Los Angeles Kings  | 2 | 7 | 23 | 8 | -4 | 170.8 |
-| [Yevgeni Kuznetsov](https://www.eliteprospects.com/player/34777/yevgeni-kuznetsov) | F |  Washington Capitals  | 0 | 5 | 16 | 10 | 1 | 143.15 |
+| [Kevin Fiala](https://www.eliteprospects.com/player/87971/kevin-fiala) | F |  Los Angeles Kings  | 2 | 10 | 26 | 8 | -1 | 185.87 |
+| [Yevgeni Kuznetsov](https://www.eliteprospects.com/player/34777/yevgeni-kuznetsov) | F |  Washington Capitals  | 0 | 6 | 18 | 10 | 0 | 159.62 |
 | [Andrey Kuzmenko](https://www.eliteprospects.com/player/211807/andrey-kuzmenko) | F |  Vancouver Canucks  | 3 | 3 | 26 | 0 | -3 | 137.95 |
 | [Adam Fox](https://www.eliteprospects.com/player/248380/adam-fox) | D |  New York Rangers  | 2 | 7 | 21 | 4 | 1 | 242.35 |
-| [Moritz Seider](https://www.eliteprospects.com/player/258987/moritz-seider) | D |  Detroit Red Wings  | 0 | 1 | 16 | 2 | -1 | 175.95 |
+| [Moritz Seider](https://www.eliteprospects.com/player/258987/moritz-seider) | D |  Detroit Red Wings  | 0 | 2 | 17 | 2 | 0 | 197.38 |
 | [Morgan Rielly](https://www.eliteprospects.com/player/41184/morgan-rielly) | D |  Toronto Maple Leafs  | 0 | 7 | 17 | 7 | -5 | 238.6 |
 | [Miro Heiskanen](https://www.eliteprospects.com/player/250075/miro-heiskanen) | D |  Dallas Stars  | 2 | 1 | 15 | 6 | 6 | 148.85 |
-| **Totals** | | | 22 | 47 | 236 | 58 | -11 | 1955.55 |
+| **Totals** | | | 22 | 52 | 242 | 58 | -8 | 2008.52 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -50,8 +50,8 @@
 | [Quinn Hughes](https://www.eliteprospects.com/player/201671/quinn-hughes) | D |  Vancouver Canucks  | 0 | 5 | 11 | 2 | 1 | 136.1 |
 | [MacKenzie Weegar](https://www.eliteprospects.com/player/97908/mackenzie-weegar) | D |  Calgary Flames  | 0 | 3 | 10 | 2 | 1 | 146.75 |
 | [Shea Theodore](https://www.eliteprospects.com/player/101581/shea-theodore) | D |  Vegas Golden Knights  | 2 | 5 | 19 | 2 | 11 | 108.8 |
-| [Rasmus Dahlin](https://www.eliteprospects.com/player/310545/rasmus-dahlin) | D |  Buffalo Sabres  | 5 | 5 | 28 | 8 | 7 | 202.5 |
-| **Totals** | | | 38 | 58 | 283 | 48 | 35 | 1796.63 |
+| [Rasmus Dahlin](https://www.eliteprospects.com/player/310545/rasmus-dahlin) | D |  Buffalo Sabres  | 6 | 6 | 31 | 10 | 9 | 228.45 |
+| **Totals** | | | 39 | 59 | 286 | 50 | 37 | 1822.58 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -60,7 +60,7 @@
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Kyle Connor](https://www.eliteprospects.com/player/177671/kyle-connor) | F |  Winnipeg Jets  | 1 | 3 | 33 | 0 | -2 | 186.95 |
-| [Alexander Ovechkin](https://www.eliteprospects.com/player/4230/alexander-ovechkin) | F |  Washington Capitals  | 4 | 3 | 39 | 2 | -7 | 184.3 |
+| [Alexander Ovechkin](https://www.eliteprospects.com/player/4230/alexander-ovechkin) | F |  Washington Capitals  | 5 | 3 | 42 | 4 | -7 | 204.23 |
 | [Matthew Tkachuk](https://www.eliteprospects.com/player/233030/matthew-tkachuk) | F |  Florida Panthers  | 5 | 8 | 46 | 18 | 3 | 192.9 |
 | [Brady Tkachuk](https://www.eliteprospects.com/player/201473/brady-tkachuk) | F |  Ottawa Senators  | 6 | 5 | 30 | 13 | -5 | 140.28 |
 | [Jack Hughes](https://www.eliteprospects.com/player/305432/jack-hughes) | F |  New Jersey Devils  | 3 | 5 | 36 | 0 | 1 | 176.55 |
@@ -70,7 +70,7 @@
 | [Aaron Ekblad](https://www.eliteprospects.com/player/49042/aaron-ekblad) | D |  Florida Panthers  | 1 | 0 | 7 | 4 | 1 | 65.05 |
 | [Thomas Chabot](https://www.eliteprospects.com/player/213607/thomas-chabot) | D |  Ottawa Senators  | 2 | 3 | 23 | 12 | -3 | 207.78 |
 | [Darnell Nurse](https://www.eliteprospects.com/player/97352/darnell-nurse) | D |  Edmonton Oilers  | 2 | 3 | 20 | 14 | 5 | 214.35 |
-| **Totals** | | | 24 | 43 | 289 | 69 | -8 | 1835.41 |
+| **Totals** | | | 25 | 43 | 292 | 71 | -8 | 1855.34 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -84,12 +84,12 @@
 | [Claude Giroux](https://www.eliteprospects.com/player/10437/claude-giroux) | F |  Ottawa Senators  | 2 | 4 | 20 | 2 | -2 | 134.3 |
 | [Alex DeBrincat](https://www.eliteprospects.com/player/231275/alex-debrincat) | F |  Ottawa Senators  | 2 | 6 | 39 | 4 | -2 | 155.63 |
 | [Tim Stützle](https://www.eliteprospects.com/player/348134/tim-stutzle) | F |  Ottawa Senators  | 1 | 5 | 12 | 6 | -4 | 150.38 |
-| [Pavel Buchnevich](https://www.eliteprospects.com/player/158906/pavel-buchnevich) | F |  St. Louis Blues  | 1 | 1 | 6 | 0 | 1 | 36.8 |
+| [Pavel Buchnevich](https://www.eliteprospects.com/player/158906/pavel-buchnevich) | F |  St. Louis Blues  | 1 | 1 | 6 | 0 | 1 | 56.4 |
 | [John Carlson](https://www.eliteprospects.com/player/18590/john-carlson) | D |  Washington Capitals  | 2 | 4 | 27 | 2 | -2 | 197.35 |
-| [Brent Burns](https://www.eliteprospects.com/player/9103/brent-burns) | D |  Carolina Hurricanes  | 2 | 4 | 28 | 8 | -3 | 185.7 |
-| [Drew Doughty](https://www.eliteprospects.com/player/10430/drew-doughty) | D |  Los Angeles Kings  | 1 | 3 | 22 | 12 | -2 | 276.1 |
+| [Brent Burns](https://www.eliteprospects.com/player/9103/brent-burns) | D |  Carolina Hurricanes  | 2 | 5 | 34 | 8 | -3 | 210.0 |
+| [Drew Doughty](https://www.eliteprospects.com/player/10430/drew-doughty) | D |  Los Angeles Kings  | 1 | 4 | 23 | 12 | 0 | 299.05 |
 | [Dougie Hamilton](https://www.eliteprospects.com/player/45596/dougie-hamilton) | D |  New Jersey Devils  | 2 | 5 | 30 | 6 | 0 | 189.85 |
-| **Totals** | | | 19 | 55 | 282 | 56 | -10 | 1960.84 |
+| **Totals** | | | 19 | 57 | 289 | 56 | -8 | 2027.69 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -99,16 +99,16 @@
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Kirill Kaprizov](https://www.eliteprospects.com/player/265645/kirill-kaprizov) | F |  Minnesota Wild  | 6 | 5 | 35 | 6 | -6 | 194.75 |
 | [Artemi Panarin](https://www.eliteprospects.com/player/24664/artemi-panarin) | F |  New York Rangers  | 5 | 11 | 27 | 8 | -3 | 206.2 |
-| [Sebastian Aho](https://www.eliteprospects.com/player/152111/sebastian-aho) | F |  Carolina Hurricanes  | 4 | 6 | 17 | 6 | -1 | 132.95 |
+| [Sebastian Aho](https://www.eliteprospects.com/player/152111/sebastian-aho) | F |  Carolina Hurricanes  | 4 | 6 | 19 | 8 | -2 | 155.6 |
 | [Chris Kreider](https://www.eliteprospects.com/player/37998/chris-kreider) | F |  New York Rangers  | 3 | 4 | 34 | 2 | -1 | 201.0 |
-| [Andrei Svechnikov](https://www.eliteprospects.com/player/328556/andrei-svechnikov) | F |  Carolina Hurricanes  | 7 | 2 | 31 | 4 | 0 | 147.85 |
+| [Andrei Svechnikov](https://www.eliteprospects.com/player/328556/andrei-svechnikov) | F |  Carolina Hurricanes  | 8 | 2 | 33 | 4 | 1 | 169.63 |
 | [William Nylander](https://www.eliteprospects.com/player/38703/william-nylander) | F |  Toronto Maple Leafs  | 4 | 6 | 30 | 0 | -3 | 184.77 |
 | [Patrik Laine](https://www.eliteprospects.com/player/221667/patrik-laine) | F |  Columbus Blue Jackets  | 1 | 0 | 12 | 2 | -1 | 70.3 |
 | [Roman Josi](https://www.eliteprospects.com/player/12668/roman-josi) | D |  Nashville Predators  | 1 | 3 | 43 | 8 | -7 | 225.15 |
 | [Kris Letang](https://www.eliteprospects.com/player/9189/kris-letang) | D |  Pittsburgh Penguins  | 0 | 4 | 16 | 2 | -5 | 210.6 |
-| [Torey Krug](https://www.eliteprospects.com/player/37747/torey-krug) | D |  St. Louis Blues  | 1 | 2 | 14 | 2 | -9 | 142.15 |
+| [Torey Krug](https://www.eliteprospects.com/player/37747/torey-krug) | D |  St. Louis Blues  | 1 | 2 | 15 | 2 | -10 | 158.47 |
 | [Alex Pietrangelo](https://www.eliteprospects.com/player/11317/alex-pietrangelo) | D |  Vegas Golden Knights  | 0 | 6 | 21 | 0 | 3 | 235.72 |
-| **Totals** | | | 32 | 49 | 280 | 40 | -33 | 1951.44 |
+| **Totals** | | | 33 | 49 | 285 | 42 | -34 | 2012.19 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |

@@ -38,13 +38,12 @@ def parse_manual_data(matches):
         for team in name_lookup_table:
           for player in name_lookup_table[team]:
             found = False
-            print(f"Player:{player.lower()}, Name:{name.lower()}")
             if player.lower() == name.lower():
               name = name_lookup_table[team][player]
               #print(f"\t Player:{player}, Name:{name}")
               #print(f"\tFound manual player data: {manual_player_data[team][name]["SOG"]}, {manual_player_data[team][name]["TPM"]}, {int(SOG)}, {TPM}")
               manual_player_data[team][name]["SOG"] += int(SOG)
-              manual_player_data[team][name]["TPM"] += TPM
+              manual_player_data[team][name]["TPM"] = round(manual_player_data[team][name]["TPM"] + TPM, 2)
               found = True
               break
 
@@ -60,7 +59,6 @@ def main():
   data_list = input('Input, ex Firstname1 Lastname1, SOG, M, SS, ...: ')
 
   matches = re.findall('[\w|\s|.|\']*,[\s]*[0-9]+[\s]*,[\s]*[0-9]{1,2}[\s]*,[\s]*[0-5][0-9]{0,1}[\s]*?', data_list)
-  print(matches)
 
   parse_manual_data(matches)
 
