@@ -23,10 +23,10 @@ def validatePick(pick):
 
 
 def main():
-  with open(cwd + '/json/draft-picks.json', 'r') as json_file:
+  with open(cwd + '/json/alpha-nhl/draft-picks.json', 'r') as json_file:
     draft_data = json.loads(json_file.read())
 
-  with open(cwd + '/json/merged-player-data.json', 'r') as json_file:
+  with open(cwd + '/json/alpha-nhl/merged-player-data.json', 'r') as json_file:
     player_data = json.loads(json_file.read())
 
   md_file = open(cwd + '/ROSTERS.md', 'w')
@@ -128,12 +128,12 @@ def main():
     for g in goalies:
       md_file.write(g)
 
-  with open(cwd + '/json/standings.json', 'w') as json_file:
+  with open(cwd + '/json/alpha-nhl/standings.json', 'w') as json_file:
     json_file.write(json.dumps(ranking_data, indent=4))
 
   print('''
-  Player data from /json/merged-player-data.json has been used to update ROSTERS.md
-  Run `python src/parse-standings.py` to update the STANDINGS.md file with this new data
+  Player data from /json/alpha-nhl/merged-player-data.json has been used to update ROSTERS.md
+  Run `python src/alpha-nhl/parse-standings.py` to update the STANDINGS.md file with this new data
   ''')
 
 

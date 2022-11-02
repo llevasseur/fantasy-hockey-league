@@ -1,0 +1,62 @@
+{
+    "Timo": {
+        "Goals": 46,
+        "Assists": 73,
+        "Shots on Goal": 391,
+        "Penalties in Minutes": 46,
+        "Plus / Minus": 18,
+        "Time Played in Minutes": 2301.91,
+        "Save Percentage": 0.874,
+        "Goals Against Average": 4.05
+    },
+    "Leevon": {
+        "Goals": 23,
+        "Assists": 57,
+        "Shots on Goal": 260,
+        "Penalties in Minutes": 62,
+        "Plus / Minus": -11,
+        "Time Played in Minutes": 2176.7,
+        "Save Percentage": 0.903,
+        "Goals Against Average": 2.6
+    },
+    "Alasdair": {
+        "Goals": 44,
+        "Assists": 70,
+        "Shots on Goal": 319,
+        "Penalties in Minutes": 52,
+        "Plus / Minus": 41,
+        "Time Played in Minutes": 2027.89,
+        "Save Percentage": 0.91,
+        "Goals Against Average": 2.75
+    },
+    "Liam": {
+        "Goals": 26,
+        "Assists": 47,
+        "Shots on Goal": 309,
+        "Penalties in Minutes": 73,
+        "Plus / Minus": -10,
+        "Time Played in Minutes": 1993.37,
+        "Save Percentage": 0.931,
+        "Goals Against Average": 2.41
+    },
+    "John": {
+        "Goals": 20,
+        "Assists": 58,
+        "Shots on Goal": 299,
+        "Penalties in Minutes": 58,
+        "Plus / Minus": -9,
+        "Time Played in Minutes": 2144.92,
+        "Save Percentage": 0.913,
+        "Goals Against Average": 2.55
+    },
+    "Carsten": {
+        "Goals": 36,
+        "Assists": 54,
+        "Shots on Goal": 304,
+        "Penalties in Minutes": 48,
+        "Plus / Minus": -32,
+        "Time Played in Minutes": 2122.82,
+        "Save Percentage": 0.91,
+        "Goals Against Average": 2.87
+    }
+}

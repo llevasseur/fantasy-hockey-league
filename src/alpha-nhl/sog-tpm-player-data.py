@@ -54,12 +54,12 @@ def main():
     soup = getSoup(website);
     findPlayersFromSoup(players, soup)
 
-    with open(cwd + '/json/stat-player-data.json', 'w') as json_file:
+    with open(cwd + '/json/alpha-nhl/stat-player-data.json', 'w') as json_file:
         json_file.write(json.dumps(players, indent=4))
     
     print('''
-    Player data has been fetched from '''+website+''' and written to /json/stat-player-data.json
-    Run `python merge-data.py` to update the data in /json/merged-player-data.json
+    Player data has been fetched from '''+website+''' and written to /json/alpha-nhl/stat-player-data.json
+    Run `python src/alpha-nhl/merge-data.py` to update the data in /json/alpha-nhl/merged-player-data.json
     ''')
 if __name__ == "__main__":
     main()
