@@ -6,21 +6,26 @@ from bs4 import BeautifulSoup
 import re
 import json
 import os
-
+import time
 cwd = os.getcwd()
 
 
 def getPlayersFromSite(players, site):
-  driver = webdriver.Firefox()
+  driver = webdriver.Chrome()
   driver.get(site)
-  print(driver.title)
   assert "NHL.com" in driver.title
-  elem = driver.find_element(By.NAME, "q")
+  tr_list = driver.find_elements(By.XPATH, "//div[@class='rt-tr-group']")
+  
+  for tr in tr_list:
+    sub_elem = tr.find_element(By.XPATH, ".//div[@class='rt-tr -odd']")
+    td_list = sub_elem.find_elements(By.XPATH, ".//div[contains(@class, 'rt-td')]")
+    
+    
   #elem.clear()
   #elem.send_keys("pycon")
   #elem.send_keys(Keys.RETURN)
   #assert "No results found." not in driver.page_source
-  driver.close()
+  #driver.close()
   return
 
 def main():
@@ -29,13 +34,13 @@ def main():
   for i in range(0, 1):
     print(f"Processing skater webpage {i+1}...")
     # Skaters
-    site = "https://www.nhl.com/stats/skaters?reportType=season&seasonFrom=20222023&seasonTo=20222023&gameType=2&filter=gamesPlayed,gte,1&sort=points,goals,assists&page="+str(i)+"&pageSize=100"
+    site = "https://www.nhl.com/stats/skaters?reportType=season&seasonFrom=20222023&seasonTo=20222023&gameType=2&filter=gamesPlayed,gte,1&page="+str(i)+"&pageSize=100"
 
     getPlayersFromSite(players, site)
 
   # Goalies
   print(f"Processing goalie webpage 1...")
-  site = "https://www.nhl.com/stats/goalies?reportType=season&seasonFrom=20222023&seasonTo=20222023&gameType=2&filter=gamesPlayed,gte,1&sort=wins,savePct&page=0&pageSize=100"
+  site = "https://www.nhl.com/stats/goalies?reportType=season&seasonFrom=20222023&seasonTo=20222023&gameType=2&filter=gamesPlayed,gte,1&page=0&pageSize=100"
   
   #getPlayersFromSite(players, site)
 
