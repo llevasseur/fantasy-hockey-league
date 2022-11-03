@@ -13,8 +13,8 @@
     },
     " Buffalo Sabres": {
         "Rasmus Dahlin": {
-            "SOG": 31,
-            "TPM": 228.45
+            "SOG": 36,
+            "TPM": 257.87
         }
     },
     " Florida Panthers": {
@@ -73,20 +73,20 @@
     },
     " Toronto Maple Leafs": {
         "Auston Matthews": {
-            "SOG": 48,
-            "TPM": 216.15
+            "SOG": 56,
+            "TPM": 235.17
         },
         "Morgan Rielly": {
-            "SOG": 17,
-            "TPM": 238.6
+            "SOG": 18,
+            "TPM": 260.07
         },
         "Mitchell Marner": {
-            "SOG": 21,
-            "TPM": 228.25
+            "SOG": 24,
+            "TPM": 249.65
         },
         "William Nylander": {
-            "SOG": 30,
-            "TPM": 184.77
+            "SOG": 32,
+            "TPM": 199.6
         }
     },
     " Nashville Predators": {
@@ -155,20 +155,20 @@
     },
     " Pittsburgh Penguins": {
         "Sidney Crosby": {
-            "SOG": 34,
-            "TPM": 204.97
+            "SOG": 36,
+            "TPM": 222.77
         },
         "Jake Guentzel": {
-            "SOG": 26,
-            "TPM": 116.53
+            "SOG": 27,
+            "TPM": 136.11
         },
         "Yevgeni Malkin": {
             "SOG": 39,
-            "TPM": 187.93
+            "TPM": 208.01
         },
         "Kris Letang": {
-            "SOG": 16,
-            "TPM": 210.6
+            "SOG": 17,
+            "TPM": 234.0
         }
     },
     " New Jersey Devils": {
