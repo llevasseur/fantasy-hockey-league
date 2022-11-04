@@ -24,7 +24,7 @@ To update scores:
 6. Add, commit, and push changes to this github repository.
 ## Design Decisions: Alpha
 Functional Requirements:
-1. Request a response from each [eliteprospect.com](https://www.eliteprospects.com/league/wjc-20/stats/2021-2022?page=1) webpage with player statistics (page=[1,4]).
+1. Request a response from each [eliteprospect.com](https://www.eliteprospects.com/league/wjc-20/stats/2021-2022?page=1) webpage with player statistics (page=[1,9]).
 <kbd>![elite prospects webpage example](/public/images/http_source.jpg)</kbd>
 
 Extract the html from the response and pull out data using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), then save data as a `json` database.
