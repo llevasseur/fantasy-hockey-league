@@ -5,7 +5,7 @@ import os
 cwd = os.getcwd()
 
 # Input format is
-#     Firstname1 Lastname1,SOG,MM,SS, "Firstname2 Lastname2",SOG,MM,SS, ...
+#     FirstInitial. Lastname, SOG, M, SS, ...
 def time_to_float(x):
   return round(x/60, 2)
 
@@ -28,7 +28,7 @@ def parse_manual_data(matches):
       # Pull data from list and update reference to json
       for id in matches:
         # id format is:
-        #     Firstname Lastname,SOG,MM,SS
+        #     FirstInitial. Lastname, SOG, M, SS, ...
         # name, SOG, min, sec = re.match('([\w|\s]*),([0-9]+),([0-9]{2}),([0-5][0-9]?)', id).groups()
         name, SOG, min, sec = re.match('[\s]*([\w|\s|.|\']*),[\s]*([0-9]+)[\s]*,[\s]*([0-9]{1,2})[\s]*,[\s]*([0-5][0-9]{0,1})[\s]*?', id).groups()
         name = name.rstrip()
@@ -57,7 +57,7 @@ def parse_manual_data(matches):
 
 def main():
   # Prompt user to input list
-  data_list = input('Input, ex Firstname1 Lastname1, SOG, M, SS, ...: ')
+  data_list = input('Input, ex FirstInitial. Lastname, SOG, M, SS, ...: ')
 
   matches = re.findall('[\w|\s|.|\']*,[\s]*[0-9]+[\s]*,[\s]*[0-9]{1,2}[\s]*,[\s]*[0-5][0-9]{0,1}[\s]*?', data_list)
 
