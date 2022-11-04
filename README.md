@@ -5,10 +5,10 @@ Casual Python3 project used by friends to keep track of NHL and WJC players' sta
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
 | [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) | 6 | 5 | 6 | 1 | 5 | 6 | 1 | 1 | 31 |
 | [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair) | 5 | 6 | 5 | 3 | 6 | 2 | 2 | 2 | 31 |
-| [Liam](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Liam) | 3 | 1 | 4 | 6 | 4 | 1 | 6 | 5 | 30 |
-| [John](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John) | 1 | 4 | 2 | 4 | 4 | 4 | 5 | 6 | 30 |
-| [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon) | 2 | 4 | 1 | 5 | 2 | 5 | 4 | 4 | 27 |
-| [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) | 4 | 2 | 3 | 2 | 1 | 3 | 3 | 3 | 21 |
+| [John](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John) | 1 | 3 | 4 | 4 | 4 | 4 | 5 | 6 | 31 |
+| [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon) | 3 | 4 | 1 | 5 | 2 | 5 | 4 | 4 | 28 |
+| [Liam](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Liam) | 2 | 1 | 3 | 6 | 3 | 1 | 6 | 5 | 27 |
+| [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) | 4 | 2 | 2 | 3 | 1 | 3 | 3 | 3 | 21 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage
