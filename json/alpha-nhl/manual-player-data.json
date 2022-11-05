@@ -13,8 +13,8 @@
     },
     " Buffalo Sabres": {
         "Rasmus Dahlin": {
-            "SOG": 36,
-            "TPM": 257.87
+            "SOG": 44,
+            "TPM": 284.84
         }
     },
     " Florida Panthers": {
@@ -107,20 +107,20 @@
     },
     " Colorado Avalanche": {
         "Devon Toews": {
-            "SOG": 15,
-            "TPM": 154.85
+            "SOG": 16,
+            "TPM": 178.1
         },
         "Mikko Rantanen": {
-            "SOG": 26,
-            "TPM": 195.2
+            "SOG": 32,
+            "TPM": 214.0
         },
         "Cale Makar": {
-            "SOG": 21,
-            "TPM": 237.4
+            "SOG": 27,
+            "TPM": 264.22
         },
         "Nathan MacKinnon": {
-            "SOG": 45,
-            "TPM": 203.93
+            "SOG": 51,
+            "TPM": 222.21
         }
     },
     " Minnesota Wild": {
@@ -219,30 +219,30 @@
     },
     " Columbus Blue Jackets": {
         "Johnny Gaudreau": {
-            "SOG": 30,
-            "TPM": 199.65
+            "SOG": 36,
+            "TPM": 223.73
         },
         "Zach Werenski": {
-            "SOG": 34,
-            "TPM": 247.3
+            "SOG": 37,
+            "TPM": 276.22
         },
         "Patrik Laine": {
-            "SOG": 12,
-            "TPM": 70.3
+            "SOG": 19,
+            "TPM": 93.9
         }
     },
     " Carolina Hurricanes": {
         "Brent Burns": {
-            "SOG": 41,
-            "TPM": 235.23
+            "SOG": 47,
+            "TPM": 257.43
         },
         "Sebastian Aho": {
-            "SOG": 23,
-            "TPM": 178.63
+            "SOG": 27,
+            "TPM": 197.06
         },
         "Andrei Svechnikov": {
-            "SOG": 37,
-            "TPM": 192.43
+            "SOG": 40,
+            "TPM": 209.16
         }
     },
     " Calgary Flames": {
