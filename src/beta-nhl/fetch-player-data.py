@@ -11,18 +11,18 @@ cwd = os.getcwd()
 
 def createSkater(obj, td_list):
   # Points-Rank, Name, Year, Team, Hand, Position, #GP, G, A, Points, +/-, PIM, P/Game, EVG, EVP, PPG, PPP, SHG, SHP, OTG, GWG, Shots, Shooting%, TOI/GP, FOW%. 
-  labels = ["rank", "name", "year", "team", "pos", "gp", "g", "a", "p", "+/-", "pim", "p/g", "evg", "evp", "ppg", "ppp", "shg", "shp", "otg", "gwg", "sog", "sht%", "toi/gp", "fow%"]
+  labels = ["rank", "name", "year", "team", "hand", "pos", "gp", "g", "a", "p", "+/-", "pim", "p/g", "evg", "evp", "ppg", "ppp", "shg", "shp", "otg", "gwg", "sog", "sht%", "toi/gp", "fow%"]
   # Name, href, Position: Name, href in name <a>, Position
   # Stats: G, A, PIM, +/-
   index = 0
   while td_list:
-    type = td_list.pop()
+    type = td_list.pop(0)
 
     # Parse Name, href
     if index == 1:
       a = type.find_element(By.XPATH, "//a")
       obj["name"] = type.text
-      obj["href"] = a.href
+      obj["href"] = a.get_attribute('href')
 
     # Parse Team
     elif index == 3:
@@ -48,13 +48,14 @@ def createGoalie(obj, td_list):
 
   index = 0
   while td_list:
-    type = td_list.pop()
+    type = td_list.pop(0)
 
     # Parse Name, href
+    
     if index == 1:
       a = type.find_element(By.XPATH, "//a")
       obj["name"] = type.text
-      obj["href"] = a.href
+      obj["href"] = a.get_attribute('href')
     
     # Parse Team
     elif index == 3:
@@ -76,7 +77,7 @@ def getSkatersFromSite(players, site):
   tr_list = driver.find_elements(By.XPATH, "//div[@class='rt-tr-group']")
   
   for tr in tr_list:
-    sub_elem = tr.find_element(By.XPATH, ".//div[@class='rt-tr -odd']")
+    sub_elem = tr.find_element(By.XPATH, ".//div[contains(@class, 'rt-tr -odd') or contains(@class, 'rt-tr -even')]")
     td_list = sub_elem.find_elements(By.XPATH, ".//div[contains(@class, 'rt-td')]")
     
     player_obj = {}
@@ -86,7 +87,6 @@ def getSkatersFromSite(players, site):
     if player_obj and "name" in player_obj.keys():
       players[player_obj["name"]] = player_obj
 
-
 def getGoaliesFromSite(players, site):
   driver = webdriver.Chrome()
   driver.get(site)
@@ -95,7 +95,7 @@ def getGoaliesFromSite(players, site):
   tr_list = driver.find_elements(By.XPATH, "//div[@class='rt-tr-group']")
 
   for tr in tr_list:
-    sub_elem = tr.find_element(By.XPATH, ".//div[@class='rt-tr -odd']")
+    sub_elem = tr.find_element(By.XPATH, ".//div[contains(@class, 'rt-tr -odd') or contains(@class, 'rt-tr -even')]")
     td_list = sub_elem.find_elements(By.XPATH, ".//div[contains(@class, 'rt-td')]")
 
     player_obj = {}
@@ -108,7 +108,7 @@ def getGoaliesFromSite(players, site):
 def main():
   players = {}
 
-  for i in range(0, 1):
+  for i in range(0, 7):
     print(f"Processing skater webpage {i+1}...")
     # Skaters
     site = "https://www.nhl.com/stats/skaters?reportType=season&seasonFrom=20222023&seasonTo=20222023&gameType=2&filter=gamesPlayed,gte,1&page="+str(i)+"&pageSize=100"
