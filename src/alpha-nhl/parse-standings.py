@@ -3,7 +3,7 @@ import os
 
 cwd = os.getcwd()
 
-ROSTERS_URL = "https://github.com/llevasseur/world-juniors-2022/blob/main/ROSTERS.md"
+ROSTERS_URL = "https://github.com/llevasseur/hockey-fantasy-leaguye/blob/main/ROSTERS.md"
 STANDINGS_URL = "https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md"
 
 NUMBER_OF_PLAYERS = 6
