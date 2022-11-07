@@ -12,38 +12,38 @@ Casual Python3 project used by friends to keep track of NHL players' stats. Stat
 4 | 35 |
 3 | 35 |
 2 | 35 |
-| [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Liam) | 2 | 34 |
-2 | 34 |
-4 | 34 |
-6 | 34 |
-2 | 34 |
-6 | 34 |
-6 | 34 |
-6 | 34 |
-| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Timo) | 6 | 31 |
-6 | 31 |
-6 | 31 |
-2 | 31 |
-4 | 31 |
-5 | 31 |
-1 | 31 |
-1 | 31 |
-| [John](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#John) | 1 | 29 |
-4 | 29 |
-3 | 29 |
-3 | 29 |
-5 | 29 |
-3 | 29 |
-5 | 29 |
-5 | 29 |
-| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Leevon) | 3 | 24 |
-4 | 24 |
-1 | 24 |
-5 | 24 |
-3 | 24 |
-2 | 24 |
-2 | 24 |
-4 | 24 |
+| [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Liam) | 2 | 35 |
+2 | 35 |
+4 | 35 |
+6 | 35 |
+3 | 35 |
+6 | 35 |
+6 | 35 |
+6 | 35 |
+| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Timo) | 6 | 32 |
+6 | 32 |
+6 | 32 |
+2 | 32 |
+5 | 32 |
+5 | 32 |
+1 | 32 |
+1 | 32 |
+| [John](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#John) | 1 | 28 |
+4 | 28 |
+3 | 28 |
+3 | 28 |
+4 | 28 |
+3 | 28 |
+5 | 28 |
+5 | 28 |
+| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Leevon) | 3 | 23 |
+4 | 23 |
+1 | 23 |
+5 | 23 |
+2 | 23 |
+2 | 23 |
+2 | 23 |
+4 | 23 |
 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Carsten) | 4 | 17 |
 1 | 17 |
 2 | 17 |

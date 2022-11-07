@@ -13,7 +13,7 @@
 | [Devon Toews](https://www.nhl.com/) | D | COL | 1 | 7 | 19 | 0 | +6 | 22:20 |
 | [Zach Werenski](https://www.nhl.com/) | D | CBJ | 2 | 4 | 39 | 0 | -8 | 25:04 |
 | [Jacob Trouba](https://www.nhl.com/) | D | NYR | 0 | 4 | 37 | 8 | -1 | 22:02 |
-| **Totals** | | | 55 | 90 | 460 | 60 | -14 | 236:44 |
+| **Totals** | | | 55 | 90 | 460 | 60 | 19 | 236:44 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -32,7 +32,7 @@
 | [Moritz Seider](https://www.nhl.com/) | D | DET | 0 | 5 | 23 | 2 | 0 | 22:38 |
 | [Morgan Rielly](https://www.nhl.com/) | D | TOR | 0 | 9 | 21 | 7 | -3 | 23:23 |
 | [Miro Heiskanen](https://www.nhl.com/) | D | DAL | 2 | 6 | 21 | 6 | +10 | 23:32 |
-| **Totals** | | | 34 | 76 | 328 | 70 | -15 | 225:18 |
+| **Totals** | | | 34 | 76 | 328 | 70 | -3 | 225:18 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -51,7 +51,7 @@
 | [MacKenzie Weegar](https://www.nhl.com/) | D | CGY | 0 | 4 | 17 | 4 | +3 | 21:36 |
 | [Shea Theodore](https://www.nhl.com/) | D | VGK | 3 | 6 | 24 | 2 | +11 | 21:06 |
 | [Rasmus Dahlin](https://www.nhl.com/) | D | BUF | 7 | 8 | 44 | 16 | +10 | 25:54 |
-| **Totals** | | | 53 | 87 | 385 | 70 | -2 | 235:59 |
+| **Totals** | | | 53 | 87 | 385 | 70 | 39 | 235:59 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -70,7 +70,7 @@
 | [Aaron Ekblad](https://www.nhl.com/) | D | FLA | 1 | 0 | 7 | 4 | +1 | 21:42 |
 | [Thomas Chabot](https://www.nhl.com/) | D | OTT | 2 | 3 | 28 | 14 | -3 | 25:32 |
 | [Darnell Nurse](https://www.nhl.com/) | D | EDM | 3 | 5 | 23 | 14 | +5 | 23:24 |
-| **Totals** | | | 33 | 65 | 384 | 91 | -19 | 236:58 |
+| **Totals** | | | 33 | 65 | 384 | 91 | 1 | 236:58 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -89,7 +89,7 @@
 | [Brent Burns](https://www.nhl.com/) | D | CAR | 2 | 7 | 51 | 8 | -2 | 23:31 |
 | [Drew Doughty](https://www.nhl.com/) | D | LAK | 1 | 5 | 28 | 12 | 0 | 26:39 |
 | [Dougie Hamilton](https://www.nhl.com/) | D | NJD | 2 | 6 | 45 | 6 | +1 | 21:43 |
-| **Totals** | | | 26 | 76 | 382 | 62 | -10 | 235:41 |
+| **Totals** | | | 26 | 76 | 382 | 62 | 5 | 235:41 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |

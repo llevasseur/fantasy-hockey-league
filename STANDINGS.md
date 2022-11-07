@@ -37,11 +37,11 @@
 ## Plus / Minus
 | Rank | User | Plus / Minus |
 | :--- | ---- | ---------: |
-| 1 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md)#Alasdair) | -2 |
-| 2 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md)#John) | -10 |
-| 3 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md)#Timo) | -14 |
-| 4 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md)#Leevon) | -15 |
-| 5 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md)#Liam) | -19 |
+| 1 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md)#Alasdair) | 39 |
+| 2 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md)#Timo) | 19 |
+| 3 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md)#John) | 5 |
+| 4 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md)#Liam) | 1 |
+| 5 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md)#Leevon) | -3 |
 | 6 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md)#Carsten) | -48 |
 ## Average Time on Ice
 | Rank | User | Average Time on Ice |

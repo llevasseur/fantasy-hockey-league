@@ -17,6 +17,12 @@ def addTOI(toi, total):
 
   return str(int(tot_min) + int(min)) + ':' + str(sec)
 
+def addPM(pm, total):
+  if '+' in pm:
+    _, pm = re.match('(\+)([0-9]+)', pm).groups()
+  print(pm)
+  return total + int(pm)
+
 def validatePick(pick):
     KEYS = [
         "href",
@@ -100,7 +106,7 @@ def main():
             if re.match('\d+', g): g_total += int(g)
             if re.match('\d+', a): a_total += int(a)
             if re.match('\d+', pim): pim_total += int(pim)
-            if re.match('\-?\d+', pm): pm_total += int(pm)
+            pm_total = addPM(pm, pm_total)
 
             sog_total += int(sog)
             toi_total = addTOI(toi, toi_total)
