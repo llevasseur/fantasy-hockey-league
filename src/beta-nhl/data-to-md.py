@@ -5,7 +5,6 @@ import os
 cwd = os.getcwd()
 
 def addTOI(toi, total):
-
   min, sec = re.match('([0-9]{1,2}):([0-5][0-9])', toi).groups()
   tot_min, tot_sec = re.match('([0-9]+):([0-5]{0,1}[0-9])', total).groups()
   sec = int(tot_sec) + int(sec)
@@ -20,7 +19,6 @@ def addTOI(toi, total):
 def addPM(pm, total):
   if '+' in pm:
     _, pm = re.match('(\+)([0-9]+)', pm).groups()
-  print(pm)
   return total + int(pm)
 
 def validatePick(pick):
@@ -80,7 +78,7 @@ def main():
         if validatePick(player_data[pick]):
           href = player_data[pick]['href']
           pos = player_data[pick]['pos']
-          team = teams[player_data[pick]['team']]
+          team = teams[player_data[pick]['team']]["name"]
 
           if pos == "G":
             gaa = player_data[pick]['gaa']
