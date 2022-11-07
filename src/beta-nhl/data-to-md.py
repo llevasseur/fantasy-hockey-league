@@ -45,6 +45,9 @@ def main():
 
   with open(cwd + '/json/beta-nhl/ep-player-data.json') as json_file:
     player_data = json.loads(json_file.read())
+  
+  with open(cwd + '/json/beta-nhl/team-lookup-table.json', 'r') as teams_file:
+    teams = json.loads(teams_file.read())
     
   md_file = open(cwd + '/beta/ROSTERS.md', 'w')
 
@@ -77,7 +80,7 @@ def main():
         if validatePick(player_data[pick]):
           href = player_data[pick]['href']
           pos = player_data[pick]['pos']
-          team = player_data[pick]['team']
+          team = teams[player_data[pick]['team']]
 
           if pos == "G":
             gaa = player_data[pick]['gaa']
