@@ -2,14 +2,14 @@
 ### Alpha Version: Data parsed with BeautifulSoup from eliteprospects.com
 Casual Python3 project used by friends to keep track of NHL and WJC players' stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.
 ## Scoreboard
-| User | [G](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-goals) | [A](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-assists) | [SOG](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-shots-on-goal) | [PIM](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-penalties-in-minutes) | [+/-](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-plus--minus) | [TPM](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-time-played-in-minutes) | [S%](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-save-percentage) | [GAA](https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-goals-against-average) | Total |
+| User | <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-goals' onclick='return false;'>G</a> | <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-assists' onclick='return false;'>A</a> | <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-shots-on-goal' onclick='return false;'>SOG</a> | <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-penalties-in-minutes' onclick='return false;'>PIM</a> | <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-plus--minus' onclick='return false;'>+/-</a> | <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-time-played-in-minutes' onclick='return false;'>TPM</a> | <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-save-percentage' onclick='return false;'>S%</a> | <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/STANDINGS.md#user-content-goals-against-average' onclick='return false;'>GAA</a> | Total |
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
-| [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo) | 6 | 6 | 6 | 1 | 5 | 6 | 1 | 1 | 32 |
-| [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair) | 5 | 5 | 4 | 5 | 6 | 2 | 3 | 2 | 32 |
-| [Liam](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Liam) | 2 | 1 | 5 | 6 | 3 | 1 | 6 | 6 | 30 |
-| [John](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John) | 1 | 4 | 3 | 3 | 4 | 4 | 5 | 5 | 29 |
-| [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon) | 3 | 4 | 1 | 5 | 2 | 5 | 2 | 4 | 26 |
-| [Carsten](https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten) | 4 | 2 | 2 | 3 | 1 | 3 | 4 | 3 | 22 |
+| <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Timo' onclick='return false;'>Timo</a> | 6 | 6 | 6 | 1 | 5 | 6 | 1 | 1 | 32 |
+| <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Alasdair' onclick='return false;'>Alasdair</a> | 5 | 5 | 4 | 5 | 6 | 2 | 3 | 2 | 32 |
+| <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Liam' onclick='return false;'>Liam</a> | 2 | 1 | 5 | 6 | 3 | 1 | 6 | 6 | 30 |
+| <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#John' onclick='return false;'>John</a> | 1 | 4 | 3 | 3 | 4 | 4 | 5 | 5 | 29 |
+| <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Leevon' onclick='return false;'>Leevon</a> | 3 | 4 | 1 | 5 | 2 | 5 | 2 | 4 | 26 |
+| <a href='https://github.com/llevasseur/world-juniors-2022/blob/master/ROSTERS.md#Carsten' onclick='return false;'>Carsten</a> | 4 | 2 | 2 | 3 | 1 | 3 | 4 | 3 | 22 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage
