@@ -78,7 +78,9 @@ def main():
         if validatePick(player_data[pick]):
           href = player_data[pick]['href']
           pos = player_data[pick]['pos']
-          team = teams[player_data[pick]['team']]["name"]
+          team = player_data[pick]['team']
+          color = teams[team]["col"]
+          team = teams[team]["name"]
 
           if pos == "G":
             gaa = player_data[pick]['gaa']
@@ -112,7 +114,9 @@ def main():
             sog_total += int(sog)
             toi_total = addTOI(toi, toi_total)
             player_map[pos].append(
-              f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {toi} |\n")
+              f"<div id='{pick}' style='background-color:{color};'>\n"+
+               "| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {toi} |\n"+
+               "</div>")
       except:
         print(f"skipping (data): {pick}")
 
