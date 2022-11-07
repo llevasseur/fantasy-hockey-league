@@ -2,17 +2,17 @@
 ## Timo
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/183442/connor-mcdavid`);return false;'>Connor McDavid</a> | F |  Edmonton Oilers  | 12 | 13 | 47 | 4 | 2 | 266.26 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/77237/nikita-kucherov`);return false;'>Nikita Kucherov</a> | F |  Tampa Bay Lightning  | 6 | 14 | 41 | 8 | 6 | 268.88 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/23856/mika-zibanejad`);return false;'>Mika Zibanejad</a> | F |  New York Rangers  | 7 | 8 | 58 | 2 | 0 | 275.5 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/130383/david-pastrnak`);return false;'>David Pastrnak</a> | F |  Boston Bruins  | 8 | 11 | 62 | 8 | 5 | 236.58 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/201455/jason-robertson`);return false;'>Jason Robertson</a> | F |  Dallas Stars  | 8 | 10 | 45 | 4 | 9 | 200.0 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/88391/johnny-gaudreau`);return false;'>Johnny Gaudreau</a> | F |  Columbus Blue Jackets  | 5 | 4 | 40 | 6 | -5 | 241.43 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/14657/evander-kane`);return false;'>Evander Kane</a> | F |  Edmonton Oilers  | 5 | 7 | 48 | 16 | 4 | 245.14 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/6007/victor-hedman`);return false;'>Victor Hedman</a> | D |  Tampa Bay Lightning  | 1 | 8 | 24 | 4 | 1 | 235.58 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/59575/devon-toews`);return false;'>Devon Toews</a> | D |  Colorado Avalanche  | 1 | 7 | 19 | 0 | 6 | 200.97 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/186311/zach-werenski`);return false;'>Zach Werenski</a> | D |  Columbus Blue Jackets  | 2 | 4 | 39 | 0 | -8 | 300.69 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/90349/jacob-trouba`);return false;'>Jacob Trouba</a> | D |  New York Rangers  | 0 | 4 | 37 | 8 | -1 | 286.52 |
+| <a href="https://www.eliteprospects.com/player/183442/connor-mcdavid" target="_blank">Connor McDavid</a> | F |  Edmonton Oilers  | 12 | 13 | 47 | 4 | 2 | 266.26 |
+| <a href="https://www.eliteprospects.com/player/77237/nikita-kucherov" target="_blank">Nikita Kucherov</a> | F |  Tampa Bay Lightning  | 6 | 14 | 41 | 8 | 6 | 268.88 |
+| <a href="https://www.eliteprospects.com/player/23856/mika-zibanejad" target="_blank">Mika Zibanejad</a> | F |  New York Rangers  | 7 | 8 | 58 | 2 | 0 | 275.5 |
+| <a href="https://www.eliteprospects.com/player/130383/david-pastrnak" target="_blank">David Pastrnak</a> | F |  Boston Bruins  | 8 | 11 | 62 | 8 | 5 | 236.58 |
+| <a href="https://www.eliteprospects.com/player/201455/jason-robertson" target="_blank">Jason Robertson</a> | F |  Dallas Stars  | 8 | 10 | 45 | 4 | 9 | 200.0 |
+| <a href="https://www.eliteprospects.com/player/88391/johnny-gaudreau" target="_blank">Johnny Gaudreau</a> | F |  Columbus Blue Jackets  | 5 | 4 | 40 | 6 | -5 | 241.43 |
+| <a href="https://www.eliteprospects.com/player/14657/evander-kane" target="_blank">Evander Kane</a> | F |  Edmonton Oilers  | 5 | 7 | 48 | 16 | 4 | 245.14 |
+| <a href="https://www.eliteprospects.com/player/6007/victor-hedman" target="_blank">Victor Hedman</a> | D |  Tampa Bay Lightning  | 1 | 8 | 24 | 4 | 1 | 235.58 |
+| <a href="https://www.eliteprospects.com/player/59575/devon-toews" target="_blank">Devon Toews</a> | D |  Colorado Avalanche  | 1 | 7 | 19 | 0 | 6 | 200.97 |
+| <a href="https://www.eliteprospects.com/player/186311/zach-werenski" target="_blank">Zach Werenski</a> | D |  Columbus Blue Jackets  | 2 | 4 | 39 | 0 | -8 | 300.69 |
+| <a href="https://www.eliteprospects.com/player/90349/jacob-trouba" target="_blank">Jacob Trouba</a> | D |  New York Rangers  | 0 | 4 | 37 | 8 | -1 | 286.52 |
 | **Totals** | | | 55 | 90 | 460 | 60 | 19 | 2757.55 |
 
 | Player | Pos | Team | S% | GAA |
@@ -21,17 +21,17 @@
 ## Leevon
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/199898/auston-matthews`);return false;'>Auston Matthews</a> | F |  Toronto Maple Leafs  | 6 | 7 | 61 | 8 | 0 | 273.35 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/45261/jonathan-huberdeau`);return false;'>Jonathan Huberdeau</a> | F |  Calgary Flames  | 1 | 4 | 19 | 2 | -2 | 168.7 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/38624/j.t.-miller`);return false;'>J.T. Miller</a> | F |  Vancouver Canucks  | 7 | 5 | 26 | 13 | -5 | 250.6 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/266336/elias-pettersson`);return false;'>Elias Pettersson</a> | F |  Vancouver Canucks  | 5 | 10 | 36 | 2 | 2 | 246.52 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/87971/kevin-fiala`);return false;'>Kevin Fiala</a> | F |  Los Angeles Kings  | 3 | 11 | 33 | 10 | -3 | 239.37 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/34777/yevgeni-kuznetsov`);return false;'>Yevgeni Kuznetsov</a> | F |  Washington Capitals  | 0 | 7 | 25 | 12 | -1 | 219.5 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/211807/andrey-kuzmenko`);return false;'>Andrey Kuzmenko</a> | F |  Vancouver Canucks  | 7 | 4 | 35 | 0 | -1 | 192.6 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/248380/adam-fox`);return false;'>Adam Fox</a> | D |  New York Rangers  | 3 | 8 | 28 | 8 | 0 | 324.68 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/258987/moritz-seider`);return false;'>Moritz Seider</a> | D |  Detroit Red Wings  | 0 | 5 | 23 | 2 | 0 | 271.61 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/41184/morgan-rielly`);return false;'>Morgan Rielly</a> | D |  Toronto Maple Leafs  | 0 | 9 | 21 | 7 | -3 | 304.0 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/250075/miro-heiskanen`);return false;'>Miro Heiskanen</a> | D |  Dallas Stars  | 2 | 6 | 21 | 6 | 10 | 211.8 |
+| <a href="https://www.eliteprospects.com/player/199898/auston-matthews" target="_blank">Auston Matthews</a> | F |  Toronto Maple Leafs  | 6 | 7 | 61 | 8 | 0 | 273.35 |
+| <a href="https://www.eliteprospects.com/player/45261/jonathan-huberdeau" target="_blank">Jonathan Huberdeau</a> | F |  Calgary Flames  | 1 | 4 | 19 | 2 | -2 | 168.7 |
+| <a href="https://www.eliteprospects.com/player/38624/j.t.-miller" target="_blank">J.T. Miller</a> | F |  Vancouver Canucks  | 7 | 5 | 26 | 13 | -5 | 250.6 |
+| <a href="https://www.eliteprospects.com/player/266336/elias-pettersson" target="_blank">Elias Pettersson</a> | F |  Vancouver Canucks  | 5 | 10 | 36 | 2 | 2 | 246.52 |
+| <a href="https://www.eliteprospects.com/player/87971/kevin-fiala" target="_blank">Kevin Fiala</a> | F |  Los Angeles Kings  | 3 | 11 | 33 | 10 | -3 | 239.37 |
+| <a href="https://www.eliteprospects.com/player/34777/yevgeni-kuznetsov" target="_blank">Yevgeni Kuznetsov</a> | F |  Washington Capitals  | 0 | 7 | 25 | 12 | -1 | 219.5 |
+| <a href="https://www.eliteprospects.com/player/211807/andrey-kuzmenko" target="_blank">Andrey Kuzmenko</a> | F |  Vancouver Canucks  | 7 | 4 | 35 | 0 | -1 | 192.6 |
+| <a href="https://www.eliteprospects.com/player/248380/adam-fox" target="_blank">Adam Fox</a> | D |  New York Rangers  | 3 | 8 | 28 | 8 | 0 | 324.68 |
+| <a href="https://www.eliteprospects.com/player/258987/moritz-seider" target="_blank">Moritz Seider</a> | D |  Detroit Red Wings  | 0 | 5 | 23 | 2 | 0 | 271.61 |
+| <a href="https://www.eliteprospects.com/player/41184/morgan-rielly" target="_blank">Morgan Rielly</a> | D |  Toronto Maple Leafs  | 0 | 9 | 21 | 7 | -3 | 304.0 |
+| <a href="https://www.eliteprospects.com/player/250075/miro-heiskanen" target="_blank">Miro Heiskanen</a> | D |  Dallas Stars  | 2 | 6 | 21 | 6 | 10 | 211.8 |
 | **Totals** | | | 34 | 76 | 328 | 70 | -3 | 2702.73 |
 
 | Player | Pos | Team | S% | GAA |
@@ -40,17 +40,17 @@
 ## Alasdair
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/71913/leon-draisaitl`);return false;'>Leon Draisaitl</a> | F |  Edmonton Oilers  | 7 | 16 | 39 | 6 | 3 | 265.63 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/91186/mikko-rantanen`);return false;'>Mikko Rantanen</a> | F |  Colorado Avalanche  | 7 | 9 | 36 | 8 | 3 | 233.48 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/6146/sidney-crosby`);return false;'>Sidney Crosby</a> | F |  Pittsburgh Penguins  | 6 | 8 | 38 | 8 | -1 | 242.82 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/11113/steven-stamkos`);return false;'>Steven Stamkos</a> | F |  Tampa Bay Lightning  | 7 | 6 | 50 | 8 | 1 | 248.75 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/199870/jake-guentzel`);return false;'>Jake Guentzel</a> | F |  Pittsburgh Penguins  | 6 | 4 | 32 | 6 | 0 | 155.98 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/191959/jack-eichel`);return false;'>Jack Eichel</a> | F |  Vegas Golden Knights  | 5 | 9 | 47 | 0 | 10 | 237.63 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/4231/yevgeni-malkin`);return false;'>Yevgeni Malkin</a> | F |  Pittsburgh Penguins  | 5 | 7 | 42 | 10 | -1 | 228.24 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/201671/quinn-hughes`);return false;'>Quinn Hughes</a> | D |  Vancouver Canucks  | 0 | 10 | 16 | 2 | 0 | 209.9 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/97908/mackenzie-weegar`);return false;'>MacKenzie Weegar</a> | D |  Calgary Flames  | 0 | 4 | 17 | 4 | 3 | 215.92 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/101581/shea-theodore`);return false;'>Shea Theodore</a> | D |  Vegas Golden Knights  | 3 | 6 | 24 | 2 | 11 | 174.27 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/310545/rasmus-dahlin`);return false;'>Rasmus Dahlin</a> | D |  Buffalo Sabres  | 7 | 8 | 44 | 16 | 10 | 284.84 |
+| <a href="https://www.eliteprospects.com/player/71913/leon-draisaitl" target="_blank">Leon Draisaitl</a> | F |  Edmonton Oilers  | 7 | 16 | 39 | 6 | 3 | 265.63 |
+| <a href="https://www.eliteprospects.com/player/91186/mikko-rantanen" target="_blank">Mikko Rantanen</a> | F |  Colorado Avalanche  | 7 | 9 | 36 | 8 | 3 | 233.48 |
+| <a href="https://www.eliteprospects.com/player/6146/sidney-crosby" target="_blank">Sidney Crosby</a> | F |  Pittsburgh Penguins  | 6 | 8 | 38 | 8 | -1 | 242.82 |
+| <a href="https://www.eliteprospects.com/player/11113/steven-stamkos" target="_blank">Steven Stamkos</a> | F |  Tampa Bay Lightning  | 7 | 6 | 50 | 8 | 1 | 248.75 |
+| <a href="https://www.eliteprospects.com/player/199870/jake-guentzel" target="_blank">Jake Guentzel</a> | F |  Pittsburgh Penguins  | 6 | 4 | 32 | 6 | 0 | 155.98 |
+| <a href="https://www.eliteprospects.com/player/191959/jack-eichel" target="_blank">Jack Eichel</a> | F |  Vegas Golden Knights  | 5 | 9 | 47 | 0 | 10 | 237.63 |
+| <a href="https://www.eliteprospects.com/player/4231/yevgeni-malkin" target="_blank">Yevgeni Malkin</a> | F |  Pittsburgh Penguins  | 5 | 7 | 42 | 10 | -1 | 228.24 |
+| <a href="https://www.eliteprospects.com/player/201671/quinn-hughes" target="_blank">Quinn Hughes</a> | D |  Vancouver Canucks  | 0 | 10 | 16 | 2 | 0 | 209.9 |
+| <a href="https://www.eliteprospects.com/player/97908/mackenzie-weegar" target="_blank">MacKenzie Weegar</a> | D |  Calgary Flames  | 0 | 4 | 17 | 4 | 3 | 215.92 |
+| <a href="https://www.eliteprospects.com/player/101581/shea-theodore" target="_blank">Shea Theodore</a> | D |  Vegas Golden Knights  | 3 | 6 | 24 | 2 | 11 | 174.27 |
+| <a href="https://www.eliteprospects.com/player/310545/rasmus-dahlin" target="_blank">Rasmus Dahlin</a> | D |  Buffalo Sabres  | 7 | 8 | 44 | 16 | 10 | 284.84 |
 | **Totals** | | | 53 | 87 | 385 | 70 | 39 | 2497.46 |
 
 | Player | Pos | Team | S% | GAA |
@@ -59,17 +59,17 @@
 ## Liam
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/177671/kyle-connor`);return false;'>Kyle Connor</a> | F |  Winnipeg Jets  | 2 | 5 | 41 | 0 | -1 | 229.8 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/4230/alexander-ovechkin`);return false;'>Alexander Ovechkin</a> | F |  Washington Capitals  | 7 | 4 | 52 | 6 | -9 | 263.51 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/233030/matthew-tkachuk`);return false;'>Matthew Tkachuk</a> | F |  Florida Panthers  | 5 | 12 | 72 | 30 | 6 | 262.87 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/201473/brady-tkachuk`);return false;'>Brady Tkachuk</a> | F |  Ottawa Senators  | 6 | 10 | 39 | 17 | -4 | 197.96 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/305432/jack-hughes`);return false;'>Jack Hughes</a> | F |  New Jersey Devils  | 4 | 8 | 53 | 0 | 2 | 234.53 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/66581/nikolaj-ehlers`);return false;'>Nikolaj Ehlers</a> | F |  Winnipeg Jets  | 0 | 3 | 7 | 0 | 0 | 38.0 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/95032/sam-reinhart`);return false;'>Sam Reinhart</a> | F |  Florida Panthers  | 2 | 3 | 40 | 2 | -2 | 272.34 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/199655/cale-makar`);return false;'>Cale Makar</a> | D |  Colorado Avalanche  | 1 | 12 | 31 | 4 | 6 | 285.97 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/49042/aaron-ekblad`);return false;'>Aaron Ekblad</a> | D |  Florida Panthers  | 1 | 0 | 7 | 4 | 1 | 65.05 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/213607/thomas-chabot`);return false;'>Thomas Chabot</a> | D |  Ottawa Senators  | 2 | 3 | 28 | 14 | -3 | 280.86 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/97352/darnell-nurse`);return false;'>Darnell Nurse</a> | D |  Edmonton Oilers  | 3 | 5 | 23 | 14 | 5 | 280.69 |
+| <a href="https://www.eliteprospects.com/player/177671/kyle-connor" target="_blank">Kyle Connor</a> | F |  Winnipeg Jets  | 2 | 5 | 41 | 0 | -1 | 229.8 |
+| <a href="https://www.eliteprospects.com/player/4230/alexander-ovechkin" target="_blank">Alexander Ovechkin</a> | F |  Washington Capitals  | 7 | 4 | 52 | 6 | -9 | 263.51 |
+| <a href="https://www.eliteprospects.com/player/233030/matthew-tkachuk" target="_blank">Matthew Tkachuk</a> | F |  Florida Panthers  | 5 | 12 | 72 | 30 | 6 | 262.87 |
+| <a href="https://www.eliteprospects.com/player/201473/brady-tkachuk" target="_blank">Brady Tkachuk</a> | F |  Ottawa Senators  | 6 | 10 | 39 | 17 | -4 | 197.96 |
+| <a href="https://www.eliteprospects.com/player/305432/jack-hughes" target="_blank">Jack Hughes</a> | F |  New Jersey Devils  | 4 | 8 | 53 | 0 | 2 | 234.53 |
+| <a href="https://www.eliteprospects.com/player/66581/nikolaj-ehlers" target="_blank">Nikolaj Ehlers</a> | F |  Winnipeg Jets  | 0 | 3 | 7 | 0 | 0 | 38.0 |
+| <a href="https://www.eliteprospects.com/player/95032/sam-reinhart" target="_blank">Sam Reinhart</a> | F |  Florida Panthers  | 2 | 3 | 40 | 2 | -2 | 272.34 |
+| <a href="https://www.eliteprospects.com/player/199655/cale-makar" target="_blank">Cale Makar</a> | D |  Colorado Avalanche  | 1 | 12 | 31 | 4 | 6 | 285.97 |
+| <a href="https://www.eliteprospects.com/player/49042/aaron-ekblad" target="_blank">Aaron Ekblad</a> | D |  Florida Panthers  | 1 | 0 | 7 | 4 | 1 | 65.05 |
+| <a href="https://www.eliteprospects.com/player/213607/thomas-chabot" target="_blank">Thomas Chabot</a> | D |  Ottawa Senators  | 2 | 3 | 28 | 14 | -3 | 280.86 |
+| <a href="https://www.eliteprospects.com/player/97352/darnell-nurse" target="_blank">Darnell Nurse</a> | D |  Edmonton Oilers  | 3 | 5 | 23 | 14 | 5 | 280.69 |
 | **Totals** | | | 33 | 65 | 393 | 91 | 1 | 2411.58 |
 
 | Player | Pos | Team | S% | GAA |
@@ -78,17 +78,17 @@
 ## John
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/99204/nathan-mackinnon`);return false;'>Nathan MacKinnon</a> | F |  Colorado Avalanche  | 3 | 16 | 55 | 14 | 8 | 241.89 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/50044/aleksander-barkov`);return false;'>Aleksander Barkov</a> | F |  Florida Panthers  | 2 | 8 | 44 | 0 | 3 | 300.45 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/223194/mitchell-marner`);return false;'>Mitchell Marner</a> | F |  Toronto Maple Leafs  | 2 | 12 | 25 | 6 | 1 | 287.94 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/10437/claude-giroux`);return false;'>Claude Giroux</a> | F |  Ottawa Senators  | 6 | 4 | 29 | 2 | 2 | 190.46 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/231275/alex-debrincat`);return false;'>Alex DeBrincat</a> | F |  Ottawa Senators  | 2 | 7 | 49 | 4 | -3 | 210.79 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/348134/tim-stutzle`);return false;'>Tim Stützle</a> | F |  Ottawa Senators  | 3 | 6 | 21 | 8 | -3 | 212.87 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/158906/pavel-buchnevich`);return false;'>Pavel Buchnevich</a> | F |  St. Louis Blues  | 1 | 1 | 8 | 0 | 0 | 75.18 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/18590/john-carlson`);return false;'>John Carlson</a> | D |  Washington Capitals  | 2 | 4 | 27 | 2 | -2 | 197.35 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/9103/brent-burns`);return false;'>Brent Burns</a> | D |  Carolina Hurricanes  | 2 | 7 | 51 | 8 | -2 | 282.08 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/10430/drew-doughty`);return false;'>Drew Doughty</a> | D |  Los Angeles Kings  | 1 | 5 | 28 | 12 | 0 | 373.06 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/45596/dougie-hamilton`);return false;'>Dougie Hamilton</a> | D |  New Jersey Devils  | 2 | 6 | 45 | 6 | 1 | 260.49 |
+| <a href="https://www.eliteprospects.com/player/99204/nathan-mackinnon" target="_blank">Nathan MacKinnon</a> | F |  Colorado Avalanche  | 3 | 16 | 55 | 14 | 8 | 241.89 |
+| <a href="https://www.eliteprospects.com/player/50044/aleksander-barkov" target="_blank">Aleksander Barkov</a> | F |  Florida Panthers  | 2 | 8 | 44 | 0 | 3 | 300.45 |
+| <a href="https://www.eliteprospects.com/player/223194/mitchell-marner" target="_blank">Mitchell Marner</a> | F |  Toronto Maple Leafs  | 2 | 12 | 25 | 6 | 1 | 287.94 |
+| <a href="https://www.eliteprospects.com/player/10437/claude-giroux" target="_blank">Claude Giroux</a> | F |  Ottawa Senators  | 6 | 4 | 29 | 2 | 2 | 190.46 |
+| <a href="https://www.eliteprospects.com/player/231275/alex-debrincat" target="_blank">Alex DeBrincat</a> | F |  Ottawa Senators  | 2 | 7 | 49 | 4 | -3 | 210.79 |
+| <a href="https://www.eliteprospects.com/player/348134/tim-stutzle" target="_blank">Tim Stützle</a> | F |  Ottawa Senators  | 3 | 6 | 21 | 8 | -3 | 212.87 |
+| <a href="https://www.eliteprospects.com/player/158906/pavel-buchnevich" target="_blank">Pavel Buchnevich</a> | F |  St. Louis Blues  | 1 | 1 | 8 | 0 | 0 | 75.18 |
+| <a href="https://www.eliteprospects.com/player/18590/john-carlson" target="_blank">John Carlson</a> | D |  Washington Capitals  | 2 | 4 | 27 | 2 | -2 | 197.35 |
+| <a href="https://www.eliteprospects.com/player/9103/brent-burns" target="_blank">Brent Burns</a> | D |  Carolina Hurricanes  | 2 | 7 | 51 | 8 | -2 | 282.08 |
+| <a href="https://www.eliteprospects.com/player/10430/drew-doughty" target="_blank">Drew Doughty</a> | D |  Los Angeles Kings  | 1 | 5 | 28 | 12 | 0 | 373.06 |
+| <a href="https://www.eliteprospects.com/player/45596/dougie-hamilton" target="_blank">Dougie Hamilton</a> | D |  New Jersey Devils  | 2 | 6 | 45 | 6 | 1 | 260.49 |
 | **Totals** | | | 26 | 76 | 382 | 62 | 5 | 2632.56 |
 
 | Player | Pos | Team | S% | GAA |
@@ -97,17 +97,17 @@
 ## Carsten
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/265645/kirill-kaprizov`);return false;'>Kirill Kaprizov</a> | F |  Minnesota Wild  | 8 | 5 | 43 | 8 | -5 | 238.42 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/24664/artemi-panarin`);return false;'>Artemi Panarin</a> | F |  New York Rangers  | 5 | 12 | 33 | 10 | -6 | 267.38 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/152111/sebastian-aho`);return false;'>Sebastian Aho</a> | F |  Carolina Hurricanes  | 7 | 8 | 27 | 10 | -1 | 216.74 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/37998/chris-kreider`);return false;'>Chris Kreider</a> | F |  New York Rangers  | 4 | 6 | 44 | 4 | 0 | 255.47 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/328556/andrei-svechnikov`);return false;'>Andrei Svechnikov</a> | F |  Carolina Hurricanes  | 8 | 6 | 40 | 6 | -1 | 226.83 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/38703/william-nylander`);return false;'>William Nylander</a> | F |  Toronto Maple Leafs  | 5 | 8 | 38 | 4 | 0 | 229.18 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/221667/patrik-laine`);return false;'>Patrik Laine</a> | F |  Columbus Blue Jackets  | 2 | 1 | 24 | 4 | -5 | 115.82 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/12668/roman-josi`);return false;'>Roman Josi</a> | D |  Nashville Predators  | 2 | 5 | 50 | 8 | -9 | 296.12 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/9189/kris-letang`);return false;'>Kris Letang</a> | D |  Pittsburgh Penguins  | 0 | 7 | 21 | 2 | -7 | 259.57 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/37747/torey-krug`);return false;'>Torey Krug</a> | D |  St. Louis Blues  | 1 | 3 | 17 | 2 | -11 | 179.92 |
-| <a href='#' onclick='window.open(`https://www.eliteprospects.com/player/11317/alex-pietrangelo`);return false;'>Alex Pietrangelo</a> | D |  Vegas Golden Knights  | 0 | 10 | 26 | 4 | -2 | 307.88 |
+| <a href="https://www.eliteprospects.com/player/265645/kirill-kaprizov" target="_blank">Kirill Kaprizov</a> | F |  Minnesota Wild  | 8 | 5 | 43 | 8 | -5 | 238.42 |
+| <a href="https://www.eliteprospects.com/player/24664/artemi-panarin" target="_blank">Artemi Panarin</a> | F |  New York Rangers  | 5 | 12 | 33 | 10 | -6 | 267.38 |
+| <a href="https://www.eliteprospects.com/player/152111/sebastian-aho" target="_blank">Sebastian Aho</a> | F |  Carolina Hurricanes  | 7 | 8 | 27 | 10 | -1 | 216.74 |
+| <a href="https://www.eliteprospects.com/player/37998/chris-kreider" target="_blank">Chris Kreider</a> | F |  New York Rangers  | 4 | 6 | 44 | 4 | 0 | 255.47 |
+| <a href="https://www.eliteprospects.com/player/328556/andrei-svechnikov" target="_blank">Andrei Svechnikov</a> | F |  Carolina Hurricanes  | 8 | 6 | 40 | 6 | -1 | 226.83 |
+| <a href="https://www.eliteprospects.com/player/38703/william-nylander" target="_blank">William Nylander</a> | F |  Toronto Maple Leafs  | 5 | 8 | 38 | 4 | 0 | 229.18 |
+| <a href="https://www.eliteprospects.com/player/221667/patrik-laine" target="_blank">Patrik Laine</a> | F |  Columbus Blue Jackets  | 2 | 1 | 24 | 4 | -5 | 115.82 |
+| <a href="https://www.eliteprospects.com/player/12668/roman-josi" target="_blank">Roman Josi</a> | D |  Nashville Predators  | 2 | 5 | 50 | 8 | -9 | 296.12 |
+| <a href="https://www.eliteprospects.com/player/9189/kris-letang" target="_blank">Kris Letang</a> | D |  Pittsburgh Penguins  | 0 | 7 | 21 | 2 | -7 | 259.57 |
+| <a href="https://www.eliteprospects.com/player/37747/torey-krug" target="_blank">Torey Krug</a> | D |  St. Louis Blues  | 1 | 3 | 17 | 2 | -11 | 179.92 |
+| <a href="https://www.eliteprospects.com/player/11317/alex-pietrangelo" target="_blank">Alex Pietrangelo</a> | D |  Vegas Golden Knights  | 0 | 10 | 26 | 4 | -2 | 307.88 |
 | **Totals** | | | 42 | 71 | 363 | 62 | -47 | 2593.33 |
 
 | Player | Pos | Team | S% | GAA |
