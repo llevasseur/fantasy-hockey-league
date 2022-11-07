@@ -1,8 +1,8 @@
 {
     " Detroit Red Wings": {
         "Moritz Seider": {
-            "SOG": 21,
-            "TPM": 243.88
+            "SOG": 23,
+            "TPM": 271.61
         }
     },
     " Boston Bruins": {
@@ -27,12 +27,12 @@
             "TPM": 65.05
         },
         "Sam Reinhart": {
-            "SOG": 33,
-            "TPM": 250.67
+            "SOG": 40,
+            "TPM": 272.34
         },
         "Aleksander Barkov": {
-            "SOG": 40,
-            "TPM": 277.05
+            "SOG": 44,
+            "TPM": 300.45
         }
     },
     " Ottawa Senators": {
@@ -74,19 +74,19 @@
     " Toronto Maple Leafs": {
         "Auston Matthews": {
             "SOG": 61,
-            "TPM": 254.87
+            "TPM": 273.35
         },
         "Morgan Rielly": {
             "SOG": 21,
-            "TPM": 283.25
+            "TPM": 304.0
         },
         "Mitchell Marner": {
             "SOG": 25,
-            "TPM": 270.92
+            "TPM": 287.94
         },
         "William Nylander": {
-            "SOG": 35,
-            "TPM": 211.08
+            "SOG": 38,
+            "TPM": 229.18
         }
     },
     " Nashville Predators": {
@@ -197,24 +197,24 @@
     },
     " New York Rangers": {
         "Mika Zibanejad": {
-            "SOG": 56,
-            "TPM": 254.1
+            "SOG": 58,
+            "TPM": 275.5
         },
         "Adam Fox": {
-            "SOG": 27,
-            "TPM": 295.05
+            "SOG": 28,
+            "TPM": 324.68
         },
         "Artemi Panarin": {
-            "SOG": 32,
-            "TPM": 248.6
+            "SOG": 33,
+            "TPM": 267.38
         },
         "Chris Kreider": {
-            "SOG": 42,
-            "TPM": 240.42
+            "SOG": 44,
+            "TPM": 255.47
         },
         "Jacob Trouba": {
-            "SOG": 34,
-            "TPM": 263.75
+            "SOG": 37,
+            "TPM": 286.52
         }
     },
     " Columbus Blue Jackets": {
@@ -233,16 +233,16 @@
     },
     " Carolina Hurricanes": {
         "Brent Burns": {
-            "SOG": 47,
-            "TPM": 257.43
+            "SOG": 51,
+            "TPM": 282.08
         },
         "Sebastian Aho": {
             "SOG": 27,
-            "TPM": 197.06
+            "TPM": 216.74
         },
         "Andrei Svechnikov": {
             "SOG": 40,
-            "TPM": 209.16
+            "TPM": 226.83
         }
     },
     " Calgary Flames": {

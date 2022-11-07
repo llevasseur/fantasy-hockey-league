@@ -1,23 +1,23 @@
 {
     "Timo": {
-        "Goals": 54,
-        "Assists": 89,
-        "Shots on Goal": 455,
-        "Penalties in Minutes": 58,
-        "Plus / Minus": 18,
-        "Time Played in Minutes": 2713.38,
-        "Save Percentage": 0.876,
-        "Goals Against Average": 4.06
+        "Goals": 55,
+        "Assists": 90,
+        "Shots on Goal": 460,
+        "Penalties in Minutes": 60,
+        "Plus / Minus": 19,
+        "Time Played in Minutes": 2757.55,
+        "Save Percentage": 0.879,
+        "Goals Against Average": 3.91
     },
     "Leevon": {
         "Goals": 34,
-        "Assists": 72,
-        "Shots on Goal": 325,
-        "Penalties in Minutes": 68,
+        "Assists": 76,
+        "Shots on Goal": 328,
+        "Penalties in Minutes": 70,
         "Plus / Minus": -3,
-        "Time Played in Minutes": 2606.14,
-        "Save Percentage": 0.903,
-        "Goals Against Average": 2.68
+        "Time Played in Minutes": 2702.73,
+        "Save Percentage": 0.9,
+        "Goals Against Average": 2.84
     },
     "Alasdair": {
         "Goals": 53,
@@ -26,36 +26,36 @@
         "Penalties in Minutes": 70,
         "Plus / Minus": 39,
         "Time Played in Minutes": 2497.46,
-        "Save Percentage": 0.898,
-        "Goals Against Average": 3.17
+        "Save Percentage": 0.904,
+        "Goals Against Average": 3.12
     },
     "Liam": {
-        "Goals": 31,
+        "Goals": 33,
         "Assists": 65,
-        "Shots on Goal": 386,
+        "Shots on Goal": 393,
         "Penalties in Minutes": 91,
-        "Plus / Minus": 0,
-        "Time Played in Minutes": 2389.91,
+        "Plus / Minus": 1,
+        "Time Played in Minutes": 2411.58,
         "Save Percentage": 0.936,
         "Goals Against Average": 2.09
     },
     "John": {
         "Goals": 26,
-        "Assists": 74,
-        "Shots on Goal": 374,
+        "Assists": 76,
+        "Shots on Goal": 382,
         "Penalties in Minutes": 62,
-        "Plus / Minus": 6,
-        "Time Played in Minutes": 2567.49,
+        "Plus / Minus": 5,
+        "Time Played in Minutes": 2632.56,
         "Save Percentage": 0.916,
         "Goals Against Average": 2.41
     },
     "Carsten": {
-        "Goals": 41,
-        "Assists": 68,
-        "Shots on Goal": 357,
+        "Goals": 42,
+        "Assists": 71,
+        "Shots on Goal": 363,
         "Penalties in Minutes": 62,
-        "Plus / Minus": -44,
-        "Time Played in Minutes": 2504.05,
+        "Plus / Minus": -47,
+        "Time Played in Minutes": 2593.33,
         "Save Percentage": 0.911,
         "Goals Against Average": 2.87
     }
