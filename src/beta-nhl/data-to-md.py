@@ -113,10 +113,11 @@ def main():
 
             sog_total += int(sog)
             toi_total = addTOI(toi, toi_total)
+            print(f"style='background-color:{color};'")
             player_map[pos].append(
-              f"<div id='{pick}' style='background-color:{color};'>\n"+
-               "| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {toi} |\n"+
-               "</div>")
+              f"<div id='{pick}' style='background-color: {color};'>\n"+
+              f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {toi} |\n"+
+              f"</div>")
       except:
         print(f"skipping (data): {pick}")
 
