@@ -57,7 +57,7 @@ def main():
       else:
         overall_points[p[1]] = [NUMBER_OF_PLAYERS+1-i]
   
-  README_md = open(cwd + '/README.md', 'w')
+  README_md = open(cwd + '/beta/README.md', 'w')
 
   README_md.write("# Hockey League Fantasy Draft\n### Beta Version: Data parsed with Selenium from nhl.com\nCasual Python3 project used by friends to keep track of NHL players' stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.\n## Scoreboard\n")
   README_md.write(f"| User | [G]({STANDINGS_URL}#goals) | [A]({STANDINGS_URL}#assists) | [SOG]({STANDINGS_URL}#shots-on-goal) | [PIM]({STANDINGS_URL}#penalties-in-minutes) | [+/-]({STANDINGS_URL}#plus--minus) | [TOI/GP]({STANDINGS_URL}#time-played-in-minutes) | [S%]({STANDINGS_URL}#save-percentage) | [GAA]({STANDINGS_URL}#goals-against-average) | Total |\n")
