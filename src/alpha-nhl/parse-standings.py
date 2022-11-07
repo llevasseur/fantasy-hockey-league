@@ -3,8 +3,8 @@ import os
 
 cwd = os.getcwd()
 
-ROSTERS_URL = "https://github.com/llevasseur/hockey-fantasy-league/blob/master/ROSTERS.md"
-STANDINGS_URL = "https://github.com/llevasseur/hockey-fantasy-league/blob/master/STANDINGS.md"
+ROSTERS_URL = "https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md"
+STANDINGS_URL = "https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md"
 
 NUMBER_OF_PLAYERS = 6
 

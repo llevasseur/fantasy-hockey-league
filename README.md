@@ -2,14 +2,14 @@
 ### Alpha Version: Data parsed with BeautifulSoup from eliteprospects.com
 Casual Python3 project used by friends to keep track of NHL and WJC players' stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.
 ## Scoreboard
-| User | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/STANDINGS.md#user-content-goals'>G</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/STANDINGS.md#user-content-assists'>A</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/STANDINGS.md#user-content-shots-on-goal'>SOG</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/STANDINGS.md#user-content-penalties-in-minutes'>PIM</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/STANDINGS.md#user-content-plus--minus'>+/-</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/STANDINGS.md#user-content-time-played-in-minutes'>TPM</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/STANDINGS.md#user-content-save-percentage'>S%</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/STANDINGS.md#user-content-goals-against-average'>GAA</a> | Total |
+| User | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-goals'>G</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-assists'>A</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-shots-on-goal'>SOG</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-penalties-in-minutes'>PIM</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-plus--minus'>+/-</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-time-played-in-minutes'>TPM</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-save-percentage'>S%</a> | <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-goals-against-average'>GAA</a> | Total |
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
-| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/ROSTERS.md#Timo'>Timo</a> | 6 | 6 | 6 | 1 | 5 | 6 | 1 | 1 | 32 |
-| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/ROSTERS.md#Alasdair'>Alasdair</a> | 5 | 5 | 4 | 5 | 6 | 2 | 3 | 2 | 32 |
-| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/ROSTERS.md#Liam'>Liam</a> | 2 | 1 | 5 | 6 | 3 | 1 | 6 | 6 | 30 |
-| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/ROSTERS.md#John'>John</a> | 1 | 4 | 3 | 3 | 4 | 4 | 5 | 5 | 29 |
-| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/ROSTERS.md#Leevon'>Leevon</a> | 3 | 4 | 1 | 5 | 2 | 5 | 2 | 4 | 26 |
-| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/master/ROSTERS.md#Carsten'>Carsten</a> | 4 | 2 | 2 | 3 | 1 | 3 | 4 | 3 | 22 |
+| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#Timo'>Timo</a> | 6 | 6 | 6 | 1 | 5 | 6 | 1 | 1 | 32 |
+| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#Alasdair'>Alasdair</a> | 5 | 5 | 4 | 5 | 6 | 2 | 3 | 2 | 32 |
+| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#Liam'>Liam</a> | 2 | 1 | 5 | 6 | 3 | 1 | 6 | 6 | 30 |
+| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#John'>John</a> | 1 | 4 | 3 | 3 | 4 | 4 | 5 | 5 | 29 |
+| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#Leevon'>Leevon</a> | 3 | 4 | 1 | 5 | 2 | 5 | 2 | 4 | 26 |
+| <a href='https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#Carsten'>Carsten</a> | 4 | 2 | 2 | 3 | 1 | 3 | 4 | 3 | 22 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage
