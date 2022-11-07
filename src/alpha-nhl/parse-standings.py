@@ -60,7 +60,7 @@ def main():
     README_md = open(cwd + '/README.md', 'w')
 
     README_md.write("# Hockey League Fantasy Draft\n### Alpha Version: Data parsed with BeautifulSoup from eliteprospects.com\nCasual Python3 project used by friends to keep track of NHL and WJC players' stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.\n## Scoreboard\n")
-    README_md.write(f"| User | <a href='{STANDINGS_URL}#user-content-goals' onclick='return false;'>G</a> | <a href='{STANDINGS_URL}#user-content-assists' onclick='return false;'>A</a> | <a href='{STANDINGS_URL}#user-content-shots-on-goal' onclick='return false;'>SOG</a> | <a href='{STANDINGS_URL}#user-content-penalties-in-minutes' onclick='return false;'>PIM</a> | <a href='{STANDINGS_URL}#user-content-plus--minus' onclick='return false;'>+/-</a> | <a href='{STANDINGS_URL}#user-content-time-played-in-minutes' onclick='return false;'>TPM</a> | <a href='{STANDINGS_URL}#user-content-save-percentage' onclick='return false;'>S%</a> | <a href='{STANDINGS_URL}#user-content-goals-against-average' onclick='return false;'>GAA</a> | Total |\n")
+    README_md.write(f"| User | <a href='{STANDINGS_URL}#user-content-goals' target='_blank'>G</a> | <a href='{STANDINGS_URL}#user-content-assists' target='_blank'>A</a> | <a href='{STANDINGS_URL}#user-content-shots-on-goal' target='_blank'>SOG</a> | <a href='{STANDINGS_URL}#user-content-penalties-in-minutes' target='_blank'>PIM</a> | <a href='{STANDINGS_URL}#user-content-plus--minus' target='_blank'>+/-</a> | <a href='{STANDINGS_URL}#user-content-time-played-in-minutes' target='_blank'>TPM</a> | <a href='{STANDINGS_URL}#user-content-save-percentage' target='_blank'>S%</a> | <a href='{STANDINGS_URL}#user-content-goals-against-average' target='_blank'>GAA</a> | Total |\n")
     README_md.write(
         f"| :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |\n")
 
@@ -70,7 +70,7 @@ def main():
         overall_points.items(), key=lambda item: sum(item[1]), reverse=True)}
 
     for user in overall_points:
-        README_md.write(f"| <a href='{ROSTERS_URL}#{user}' onclick='return false;'>{user}</a> | ")
+        README_md.write(f"| <a href='{ROSTERS_URL}#{user}' target='_blank'>{user}</a> | ")
         for p in overall_points[user]:
             README_md.write(f"{p} | ")
         README_md.write(f"{sum(overall_points[user])} |\n")
