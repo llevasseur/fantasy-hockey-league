@@ -3,13 +3,14 @@ import os
 
 cwd = os.getcwd()
 
-ROSTERS_URL = "https://github.com/llevasseur/world-juniors-2022/blob/master/beta/ROSTERS.md"
-STANDINGS_URL = "https://github.com/llevasseur/world-juniors-2022/blob/master/beta/STANDINGS.md"
+NAME = "fantasy-hockey-league"
+ROSTERS_URL = "https://github.com/llevasseur/"+NAME+"/blob/master/beta/ROSTERS.md"
+STANDINGS_URL = "https://github.com/llevasseur/"+NAME+"/blob/master/beta/STANDINGS.md"
 
 NUMBER_OF_PLAYERS = 6
 
 def main():
-  with open(cwd + 'json/beta-nhl/standings.json', 'r') as json_file:
+  with open(cwd + '/json/beta-nhl/standings.json', 'r') as json_file:
     ranking_data = json.loads(json_file.read())
 
   standings = {}
@@ -39,7 +40,7 @@ def main():
     STANDINGS_md.write(f"| :--- | ---- | ---------: |\n")
 
     last_p0 = st[0][0]
-    i = i
+    i = 1
     j = 0
     for p in st:
       if p[0] != last_p0:
