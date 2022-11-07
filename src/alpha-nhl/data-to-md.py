@@ -93,7 +93,7 @@ def main():
             sog_total += sog
             tpm_total=round(tpm_total + tpm, 2)
             player_map[pos].append(
-                f'| <a href="{href}" target="_blank" rel="noopener">{pick}</a> | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n')
+                f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
       except:
         print(f"skipping (data): {pick}")
 
