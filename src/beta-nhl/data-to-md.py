@@ -114,8 +114,7 @@ def main():
             sog_total += int(sog)
             toi_total = addTOI(toi, toi_total)
             player_map[pos].append(
-              f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {toi} |\n"+
-              f"</div>")
+              f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {toi} |\n")
       except:
         print(f"skipping (data): {pick}")
 
