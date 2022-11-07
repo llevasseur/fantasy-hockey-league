@@ -44,7 +44,7 @@ def createSkater(obj, td_list):
 
 def createGoalie(obj, td_list):
   # Rank, Name, Year, Team, Hand, #GP, #Games Started, W, L, Ties, OTL, Shots Against, Saves, Goals Allowed, Save%, GAA, TOI, Shutouts, Goals, Assists, Points, PIM
-  labels = ["rank", "name", "year", "team", "hand", "gp", "gs", "w", "l", "t", "ot", "sa", "svs", "ga", "svp", "gaa", "toi", "so", "g", "a", "p", "pim"]
+  labels = ["rank", "name", "year", "team", "hand", "gp", "gs", "w", "l", "t", "ot", "sa", "svs", "ga", "svp", "gaa", "toi", "so", "g", "a", "p", "pim", "pos"]
 
   index = 0
   while td_list:
@@ -66,6 +66,7 @@ def createGoalie(obj, td_list):
       obj[labels[index]] = type.text
     
     index += 1
+  obj["pos"] = "G"
 
 
 

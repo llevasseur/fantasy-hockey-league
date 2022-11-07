@@ -1,15 +1,15 @@
-# Hockey League Fantasy Draft
+# Fantasy Hockey League
 ### Alpha Version: Data parsed with BeautifulSoup from eliteprospects.com
 Casual Python3 project used by friends to keep track of NHL and WJC players' stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.
 ## Scoreboard
-| User | [G](https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-goals) | [A](https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-assists) | [SOG](https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-shots-on-goal) | [PIM](https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-penalties-in-minutes) | [+/-](https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-plus--minus) | [TPM](https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-time-played-in-minutes) | [S%](https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-save-percentage) | [GAA](https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md#user-content-goals-against-average) | Total |
+| User | [G](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-goals) | [A](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-assists) | [SOG](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-shots-on-goal) | [PIM](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-penalties-in-minutes) | [+/-](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-plus--minus) | [TPM](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-time-played-in-minutes) | [S%](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-save-percentage) | [GAA](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-goals-against-average) | Total |
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
-| [Timo](https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#Timo) | 6 | 6 | 6 | 1 | 5 | 6 | 1 | 1 | 32 |
-| [Alasdair](https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#Alasdair) | 5 | 5 | 4 | 5 | 6 | 2 | 3 | 2 | 32 |
-| [Liam](https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#Liam) | 2 | 1 | 5 | 6 | 3 | 1 | 6 | 6 | 30 |
-| [John](https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#John) | 1 | 4 | 3 | 3 | 4 | 4 | 5 | 5 | 29 |
-| [Leevon](https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#Leevon) | 3 | 4 | 1 | 5 | 2 | 5 | 2 | 4 | 26 |
-| [Carsten](https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md#Carsten) | 4 | 2 | 2 | 3 | 1 | 3 | 4 | 3 | 22 |
+| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 6 | 6 | 6 | 1 | 5 | 6 | 1 | 1 | 32 |
+| [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Alasdair) | 5 | 5 | 4 | 5 | 6 | 2 | 3 | 2 | 32 |
+| [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) | 2 | 1 | 5 | 6 | 3 | 1 | 6 | 6 | 30 |
+| [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John) | 1 | 4 | 3 | 3 | 4 | 4 | 5 | 5 | 29 |
+| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) | 3 | 4 | 1 | 5 | 2 | 5 | 2 | 4 | 26 |
+| [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Carsten) | 4 | 2 | 2 | 3 | 1 | 3 | 4 | 3 | 22 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage

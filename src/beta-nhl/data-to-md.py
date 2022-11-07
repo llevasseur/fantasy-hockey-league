@@ -4,9 +4,23 @@ import os
 
 cwd = os.getcwd()
 
+def addTOI(toi, total):
+
+  min, sec = re.match('([0-9]{1,2}):([0-5][0-9])', toi).groups()
+  tot_min, tot_sec = re.match('([0-9]+):([0-5]{0,1}[0-9])', total).groups()
+  sec = int(tot_sec) + int(sec)
+
+  # If remainder, add to minutes and remove from seconds
+  if sec > 60:
+    sec -= 60
+    min = str(int(min) + 1)
+
+  return str(int(tot_min) + int(min)) + ':' + str(sec)
+
 def validatePick(pick):
     KEYS = [
         "href",
+        "pos",
         "team"
     ]
 
@@ -16,7 +30,7 @@ def validatePick(pick):
             print()
             print(json.dumps(pick, indent=4))
             return False
-        
+
     return True
 
 def main():
@@ -45,26 +59,23 @@ def main():
     pim_total = 0
     pm_total = 0
     sog_total = 0
-    toi_total = 0
+    toi_total = "0:00"
 
     gaa_list =[]
     svp_list = []
 
     for pick in roster:
 
-      try:
+      try: 
 
         if validatePick(player_data[pick]):
-
           href = player_data[pick]['href']
           pos = player_data[pick]['pos']
           team = player_data[pick]['team']
-          print("test 1")
 
-          if not pos:
+          if pos == "G":
             gaa = player_data[pick]['gaa']
             svp = player_data[pick]['svp']
-            print("test 2")
 
             if re.match('[\d\.]+', gaa):
               gaa_list.append(float(gaa))
@@ -75,7 +86,6 @@ def main():
             else:
               svp_list.append(0.0)
         
-            print("test 3")
             player_map[pos].append(
               f"| [{pick}]({href}) | {pos} | {team} | {svp} | {gaa} |\n")
 
@@ -87,18 +97,15 @@ def main():
             sog = player_data[pick]['sog']
             toi = player_data[pick]['toi/gp']
 
-            print("test 5")
             if re.match('\d+', g): g_total += int(g)
             if re.match('\d+', a): a_total += int(a)
             if re.match('\d+', pim): pim_total += int(pim)
             if re.match('\-?\d+', pm): pm_total += int(pm)
 
-            print("test 6")
             sog_total += int(sog)
-            toi_total = round(toi_total + toi, 2)
-            print("test 1")
+            toi_total = addTOI(toi, toi_total)
             player_map[pos].append(
-            f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {toi} |\n")
+              f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {toi} |\n")
       except:
         print(f"skipping (data): {pick}")
 
@@ -108,7 +115,7 @@ def main():
       "Shots on Goal": sog_total,
       "Penalties in Minutes": pim_total,
       "Plus / Minus": pm_total,
-      "Average Time on Ice": round(toi_total, 2),
+      "Average Time on Ice": toi_total,
       "Save Percentage": max(svp_list) if svp_list else '-',
       "Goals Against Average": min(gaa_list) if svp_list else '-'
     }
@@ -130,7 +137,7 @@ def main():
 
     goalies = player_map["G"]
     for g in goalies:
-        md_file.write(g)
+      md_file.write(g)
     
   with open(cwd + '/json/beta-nhl/standings.json', 'w') as json_file:
     json_file.write(json.dumps(ranking_data, indent=4))

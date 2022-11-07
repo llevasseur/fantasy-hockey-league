@@ -2,9 +2,9 @@ import json
 import os
 
 cwd = os.getcwd()
-
-ROSTERS_URL = "https://github.com/llevasseur/hockey-fantasy-league/blob/main/ROSTERS.md"
-STANDINGS_URL = "https://github.com/llevasseur/hockey-fantasy-league/blob/main/STANDINGS.md"
+NAME = "fantasy-hockey-league"
+ROSTERS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/ROSTERS.md"
+STANDINGS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/STANDINGS.md"
 
 NUMBER_OF_PLAYERS = 6
 
@@ -59,7 +59,7 @@ def main():
 
     README_md = open(cwd + '/README.md', 'w')
 
-    README_md.write("# Hockey League Fantasy Draft\n### Alpha Version: Data parsed with BeautifulSoup from eliteprospects.com\nCasual Python3 project used by friends to keep track of NHL and WJC players' stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.\n## Scoreboard\n")
+    README_md.write("# Fantasy Hockey League\n### Alpha Version: Data parsed with BeautifulSoup from eliteprospects.com\nCasual Python3 project used by friends to keep track of NHL and WJC players' stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.\n## Scoreboard\n")
     README_md.write(f"| User | [G]({STANDINGS_URL}#user-content-goals) | [A]({STANDINGS_URL}#user-content-assists) | [SOG]({STANDINGS_URL}#user-content-shots-on-goal) | [PIM]({STANDINGS_URL}#user-content-penalties-in-minutes) | [+/-]({STANDINGS_URL}#user-content-plus--minus) | [TPM]({STANDINGS_URL}#user-content-time-played-in-minutes) | [S%]({STANDINGS_URL}#user-content-save-percentage) | [GAA]({STANDINGS_URL}#user-content-goals-against-average) | Total |\n")
     README_md.write(
         f"| :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |\n")
