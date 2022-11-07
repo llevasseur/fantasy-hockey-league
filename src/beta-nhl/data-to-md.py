@@ -79,7 +79,7 @@ def main():
           href = player_data[pick]['href']
           pos = player_data[pick]['pos']
           team = player_data[pick]['team']
-          color = teams[team]["col"]
+          #color = teams[team]["col"]
           team = teams[team]["name"]
 
           if pos == "G":
@@ -113,9 +113,7 @@ def main():
 
             sog_total += int(sog)
             toi_total = addTOI(toi, toi_total)
-            print(f"style='background-color:{color};'")
             player_map[pos].append(
-              f"<div id='{pick}' style='background-color: {color};'>\n"+
               f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {toi} |\n"+
               f"</div>")
       except:
