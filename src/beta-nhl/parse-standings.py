@@ -73,7 +73,7 @@ def main():
     README_md.write(f"| [{user}]({ROSTERS_URL}#{user}) | ")
     for p in overall_points[user]:
       README_md.write(f"{p} | ")
-      README_md.write(f"{sum(overall_points[user])} |\n")
+    README_md.write(f"{sum(overall_points[user])} |\n")
 
   print('''
   Participant standings parsed!! They have been written to beta/README.md, beta/STANDINGS.md, and beta/ROSTERS.md.
