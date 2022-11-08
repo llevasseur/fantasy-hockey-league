@@ -86,7 +86,10 @@ def getSkatersFromSite(players, site):
     createSkater(player_obj, td_list)
 
     if player_obj and "name" in player_obj.keys():
-      players[player_obj["name"]] = player_obj
+      if player_obj["name"] == "Sebastian Aho" and not player_obj["team"] == "CAR":
+            print(f"skipping (fetch): {player_obj['name']} on {player_obj['team']}")
+      else:
+        players[player_obj["name"]] = player_obj
 
 def getGoaliesFromSite(players, site):
   driver = webdriver.Chrome()

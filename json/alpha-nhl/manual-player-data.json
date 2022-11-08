@@ -7,8 +7,8 @@
     },
     " Boston Bruins": {
         "David Pastrnak": {
-            "SOG": 62,
-            "TPM": 236.58
+            "SOG": 67,
+            "TPM": 255.63
         }
     },
     " Buffalo Sabres": {
@@ -131,16 +131,16 @@
     },
     " St. Louis Blues": {
         "Robert Thomas": {
-            "SOG": 11,
-            "TPM": 180.15
+            "SOG": 13,
+            "TPM": 202.13
         },
         "Pavel Buchnevich": {
-            "SOG": 8,
-            "TPM": 75.18
+            "SOG": 12,
+            "TPM": 93.91
         },
         "Torey Krug": {
-            "SOG": 17,
-            "TPM": 179.92
+            "SOG": 19,
+            "TPM": 200.49
         }
     },
     " Dallas Stars": {
@@ -183,12 +183,12 @@
     },
     " Washington Capitals": {
         "Yevgeni Kuznetsov": {
-            "SOG": 25,
-            "TPM": 219.5
+            "SOG": 29,
+            "TPM": 240.2
         },
         "Alexander Ovechkin": {
-            "SOG": 52,
-            "TPM": 263.51
+            "SOG": 57,
+            "TPM": 284.39
         },
         "John Carlson": {
             "SOG": 27,
@@ -247,30 +247,30 @@
     },
     " Calgary Flames": {
         "Jonathan Huberdeau": {
-            "SOG": 19,
-            "TPM": 168.7
+            "SOG": 20,
+            "TPM": 184.93
         },
         "MacKenzie Weegar": {
-            "SOG": 17,
-            "TPM": 215.92
+            "SOG": 22,
+            "TPM": 241.62
         }
     },
     " Edmonton Oilers": {
         "Connor McDavid": {
-            "SOG": 47,
-            "TPM": 266.26
+            "SOG": 52,
+            "TPM": 290.21
         },
         "Leon Draisaitl": {
-            "SOG": 39,
-            "TPM": 265.63
+            "SOG": 43,
+            "TPM": 286.76
         },
         "Evander Kane": {
-            "SOG": 48,
-            "TPM": 245.14
+            "SOG": 49,
+            "TPM": 265.01
         },
         "Darnell Nurse": {
             "SOG": 23,
-            "TPM": 280.69
+            "TPM": 304.32
         }
     },
     " Los Angeles Kings": {
