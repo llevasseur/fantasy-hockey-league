@@ -25,7 +25,7 @@ def main():
         else:
           standings[category] = [(score, user)]
   
-  STANDINGS_md = open(cwd + '/STANDINGS.md', 'w')
+  STANDINGS_md = open(cwd + '/beta/STANDINGS.md', 'w')
 
   overall_points = {}
 
