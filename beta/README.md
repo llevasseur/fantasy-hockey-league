@@ -2,9 +2,9 @@
 ### Beta Version: Data parsed with Selenium from nhl.com
 Casual Python3 project used by friends to keep track of NHL players' stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.
 ## Scoreboard
-| User | [G](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/STANDINGS.md#goals) | [A](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/STANDINGS.md#assists) | [SOG](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/STANDINGS.md#shots-on-goal) | [PIM](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/STANDINGS.md#penalties-in-minutes) | [+/-](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/STANDINGS.md#plus--minus) | [TOI/GP](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/STANDINGS.md#time-played-in-minutes) | [S%](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/STANDINGS.md#save-percentage) | [GAA](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/STANDINGS.md#goals-against-average) | Total |
+| User | [G](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/STANDINGS.md#goals) | [A](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/STANDINGS.md#assists) | [SOG](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/STANDINGS.md#shots-on-goal) | [PIM](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/STANDINGS.md#penalties-in-minutes) | [+/-](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/STANDINGS.md#plus--minus) | [TOI/GP](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/STANDINGS.md#time-played-in-minutes) | [S%](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/STANDINGS.md#save-percentage) | [GAA](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/STANDINGS.md#goals-against-average) | Total |
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
-| [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Alasdair) | 5 | 34 |
+| [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/ROSTERS.md#Alasdair) | 5 | 34 |
 5 | 34 |
 5 | 34 |
 4 | 34 |
@@ -12,7 +12,7 @@ Casual Python3 project used by friends to keep track of NHL players' stats. Stat
 4 | 34 |
 3 | 34 |
 2 | 34 |
-| [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Liam) | 2 | 34 |
+| [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/ROSTERS.md#Liam) | 2 | 34 |
 1 | 34 |
 4 | 34 |
 6 | 34 |
@@ -20,7 +20,7 @@ Casual Python3 project used by friends to keep track of NHL players' stats. Stat
 6 | 34 |
 6 | 34 |
 6 | 34 |
-| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Timo) | 6 | 31 |
+| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/ROSTERS.md#Timo) | 6 | 31 |
 6 | 31 |
 6 | 31 |
 1 | 31 |
@@ -28,7 +28,7 @@ Casual Python3 project used by friends to keep track of NHL players' stats. Stat
 5 | 31 |
 1 | 31 |
 1 | 31 |
-| [John](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#John) | 1 | 26 |
+| [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/ROSTERS.md#John) | 1 | 26 |
 3 | 26 |
 3 | 26 |
 2 | 26 |
@@ -36,7 +36,7 @@ Casual Python3 project used by friends to keep track of NHL players' stats. Stat
 3 | 26 |
 5 | 26 |
 5 | 26 |
-| [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Carsten) | 4 | 22 |
+| [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/ROSTERS.md#Carsten) | 4 | 22 |
 2 | 22 |
 2 | 22 |
 3 | 22 |
@@ -44,7 +44,7 @@ Casual Python3 project used by friends to keep track of NHL players' stats. Stat
 2 | 22 |
 4 | 22 |
 4 | 22 |
-| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/master/beta/ROSTERS.md#Leevon) | 3 | 21 |
+| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/ROSTERS.md#Leevon) | 3 | 21 |
 4 | 21 |
 1 | 21 |
 5 | 21 |

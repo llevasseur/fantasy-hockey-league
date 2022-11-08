@@ -4,8 +4,8 @@ import os
 cwd = os.getcwd()
 
 NAME = "fantasy-hockey-league"
-ROSTERS_URL = "https://github.com/llevasseur/"+NAME+"/blob/master/beta/ROSTERS.md"
-STANDINGS_URL = "https://github.com/llevasseur/"+NAME+"/blob/master/beta/STANDINGS.md"
+ROSTERS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/beta/ROSTERS.md"
+STANDINGS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/beta/STANDINGS.md"
 
 NUMBER_OF_PLAYERS = 6
 
@@ -49,7 +49,7 @@ def main():
       else:
         j += 1
       STANDINGS_md.write(
-        f"| {i} | [{p[1]}]({ROSTERS_URL}#{p[1]}) |  {p[0]} |\n")
+          f"| {i} | [{p[1]}]({ROSTERS_URL}#{p[1]}) |  {p[0]} |\n")
       last_p0 = p[0]
 
       if p[1] in overall_points.keys():
