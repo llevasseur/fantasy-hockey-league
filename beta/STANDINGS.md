@@ -46,7 +46,7 @@
 ## Average Time on Ice
 | Rank | User | Average Time on Ice |
 | :--- | ---- | ---------: |
-| 1 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/ROSTERS.md#Liam) |  237:2 |
+| 1 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/ROSTERS.md#Liam) |  237:02 |
 | 2 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/ROSTERS.md#Timo) |  236:46 |
 | 3 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/ROSTERS.md#Alasdair) |  236:17 |
 | 4 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/beta/ROSTERS.md#John) |  235:40 |

@@ -70,7 +70,7 @@
 | [Aaron Ekblad](https://www.nhl.com/) | D |  Florida Panthers  | 1 | 0 | 7 | 4 | +1 | 21:42 |
 | [Thomas Chabot](https://www.nhl.com/) | D |  Ottawa Senators  | 2 | 3 | 28 | 14 | -3 | 25:32 |
 | [Darnell Nurse](https://www.nhl.com/) | D |  Edmonton Oilers  | 3 | 6 | 23 | 14 | +7 | 23:25 |
-| **Totals** | | | 34 | 67 | 389 | 91 | 1 | 237:2 |
+| **Totals** | | | 34 | 67 | 389 | 91 | 1 | 237:02 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |

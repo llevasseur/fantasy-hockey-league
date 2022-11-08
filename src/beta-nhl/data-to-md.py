@@ -13,8 +13,13 @@ def addTOI(toi, total):
   if sec > 60:
     sec -= 60
     min = str(int(min) + 1)
+  
+  if sec < 10:
+    sec = '0' + str(sec)
+  else:
+    sec = str(sec)
 
-  return str(int(tot_min) + int(min)) + ':' + str(sec)
+  return str(int(tot_min) + int(min)) + ':' + sec
 
 def addPM(pm, total):
   if '+' in pm:
