@@ -2,6 +2,7 @@ import json
 import os
 
 cwd = os.getcwd()
+
 NAME = "fantasy-hockey-league"
 ROSTERS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/ROSTERS.md"
 STANDINGS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/STANDINGS.md"
