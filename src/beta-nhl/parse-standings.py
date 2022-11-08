@@ -49,7 +49,7 @@ def main():
       else:
         j += 1
       STANDINGS_md.write(
-        f"| {i} | [{p[1]}]({ROSTERS_URL})#{p[1]}) | {p[0]} |\n")
+        f"| {i} | [{p[1]}]({ROSTERS_URL}#{p[1]}) |  {p[0]} |\n")
       last_p0 = p[0]
 
       if p[1] in overall_points.keys():
