@@ -25,11 +25,11 @@ Functional Requirements:
 1. Request the [Selenium](https://selenium-python.readthedocs.io/) Chrome driver to extract all player data from each [nhl.com/stats](https://www.nhl.com/stats/skaters?reportType=season&seasonFrom=20222023&seasonTo=20222023&gameType=2&filter=gamesPlayed,gte,1&sort=points,goals,assists&page=0&pageSize=100) webpage with player statistics (page=[0,6]) and pageSize=100.
 <kbd>![nhl.com stats webpage example](/public/images/selenium_source.jpg)</kbd>
 
-Save data as a `json` database.
+2. Save data as a readable `json` database.
 
 <kbd>![json database entry example](/public/images/json_database.jpg)</kbd>
 
-2. Display the data in 3 locations: 
+3. Display the data in 3 locations: 
 * ROSTERS.md: A visualizer for each participants drafted players' statistics. 
 * STANDINGS.md: A visualizer for each participants overall totals versus each other. This determines rank. 
 * README.md/Scoreboard: To make the scoreboard readily available for participants when they view this github repo, the Scoreboard is attached to this README. It is a visualizer for participant points based on rank for each category (Goals, Assists, etc). Participant points determine who's winning, or who wins, and is based off the number of players.
