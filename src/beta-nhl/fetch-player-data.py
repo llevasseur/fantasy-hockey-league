@@ -20,9 +20,8 @@ def createSkater(obj, td_list):
 
     # Parse Name, href
     if index == 1:
-      a = type.find_element(By.XPATH, "//a")
       obj["name"] = type.text
-      obj["href"] = a.get_attribute('href')
+      obj["href"] = type.get_attribute('href')
 
     # Parse Team
     elif index == 3:
@@ -53,9 +52,8 @@ def createGoalie(obj, td_list):
     # Parse Name, href
     
     if index == 1:
-      a = type.find_element(By.XPATH, "//a")
       obj["name"] = type.text
-      obj["href"] = a.get_attribute('href')
+      obj["href"] = type.get_attribute('href')
     
     # Parse Team
     elif index == 3:
