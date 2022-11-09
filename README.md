@@ -33,7 +33,7 @@ Functional Requirements:
 * ROSTERS.md: A visualizer for each participants drafted players' statistics. 
 * STANDINGS.md: A visualizer for each participants overall totals versus each other. This determines rank. 
 * README.md/Scoreboard: To make the scoreboard readily available for participants when they view this github repo, the Scoreboard is attached to this README. It is a visualizer for participant points based on rank for each category (Goals, Assists, etc). Participant points determine who's winning, or who wins, and is based off the number of players.
-<p align='center'><kbd><img src='/public/images/roster_example2.jpg' width='450' /></kbd><kbd><img src='/public/images/standings_example2.jpg' width='300' /></kbd><kbd><img src='/public/images/scoreboard_example2.jpg' width='500' /></kbd></p>
+<p align='center'><kbd><img src='/public/images/roster_example.jpg' width='450' /></kbd><kbd><img src='/public/images/standings_example.jpg' width='300' /></kbd><kbd><img src='/public/images/scoreboard_example.jpg' width='500' /></kbd></p>
 
 ## Contributing
 Bug reports are welcome on Github at [Issues](https://github.com/llevasseur/world-juniors-2022/issues).
