@@ -27,7 +27,7 @@ Functional Requirements:
 
 2. Save data as a readable `json` database.
 
-<kbd>![json database entry example](/public/images/json_database.jpg)</kbd>
+<kbd>![json database entry example](/public/images/new_json_database.jpg)</kbd>
 
 3. Display the data in 3 locations: 
 * ROSTERS.md: A visualizer for each participants drafted players' statistics. 
