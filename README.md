@@ -41,8 +41,8 @@ Bug reports are welcome on Github at [Issues](https://github.com/llevasseur/worl
 This project is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 ## Future Work:
 Anticipated additions to this project include:
-1. Adding metrics to each stat for each player and participant to detail change using red and green arrows or data.
-2. Plotting statistics over games played using [Matplotlib](https://matplotlib.org/). Eventually, a model will be created to predict future performance statistics and outcome probability
+1. Add metrics to each stat for each player and participant to detail change using red and green arrows and text.
+2. Plot statistics over games played using [Matplotlib](https://matplotlib.org/). Eventually, a model will be created to predict future performance statistics and outcome probability
 3. Facilitate roster changes including picking up and adding players to waivers, adding players that haven't been drafted, and trades.
 4. Customizable visualizers for each participant. Potentially would require its own website with a login and an SQL database.
 5. Automate all scripts to parse and update data at 12am pst using Make.
