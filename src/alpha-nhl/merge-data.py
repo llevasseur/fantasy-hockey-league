@@ -28,7 +28,7 @@ def main():
   print('''
   Player data has been merged from /json/alpha-nhl/ep-player-data.json and /json/alpha-nhl/manual-player-data.json
   into /json/alpha-nhl/merged-player-data.json
-  Run `python src/alpha-nhl/data-to-md.py` to update the ROSTERS.md file with this new data
+  Run `python src/alpha-nhl/data-to-md.py` to update the /alpha/ROSTERS.md file with this new data
   ''')
   
 

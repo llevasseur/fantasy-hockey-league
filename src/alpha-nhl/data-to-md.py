@@ -29,7 +29,7 @@ def main():
   with open(cwd + '/json/alpha-nhl/merged-player-data.json', 'r') as json_file:
     player_data = json.loads(json_file.read())
 
-  md_file = open(cwd + '/ROSTERS.md', 'w')
+  md_file = open(cwd + '/alpha/ROSTERS.md', 'w')
 
   md_file.write("# Fantasy Rosters\n")
 
@@ -132,8 +132,8 @@ def main():
     json_file.write(json.dumps(ranking_data, indent=4))
 
   print('''
-  Player data from /json/alpha-nhl/merged-player-data.json has been used to update ROSTERS.md
-  Run `python src/alpha-nhl/parse-standings.py` to update the STANDINGS.md file with this new data
+  Player data from /json/alpha-nhl/merged-player-data.json has been used to update /alpha/ROSTERS.md
+  Run `python src/alpha-nhl/parse-standings.py` to update the /alpha/STANDINGS.md file with this new data
   ''')
 
 

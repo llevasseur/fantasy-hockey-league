@@ -52,7 +52,7 @@ def main():
   with open(cwd + '/json/beta-nhl/team-lookup-table.json', 'r') as teams_file:
     teams = json.loads(teams_file.read())
     
-  md_file = open(cwd + '/beta/ROSTERS.md', 'w')
+  md_file = open(cwd + '/ROSTERS.md', 'w')
 
   md_file.write("# Fantasy Rosters\n")
 

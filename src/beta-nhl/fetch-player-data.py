@@ -132,7 +132,7 @@ def main():
     json_file.write(json.dumps(players, indent=4))
     print('''
     Player data has been fetched from https://www.nhl.com and written to /json/beta-nhl/ep-player-data.json
-    Run `python src/beta-nhl/write-manual-data.py` to add SOG and TPM to the data in /json/manual-player-data.json
+    Run `python src/beta-nhl/data-to-md.py` to update the ROSTERS.md file with this new data
     ''')
 
 if __name__ == "__main__":
