@@ -1,8 +1,14 @@
 import json
 import re
 import os
+import datetime
 
 cwd = os.getcwd()
+
+START_DATE = datetime.datetime(2022, 10, 11, 0, 0)
+
+def get_nhl_day(today):
+  return (today - START_DATE).days
 
 def addTOI(toi, total):
   min, sec = re.match('([0-9]{1,2}):([0-5][0-9])', toi).groups()
@@ -43,10 +49,12 @@ def validatePick(pick):
     return True
 
 def main():
+  date = str(get_nhl_day(datetime.datetime.today()))
+
   with open(cwd + '/json/beta-nhl/draft-picks.json', 'r') as json_file:
     draft_data = json.loads(json_file.read())
 
-  with open(cwd + '/json/beta-nhl/ep-player-data.json') as json_file:
+  with open(cwd + '/json/beta-nhl/2022-23/'+date+'json') as json_file:
     player_data = json.loads(json_file.read())
   
   with open(cwd + '/json/beta-nhl/team-lookup-table.json', 'r') as teams_file:

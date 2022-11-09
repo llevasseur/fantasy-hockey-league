@@ -6,8 +6,14 @@ from bs4 import BeautifulSoup
 import re
 import json
 import os
+import datetime
 
 cwd = os.getcwd()
+
+START_DATE = datetime.datetime(2022, 10, 11, 0, 0)
+
+def get_nhl_day(today):
+  return (today - START_DATE).days
 
 def createSkater(obj, td_list):
   # Points-Rank, Name, Year, Team, Hand, Position, #GP, G, A, Points, +/-, PIM, P/Game, EVG, EVP, PPG, PPP, SHG, SHP, OTG, GWG, Shots, Shooting%, TOI/GP, FOW%. 
@@ -21,7 +27,6 @@ def createSkater(obj, td_list):
     # Parse Name, href
     if index == 1:
       a = type.find_element(By.CSS_SELECTOR, "div > a")
-      print(a)
       obj["name"] = type.text
       obj["href"] = a.get_attribute('href')
 
@@ -113,6 +118,8 @@ def getGoaliesFromSite(players, site):
 def main():
   players = {}
 
+  date = str(get_nhl_day(datetime.datetime.today()))
+  
   for i in range(0, 7):
     print(f"Processing skater webpage {i+1}...")
     # Skaters
@@ -127,11 +134,11 @@ def main():
   getGoaliesFromSite(players, site)
 
   print(f"Done!")
-
-  with open(cwd + '/json/beta-nhl/ep-player-data.json', 'w') as json_file:
+  
+  with open(cwd + '/json/beta-nhl/2022-23/'+date+'json', 'w') as json_file:
     json_file.write(json.dumps(players, indent=4))
-    print('''
-    Player data has been fetched from https://www.nhl.com and written to /json/beta-nhl/ep-player-data.json
+    print(f'''
+    Player data has been fetched from https://www.nhl.com and written to /json/beta-nhl/2022-23/{date}json
     Run `python src/beta-nhl/data-to-md.py` to update the ROSTERS.md file with this new data
     ''')
 
