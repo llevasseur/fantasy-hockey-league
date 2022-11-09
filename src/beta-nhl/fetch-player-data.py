@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import re
 import json
 import os
-import time
+
 cwd = os.getcwd()
 
 def createSkater(obj, td_list):

@@ -83,7 +83,7 @@
 | [Mitchell Marner](https://www.nhl.com/) | F |  Toronto Maple Leafs  | 2 | 12 | 25 | 6 | +1 | 22:09 |
 | [Claude Giroux](https://www.nhl.com/) | F |  Ottawa Senators  | 6 | 4 | 29 | 2 | +2 | 17:19 |
 | [Alex DeBrincat](https://www.nhl.com/) | F |  Ottawa Senators  | 2 | 7 | 49 | 4 | -3 | 19:10 |
-| [Tim Stützle](https://www.nhl.com/) | F |  Ottawa Senators  | 3 | 6 | 21 | 8 | -3 | 19:21 |
+| [Tim StÃ¼tzle](https://www.nhl.com/) | F |  Ottawa Senators  | 3 | 6 | 21 | 8 | -3 | 19:21 |
 | [Pavel Buchnevich](https://www.nhl.com/) | F |  St. Louis Blues  | 1 | 1 | 12 | 0 | 0 | 18:47 |
 | [John Carlson](https://www.nhl.com/) | D |  Washington Capitals  | 2 | 4 | 27 | 2 | -2 | 21:56 |
 | [Brent Burns](https://www.nhl.com/) | D |  Carolina Hurricanes  | 2 | 7 | 51 | 8 | -2 | 23:31 |
