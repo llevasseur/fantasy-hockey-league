@@ -1,6 +1,8 @@
 # Fantasy Hockey League
 ### Beta Version: Data parsed with Selenium from nhl.com
-Casual Python3 project used by friends to keep track of NHL and WJC players' stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.
+Casual Python3 project used by friends to keep track of NHL and WJC players stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.
+
+ Find me on Mastodon! <a rel="me" href="https://techhub.social/@leevonlevasseur">Mastodon</a>
 ## Scoreboard
 | User | [G](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-goals) | [A](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-assists) | [SOG](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-shots-on-goal) | [PIM](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-penalties-in-minutes) | [+/-](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-plus--minus) | [TOI/GP](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-average-time-on-ice) | [S%](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-save-percentage) | [GAA](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-goals-against-average) | Total |
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
