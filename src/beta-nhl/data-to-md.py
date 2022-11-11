@@ -54,7 +54,7 @@ def main():
   with open(cwd + '/json/beta-nhl/draft-picks.json', 'r') as json_file:
     draft_data = json.loads(json_file.read())
 
-  with open(cwd + '/json/beta-nhl/2022-23/'+date+'json') as json_file:
+  with open(cwd + '/json/beta-nhl/2022-23/day-'+date+'.json') as json_file:
     player_data = json.loads(json_file.read())
   
   with open(cwd + '/json/beta-nhl/team-lookup-table.json', 'r') as teams_file:

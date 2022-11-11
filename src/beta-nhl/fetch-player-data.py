@@ -135,7 +135,7 @@ def main():
 
   print(f"Done!")
   
-  with open(cwd + '/json/beta-nhl/2022-23/'+date+'json', 'w') as json_file:
+  with open(cwd + '/json/beta-nhl/2022-23/day-'+date+'.json', 'w') as json_file:
     json_file.write(json.dumps(players, indent=4))
     print(f'''
     Player data has been fetched from https://www.nhl.com and written to /json/beta-nhl/2022-23/{date}json
