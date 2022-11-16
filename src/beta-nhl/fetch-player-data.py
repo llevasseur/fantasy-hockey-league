@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-import mysql.connector
 
 import requests
 from bs4 import BeautifulSoup
@@ -9,8 +8,15 @@ import re
 import json
 import os
 import datetime
+import sql_module
+
+from dotenv import load_dotenv
+
+load_dotenv()
+PW = os.getenv("SQL_PW")
 
 cwd = os.getcwd()
+
 
 START_DATE = datetime.datetime(2022, 10, 11, 0, 0)
 
@@ -134,6 +140,10 @@ def main():
   site = "https://www.nhl.com/stats/goalies?reportType=season&seasonFrom=20222023&seasonTo=20222023&gameType=2&filter=gamesPlayed,gte,1&page=0&pageSize=100"
   
   getGoaliesFromSite(players, site)
+
+  #connection = sql_module.create_server_connection("localhost", "root", PW)
+  #create_database_query = "CREATE DATABASE nhl_skaters"
+  #sql_module.create_database(connection, create_database_query)
 
   print(f"Done!")
   
