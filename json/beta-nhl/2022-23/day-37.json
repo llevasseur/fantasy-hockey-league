@@ -7,13 +7,13 @@
         "team": "EDM",
         "hand": "L",
         "pos": "F",
-        "gp": "16",
+        "gp": "17",
         "g": "15",
         "a": "17",
         "p": "32",
-        "+/-": "+3",
-        "pim": "6",
-        "p/g": "2.00",
+        "+/-": "+2",
+        "pim": "10",
+        "p/g": "1.88",
         "evg": "8",
         "evp": "17",
         "ppg": "7",
@@ -22,10 +22,10 @@
         "shp": "0",
         "otg": "0",
         "gwg": "2",
-        "sog": "64",
-        "sht%": "23.4",
-        "toi/gp": "22:09",
-        "fow%": "53.5"
+        "sog": "65",
+        "sht%": "23.1",
+        "toi/gp": "22:11",
+        "fow%": "53.7"
     },
     "Leon Draisaitl": {
         "rank": "2",
@@ -35,13 +35,13 @@
         "team": "EDM",
         "hand": "L",
         "pos": "F",
-        "gp": "16",
+        "gp": "17",
         "g": "9",
         "a": "19",
         "p": "28",
-        "+/-": "+3",
+        "+/-": "+2",
         "pim": "10",
-        "p/g": "1.75",
+        "p/g": "1.65",
         "evg": "3",
         "evp": "13",
         "ppg": "6",
@@ -50,10 +50,10 @@
         "shp": "1",
         "otg": "0",
         "gwg": "3",
-        "sog": "56",
-        "sht%": "16.1",
-        "toi/gp": "22:05",
-        "fow%": "56.3"
+        "sog": "57",
+        "sht%": "15.8",
+        "toi/gp": "21:59",
+        "fow%": "55.0"
     },
     "Jason Robertson": {
         "rank": "3",
@@ -839,8 +839,36 @@
         "toi/gp": "17:17",
         "fow%": "57.3"
     },
-    "Jack Hughes": {
+    "Zach Hyman": {
         "rank": "31",
+        "name": "Zach Hyman",
+        "href": "https://www.nhl.com/player/8475786",
+        "year": "2022-23",
+        "team": "EDM",
+        "hand": "R",
+        "pos": "F",
+        "gp": "17",
+        "g": "8",
+        "a": "10",
+        "p": "18",
+        "+/-": "-1",
+        "pim": "10",
+        "p/g": "1.06",
+        "evg": "5",
+        "evp": "13",
+        "ppg": "3",
+        "ppp": "5",
+        "shg": "0",
+        "shp": "0",
+        "otg": "0",
+        "gwg": "1",
+        "sog": "58",
+        "sht%": "13.8",
+        "toi/gp": "19:59",
+        "fow%": "50.0"
+    },
+    "Jack Hughes": {
+        "rank": "32",
         "name": "Jack Hughes",
         "href": "https://www.nhl.com/player/8481559",
         "year": "2022-23",
@@ -868,7 +896,7 @@
         "fow%": "34.7"
     },
     "Dominik Kubalik": {
-        "rank": "32",
+        "rank": "33",
         "name": "Dominik Kubalik",
         "href": "https://www.nhl.com/player/8477330",
         "year": "2022-23",
@@ -896,20 +924,20 @@
         "fow%": "60.0"
     },
     "Kevin Fiala": {
-        "rank": "33",
+        "rank": "34",
         "name": "Kevin Fiala",
         "href": "https://www.nhl.com/player/8477942",
         "year": "2022-23",
         "team": "LAK",
         "hand": "L",
         "pos": "F",
-        "gp": "18",
+        "gp": "19",
         "g": "6",
         "a": "12",
         "p": "18",
         "+/-": "-1",
         "pim": "12",
-        "p/g": "1.00",
+        "p/g": "0.95",
         "evg": "4",
         "evp": "13",
         "ppg": "2",
@@ -918,13 +946,13 @@
         "shp": "0",
         "otg": "1",
         "gwg": "1",
-        "sog": "47",
-        "sht%": "12.8",
-        "toi/gp": "17:07",
-        "fow%": "66.7"
+        "sog": "49",
+        "sht%": "12.2",
+        "toi/gp": "17:03",
+        "fow%": "57.1"
     },
     "Cale Makar": {
-        "rank": "34",
+        "rank": "35",
         "name": "Cale Makar",
         "href": "https://www.nhl.com/player/8480069",
         "year": "2022-23",
@@ -952,7 +980,7 @@
         "fow%": "--"
     },
     "Mathew Barzal": {
-        "rank": "35",
+        "rank": "36",
         "name": "Mathew Barzal",
         "href": "https://www.nhl.com/player/8478445",
         "year": "2022-23",
@@ -980,7 +1008,7 @@
         "fow%": "35.5"
     },
     "Nico Hischier": {
-        "rank": "36",
+        "rank": "37",
         "name": "Nico Hischier",
         "href": "https://www.nhl.com/player/8480002",
         "year": "2022-23",
@@ -1008,20 +1036,20 @@
         "fow%": "58.5"
     },
     "Ryan Nugent-Hopkins": {
-        "rank": "37",
+        "rank": "38",
         "name": "Ryan Nugent-Hopkins",
         "href": "https://www.nhl.com/player/8476454",
         "year": "2022-23",
         "team": "EDM",
         "hand": "L",
         "pos": "F",
-        "gp": "16",
+        "gp": "17",
         "g": "8",
         "a": "9",
         "p": "17",
         "+/-": "-1",
         "pim": "8",
-        "p/g": "1.06",
+        "p/g": "1.00",
         "evg": "7",
         "evp": "7",
         "ppg": "1",
@@ -1032,11 +1060,11 @@
         "gwg": "2",
         "sog": "40",
         "sht%": "20.0",
-        "toi/gp": "19:21",
-        "fow%": "45.1"
+        "toi/gp": "19:22",
+        "fow%": "44.4"
     },
     "Steven Stamkos": {
-        "rank": "38",
+        "rank": "39",
         "name": "Steven Stamkos",
         "href": "https://www.nhl.com/player/8474564",
         "year": "2022-23",
@@ -1064,7 +1092,7 @@
         "fow%": "50.2"
     },
     "Claude Giroux": {
-        "rank": "39",
+        "rank": "40",
         "name": "Claude Giroux",
         "href": "https://www.nhl.com/player/8473512",
         "year": "2022-23",
@@ -1092,7 +1120,7 @@
         "fow%": "58.6"
     },
     "Auston Matthews": {
-        "rank": "40",
+        "rank": "41",
         "name": "Auston Matthews",
         "href": "https://www.nhl.com/player/8479318",
         "year": "2022-23",
@@ -1120,7 +1148,7 @@
         "fow%": "48.8"
     },
     "Sebastian Aho": {
-        "rank": "41",
+        "rank": "42",
         "name": "Sebastian Aho",
         "href": "https://www.nhl.com/player/8478427",
         "year": "2022-23",
@@ -1148,7 +1176,7 @@
         "fow%": "56.1"
     },
     "Dylan Larkin": {
-        "rank": "42",
+        "rank": "43",
         "name": "Dylan Larkin",
         "href": "https://www.nhl.com/player/8477946",
         "year": "2022-23",
@@ -1176,7 +1204,7 @@
         "fow%": "52.8"
     },
     "William Nylander": {
-        "rank": "43",
+        "rank": "44",
         "name": "William Nylander",
         "href": "https://www.nhl.com/player/8477939",
         "year": "2022-23",
@@ -1202,34 +1230,6 @@
         "sht%": "14.3",
         "toi/gp": "17:50",
         "fow%": "44.0"
-    },
-    "Zach Hyman": {
-        "rank": "44",
-        "name": "Zach Hyman",
-        "href": "https://www.nhl.com/player/8475786",
-        "year": "2022-23",
-        "team": "EDM",
-        "hand": "R",
-        "pos": "F",
-        "gp": "16",
-        "g": "7",
-        "a": "10",
-        "p": "17",
-        "+/-": "0",
-        "pim": "8",
-        "p/g": "1.06",
-        "evg": "4",
-        "evp": "12",
-        "ppg": "3",
-        "ppp": "5",
-        "shg": "0",
-        "shp": "0",
-        "otg": "0",
-        "gwg": "1",
-        "sog": "55",
-        "sht%": "12.7",
-        "toi/gp": "19:51",
-        "fow%": "50.0"
     },
     "Sidney Crosby": {
         "rank": "45",
@@ -1631,13 +1631,13 @@
         "team": "LAK",
         "hand": "R",
         "pos": "F",
-        "gp": "18",
+        "gp": "19",
         "g": "10",
         "a": "5",
         "p": "15",
         "+/-": "+3",
         "pim": "2",
-        "p/g": "0.83",
+        "p/g": "0.79",
         "evg": "8",
         "evp": "13",
         "ppg": "2",
@@ -1646,10 +1646,10 @@
         "shp": "0",
         "otg": "0",
         "gwg": "3",
-        "sog": "44",
-        "sht%": "22.7",
-        "toi/gp": "16:41",
-        "fow%": "43.8"
+        "sog": "47",
+        "sht%": "21.3",
+        "toi/gp": "16:51",
+        "fow%": "42.4"
     },
     "Timo Meier": {
         "rank": "60",
@@ -1791,8 +1791,36 @@
         "toi/gp": "14:20",
         "fow%": "58.3"
     },
-    "Filip Forsberg": {
+    "Trevor Moore": {
         "rank": "65",
+        "name": "Trevor Moore",
+        "href": "https://www.nhl.com/player/8479675",
+        "year": "2022-23",
+        "team": "LAK",
+        "hand": "L",
+        "pos": "F",
+        "gp": "19",
+        "g": "5",
+        "a": "10",
+        "p": "15",
+        "+/-": "+4",
+        "pim": "0",
+        "p/g": "0.79",
+        "evg": "5",
+        "evp": "11",
+        "ppg": "0",
+        "ppp": "4",
+        "shg": "0",
+        "shp": "0",
+        "otg": "0",
+        "gwg": "1",
+        "sog": "59",
+        "sht%": "8.5",
+        "toi/gp": "18:21",
+        "fow%": "21.4"
+    },
+    "Filip Forsberg": {
+        "rank": "66",
         "name": "Filip Forsberg",
         "href": "https://www.nhl.com/player/8476887",
         "year": "2022-23",
@@ -1820,7 +1848,7 @@
         "fow%": "--"
     },
     "Mikhail Sergachev": {
-        "rank": "66",
+        "rank": "67",
         "name": "Mikhail Sergachev",
         "href": "https://www.nhl.com/player/8479410",
         "year": "2022-23",
@@ -1848,7 +1876,7 @@
         "fow%": "--"
     },
     "Tomas Hertl": {
-        "rank": "67",
+        "rank": "68",
         "name": "Tomas Hertl",
         "href": "https://www.nhl.com/player/8476881",
         "year": "2022-23",
@@ -1876,7 +1904,7 @@
         "fow%": "49.9"
     },
     "Josh Morrissey": {
-        "rank": "68",
+        "rank": "69",
         "name": "Josh Morrissey",
         "href": "https://www.nhl.com/player/8477504",
         "year": "2022-23",
@@ -1904,7 +1932,7 @@
         "fow%": "--"
     },
     "Alex Ovechkin": {
-        "rank": "69",
+        "rank": "70",
         "name": "Alex Ovechkin",
         "href": "https://www.nhl.com/player/8471214",
         "year": "2022-23",
@@ -1932,7 +1960,7 @@
         "fow%": "33.3"
     },
     "Chris Kreider": {
-        "rank": "70",
+        "rank": "71",
         "name": "Chris Kreider",
         "href": "https://www.nhl.com/player/8475184",
         "year": "2022-23",
@@ -1960,7 +1988,7 @@
         "fow%": "57.1"
     },
     "Nazem Kadri": {
-        "rank": "71",
+        "rank": "72",
         "name": "Nazem Kadri",
         "href": "https://www.nhl.com/player/8475172",
         "year": "2022-23",
@@ -1988,7 +2016,7 @@
         "fow%": "43.1"
     },
     "Drake Batherson": {
-        "rank": "72",
+        "rank": "73",
         "name": "Drake Batherson",
         "href": "https://www.nhl.com/player/8480208",
         "year": "2022-23",
@@ -2016,7 +2044,7 @@
         "fow%": "38.5"
     },
     "Alex DeBrincat": {
-        "rank": "73",
+        "rank": "74",
         "name": "Alex DeBrincat",
         "href": "https://www.nhl.com/player/8479337",
         "year": "2022-23",
@@ -2044,7 +2072,7 @@
         "fow%": "0.0"
     },
     "Dougie Hamilton": {
-        "rank": "74",
+        "rank": "75",
         "name": "Dougie Hamilton",
         "href": "https://www.nhl.com/player/8476462",
         "year": "2022-23",
@@ -2072,7 +2100,7 @@
         "fow%": "--"
     },
     "Jeff Skinner": {
-        "rank": "75",
+        "rank": "76",
         "name": "Jeff Skinner",
         "href": "https://www.nhl.com/player/8475784",
         "year": "2022-23",
@@ -2100,7 +2128,7 @@
         "fow%": "50.0"
     },
     "Kirby Dach": {
-        "rank": "76",
+        "rank": "77",
         "name": "Kirby Dach",
         "href": "https://www.nhl.com/player/8481523",
         "year": "2022-23",
@@ -2128,7 +2156,7 @@
         "fow%": "36.7"
     },
     "Aleksander Barkov": {
-        "rank": "77",
+        "rank": "78",
         "name": "Aleksander Barkov",
         "href": "https://www.nhl.com/player/8477493",
         "year": "2022-23",
@@ -2156,7 +2184,7 @@
         "fow%": "56.9"
     },
     "Andre Burakovsky": {
-        "rank": "78",
+        "rank": "79",
         "name": "Andre Burakovsky",
         "href": "https://www.nhl.com/player/8477444",
         "year": "2022-23",
@@ -2184,7 +2212,7 @@
         "fow%": "0.0"
     },
     "Jason Zucker": {
-        "rank": "79",
+        "rank": "80",
         "name": "Jason Zucker",
         "href": "https://www.nhl.com/player/8475722",
         "year": "2022-23",
@@ -2212,20 +2240,20 @@
         "fow%": "33.3"
     },
     "Anze Kopitar": {
-        "rank": "80",
+        "rank": "81",
         "name": "Anze Kopitar",
         "href": "https://www.nhl.com/player/8471685",
         "year": "2022-23",
         "team": "LAK",
         "hand": "L",
         "pos": "F",
-        "gp": "18",
+        "gp": "19",
         "g": "3",
         "a": "11",
         "p": "14",
         "+/-": "-3",
         "pim": "2",
-        "p/g": "0.78",
+        "p/g": "0.74",
         "evg": "3",
         "evp": "10",
         "ppg": "0",
@@ -2234,13 +2262,13 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "32",
-        "sht%": "9.4",
-        "toi/gp": "20:10",
-        "fow%": "59.3"
+        "sog": "36",
+        "sht%": "8.3",
+        "toi/gp": "20:13",
+        "fow%": "59.1"
     },
     "Alex Pietrangelo": {
-        "rank": "81",
+        "rank": "82",
         "name": "Alex Pietrangelo",
         "href": "https://www.nhl.com/player/8474565",
         "year": "2022-23",
@@ -2268,7 +2296,7 @@
         "fow%": "--"
     },
     "Quinn Hughes": {
-        "rank": "82",
+        "rank": "83",
         "name": "Quinn Hughes",
         "href": "https://www.nhl.com/player/8480800",
         "year": "2022-23",
@@ -2296,7 +2324,7 @@
         "fow%": "--"
     },
     "Morgan Rielly": {
-        "rank": "83",
+        "rank": "84",
         "name": "Morgan Rielly",
         "href": "https://www.nhl.com/player/8476853",
         "year": "2022-23",
@@ -2324,7 +2352,7 @@
         "fow%": "--"
     },
     "Jake Guentzel": {
-        "rank": "84",
+        "rank": "85",
         "name": "Jake Guentzel",
         "href": "https://www.nhl.com/player/8477404",
         "year": "2022-23",
@@ -2352,7 +2380,7 @@
         "fow%": "42.9"
     },
     "Reilly Smith": {
-        "rank": "85",
+        "rank": "86",
         "name": "Reilly Smith",
         "href": "https://www.nhl.com/player/8475191",
         "year": "2022-23",
@@ -2380,7 +2408,7 @@
         "fow%": "50.0"
     },
     "Logan Couture": {
-        "rank": "86",
+        "rank": "87",
         "name": "Logan Couture",
         "href": "https://www.nhl.com/player/8474053",
         "year": "2022-23",
@@ -2408,20 +2436,20 @@
         "fow%": "48.0"
     },
     "Arthur Kaliyev": {
-        "rank": "87",
+        "rank": "88",
         "name": "Arthur Kaliyev",
         "href": "https://www.nhl.com/player/8481560",
         "year": "2022-23",
         "team": "LAK",
         "hand": "L",
         "pos": "F",
-        "gp": "17",
+        "gp": "18",
         "g": "6",
         "a": "7",
         "p": "13",
         "+/-": "0",
         "pim": "4",
-        "p/g": "0.76",
+        "p/g": "0.72",
         "evg": "2",
         "evp": "7",
         "ppg": "4",
@@ -2430,13 +2458,13 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "39",
-        "sht%": "15.4",
-        "toi/gp": "11:18",
+        "sog": "40",
+        "sht%": "15.0",
+        "toi/gp": "11:05",
         "fow%": "--"
     },
     "Elias Lindholm": {
-        "rank": "88",
+        "rank": "89",
         "name": "Elias Lindholm",
         "href": "https://www.nhl.com/player/8477496",
         "year": "2022-23",
@@ -2464,7 +2492,7 @@
         "fow%": "54.8"
     },
     "Johnny Gaudreau": {
-        "rank": "89",
+        "rank": "90",
         "name": "Johnny Gaudreau",
         "href": "https://www.nhl.com/player/8476346",
         "year": "2022-23",
@@ -2492,7 +2520,7 @@
         "fow%": "--"
     },
     "Tyler Toffoli": {
-        "rank": "90",
+        "rank": "91",
         "name": "Tyler Toffoli",
         "href": "https://www.nhl.com/player/8475726",
         "year": "2022-23",
@@ -2520,7 +2548,7 @@
         "fow%": "0.0"
     },
     "Dylan Strome": {
-        "rank": "91",
+        "rank": "92",
         "name": "Dylan Strome",
         "href": "https://www.nhl.com/player/8478440",
         "year": "2022-23",
@@ -2547,8 +2575,36 @@
         "toi/gp": "17:31",
         "fow%": "44.9"
     },
+    "Phillip Danault": {
+        "rank": "93",
+        "name": "Phillip Danault",
+        "href": "https://www.nhl.com/player/8476479",
+        "year": "2022-23",
+        "team": "LAK",
+        "hand": "L",
+        "pos": "F",
+        "gp": "19",
+        "g": "5",
+        "a": "8",
+        "p": "13",
+        "+/-": "+5",
+        "pim": "12",
+        "p/g": "0.68",
+        "evg": "5",
+        "evp": "10",
+        "ppg": "0",
+        "ppp": "3",
+        "shg": "0",
+        "shp": "0",
+        "otg": "1",
+        "gwg": "1",
+        "sog": "35",
+        "sht%": "14.3",
+        "toi/gp": "18:23",
+        "fow%": "53.4"
+    },
     "Evander Kane": {
-        "rank": "92",
+        "rank": "94",
         "name": "Evander Kane",
         "href": "https://www.nhl.com/player/8475169",
         "year": "2022-23",
@@ -2576,7 +2632,7 @@
         "fow%": "27.3"
     },
     "Alex Killorn": {
-        "rank": "93",
+        "rank": "95",
         "name": "Alex Killorn",
         "href": "https://www.nhl.com/player/8473986",
         "year": "2022-23",
@@ -2604,7 +2660,7 @@
         "fow%": "--"
     },
     "William Karlsson": {
-        "rank": "94",
+        "rank": "96",
         "name": "William Karlsson",
         "href": "https://www.nhl.com/player/8476448",
         "year": "2022-23",
@@ -2632,7 +2688,7 @@
         "fow%": "57.0"
     },
     "Matt Duchene": {
-        "rank": "95",
+        "rank": "97",
         "name": "Matt Duchene",
         "href": "https://www.nhl.com/player/8475168",
         "year": "2022-23",
@@ -2659,8 +2715,36 @@
         "toi/gp": "18:08",
         "fow%": "52.2"
     },
+    "Viktor Arvidsson": {
+        "rank": "98",
+        "name": "Viktor Arvidsson",
+        "href": "https://www.nhl.com/player/8478042",
+        "year": "2022-23",
+        "team": "LAK",
+        "hand": "R",
+        "pos": "F",
+        "gp": "17",
+        "g": "3",
+        "a": "10",
+        "p": "13",
+        "+/-": "+2",
+        "pim": "8",
+        "p/g": "0.76",
+        "evg": "1",
+        "evp": "8",
+        "ppg": "2",
+        "ppp": "5",
+        "shg": "0",
+        "shp": "0",
+        "otg": "0",
+        "gwg": "0",
+        "sog": "40",
+        "sht%": "7.5",
+        "toi/gp": "16:37",
+        "fow%": "40.0"
+    },
     "Evgeny Kuznetsov": {
-        "rank": "96",
+        "rank": "99",
         "name": "Evgeny Kuznetsov",
         "href": "https://www.nhl.com/player/8475744",
         "year": "2022-23",
@@ -2688,7 +2772,7 @@
         "fow%": "46.7"
     },
     "Patrick Kane": {
-        "rank": "97",
+        "rank": "100",
         "name": "Patrick Kane",
         "href": "https://www.nhl.com/player/8474141",
         "year": "2022-23",
@@ -2716,7 +2800,7 @@
         "fow%": "100.0"
     },
     "Rasmus Andersson": {
-        "rank": "98",
+        "rank": "101",
         "name": "Rasmus Andersson",
         "href": "https://www.nhl.com/player/8478397",
         "year": "2022-23",
@@ -2744,7 +2828,7 @@
         "fow%": "--"
     },
     "Mark Scheifele": {
-        "rank": "99",
+        "rank": "102",
         "name": "Mark Scheifele",
         "href": "https://www.nhl.com/player/8476460",
         "year": "2022-23",
@@ -2771,36 +2855,8 @@
         "toi/gp": "21:19",
         "fow%": "45.9"
     },
-    "Jonathan Marchessault": {
-        "rank": "100",
-        "name": "Jonathan Marchessault",
-        "href": "https://www.nhl.com/player/8476539",
-        "year": "2022-23",
-        "team": "VGK",
-        "hand": "R",
-        "pos": "F",
-        "gp": "17",
-        "g": "7",
-        "a": "5",
-        "p": "12",
-        "+/-": "+1",
-        "pim": "2",
-        "p/g": "0.71",
-        "evg": "4",
-        "evp": "8",
-        "ppg": "3",
-        "ppp": "4",
-        "shg": "0",
-        "shp": "0",
-        "otg": "0",
-        "gwg": "0",
-        "sog": "55",
-        "sht%": "12.7",
-        "toi/gp": "16:34",
-        "fow%": "27.8"
-    },
     "Pierre-Luc Dubois": {
-        "rank": "101",
+        "rank": "103",
         "name": "Pierre-Luc Dubois",
         "href": "https://www.nhl.com/player/8479400",
         "year": "2022-23",
@@ -2828,7 +2884,7 @@
         "fow%": "48.1"
     },
     "Valeri Nichushkin": {
-        "rank": "102",
+        "rank": "104",
         "name": "Valeri Nichushkin",
         "href": "https://www.nhl.com/player/8477501",
         "year": "2022-23",
@@ -2855,8 +2911,36 @@
         "toi/gp": "20:28",
         "fow%": "0.0"
     },
+    "Jonathan Marchessault": {
+        "rank": "105",
+        "name": "Jonathan Marchessault",
+        "href": "https://www.nhl.com/player/8476539",
+        "year": "2022-23",
+        "team": "VGK",
+        "hand": "R",
+        "pos": "F",
+        "gp": "17",
+        "g": "7",
+        "a": "5",
+        "p": "12",
+        "+/-": "+1",
+        "pim": "2",
+        "p/g": "0.71",
+        "evg": "4",
+        "evp": "8",
+        "ppg": "3",
+        "ppp": "4",
+        "shg": "0",
+        "shp": "0",
+        "otg": "0",
+        "gwg": "0",
+        "sog": "55",
+        "sht%": "12.7",
+        "toi/gp": "16:34",
+        "fow%": "27.8"
+    },
     "Noah Dobson": {
-        "rank": "103",
+        "rank": "106",
         "name": "Noah Dobson",
         "href": "https://www.nhl.com/player/8480865",
         "year": "2022-23",
@@ -2884,7 +2968,7 @@
         "fow%": "--"
     },
     "Brandon Hagel": {
-        "rank": "104",
+        "rank": "107",
         "name": "Brandon Hagel",
         "href": "https://www.nhl.com/player/8479542",
         "year": "2022-23",
@@ -2911,36 +2995,8 @@
         "toi/gp": "18:02",
         "fow%": "21.7"
     },
-    "Phillip Danault": {
-        "rank": "105",
-        "name": "Phillip Danault",
-        "href": "https://www.nhl.com/player/8476479",
-        "year": "2022-23",
-        "team": "LAK",
-        "hand": "L",
-        "pos": "F",
-        "gp": "18",
-        "g": "5",
-        "a": "7",
-        "p": "12",
-        "+/-": "+2",
-        "pim": "10",
-        "p/g": "0.67",
-        "evg": "5",
-        "evp": "9",
-        "ppg": "0",
-        "ppp": "3",
-        "shg": "0",
-        "shp": "0",
-        "otg": "1",
-        "gwg": "1",
-        "sog": "31",
-        "sht%": "16.1",
-        "toi/gp": "18:30",
-        "fow%": "52.4"
-    },
     "Mark Stone": {
-        "rank": "106",
+        "rank": "108",
         "name": "Mark Stone",
         "href": "https://www.nhl.com/player/8475913",
         "year": "2022-23",
@@ -2968,7 +3024,7 @@
         "fow%": "0.0"
     },
     "Shea Theodore": {
-        "rank": "107",
+        "rank": "109",
         "name": "Shea Theodore",
         "href": "https://www.nhl.com/player/8477447",
         "year": "2022-23",
@@ -2996,20 +3052,20 @@
         "fow%": "--"
     },
     "Tyson Barrie": {
-        "rank": "108",
+        "rank": "110",
         "name": "Tyson Barrie",
         "href": "https://www.nhl.com/player/8475197",
         "year": "2022-23",
         "team": "EDM",
         "hand": "R",
         "pos": "D",
-        "gp": "16",
+        "gp": "17",
         "g": "3",
         "a": "9",
         "p": "12",
-        "+/-": "+3",
+        "+/-": "+2",
         "pim": "8",
-        "p/g": "0.75",
+        "p/g": "0.71",
         "evg": "1",
         "evp": "5",
         "ppg": "2",
@@ -3018,13 +3074,13 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "25",
-        "sht%": "12.0",
-        "toi/gp": "19:04",
+        "sog": "26",
+        "sht%": "11.5",
+        "toi/gp": "18:55",
         "fow%": "--"
     },
     "Brayden Schenn": {
-        "rank": "109",
+        "rank": "111",
         "name": "Brayden Schenn",
         "href": "https://www.nhl.com/player/8475170",
         "year": "2022-23",
@@ -3052,7 +3108,7 @@
         "fow%": "39.4"
     },
     "Brent Burns": {
-        "rank": "110",
+        "rank": "112",
         "name": "Brent Burns",
         "href": "https://www.nhl.com/player/8470613",
         "year": "2022-23",
@@ -3080,7 +3136,7 @@
         "fow%": "--"
     },
     "Miro Heiskanen": {
-        "rank": "111",
+        "rank": "113",
         "name": "Miro Heiskanen",
         "href": "https://www.nhl.com/player/8480036",
         "year": "2022-23",
@@ -3107,36 +3163,8 @@
         "toi/gp": "24:04",
         "fow%": "--"
     },
-    "Trevor Moore": {
-        "rank": "112",
-        "name": "Trevor Moore",
-        "href": "https://www.nhl.com/player/8479675",
-        "year": "2022-23",
-        "team": "LAK",
-        "hand": "L",
-        "pos": "F",
-        "gp": "18",
-        "g": "2",
-        "a": "10",
-        "p": "12",
-        "+/-": "+1",
-        "pim": "0",
-        "p/g": "0.67",
-        "evg": "2",
-        "evp": "8",
-        "ppg": "0",
-        "ppp": "4",
-        "shg": "0",
-        "shp": "0",
-        "otg": "0",
-        "gwg": "0",
-        "sog": "55",
-        "sht%": "3.6",
-        "toi/gp": "18:14",
-        "fow%": "16.7"
-    },
     "Kyle Connor": {
-        "rank": "113",
+        "rank": "114",
         "name": "Kyle Connor",
         "href": "https://www.nhl.com/player/8478398",
         "year": "2022-23",
@@ -3164,7 +3192,7 @@
         "fow%": "--"
     },
     "Mikael Granlund": {
-        "rank": "114",
+        "rank": "115",
         "name": "Mikael Granlund",
         "href": "https://www.nhl.com/player/8475798",
         "year": "2022-23",
@@ -3192,7 +3220,7 @@
         "fow%": "42.6"
     },
     "Andrei Kuzmenko": {
-        "rank": "115",
+        "rank": "116",
         "name": "Andrei Kuzmenko",
         "href": "https://www.nhl.com/player/8483808",
         "year": "2022-23",
@@ -3220,20 +3248,20 @@
         "fow%": "--"
     },
     "Adrian Kempe": {
-        "rank": "116",
+        "rank": "117",
         "name": "Adrian Kempe",
         "href": "https://www.nhl.com/player/8477960",
         "year": "2022-23",
         "team": "LAK",
         "hand": "L",
         "pos": "F",
-        "gp": "18",
+        "gp": "19",
         "g": "7",
         "a": "4",
         "p": "11",
         "+/-": "-1",
         "pim": "16",
-        "p/g": "0.61",
+        "p/g": "0.58",
         "evg": "6",
         "evp": "8",
         "ppg": "1",
@@ -3242,13 +3270,13 @@
         "shp": "0",
         "otg": "0",
         "gwg": "1",
-        "sog": "51",
-        "sht%": "13.7",
-        "toi/gp": "18:41",
+        "sog": "53",
+        "sht%": "13.2",
+        "toi/gp": "18:47",
         "fow%": "0.0"
     },
     "Matt Boldy": {
-        "rank": "117",
+        "rank": "118",
         "name": "Matt Boldy",
         "href": "https://www.nhl.com/player/8481557",
         "year": "2022-23",
@@ -3276,7 +3304,7 @@
         "fow%": "60.0"
     },
     "Nicholas Paul": {
-        "rank": "118",
+        "rank": "119",
         "name": "Nicholas Paul",
         "href": "https://www.nhl.com/player/8477426",
         "year": "2022-23",
@@ -3304,7 +3332,7 @@
         "fow%": "52.8"
     },
     "Jake DeBrusk": {
-        "rank": "119",
+        "rank": "120",
         "name": "Jake DeBrusk",
         "href": "https://www.nhl.com/player/8478498",
         "year": "2022-23",
@@ -3332,7 +3360,7 @@
         "fow%": "40.0"
     },
     "Ryan Strome": {
-        "rank": "120",
+        "rank": "121",
         "name": "Ryan Strome",
         "href": "https://www.nhl.com/player/8476458",
         "year": "2022-23",
@@ -3360,7 +3388,7 @@
         "fow%": "45.2"
     },
     "Vincent Trocheck": {
-        "rank": "121",
+        "rank": "122",
         "name": "Vincent Trocheck",
         "href": "https://www.nhl.com/player/8476389",
         "year": "2022-23",
@@ -3388,7 +3416,7 @@
         "fow%": "55.9"
     },
     "David Perron": {
-        "rank": "122",
+        "rank": "123",
         "name": "David Perron",
         "href": "https://www.nhl.com/player/8474102",
         "year": "2022-23",
@@ -3416,7 +3444,7 @@
         "fow%": "0.0"
     },
     "Brad Marchand": {
-        "rank": "123",
+        "rank": "124",
         "name": "Brad Marchand",
         "href": "https://www.nhl.com/player/8473419",
         "year": "2022-23",
@@ -3444,7 +3472,7 @@
         "fow%": "50.0"
     },
     "Dylan Cozens": {
-        "rank": "124",
+        "rank": "125",
         "name": "Dylan Cozens",
         "href": "https://www.nhl.com/player/8481528",
         "year": "2022-23",
@@ -3472,7 +3500,7 @@
         "fow%": "48.2"
     },
     "Max Domi": {
-        "rank": "125",
+        "rank": "126",
         "name": "Max Domi",
         "href": "https://www.nhl.com/player/8477503",
         "year": "2022-23",
@@ -3500,7 +3528,7 @@
         "fow%": "60.7"
     },
     "Vladimir Tarasenko": {
-        "rank": "126",
+        "rank": "127",
         "name": "Vladimir Tarasenko",
         "href": "https://www.nhl.com/player/8475765",
         "year": "2022-23",
@@ -3528,7 +3556,7 @@
         "fow%": "0.0"
     },
     "Jordan Eberle": {
-        "rank": "127",
+        "rank": "128",
         "name": "Jordan Eberle",
         "href": "https://www.nhl.com/player/8474586",
         "year": "2022-23",
@@ -3556,7 +3584,7 @@
         "fow%": "66.7"
     },
     "Robert Thomas": {
-        "rank": "128",
+        "rank": "129",
         "name": "Robert Thomas",
         "href": "https://www.nhl.com/player/8480023",
         "year": "2022-23",
@@ -3584,7 +3612,7 @@
         "fow%": "52.6"
     },
     "Tyler Seguin": {
-        "rank": "129",
+        "rank": "130",
         "name": "Tyler Seguin",
         "href": "https://www.nhl.com/player/8475794",
         "year": "2022-23",
@@ -3612,7 +3640,7 @@
         "fow%": "53.2"
     },
     "Justin Faulk": {
-        "rank": "130",
+        "rank": "131",
         "name": "Justin Faulk",
         "href": "https://www.nhl.com/player/8475753",
         "year": "2022-23",
@@ -3640,7 +3668,7 @@
         "fow%": "--"
     },
     "Tomas Tatar": {
-        "rank": "131",
+        "rank": "132",
         "name": "Tomas Tatar",
         "href": "https://www.nhl.com/player/8475193",
         "year": "2022-23",
@@ -3668,7 +3696,7 @@
         "fow%": "40.0"
     },
     "Filip Hronek": {
-        "rank": "132",
+        "rank": "133",
         "name": "Filip Hronek",
         "href": "https://www.nhl.com/player/8479425",
         "year": "2022-23",
@@ -3696,7 +3724,7 @@
         "fow%": "--"
     },
     "Victor Olofsson": {
-        "rank": "133",
+        "rank": "134",
         "name": "Victor Olofsson",
         "href": "https://www.nhl.com/player/8478109",
         "year": "2022-23",
@@ -3724,7 +3752,7 @@
         "fow%": "25.0"
     },
     "Rickard Rakell": {
-        "rank": "134",
+        "rank": "135",
         "name": "Rickard Rakell",
         "href": "https://www.nhl.com/player/8476483",
         "year": "2022-23",
@@ -3752,7 +3780,7 @@
         "fow%": "60.0"
     },
     "Jonathan Toews": {
-        "rank": "135",
+        "rank": "136",
         "name": "Jonathan Toews",
         "href": "https://www.nhl.com/player/8473604",
         "year": "2022-23",
@@ -3780,7 +3808,7 @@
         "fow%": "65.4"
     },
     "Lucas Raymond": {
-        "rank": "136",
+        "rank": "137",
         "name": "Lucas Raymond",
         "href": "https://www.nhl.com/player/8482078",
         "year": "2022-23",
@@ -3808,7 +3836,7 @@
         "fow%": "0.0"
     },
     "Boone Jenner": {
-        "rank": "137",
+        "rank": "138",
         "name": "Boone Jenner",
         "href": "https://www.nhl.com/player/8476432",
         "year": "2022-23",
@@ -3836,7 +3864,7 @@
         "fow%": "54.8"
     },
     "Sam Bennett": {
-        "rank": "138",
+        "rank": "139",
         "name": "Sam Bennett",
         "href": "https://www.nhl.com/player/8477935",
         "year": "2022-23",
@@ -3864,7 +3892,7 @@
         "fow%": "41.5"
     },
     "Anthony Mantha": {
-        "rank": "139",
+        "rank": "140",
         "name": "Anthony Mantha",
         "href": "https://www.nhl.com/player/8477511",
         "year": "2022-23",
@@ -3892,7 +3920,7 @@
         "fow%": "75.0"
     },
     "Ryan Johansen": {
-        "rank": "140",
+        "rank": "141",
         "name": "Ryan Johansen",
         "href": "https://www.nhl.com/player/8475793",
         "year": "2022-23",
@@ -3920,7 +3948,7 @@
         "fow%": "64.2"
     },
     "Taylor Hall": {
-        "rank": "141",
+        "rank": "142",
         "name": "Taylor Hall",
         "href": "https://www.nhl.com/player/8475791",
         "year": "2022-23",
@@ -3948,7 +3976,7 @@
         "fow%": "33.3"
     },
     "Jaden Schwartz": {
-        "rank": "142",
+        "rank": "143",
         "name": "Jaden Schwartz",
         "href": "https://www.nhl.com/player/8475768",
         "year": "2022-23",
@@ -3976,7 +4004,7 @@
         "fow%": "44.8"
     },
     "Neal Pionk": {
-        "rank": "143",
+        "rank": "144",
         "name": "Neal Pionk",
         "href": "https://www.nhl.com/player/8480145",
         "year": "2022-23",
@@ -4004,7 +4032,7 @@
         "fow%": "--"
     },
     "Casey Mittelstadt": {
-        "rank": "144",
+        "rank": "145",
         "name": "Casey Mittelstadt",
         "href": "https://www.nhl.com/player/8479999",
         "year": "2022-23",
@@ -4032,7 +4060,7 @@
         "fow%": "50.8"
     },
     "Brandon Tanev": {
-        "rank": "145",
+        "rank": "146",
         "name": "Brandon Tanev",
         "href": "https://www.nhl.com/player/8479293",
         "year": "2022-23",
@@ -4060,7 +4088,7 @@
         "fow%": "33.3"
     },
     "Joel Eriksson Ek": {
-        "rank": "146",
+        "rank": "147",
         "name": "Joel Eriksson Ek",
         "href": "https://www.nhl.com/player/8478493",
         "year": "2022-23",
@@ -4088,7 +4116,7 @@
         "fow%": "46.0"
     },
     "Nicolas Roy": {
-        "rank": "147",
+        "rank": "148",
         "name": "Nicolas Roy",
         "href": "https://www.nhl.com/player/8478462",
         "year": "2022-23",
@@ -4116,7 +4144,7 @@
         "fow%": "51.6"
     },
     "Artturi Lehkonen": {
-        "rank": "148",
+        "rank": "149",
         "name": "Artturi Lehkonen",
         "href": "https://www.nhl.com/player/8477476",
         "year": "2022-23",
@@ -4144,7 +4172,7 @@
         "fow%": "0.0"
     },
     "Shayne Gostisbehere": {
-        "rank": "149",
+        "rank": "150",
         "name": "Shayne Gostisbehere",
         "href": "https://www.nhl.com/player/8476906",
         "year": "2022-23",
@@ -4172,7 +4200,7 @@
         "fow%": "--"
     },
     "Blake Wheeler": {
-        "rank": "150",
+        "rank": "151",
         "name": "Blake Wheeler",
         "href": "https://www.nhl.com/player/8471218",
         "year": "2022-23",
@@ -4200,7 +4228,7 @@
         "fow%": "54.6"
     },
     "Joel Farabee": {
-        "rank": "151",
+        "rank": "152",
         "name": "Joel Farabee",
         "href": "https://www.nhl.com/player/8480797",
         "year": "2022-23",
@@ -4226,34 +4254,6 @@
         "sht%": "8.8",
         "toi/gp": "18:51",
         "fow%": "63.6"
-    },
-    "Viktor Arvidsson": {
-        "rank": "152",
-        "name": "Viktor Arvidsson",
-        "href": "https://www.nhl.com/player/8478042",
-        "year": "2022-23",
-        "team": "LAK",
-        "hand": "R",
-        "pos": "F",
-        "gp": "16",
-        "g": "3",
-        "a": "7",
-        "p": "10",
-        "+/-": "-1",
-        "pim": "8",
-        "p/g": "0.63",
-        "evg": "1",
-        "evp": "5",
-        "ppg": "2",
-        "ppp": "5",
-        "shg": "0",
-        "shp": "0",
-        "otg": "0",
-        "gwg": "0",
-        "sog": "39",
-        "sht%": "7.7",
-        "toi/gp": "16:32",
-        "fow%": "40.0"
     },
     "Roman Josi": {
         "rank": "153",
@@ -4403,13 +4403,13 @@
         "team": "LAK",
         "hand": "R",
         "pos": "D",
-        "gp": "18",
+        "gp": "19",
         "g": "1",
         "a": "9",
         "p": "10",
         "+/-": "+1",
         "pim": "12",
-        "p/g": "0.56",
+        "p/g": "0.53",
         "evg": "0",
         "evp": "6",
         "ppg": "1",
@@ -4418,9 +4418,9 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "34",
+        "sog": "35",
         "sht%": "2.9",
-        "toi/gp": "26:36",
+        "toi/gp": "26:34",
         "fow%": "--"
     },
     "Shane Pinto": {
@@ -4703,8 +4703,36 @@
         "toi/gp": "13:03",
         "fow%": "53.3"
     },
-    "Conor Garland": {
+    "Sean Durzi": {
         "rank": "169",
+        "name": "Sean Durzi",
+        "href": "https://www.nhl.com/player/8480434",
+        "year": "2022-23",
+        "team": "LAK",
+        "hand": "R",
+        "pos": "D",
+        "gp": "18",
+        "g": "3",
+        "a": "6",
+        "p": "9",
+        "+/-": "-2",
+        "pim": "8",
+        "p/g": "0.50",
+        "evg": "2",
+        "evp": "6",
+        "ppg": "1",
+        "ppp": "3",
+        "shg": "0",
+        "shp": "0",
+        "otg": "0",
+        "gwg": "1",
+        "sog": "30",
+        "sht%": "10.0",
+        "toi/gp": "20:09",
+        "fow%": "--"
+    },
+    "Conor Garland": {
+        "rank": "170",
         "name": "Conor Garland",
         "href": "https://www.nhl.com/player/8478856",
         "year": "2022-23",
@@ -4732,7 +4760,7 @@
         "fow%": "0.0"
     },
     "Pavel Zacha": {
-        "rank": "170",
+        "rank": "171",
         "name": "Pavel Zacha",
         "href": "https://www.nhl.com/player/8478401",
         "year": "2022-23",
@@ -4760,7 +4788,7 @@
         "fow%": "43.1"
     },
     "Colin White": {
-        "rank": "171",
+        "rank": "172",
         "name": "Colin White",
         "href": "https://www.nhl.com/player/8478400",
         "year": "2022-23",
@@ -4788,7 +4816,7 @@
         "fow%": "42.9"
     },
     "Tony DeAngelo": {
-        "rank": "172",
+        "rank": "173",
         "name": "Tony DeAngelo",
         "href": "https://www.nhl.com/player/8477950",
         "year": "2022-23",
@@ -4816,20 +4844,20 @@
         "fow%": "--"
     },
     "Darnell Nurse": {
-        "rank": "173",
+        "rank": "174",
         "name": "Darnell Nurse",
         "href": "https://www.nhl.com/player/8477498",
         "year": "2022-23",
         "team": "EDM",
         "hand": "L",
         "pos": "D",
-        "gp": "16",
+        "gp": "17",
         "g": "3",
         "a": "6",
         "p": "9",
-        "+/-": "+4",
-        "pim": "16",
-        "p/g": "0.56",
+        "+/-": "+3",
+        "pim": "20",
+        "p/g": "0.53",
         "evg": "2",
         "evp": "7",
         "ppg": "0",
@@ -4838,13 +4866,13 @@
         "shp": "1",
         "otg": "0",
         "gwg": "0",
-        "sog": "29",
-        "sht%": "10.3",
-        "toi/gp": "23:31",
+        "sog": "31",
+        "sht%": "9.7",
+        "toi/gp": "23:29",
         "fow%": "--"
     },
     "Sean Monahan": {
-        "rank": "174",
+        "rank": "175",
         "name": "Sean Monahan",
         "href": "https://www.nhl.com/player/8477497",
         "year": "2022-23",
@@ -4872,7 +4900,7 @@
         "fow%": "54.3"
     },
     "John Carlson": {
-        "rank": "175",
+        "rank": "176",
         "name": "John Carlson",
         "href": "https://www.nhl.com/player/8474590",
         "year": "2022-23",
@@ -4900,7 +4928,7 @@
         "fow%": "--"
     },
     "Vince Dunn": {
-        "rank": "176",
+        "rank": "177",
         "name": "Vince Dunn",
         "href": "https://www.nhl.com/player/8478407",
         "year": "2022-23",
@@ -4928,7 +4956,7 @@
         "fow%": "--"
     },
     "Gustav Forsling": {
-        "rank": "177",
+        "rank": "178",
         "name": "Gustav Forsling",
         "href": "https://www.nhl.com/player/8478055",
         "year": "2022-23",
@@ -4956,7 +4984,7 @@
         "fow%": "--"
     },
     "Yanni Gourde": {
-        "rank": "178",
+        "rank": "179",
         "name": "Yanni Gourde",
         "href": "https://www.nhl.com/player/8476826",
         "year": "2022-23",
@@ -4984,7 +5012,7 @@
         "fow%": "46.1"
     },
     "Jean-Gabriel Pageau": {
-        "rank": "179",
+        "rank": "180",
         "name": "Jean-Gabriel Pageau",
         "href": "https://www.nhl.com/player/8476419",
         "year": "2022-23",
@@ -5012,7 +5040,7 @@
         "fow%": "58.7"
     },
     "David Krejci": {
-        "rank": "180",
+        "rank": "181",
         "name": "David Krejci",
         "href": "https://www.nhl.com/player/8471276",
         "year": "2022-23",
@@ -5040,7 +5068,7 @@
         "fow%": "55.5"
     },
     "Anton Lundell": {
-        "rank": "181",
+        "rank": "182",
         "name": "Anton Lundell",
         "href": "https://www.nhl.com/player/8482113",
         "year": "2022-23",
@@ -5068,7 +5096,7 @@
         "fow%": "49.2"
     },
     "Oliver Bjorkstrand": {
-        "rank": "182",
+        "rank": "183",
         "name": "Oliver Bjorkstrand",
         "href": "https://www.nhl.com/player/8477416",
         "year": "2022-23",
@@ -5096,7 +5124,7 @@
         "fow%": "38.9"
     },
     "Nick Jensen": {
-        "rank": "183",
+        "rank": "184",
         "name": "Nick Jensen",
         "href": "https://www.nhl.com/player/8475324",
         "year": "2022-23",
@@ -5124,7 +5152,7 @@
         "fow%": "--"
     },
     "Victor Hedman": {
-        "rank": "184",
+        "rank": "185",
         "name": "Victor Hedman",
         "href": "https://www.nhl.com/player/8475167",
         "year": "2022-23",
@@ -5152,7 +5180,7 @@
         "fow%": "--"
     },
     "Kyle Okposo": {
-        "rank": "185",
+        "rank": "186",
         "name": "Kyle Okposo",
         "href": "https://www.nhl.com/player/8473449",
         "year": "2022-23",
@@ -5180,7 +5208,7 @@
         "fow%": "47.2"
     },
     "Jake Sanderson": {
-        "rank": "186",
+        "rank": "187",
         "name": "Jake Sanderson",
         "href": "https://www.nhl.com/player/8482105",
         "year": "2022-23",
@@ -5208,7 +5236,7 @@
         "fow%": "--"
     },
     "Brock Boeser": {
-        "rank": "187",
+        "rank": "188",
         "name": "Brock Boeser",
         "href": "https://www.nhl.com/player/8478444",
         "year": "2022-23",
@@ -5236,7 +5264,7 @@
         "fow%": "25.0"
     },
     "Nico Sturm": {
-        "rank": "188",
+        "rank": "189",
         "name": "Nico Sturm",
         "href": "https://www.nhl.com/player/8481477",
         "year": "2022-23",
@@ -5264,7 +5292,7 @@
         "fow%": "57.4"
     },
     "Jordan Kyrou": {
-        "rank": "189",
+        "rank": "190",
         "name": "Jordan Kyrou",
         "href": "https://www.nhl.com/player/8479385",
         "year": "2022-23",
@@ -5292,7 +5320,7 @@
         "fow%": "50.0"
     },
     "Lawson Crouse": {
-        "rank": "190",
+        "rank": "191",
         "name": "Lawson Crouse",
         "href": "https://www.nhl.com/player/8478474",
         "year": "2022-23",
@@ -5320,7 +5348,7 @@
         "fow%": "28.6"
     },
     "Jared McCann": {
-        "rank": "191",
+        "rank": "192",
         "name": "Jared McCann",
         "href": "https://www.nhl.com/player/8477955",
         "year": "2022-23",
@@ -5348,7 +5376,7 @@
         "fow%": "40.0"
     },
     "Andreas Athanasiou": {
-        "rank": "192",
+        "rank": "193",
         "name": "Andreas Athanasiou",
         "href": "https://www.nhl.com/player/8476960",
         "year": "2022-23",
@@ -5376,7 +5404,7 @@
         "fow%": "26.7"
     },
     "Charlie Coyle": {
-        "rank": "193",
+        "rank": "194",
         "name": "Charlie Coyle",
         "href": "https://www.nhl.com/player/8475745",
         "year": "2022-23",
@@ -5404,7 +5432,7 @@
         "fow%": "53.6"
     },
     "Kyle Palmieri": {
-        "rank": "194",
+        "rank": "195",
         "name": "Kyle Palmieri",
         "href": "https://www.nhl.com/player/8475151",
         "year": "2022-23",
@@ -5432,7 +5460,7 @@
         "fow%": "33.3"
     },
     "Mikael Backlund": {
-        "rank": "195",
+        "rank": "196",
         "name": "Mikael Backlund",
         "href": "https://www.nhl.com/player/8474150",
         "year": "2022-23",
@@ -5460,7 +5488,7 @@
         "fow%": "51.7"
     },
     "Zach Parise": {
-        "rank": "196",
+        "rank": "197",
         "name": "Zach Parise",
         "href": "https://www.nhl.com/player/8470610",
         "year": "2022-23",
@@ -5486,34 +5514,6 @@
         "sht%": "12.5",
         "toi/gp": "16:30",
         "fow%": "20.0"
-    },
-    "Ross Colton": {
-        "rank": "197",
-        "name": "Ross Colton",
-        "href": "https://www.nhl.com/player/8479525",
-        "year": "2022-23",
-        "team": "TBL",
-        "hand": "L",
-        "pos": "F",
-        "gp": "16",
-        "g": "4",
-        "a": "4",
-        "p": "8",
-        "+/-": "-4",
-        "pim": "14",
-        "p/g": "0.50",
-        "evg": "3",
-        "evp": "5",
-        "ppg": "1",
-        "ppp": "3",
-        "shg": "0",
-        "shp": "0",
-        "otg": "0",
-        "gwg": "1",
-        "sog": "23",
-        "sht%": "17.4",
-        "toi/gp": "11:28",
-        "fow%": "46.3"
     },
     "Barclay Goodrow": {
         "rank": "198",
@@ -5739,8 +5739,36 @@
         "toi/gp": "10:08",
         "fow%": "42.7"
     },
-    "JJ Peterka": {
+    "Ross Colton": {
         "rank": "206",
+        "name": "Ross Colton",
+        "href": "https://www.nhl.com/player/8479525",
+        "year": "2022-23",
+        "team": "TBL",
+        "hand": "L",
+        "pos": "F",
+        "gp": "16",
+        "g": "4",
+        "a": "4",
+        "p": "8",
+        "+/-": "-4",
+        "pim": "14",
+        "p/g": "0.50",
+        "evg": "3",
+        "evp": "5",
+        "ppg": "1",
+        "ppp": "3",
+        "shg": "0",
+        "shp": "0",
+        "otg": "0",
+        "gwg": "1",
+        "sog": "23",
+        "sht%": "17.4",
+        "toi/gp": "11:28",
+        "fow%": "46.3"
+    },
+    "JJ Peterka": {
+        "rank": "207",
         "name": "JJ Peterka",
         "href": "https://www.nhl.com/player/8482175",
         "year": "2022-23",
@@ -5768,7 +5796,7 @@
         "fow%": "--"
     },
     "Cole Perfetti": {
-        "rank": "207",
+        "rank": "208",
         "name": "Cole Perfetti",
         "href": "https://www.nhl.com/player/8482149",
         "year": "2022-23",
@@ -5795,34 +5823,6 @@
         "toi/gp": "15:39",
         "fow%": "20.0"
     },
-    "Sean Durzi": {
-        "rank": "208",
-        "name": "Sean Durzi",
-        "href": "https://www.nhl.com/player/8480434",
-        "year": "2022-23",
-        "team": "LAK",
-        "hand": "R",
-        "pos": "D",
-        "gp": "17",
-        "g": "3",
-        "a": "5",
-        "p": "8",
-        "+/-": "-4",
-        "pim": "8",
-        "p/g": "0.47",
-        "evg": "2",
-        "evp": "5",
-        "ppg": "1",
-        "ppp": "3",
-        "shg": "0",
-        "shp": "0",
-        "otg": "0",
-        "gwg": "1",
-        "sog": "30",
-        "sht%": "10.0",
-        "toi/gp": "20:08",
-        "fow%": "--"
-    },
     "Matt Roy": {
         "rank": "209",
         "name": "Matt Roy",
@@ -5831,13 +5831,13 @@
         "team": "LAK",
         "hand": "R",
         "pos": "D",
-        "gp": "18",
+        "gp": "19",
         "g": "3",
         "a": "5",
         "p": "8",
-        "+/-": "-3",
+        "+/-": "-2",
         "pim": "2",
-        "p/g": "0.44",
+        "p/g": "0.42",
         "evg": "3",
         "evp": "8",
         "ppg": "0",
@@ -5846,8 +5846,8 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "31",
-        "sht%": "9.7",
+        "sog": "32",
+        "sht%": "9.4",
         "toi/gp": "17:50",
         "fow%": "--"
     },
@@ -6335,13 +6335,13 @@
         "team": "LAK",
         "hand": "L",
         "pos": "F",
-        "gp": "17",
+        "gp": "18",
         "g": "4",
         "a": "3",
         "p": "7",
         "+/-": "-4",
         "pim": "2",
-        "p/g": "0.41",
+        "p/g": "0.39",
         "evg": "3",
         "evp": "6",
         "ppg": "1",
@@ -6350,9 +6350,9 @@
         "shp": "0",
         "otg": "0",
         "gwg": "1",
-        "sog": "27",
-        "sht%": "14.8",
-        "toi/gp": "12:14",
+        "sog": "30",
+        "sht%": "13.3",
+        "toi/gp": "12:20",
         "fow%": "0.0"
     },
     "Jason Dickinson": {
@@ -8687,13 +8687,13 @@
         "team": "LAK",
         "hand": "L",
         "pos": "F",
-        "gp": "18",
+        "gp": "19",
         "g": "4",
         "a": "1",
         "p": "5",
-        "+/-": "-1",
+        "+/-": "-2",
         "pim": "12",
-        "p/g": "0.28",
+        "p/g": "0.26",
         "evg": "4",
         "evp": "5",
         "ppg": "0",
@@ -8702,10 +8702,10 @@
         "shp": "0",
         "otg": "0",
         "gwg": "1",
-        "sog": "28",
-        "sht%": "14.3",
-        "toi/gp": "11:17",
-        "fow%": "51.5"
+        "sog": "29",
+        "sht%": "13.8",
+        "toi/gp": "11:09",
+        "fow%": "51.7"
     },
     "Ryan McLeod": {
         "rank": "312",
@@ -8715,13 +8715,13 @@
         "team": "EDM",
         "hand": "L",
         "pos": "F",
-        "gp": "16",
+        "gp": "17",
         "g": "3",
         "a": "2",
         "p": "5",
-        "+/-": "-1",
+        "+/-": "-2",
         "pim": "8",
-        "p/g": "0.31",
+        "p/g": "0.29",
         "evg": "2",
         "evp": "3",
         "ppg": "0",
@@ -8730,10 +8730,10 @@
         "shp": "2",
         "otg": "0",
         "gwg": "0",
-        "sog": "12",
-        "sht%": "25.0",
-        "toi/gp": "14:46",
-        "fow%": "45.7"
+        "sog": "13",
+        "sht%": "23.1",
+        "toi/gp": "14:35",
+        "fow%": "45.1"
     },
     "Zack MacEwen": {
         "rank": "313",
@@ -9211,8 +9211,36 @@
         "toi/gp": "12:12",
         "fow%": "47.1"
     },
-    "Jimmy Vesey": {
+    "Noel Acciari": {
         "rank": "330",
+        "name": "Noel Acciari",
+        "href": "https://www.nhl.com/player/8478569",
+        "year": "2022-23",
+        "team": "STL",
+        "hand": "R",
+        "pos": "F",
+        "gp": "15",
+        "g": "2",
+        "a": "3",
+        "p": "5",
+        "+/-": "+1",
+        "pim": "2",
+        "p/g": "0.33",
+        "evg": "2",
+        "evp": "4",
+        "ppg": "0",
+        "ppp": "0",
+        "shg": "0",
+        "shp": "1",
+        "otg": "0",
+        "gwg": "0",
+        "sog": "17",
+        "sht%": "11.8",
+        "toi/gp": "12:42",
+        "fow%": "58.5"
+    },
+    "Jimmy Vesey": {
+        "rank": "331",
         "name": "Jimmy Vesey",
         "href": "https://www.nhl.com/player/8476918",
         "year": "2022-23",
@@ -9240,7 +9268,7 @@
         "fow%": "14.3"
     },
     "Matt Nieto": {
-        "rank": "331",
+        "rank": "332",
         "name": "Matt Nieto",
         "href": "https://www.nhl.com/player/8476442",
         "year": "2022-23",
@@ -9268,7 +9296,7 @@
         "fow%": "66.7"
     },
     "Brendan Gallagher": {
-        "rank": "332",
+        "rank": "333",
         "name": "Brendan Gallagher",
         "href": "https://www.nhl.com/player/8475848",
         "year": "2022-23",
@@ -9296,7 +9324,7 @@
         "fow%": "37.5"
     },
     "Michael Stone": {
-        "rank": "333",
+        "rank": "334",
         "name": "Michael Stone",
         "href": "https://www.nhl.com/player/8474628",
         "year": "2022-23",
@@ -9324,7 +9352,7 @@
         "fow%": "--"
     },
     "James van Riemsdyk": {
-        "rank": "334",
+        "rank": "335",
         "name": "James van Riemsdyk",
         "href": "https://www.nhl.com/player/8474037",
         "year": "2022-23",
@@ -9352,7 +9380,7 @@
         "fow%": "--"
     },
     "T.J. Oshie": {
-        "rank": "335",
+        "rank": "336",
         "name": "T.J. Oshie",
         "href": "https://www.nhl.com/player/8471698",
         "year": "2022-23",
@@ -9380,7 +9408,7 @@
         "fow%": "37.5"
     },
     "Corey Perry": {
-        "rank": "336",
+        "rank": "337",
         "name": "Corey Perry",
         "href": "https://www.nhl.com/player/8470621",
         "year": "2022-23",
@@ -9408,7 +9436,7 @@
         "fow%": "--"
     },
     "Jack Quinn": {
-        "rank": "337",
+        "rank": "338",
         "name": "Jack Quinn",
         "href": "https://www.nhl.com/player/8482097",
         "year": "2022-23",
@@ -9436,7 +9464,7 @@
         "fow%": "80.0"
     },
     "Connor Dewar": {
-        "rank": "338",
+        "rank": "339",
         "name": "Connor Dewar",
         "href": "https://www.nhl.com/player/8480980",
         "year": "2022-23",
@@ -9464,7 +9492,7 @@
         "fow%": "40.0"
     },
     "Isac Lundestrom": {
-        "rank": "339",
+        "rank": "340",
         "name": "Isac Lundestrom",
         "href": "https://www.nhl.com/player/8480806",
         "year": "2022-23",
@@ -9492,7 +9520,7 @@
         "fow%": "44.1"
     },
     "Mario Ferraro": {
-        "rank": "340",
+        "rank": "341",
         "name": "Mario Ferraro",
         "href": "https://www.nhl.com/player/8479983",
         "year": "2022-23",
@@ -9520,7 +9548,7 @@
         "fow%": "0.0"
     },
     "Juuso Valimaki": {
-        "rank": "341",
+        "rank": "342",
         "name": "Juuso Valimaki",
         "href": "https://www.nhl.com/player/8479976",
         "year": "2022-23",
@@ -9548,7 +9576,7 @@
         "fow%": "--"
     },
     "Jonas Siegenthaler": {
-        "rank": "342",
+        "rank": "343",
         "name": "Jonas Siegenthaler",
         "href": "https://www.nhl.com/player/8478399",
         "year": "2022-23",
@@ -9576,7 +9604,7 @@
         "fow%": "--"
     },
     "Noah Hanifin": {
-        "rank": "343",
+        "rank": "344",
         "name": "Noah Hanifin",
         "href": "https://www.nhl.com/player/8478396",
         "year": "2022-23",
@@ -9604,7 +9632,7 @@
         "fow%": "--"
     },
     "Kasperi Kapanen": {
-        "rank": "344",
+        "rank": "345",
         "name": "Kasperi Kapanen",
         "href": "https://www.nhl.com/player/8477953",
         "year": "2022-23",
@@ -9632,7 +9660,7 @@
         "fow%": "20.0"
     },
     "Trevor van Riemsdyk": {
-        "rank": "345",
+        "rank": "346",
         "name": "Trevor van Riemsdyk",
         "href": "https://www.nhl.com/player/8477845",
         "year": "2022-23",
@@ -9660,7 +9688,7 @@
         "fow%": "--"
     },
     "Ryan Hartman": {
-        "rank": "346",
+        "rank": "347",
         "name": "Ryan Hartman",
         "href": "https://www.nhl.com/player/8477451",
         "year": "2022-23",
@@ -9688,7 +9716,7 @@
         "fow%": "42.1"
     },
     "Tanner Pearson": {
-        "rank": "347",
+        "rank": "348",
         "name": "Tanner Pearson",
         "href": "https://www.nhl.com/player/8476871",
         "year": "2022-23",
@@ -9716,7 +9744,7 @@
         "fow%": "38.9"
     },
     "Blake Coleman": {
-        "rank": "348",
+        "rank": "349",
         "name": "Blake Coleman",
         "href": "https://www.nhl.com/player/8476399",
         "year": "2022-23",
@@ -9744,7 +9772,7 @@
         "fow%": "60.0"
     },
     "Radko Gudas": {
-        "rank": "349",
+        "rank": "350",
         "name": "Radko Gudas",
         "href": "https://www.nhl.com/player/8475462",
         "year": "2022-23",
@@ -9772,7 +9800,7 @@
         "fow%": "--"
     },
     "Mattias Ekholm": {
-        "rank": "350",
+        "rank": "351",
         "name": "Mattias Ekholm",
         "href": "https://www.nhl.com/player/8475218",
         "year": "2022-23",
@@ -9800,7 +9828,7 @@
         "fow%": "--"
     },
     "Dmitry Kulikov": {
-        "rank": "351",
+        "rank": "352",
         "name": "Dmitry Kulikov",
         "href": "https://www.nhl.com/player/8475179",
         "year": "2022-23",
@@ -9828,7 +9856,7 @@
         "fow%": "--"
     },
     "Jared Spurgeon": {
-        "rank": "352",
+        "rank": "353",
         "name": "Jared Spurgeon",
         "href": "https://www.nhl.com/player/8474716",
         "year": "2022-23",
@@ -9856,7 +9884,7 @@
         "fow%": "--"
     },
     "Moritz Seider": {
-        "rank": "353",
+        "rank": "354",
         "name": "Moritz Seider",
         "href": "https://www.nhl.com/player/8481542",
         "year": "2022-23",
@@ -9884,20 +9912,20 @@
         "fow%": "--"
     },
     "Evan Bouchard": {
-        "rank": "354",
+        "rank": "355",
         "name": "Evan Bouchard",
         "href": "https://www.nhl.com/player/8480803",
         "year": "2022-23",
         "team": "EDM",
         "hand": "R",
         "pos": "D",
-        "gp": "16",
+        "gp": "17",
         "g": "0",
         "a": "5",
         "p": "5",
-        "+/-": "-6",
+        "+/-": "-7",
         "pim": "4",
-        "p/g": "0.31",
+        "p/g": "0.29",
         "evg": "0",
         "evp": "3",
         "ppg": "0",
@@ -9906,13 +9934,13 @@
         "shp": "1",
         "otg": "0",
         "gwg": "0",
-        "sog": "36",
+        "sog": "39",
         "sht%": "0.0",
-        "toi/gp": "19:10",
+        "toi/gp": "19:21",
         "fow%": "--"
     },
     "Jaycob Megna": {
-        "rank": "355",
+        "rank": "356",
         "name": "Jaycob Megna",
         "href": "https://www.nhl.com/player/8477034",
         "year": "2022-23",
@@ -9940,7 +9968,7 @@
         "fow%": "--"
     },
     "Erik Haula": {
-        "rank": "356",
+        "rank": "357",
         "name": "Erik Haula",
         "href": "https://www.nhl.com/player/8475287",
         "year": "2022-23",
@@ -9968,7 +9996,7 @@
         "fow%": "60.5"
     },
     "Dmitry Orlov": {
-        "rank": "357",
+        "rank": "358",
         "name": "Dmitry Orlov",
         "href": "https://www.nhl.com/player/8475200",
         "year": "2022-23",
@@ -9996,7 +10024,7 @@
         "fow%": "--"
     },
     "Brayden McNabb": {
-        "rank": "358",
+        "rank": "359",
         "name": "Brayden McNabb",
         "href": "https://www.nhl.com/player/8475188",
         "year": "2022-23",
@@ -10024,7 +10052,7 @@
         "fow%": "--"
     },
     "Ryan McDonagh": {
-        "rank": "359",
+        "rank": "360",
         "name": "Ryan McDonagh",
         "href": "https://www.nhl.com/player/8474151",
         "year": "2022-23",
@@ -10052,7 +10080,7 @@
         "fow%": "--"
     },
     "Kevin Shattenkirk": {
-        "rank": "360",
+        "rank": "361",
         "name": "Kevin Shattenkirk",
         "href": "https://www.nhl.com/player/8474031",
         "year": "2022-23",
@@ -10080,7 +10108,7 @@
         "fow%": "--"
     },
     "Max Comtois": {
-        "rank": "361",
+        "rank": "362",
         "name": "Max Comtois",
         "href": "https://www.nhl.com/player/8480031",
         "year": "2022-23",
@@ -10108,7 +10136,7 @@
         "fow%": "38.5"
     },
     "Aliaksei Protas": {
-        "rank": "362",
+        "rank": "363",
         "name": "Aliaksei Protas",
         "href": "https://www.nhl.com/player/8481656",
         "year": "2022-23",
@@ -10136,7 +10164,7 @@
         "fow%": "0.0"
     },
     "Tanner Jeannot": {
-        "rank": "363",
+        "rank": "364",
         "name": "Tanner Jeannot",
         "href": "https://www.nhl.com/player/8479661",
         "year": "2022-23",
@@ -10164,7 +10192,7 @@
         "fow%": "33.3"
     },
     "Wade Allison": {
-        "rank": "364",
+        "rank": "365",
         "name": "Wade Allison",
         "href": "https://www.nhl.com/player/8479322",
         "year": "2022-23",
@@ -10192,7 +10220,7 @@
         "fow%": "50.0"
     },
     "Dakota Joshua": {
-        "rank": "365",
+        "rank": "366",
         "name": "Dakota Joshua",
         "href": "https://www.nhl.com/player/8478057",
         "year": "2022-23",
@@ -10220,7 +10248,7 @@
         "fow%": "50.0"
     },
     "Nikita Zadorov": {
-        "rank": "366",
+        "rank": "367",
         "name": "Nikita Zadorov",
         "href": "https://www.nhl.com/player/8477507",
         "year": "2022-23",
@@ -10248,7 +10276,7 @@
         "fow%": "--"
     },
     "Jakob Silfverberg": {
-        "rank": "367",
+        "rank": "368",
         "name": "Jakob Silfverberg",
         "href": "https://www.nhl.com/player/8475164",
         "year": "2022-23",
@@ -10276,7 +10304,7 @@
         "fow%": "54.6"
     },
     "Arber Xhekaj": {
-        "rank": "368",
+        "rank": "369",
         "name": "Arber Xhekaj",
         "href": "https://www.nhl.com/player/8482964",
         "year": "2022-23",
@@ -10304,7 +10332,7 @@
         "fow%": "--"
     },
     "Paul Cotter": {
-        "rank": "369",
+        "rank": "370",
         "name": "Paul Cotter",
         "href": "https://www.nhl.com/player/8481032",
         "year": "2022-23",
@@ -10332,7 +10360,7 @@
         "fow%": "33.3"
     },
     "Jack McBain": {
-        "rank": "370",
+        "rank": "371",
         "name": "Jack McBain",
         "href": "https://www.nhl.com/player/8480855",
         "year": "2022-23",
@@ -10360,7 +10388,7 @@
         "fow%": "49.2"
     },
     "Jan Rutta": {
-        "rank": "371",
+        "rank": "372",
         "name": "Jan Rutta",
         "href": "https://www.nhl.com/player/8480172",
         "year": "2022-23",
@@ -10388,7 +10416,7 @@
         "fow%": "--"
     },
     "Calle Rosen": {
-        "rank": "372",
+        "rank": "373",
         "name": "Calle Rosen",
         "href": "https://www.nhl.com/player/8480157",
         "year": "2022-23",
@@ -10416,7 +10444,7 @@
         "fow%": "--"
     },
     "Morgan Frost": {
-        "rank": "373",
+        "rank": "374",
         "name": "Morgan Frost",
         "href": "https://www.nhl.com/player/8480028",
         "year": "2022-23",
@@ -10444,7 +10472,7 @@
         "fow%": "42.4"
     },
     "Eeli Tolvanen": {
-        "rank": "374",
+        "rank": "375",
         "name": "Eeli Tolvanen",
         "href": "https://www.nhl.com/player/8480009",
         "year": "2022-23",
@@ -10472,7 +10500,7 @@
         "fow%": "33.3"
     },
     "Patrik Laine": {
-        "rank": "375",
+        "rank": "376",
         "name": "Patrik Laine",
         "href": "https://www.nhl.com/player/8479339",
         "year": "2022-23",
@@ -10500,7 +10528,7 @@
         "fow%": "55.6"
     },
     "Ryan Lomberg": {
-        "rank": "376",
+        "rank": "377",
         "name": "Ryan Lomberg",
         "href": "https://www.nhl.com/player/8479066",
         "year": "2022-23",
@@ -10528,7 +10556,7 @@
         "fow%": "60.0"
     },
     "Vladislav Gavrikov": {
-        "rank": "377",
+        "rank": "378",
         "name": "Vladislav Gavrikov",
         "href": "https://www.nhl.com/player/8478882",
         "year": "2022-23",
@@ -10556,7 +10584,7 @@
         "fow%": "--"
     },
     "Rudolfs Balcers": {
-        "rank": "378",
+        "rank": "379",
         "name": "Rudolfs Balcers",
         "href": "https://www.nhl.com/player/8478870",
         "year": "2022-23",
@@ -10584,7 +10612,7 @@
         "fow%": "0.0"
     },
     "Denis Malgin": {
-        "rank": "379",
+        "rank": "380",
         "name": "Denis Malgin",
         "href": "https://www.nhl.com/player/8478843",
         "year": "2022-23",
@@ -10612,7 +10640,7 @@
         "fow%": "--"
     },
     "Will Borgen": {
-        "rank": "380",
+        "rank": "381",
         "name": "Will Borgen",
         "href": "https://www.nhl.com/player/8478840",
         "year": "2022-23",
@@ -10638,34 +10666,6 @@
         "sht%": "14.3",
         "toi/gp": "15:57",
         "fow%": "--"
-    },
-    "Noel Acciari": {
-        "rank": "381",
-        "name": "Noel Acciari",
-        "href": "https://www.nhl.com/player/8478569",
-        "year": "2022-23",
-        "team": "STL",
-        "hand": "R",
-        "pos": "F",
-        "gp": "15",
-        "g": "2",
-        "a": "2",
-        "p": "4",
-        "+/-": "+1",
-        "pim": "2",
-        "p/g": "0.27",
-        "evg": "2",
-        "evp": "4",
-        "ppg": "0",
-        "ppp": "0",
-        "shg": "0",
-        "shp": "0",
-        "otg": "0",
-        "gwg": "0",
-        "sog": "17",
-        "sht%": "11.8",
-        "toi/gp": "12:42",
-        "fow%": "58.5"
     },
     "Sonny Milano": {
         "rank": "382",
@@ -11263,13 +11263,13 @@
         "team": "LAK",
         "hand": "R",
         "pos": "F",
-        "gp": "9",
+        "gp": "10",
         "g": "1",
         "a": "3",
         "p": "4",
         "+/-": "+2",
         "pim": "6",
-        "p/g": "0.44",
+        "p/g": "0.40",
         "evg": "1",
         "evp": "4",
         "ppg": "0",
@@ -11278,10 +11278,10 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "6",
-        "sht%": "16.7",
-        "toi/gp": "10:48",
-        "fow%": "46.6"
+        "sog": "7",
+        "sht%": "14.3",
+        "toi/gp": "11:02",
+        "fow%": "49.4"
     },
     "Zach Whitecloud": {
         "rank": "404",
@@ -12327,13 +12327,13 @@
         "team": "EDM",
         "hand": "R",
         "pos": "F",
-        "gp": "15",
+        "gp": "16",
         "g": "2",
         "a": "1",
         "p": "3",
         "+/-": "-2",
         "pim": "14",
-        "p/g": "0.20",
+        "p/g": "0.19",
         "evg": "2",
         "evp": "3",
         "ppg": "0",
@@ -12344,8 +12344,8 @@
         "gwg": "0",
         "sog": "13",
         "sht%": "15.4",
-        "toi/gp": "10:04",
-        "fow%": "39.1"
+        "toi/gp": "10:05",
+        "fow%": "40.5"
     },
     "Keegan Kolesar": {
         "rank": "442",
@@ -12411,13 +12411,13 @@
         "team": "EDM",
         "hand": "L",
         "pos": "F",
-        "gp": "15",
+        "gp": "16",
         "g": "2",
         "a": "1",
         "p": "3",
-        "+/-": "-1",
+        "+/-": "-3",
         "pim": "8",
-        "p/g": "0.20",
+        "p/g": "0.19",
         "evg": "1",
         "evp": "2",
         "ppg": "0",
@@ -12426,9 +12426,9 @@
         "shp": "1",
         "otg": "0",
         "gwg": "1",
-        "sog": "24",
-        "sht%": "8.3",
-        "toi/gp": "11:49",
+        "sog": "25",
+        "sht%": "8.0",
+        "toi/gp": "11:58",
         "fow%": "50.0"
     },
     "Garnet Hathaway": {
@@ -12803,13 +12803,13 @@
         "team": "EDM",
         "hand": "R",
         "pos": "F",
-        "gp": "16",
+        "gp": "17",
         "g": "1",
         "a": "2",
         "p": "3",
-        "+/-": "-6",
+        "+/-": "-7",
         "pim": "7",
-        "p/g": "0.19",
+        "p/g": "0.18",
         "evg": "1",
         "evp": "3",
         "ppg": "0",
@@ -12818,9 +12818,9 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "24",
-        "sht%": "4.2",
-        "toi/gp": "12:58",
+        "sog": "25",
+        "sht%": "4.0",
+        "toi/gp": "13:00",
         "fow%": "--"
     },
     "Denis Gurianov": {
@@ -12943,13 +12943,13 @@
         "team": "EDM",
         "hand": "R",
         "pos": "D",
-        "gp": "16",
+        "gp": "17",
         "g": "1",
         "a": "2",
         "p": "3",
         "+/-": "+6",
         "pim": "2",
-        "p/g": "0.19",
+        "p/g": "0.18",
         "evg": "1",
         "evp": "3",
         "ppg": "0",
@@ -12958,9 +12958,9 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "17",
-        "sht%": "5.9",
-        "toi/gp": "20:29",
+        "sog": "18",
+        "sht%": "5.6",
+        "toi/gp": "20:36",
         "fow%": "--"
     },
     "Matt Dumba": {
@@ -13363,13 +13363,13 @@
         "team": "LAK",
         "hand": "L",
         "pos": "D",
-        "gp": "18",
+        "gp": "19",
         "g": "0",
         "a": "3",
         "p": "3",
         "+/-": "+2",
         "pim": "6",
-        "p/g": "0.17",
+        "p/g": "0.16",
         "evg": "0",
         "evp": "3",
         "ppg": "0",
@@ -13378,9 +13378,9 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "20",
+        "sog": "21",
         "sht%": "0.0",
-        "toi/gp": "21:00",
+        "toi/gp": "21:07",
         "fow%": "--"
     },
     "Kailer Yamamoto": {
@@ -13587,13 +13587,13 @@
         "team": "EDM",
         "hand": "L",
         "pos": "D",
-        "gp": "16",
+        "gp": "17",
         "g": "0",
         "a": "3",
         "p": "3",
-        "+/-": "+2",
+        "+/-": "+1",
         "pim": "8",
-        "p/g": "0.19",
+        "p/g": "0.18",
         "evg": "0",
         "evp": "3",
         "ppg": "0",
@@ -13602,9 +13602,9 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "19",
+        "sog": "20",
         "sht%": "0.0",
-        "toi/gp": "17:21",
+        "toi/gp": "17:38",
         "fow%": "--"
     },
     "Jaccob Slavin": {
@@ -13895,13 +13895,13 @@
         "team": "LAK",
         "hand": "L",
         "pos": "D",
-        "gp": "15",
+        "gp": "16",
         "g": "0",
         "a": "3",
         "p": "3",
         "+/-": "-1",
-        "pim": "10",
-        "p/g": "0.20",
+        "pim": "14",
+        "p/g": "0.19",
         "evg": "0",
         "evp": "3",
         "ppg": "0",
@@ -13910,9 +13910,9 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "15",
+        "sog": "16",
         "sht%": "0.0",
-        "toi/gp": "14:31",
+        "toi/gp": "14:29",
         "fow%": "--"
     },
     "Mark Giordano": {
@@ -15239,13 +15239,13 @@
         "team": "EDM",
         "hand": "L",
         "pos": "F",
-        "gp": "12",
+        "gp": "13",
         "g": "0",
         "a": "2",
         "p": "2",
         "+/-": "-6",
         "pim": "4",
-        "p/g": "0.17",
+        "p/g": "0.15",
         "evg": "0",
         "evp": "2",
         "ppg": "0",
@@ -15254,7 +15254,7 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "9",
+        "sog": "10",
         "sht%": "0.0",
         "toi/gp": "7:55",
         "fow%": "45.5"
@@ -15379,13 +15379,13 @@
         "team": "LAK",
         "hand": "R",
         "pos": "D",
-        "gp": "14",
+        "gp": "15",
         "g": "0",
         "a": "2",
         "p": "2",
         "+/-": "+1",
         "pim": "4",
-        "p/g": "0.14",
+        "p/g": "0.13",
         "evg": "0",
         "evp": "2",
         "ppg": "0",
@@ -15394,9 +15394,9 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "15",
+        "sog": "17",
         "sht%": "0.0",
-        "toi/gp": "14:36",
+        "toi/gp": "14:30",
         "fow%": "--"
     },
     "Erik Brannstrom": {
@@ -15679,8 +15679,36 @@
         "toi/gp": "15:43",
         "fow%": "--"
     },
-    "Nathan Beaulieu": {
+    "Ryan Murray": {
         "rank": "562",
+        "name": "Ryan Murray",
+        "href": "https://www.nhl.com/player/8476850",
+        "year": "2022-23",
+        "team": "EDM",
+        "hand": "L",
+        "pos": "D",
+        "gp": "11",
+        "g": "0",
+        "a": "2",
+        "p": "2",
+        "+/-": "-4",
+        "pim": "4",
+        "p/g": "0.18",
+        "evg": "0",
+        "evp": "2",
+        "ppg": "0",
+        "ppp": "0",
+        "shg": "0",
+        "shp": "0",
+        "otg": "0",
+        "gwg": "0",
+        "sog": "8",
+        "sht%": "0.0",
+        "toi/gp": "12:52",
+        "fow%": "--"
+    },
+    "Nathan Beaulieu": {
+        "rank": "563",
         "name": "Nathan Beaulieu",
         "href": "https://www.nhl.com/player/8476470",
         "year": "2022-23",
@@ -15708,7 +15736,7 @@
         "fow%": "--"
     },
     "Jonas Brodin": {
-        "rank": "563",
+        "rank": "564",
         "name": "Jonas Brodin",
         "href": "https://www.nhl.com/player/8476463",
         "year": "2022-23",
@@ -15736,7 +15764,7 @@
         "fow%": "--"
     },
     "Dylan DeMelo": {
-        "rank": "564",
+        "rank": "565",
         "name": "Dylan DeMelo",
         "href": "https://www.nhl.com/player/8476331",
         "year": "2022-23",
@@ -15764,7 +15792,7 @@
         "fow%": "--"
     },
     "Colin Blackwell": {
-        "rank": "565",
+        "rank": "566",
         "name": "Colin Blackwell",
         "href": "https://www.nhl.com/player/8476278",
         "year": "2022-23",
@@ -15792,7 +15820,7 @@
         "fow%": "44.4"
     },
     "Patrik Nemeth": {
-        "rank": "566",
+        "rank": "567",
         "name": "Patrik Nemeth",
         "href": "https://www.nhl.com/player/8475747",
         "year": "2022-23",
@@ -15820,7 +15848,7 @@
         "fow%": "--"
     },
     "TJ Brodie": {
-        "rank": "567",
+        "rank": "568",
         "name": "TJ Brodie",
         "href": "https://www.nhl.com/player/8474673",
         "year": "2022-23",
@@ -15848,7 +15876,7 @@
         "fow%": "--"
     },
     "Alec Martinez": {
-        "rank": "568",
+        "rank": "569",
         "name": "Alec Martinez",
         "href": "https://www.nhl.com/player/8474166",
         "year": "2022-23",
@@ -15876,7 +15904,7 @@
         "fow%": "--"
     },
     "Pat Maroon": {
-        "rank": "569",
+        "rank": "570",
         "name": "Pat Maroon",
         "href": "https://www.nhl.com/player/8474034",
         "year": "2022-23",
@@ -15904,7 +15932,7 @@
         "fow%": "66.7"
     },
     "Jack Johnson": {
-        "rank": "570",
+        "rank": "571",
         "name": "Jack Johnson",
         "href": "https://www.nhl.com/player/8471677",
         "year": "2022-23",
@@ -15932,7 +15960,7 @@
         "fow%": "--"
     },
     "Ben Meyers": {
-        "rank": "571",
+        "rank": "572",
         "name": "Ben Meyers",
         "href": "https://www.nhl.com/player/8483570",
         "year": "2022-23",
@@ -15960,7 +15988,7 @@
         "fow%": "0.0"
     },
     "Alexander Holtz": {
-        "rank": "572",
+        "rank": "573",
         "name": "Alexander Holtz",
         "href": "https://www.nhl.com/player/8482125",
         "year": "2022-23",
@@ -15988,7 +16016,7 @@
         "fow%": "--"
     },
     "Jake Neighbours": {
-        "rank": "573",
+        "rank": "574",
         "name": "Jake Neighbours",
         "href": "https://www.nhl.com/player/8482089",
         "year": "2022-23",
@@ -16016,7 +16044,7 @@
         "fow%": "40.0"
     },
     "Matej Blumel": {
-        "rank": "574",
+        "rank": "575",
         "name": "Matej Blumel",
         "href": "https://www.nhl.com/player/8481712",
         "year": "2022-23",
@@ -16044,7 +16072,7 @@
         "fow%": "--"
     },
     "Juuso Parssinen": {
-        "rank": "575",
+        "rank": "576",
         "name": "Juuso Parssinen",
         "href": "https://www.nhl.com/player/8481704",
         "year": "2022-23",
@@ -16072,7 +16100,7 @@
         "fow%": "47.6"
     },
     "Reese Johnson": {
-        "rank": "576",
+        "rank": "577",
         "name": "Reese Johnson",
         "href": "https://www.nhl.com/player/8481147",
         "year": "2022-23",
@@ -16100,7 +16128,7 @@
         "fow%": "62.5"
     },
     "Cole Koepke": {
-        "rank": "577",
+        "rank": "578",
         "name": "Cole Koepke",
         "href": "https://www.nhl.com/player/8481043",
         "year": "2022-23",
@@ -16128,7 +16156,7 @@
         "fow%": "--"
     },
     "Alexey Toropchenko": {
-        "rank": "578",
+        "rank": "579",
         "name": "Alexey Toropchenko",
         "href": "https://www.nhl.com/player/8480281",
         "year": "2022-23",
@@ -16156,7 +16184,7 @@
         "fow%": "--"
     },
     "Radim Simek": {
-        "rank": "579",
+        "rank": "580",
         "name": "Radim Simek",
         "href": "https://www.nhl.com/player/8480160",
         "year": "2022-23",
@@ -16184,7 +16212,7 @@
         "fow%": "--"
     },
     "Cal Foote": {
-        "rank": "580",
+        "rank": "581",
         "name": "Cal Foote",
         "href": "https://www.nhl.com/player/8479984",
         "year": "2022-23",
@@ -16212,7 +16240,7 @@
         "fow%": "--"
     },
     "Matt Luff": {
-        "rank": "581",
+        "rank": "582",
         "name": "Matt Luff",
         "href": "https://www.nhl.com/player/8479644",
         "year": "2022-23",
@@ -16240,7 +16268,7 @@
         "fow%": "0.0"
     },
     "Dylan Gambrell": {
-        "rank": "582",
+        "rank": "583",
         "name": "Dylan Gambrell",
         "href": "https://www.nhl.com/player/8479580",
         "year": "2022-23",
@@ -16268,7 +16296,7 @@
         "fow%": "50.0"
     },
     "Axel Jonsson-Fjallby": {
-        "rank": "583",
+        "rank": "584",
         "name": "Axel Jonsson-Fjallby",
         "href": "https://www.nhl.com/player/8479536",
         "year": "2022-23",
@@ -16296,7 +16324,7 @@
         "fow%": "50.0"
     },
     "Libor Hajek": {
-        "rank": "584",
+        "rank": "585",
         "name": "Libor Hajek",
         "href": "https://www.nhl.com/player/8479333",
         "year": "2022-23",
@@ -16324,7 +16352,7 @@
         "fow%": "--"
     },
     "Austin Czarnik": {
-        "rank": "585",
+        "rank": "586",
         "name": "Austin Czarnik",
         "href": "https://www.nhl.com/player/8478512",
         "year": "2022-23",
@@ -16352,7 +16380,7 @@
         "fow%": "0.0"
     },
     "Jakub Zboril": {
-        "rank": "586",
+        "rank": "587",
         "name": "Jakub Zboril",
         "href": "https://www.nhl.com/player/8478415",
         "year": "2022-23",
@@ -16380,7 +16408,7 @@
         "fow%": "--"
     },
     "Dryden Hunt": {
-        "rank": "587",
+        "rank": "588",
         "name": "Dryden Hunt",
         "href": "https://www.nhl.com/player/8478211",
         "year": "2022-23",
@@ -16408,7 +16436,7 @@
         "fow%": "--"
     },
     "Curtis Lazar": {
-        "rank": "588",
+        "rank": "589",
         "name": "Curtis Lazar",
         "href": "https://www.nhl.com/player/8477508",
         "year": "2022-23",
@@ -16436,7 +16464,7 @@
         "fow%": "39.1"
     },
     "Kyle Burroughs": {
-        "rank": "589",
+        "rank": "590",
         "name": "Kyle Burroughs",
         "href": "https://www.nhl.com/player/8477335",
         "year": "2022-23",
@@ -16464,7 +16492,7 @@
         "fow%": "--"
     },
     "Connor Murphy": {
-        "rank": "590",
+        "rank": "591",
         "name": "Connor Murphy",
         "href": "https://www.nhl.com/player/8476473",
         "year": "2022-23",
@@ -16492,7 +16520,7 @@
         "fow%": "--"
     },
     "Joseph Cramarossa": {
-        "rank": "591",
+        "rank": "592",
         "name": "Joseph Cramarossa",
         "href": "https://www.nhl.com/player/8476390",
         "year": "2022-23",
@@ -16520,7 +16548,7 @@
         "fow%": "0.0"
     },
     "Zack Kassian": {
-        "rank": "592",
+        "rank": "593",
         "name": "Zack Kassian",
         "href": "https://www.nhl.com/player/8475178",
         "year": "2022-23",
@@ -16548,7 +16576,7 @@
         "fow%": "0.0"
     },
     "Evgenii Dadonov": {
-        "rank": "593",
+        "rank": "594",
         "name": "Evgenii Dadonov",
         "href": "https://www.nhl.com/player/8474149",
         "year": "2022-23",
@@ -16574,34 +16602,6 @@
         "sht%": "5.9",
         "toi/gp": "13:36",
         "fow%": "33.3"
-    },
-    "Chris Tanev": {
-        "rank": "594",
-        "name": "Chris Tanev",
-        "href": "https://www.nhl.com/player/8475690",
-        "year": "2022-23",
-        "team": "CGY",
-        "hand": "R",
-        "pos": "D",
-        "gp": "10",
-        "g": "0",
-        "a": "1",
-        "p": "1",
-        "+/-": "0",
-        "pim": "2",
-        "p/g": "0.10",
-        "evg": "0",
-        "evp": "1",
-        "ppg": "0",
-        "ppp": "0",
-        "shg": "0",
-        "shp": "0",
-        "otg": "0",
-        "gwg": "0",
-        "sog": "10",
-        "sht%": "0.0",
-        "toi/gp": "20:21",
-        "fow%": "--"
     },
     "Kyle Clifford": {
         "rank": "595",
@@ -17731,13 +17731,13 @@
         "team": "EDM",
         "hand": "L",
         "pos": "F",
-        "gp": "2",
+        "gp": "3",
         "g": "0",
         "a": "1",
         "p": "1",
         "+/-": "+1",
         "pim": "2",
-        "p/g": "0.50",
+        "p/g": "0.33",
         "evg": "0",
         "evp": "1",
         "ppg": "0",
@@ -17746,9 +17746,9 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "1",
+        "sog": "3",
         "sht%": "0.0",
-        "toi/gp": "11:08",
+        "toi/gp": "12:33",
         "fow%": "100.0"
     },
     "Tucker Poolman": {
@@ -17843,7 +17843,7 @@
         "team": "EDM",
         "hand": "L",
         "pos": "F",
-        "gp": "14",
+        "gp": "15",
         "g": "0",
         "a": "1",
         "p": "1",
@@ -17858,10 +17858,10 @@
         "shp": "0",
         "otg": "0",
         "gwg": "0",
-        "sog": "7",
+        "sog": "8",
         "sht%": "0.0",
-        "toi/gp": "7:52",
-        "fow%": "58.1"
+        "toi/gp": "7:56",
+        "fow%": "52.6"
     },
     "Brendan Gaunce": {
         "rank": "640",
@@ -17891,36 +17891,8 @@
         "toi/gp": "11:01",
         "fow%": "61.4"
     },
-    "Ryan Murray": {
-        "rank": "641",
-        "name": "Ryan Murray",
-        "href": "https://www.nhl.com/player/8476850",
-        "year": "2022-23",
-        "team": "EDM",
-        "hand": "L",
-        "pos": "D",
-        "gp": "10",
-        "g": "0",
-        "a": "1",
-        "p": "1",
-        "+/-": "-4",
-        "pim": "4",
-        "p/g": "0.10",
-        "evg": "0",
-        "evp": "1",
-        "ppg": "0",
-        "ppp": "0",
-        "shg": "0",
-        "shp": "0",
-        "otg": "0",
-        "gwg": "0",
-        "sog": "8",
-        "sht%": "0.0",
-        "toi/gp": "12:55",
-        "fow%": "--"
-    },
     "Scott Harrington": {
-        "rank": "642",
+        "rank": "641",
         "name": "Scott Harrington",
         "href": "https://www.nhl.com/player/8476449",
         "year": "2022-23",
@@ -17948,7 +17920,7 @@
         "fow%": "--"
     },
     "Joel Edmundson": {
-        "rank": "643",
+        "rank": "642",
         "name": "Joel Edmundson",
         "href": "https://www.nhl.com/player/8476441",
         "year": "2022-23",
@@ -17976,7 +17948,7 @@
         "fow%": "--"
     },
     "Mike Reilly": {
-        "rank": "644",
+        "rank": "643",
         "name": "Mike Reilly",
         "href": "https://www.nhl.com/player/8476422",
         "year": "2022-23",
@@ -18004,7 +17976,7 @@
         "fow%": "--"
     },
     "Jon Merrill": {
-        "rank": "645",
+        "rank": "644",
         "name": "Jon Merrill",
         "href": "https://www.nhl.com/player/8475750",
         "year": "2022-23",
@@ -18029,6 +18001,34 @@
         "sog": "9",
         "sht%": "0.0",
         "toi/gp": "16:57",
+        "fow%": "--"
+    },
+    "Chris Tanev": {
+        "rank": "645",
+        "name": "Chris Tanev",
+        "href": "https://www.nhl.com/player/8475690",
+        "year": "2022-23",
+        "team": "CGY",
+        "hand": "R",
+        "pos": "D",
+        "gp": "10",
+        "g": "0",
+        "a": "1",
+        "p": "1",
+        "+/-": "0",
+        "pim": "2",
+        "p/g": "0.10",
+        "evg": "0",
+        "evp": "1",
+        "ppg": "0",
+        "ppp": "0",
+        "shg": "0",
+        "shp": "0",
+        "otg": "0",
+        "gwg": "0",
+        "sog": "10",
+        "sht%": "0.0",
+        "toi/gp": "20:21",
         "fow%": "--"
     },
     "Givani Smith": {
@@ -20247,8 +20247,34 @@
         "pim": "0",
         "pos": "G"
     },
-    "Semyon Varlamov": {
+    "Cal Petersen": {
         "rank": "27",
+        "name": "Cal Petersen",
+        "href": "https://www.nhl.com/player/8477361",
+        "year": "2022-23",
+        "team": "LAK",
+        "hand": "R",
+        "gp": "7",
+        "gs": "7",
+        "w": "5",
+        "l": "2",
+        "t": "--",
+        "ot": "0",
+        "sa": "188",
+        "svs": "165",
+        "ga": "23",
+        "svp": ".878",
+        "gaa": "3.59",
+        "toi": "384:50",
+        "so": "0",
+        "g": "0",
+        "a": "0",
+        "p": "0",
+        "pim": "0",
+        "pos": "G"
+    },
+    "Semyon Varlamov": {
+        "rank": "28",
         "name": "Semyon Varlamov",
         "href": "https://www.nhl.com/player/8473575",
         "year": "2022-23",
@@ -20274,7 +20300,7 @@
         "pos": "G"
     },
     "Sergei Bobrovsky": {
-        "rank": "28",
+        "rank": "29",
         "name": "Sergei Bobrovsky",
         "href": "https://www.nhl.com/player/8475683",
         "year": "2022-23",
@@ -20300,7 +20326,7 @@
         "pos": "G"
     },
     "Anton Forsberg": {
-        "rank": "29",
+        "rank": "30",
         "name": "Anton Forsberg",
         "href": "https://www.nhl.com/player/8476341",
         "year": "2022-23",
@@ -20326,7 +20352,7 @@
         "pos": "G"
     },
     "Tristan Jarry": {
-        "rank": "30",
+        "rank": "31",
         "name": "Tristan Jarry",
         "href": "https://www.nhl.com/player/8477465",
         "year": "2022-23",
@@ -20352,7 +20378,7 @@
         "pos": "G"
     },
     "Spencer Martin": {
-        "rank": "31",
+        "rank": "32",
         "name": "Spencer Martin",
         "href": "https://www.nhl.com/player/8477484",
         "year": "2022-23",
@@ -20378,7 +20404,7 @@
         "pos": "G"
     },
     "Brian Elliott": {
-        "rank": "32",
+        "rank": "33",
         "name": "Brian Elliott",
         "href": "https://www.nhl.com/player/8470880",
         "year": "2022-23",
@@ -20404,7 +20430,7 @@
         "pos": "G"
     },
     "Eric Comrie": {
-        "rank": "33",
+        "rank": "34",
         "name": "Eric Comrie",
         "href": "https://www.nhl.com/player/8477480",
         "year": "2022-23",
@@ -20430,7 +20456,7 @@
         "pos": "G"
     },
     "Mackenzie Blackwood": {
-        "rank": "34",
+        "rank": "35",
         "name": "Mackenzie Blackwood",
         "href": "https://www.nhl.com/player/8478406",
         "year": "2022-23",
@@ -20455,32 +20481,6 @@
         "pim": "0",
         "pos": "G"
     },
-    "Cal Petersen": {
-        "rank": "35",
-        "name": "Cal Petersen",
-        "href": "https://www.nhl.com/player/8477361",
-        "year": "2022-23",
-        "team": "LAK",
-        "hand": "R",
-        "gp": "6",
-        "gs": "6",
-        "w": "4",
-        "l": "2",
-        "t": "--",
-        "ot": "0",
-        "sa": "165",
-        "svs": "143",
-        "ga": "22",
-        "svp": ".867",
-        "gaa": "4.06",
-        "toi": "325:00",
-        "so": "0",
-        "g": "0",
-        "a": "0",
-        "p": "0",
-        "pim": "0",
-        "pos": "G"
-    },
     "Stuart Skinner": {
         "rank": "36",
         "name": "Stuart Skinner",
@@ -20488,18 +20488,18 @@
         "year": "2022-23",
         "team": "EDM",
         "hand": "L",
-        "gp": "7",
-        "gs": "6",
+        "gp": "8",
+        "gs": "7",
         "w": "3",
-        "l": "3",
+        "l": "4",
         "t": "--",
         "ot": "0",
-        "sa": "250",
-        "svs": "233",
-        "ga": "17",
+        "sa": "281",
+        "svs": "262",
+        "ga": "19",
         "svp": ".932",
-        "gaa": "2.53",
-        "toi": "403:47",
+        "gaa": "2.47",
+        "toi": "462:00",
         "so": "0",
         "g": "0",
         "a": "0",

@@ -14,6 +14,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 PW = os.getenv("SQL_PW")
+DB = os.getenv("SQL_DB")
 
 cwd = os.getcwd()
 
@@ -40,7 +41,10 @@ def createSkater(obj, td_list):
 
     # Parse Team
     elif index == 3:
-      obj["team"] = type.text
+      if len(type.text) > 3:
+        obj["team"] = type.text[-3]
+      else:
+        obj["team"] = type.text
     
     # Parse Position:
     elif index == 5:
@@ -73,7 +77,10 @@ def createGoalie(obj, td_list):
     
     # Parse Team
     elif index == 3:
-      obj["team"] = type.text
+      if len(type.text) > 3:
+        obj["team"] = type.text[-3]
+      else:
+        obj["team"] = type.text
 
     # Parse Stats:
     else:
@@ -104,6 +111,13 @@ def getSkatersFromSite(players, site):
             print(f"skipping (fetch): {player_obj['name']} on {player_obj['team']}")
       else:
         players[player_obj["name"]] = player_obj
+  
+  # Add skaters to database 
+  """ entries = ""
+  for player in players:
+    entries += f"(S{player[]})" """
+
+
 
 def getGoaliesFromSite(players, site):
   driver = webdriver.Chrome()
@@ -139,11 +153,73 @@ def main():
   print(f"Processing goalie webpage 1...")
   site = "https://www.nhl.com/stats/goalies?reportType=season&seasonFrom=20222023&seasonTo=20222023&gameType=2&filter=gamesPlayed,gte,1&page=0&pageSize=100"
   
-  getGoaliesFromSite(players, site)
+  getGoaliesFromSite(players, site) 
 
-  #connection = sql_module.create_server_connection("localhost", "root", PW)
-  #create_database_query = "CREATE DATABASE nhl_skaters"
-  #sql_module.create_database(connection, create_database_query)
+  create_skater_table = """
+  CREATE TABLE skater (
+    skater_id  VARCHAR(4)  PRIMARY KEY,
+    first_name VARCHAR(40) NOT NULL,
+    last_name  VARCHAR(40) NOT NULL,
+    href       VARCHAR(50) NOT NULL,
+    year       VARCHAR(7)  NOT NULL,
+    team       VARCHAR(3)  NOT NULL,
+    hand       VARCHAR(1)  NOT NULL,
+    pos        VARCHAR(1)  NOT NULL,
+    gp         INT         NOT NULL,
+    goals      INT         NOT NULL,
+    assists    INT         NOT NULL,
+    points     INT         NOT NULL,
+    plus_minus        VARCHAR(4)  NOT NULL,
+    pim        INT         NOT NULL,
+    p_per_g        FLOAT       NOT NULL,
+    evg        INT         NOT NULL,
+    evp        INT         NOT NULL,
+    ppg        INT         NOT NULL,
+    ppp        INT         NOT NULL,
+    shg        INT         NOT NULL,
+    shp        INT         NOT NULL,
+    otg        INT         NOT NULL,
+    gwg        INT         NOT NULL,
+    sht_perc       FLOAT       NOT NULL,
+    toi_gp     VARCHAR(5)  NOT NULL,
+    fow_perc       FLOAT  
+  )
+  """
+
+  create_goalie_table = """
+  CREATE TABLE goalie (
+    goalie_id  VARCHAR(4)  PRIMARY KEY,
+    first_name VARCHAR(40) NOT NULL,
+    last_name  VARCHAR(40) NOT NULL,
+    href       VARCHAR(50) NOT NULL,
+    year       VARCHAR(7)  NOT NULL,
+    team       VARCHAR(3)  NOT NULL,
+    hand       VARCHAR(1)  NOT NULL,
+    gp         INT         NOT NULL,
+    gs         INT         NOT NULL,
+    wins       INT         NOT NULL,
+    loses      INT         NOT NULL,
+    ties       INT                 ,
+    ot         INT         NOT NULL,
+    sa         INT         NOT NULL,
+    svs        INT         NOT NULL,
+    ga         INT         NOT NULL,
+    svp        FLOAT       NOT NULL,
+    gaa        FLOAT       NOT NULL,
+    toi        VARCHAR(8)  NOT NULL,
+    so         INT         NOT NULL,
+    goals      INT         NOT NULL,
+    assists    INT         NOT NULL,
+    points     INT         NOT NULL,
+    pim        INT         NOT NULL,
+    pos        VARCHAR(1)  NOT NULL
+  )
+  """
+
+  connection = sql_module.create_db_connection("localhost", "root", PW, DB)
+  create_database_query = "CREATE DATABASE nhl_skaters"
+  sql_module.execute_query(connection, create_skater_table)
+  sql_module.execute_query(connection, create_goalie_table)
 
   print(f"Done!")
   
