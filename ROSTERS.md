@@ -7,32 +7,32 @@
 | [Mika Zibanejad](https://www.nhl.com/player/8476459) | F |  New York Rangers  | 10 | 10 | 77 | 6 | 0 | 21:10 |
 | [David Pastrnak](https://www.nhl.com/player/8477956) | F |  Boston Bruins  | 9 | 17 | 86 | 10 | +7 | 19:38 |
 | [Jason Robertson](https://www.nhl.com/player/8480027) | F |  Dallas Stars  | 11 | 15 | 67 | 4 | +10 | 16:51 |
-| [Johnny Gaudreau](https://www.nhl.com/player/8476346) | F |  Columbus Blue Jackets  | 6 | 8 | 48 | 6 | -4 | 20:03 |
+| [Johnny Gaudreau](https://www.nhl.com/player/8476346) | F |  Columbus Blue Jackets  | 6 | 8 | 48 | 6 | -3 | 20:03 |
 | [Evander Kane](https://www.nhl.com/player/8475169) | F |  Edmonton Oilers  | 5 | 8 | 50 | 16 | +4 | 19:30 |
 | [Victor Hedman](https://www.nhl.com/player/8475167) | D |  Tampa Bay Lightning  | 1 | 8 | 33 | 6 | +1 | 24:48 |
 | [Devon Toews](https://www.nhl.com/player/8478038) | D |  Colorado Avalanche  | 1 | 10 | 23 | 0 | +8 | 23:56 |
 | [Zach Werenski](https://www.nhl.com/player/8478460) | D |  Columbus Blue Jackets  | 3 | 5 | 41 | 0 | -6 | 23:36 |
 | [Jacob Trouba](https://www.nhl.com/player/8476885) | D |  New York Rangers  | 0 | 4 | 55 | 10 | -5 | 21:36 |
-| **Totals** | | | 70 | 118 | 611 | 84 | 18 | 234:51 |
+| **Totals** | | | 70 | 118 | 611 | 84 | 19 | 234:51 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
-| [Thatcher Demko](https://www.nhl.com/player/8477967) | G |  Vancouver Canucks  | .874 | 4.02 |
+| [Thatcher Demko](https://www.nhl.com/player/8477967) | G |  Vancouver Canucks  | .884 | 3.77 |
 ## Leevon
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
 | :----- | --- | ---- | - | - | --- | --- | --- | ------ |
 | [Auston Matthews](https://www.nhl.com/player/8479318) | F |  Toronto Maple Leafs  | 8 | 11 | 80 | 8 | +2 | 20:53 |
 | [Jonathan Huberdeau](https://www.nhl.com/player/8476456) | F |  Calgary Flames  | 2 | 6 | 25 | 6 | 0 | 16:48 |
-| [J.T. Miller](https://www.nhl.com/player/8476468) | F |  Vancouver Canucks  | 10 | 6 | 39 | 15 | -8 | 21:19 |
-| [Elias Pettersson](https://www.nhl.com/player/8480012) | F |  Vancouver Canucks  | 7 | 13 | 52 | 2 | +4 | 20:21 |
-| [Kevin Fiala](https://www.nhl.com/player/8477942) | F |  Los Angeles Kings  | 6 | 12 | 49 | 12 | -1 | 17:03 |
+| [J.T. Miller](https://www.nhl.com/player/8476468) | F |  Vancouver Canucks  | 10 | 7 | 40 | 15 | -8 | 21:16 |
+| [Elias Pettersson](https://www.nhl.com/player/8480012) | F |  Vancouver Canucks  | 9 | 13 | 54 | 2 | +6 | 20:09 |
+| [Kevin Fiala](https://www.nhl.com/player/8477942) | F |  Los Angeles Kings  | 6 | 12 | 50 | 12 | -2 | 17:00 |
 | [Evgeny Kuznetsov](https://www.nhl.com/player/8475744) | F |  Washington Capitals  | 2 | 12 | 52 | 16 | -3 | 18:55 |
-| [Andrei Kuzmenko](https://www.nhl.com/player/8483808) | F |  Vancouver Canucks  | 7 | 4 | 39 | 0 | 0 | 15:04 |
+| [Andrei Kuzmenko](https://www.nhl.com/player/8483808) | F |  Vancouver Canucks  | 7 | 6 | 40 | 0 | +2 | 15:02 |
 | [Adam Fox](https://www.nhl.com/player/8479323) | D |  New York Rangers  | 5 | 15 | 37 | 8 | +6 | 25:02 |
 | [Moritz Seider](https://www.nhl.com/player/8481542) | D |  Detroit Red Wings  | 1 | 5 | 31 | 4 | -6 | 22:55 |
 | [Morgan Rielly](https://www.nhl.com/player/8476853) | D |  Toronto Maple Leafs  | 0 | 15 | 32 | 7 | -1 | 23:29 |
 | [Miro Heiskanen](https://www.nhl.com/player/8480036) | D |  Dallas Stars  | 2 | 10 | 34 | 10 | +5 | 24:06 |
-| **Totals** | | | 50 | 109 | 470 | 88 | -2 | 225:55 |
+| **Totals** | | | 52 | 112 | 475 | 88 | 1 | 225:35 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -47,11 +47,11 @@
 | [Jake Guentzel](https://www.nhl.com/player/8477404) | F |  Pittsburgh Penguins  | 9 | 7 | 45 | 8 | -5 | 19:32 |
 | [Jack Eichel](https://www.nhl.com/player/8478403) | F |  Vegas Golden Knights  | 10 | 11 | 64 | 0 | +12 | 18:25 |
 | [Evgeni Malkin](https://www.nhl.com/player/8471215) | F |  Pittsburgh Penguins  | 7 | 11 | 53 | 14 | +1 | 18:22 |
-| [Quinn Hughes](https://www.nhl.com/player/8480800) | D |  Vancouver Canucks  | 0 | 14 | 23 | 6 | -2 | 25:00 |
+| [Quinn Hughes](https://www.nhl.com/player/8480800) | D |  Vancouver Canucks  | 0 | 16 | 26 | 6 | -1 | 24:45 |
 | [MacKenzie Weegar](https://www.nhl.com/player/8477346) | D |  Calgary Flames  | 0 | 4 | 29 | 10 | +2 | 21:42 |
 | [Shea Theodore](https://www.nhl.com/player/8477447) | D |  Vegas Golden Knights  | 3 | 9 | 40 | 2 | +11 | 21:09 |
 | [Rasmus Dahlin](https://www.nhl.com/player/8480839) | D |  Buffalo Sabres  | 7 | 12 | 62 | 24 | +8 | 26:31 |
-| **Totals** | | | 74 | 123 | 532 | 110 | 34 | 234:12 |
+| **Totals** | | | 74 | 125 | 535 | 110 | 35 | 233:57 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -87,9 +87,9 @@
 | [Pavel Buchnevich](https://www.nhl.com/player/8477402) | F |  St. Louis Blues  | 2 | 5 | 23 | 4 | -1 | 18:54 |
 | [John Carlson](https://www.nhl.com/player/8474590) | D |  Washington Capitals  | 5 | 6 | 45 | 2 | -3 | 23:10 |
 | [Brent Burns](https://www.nhl.com/player/8470613) | D |  Carolina Hurricanes  | 3 | 9 | 68 | 14 | +2 | 23:32 |
-| [Drew Doughty](https://www.nhl.com/player/8474563) | D |  Los Angeles Kings  | 1 | 9 | 35 | 12 | +1 | 26:34 |
+| [Drew Doughty](https://www.nhl.com/player/8474563) | D |  Los Angeles Kings  | 1 | 9 | 36 | 14 | +1 | 26:28 |
 | [Dougie Hamilton](https://www.nhl.com/player/8476462) | D |  New Jersey Devils  | 5 | 9 | 63 | 10 | +7 | 21:41 |
-| **Totals** | | | 47 | 113 | 543 | 88 | 14 | 237:42 |
+| **Totals** | | | 47 | 113 | 544 | 90 | 14 | 237:36 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
