@@ -1,11 +1,11 @@
 {
     "Timo": {
-        "Goals": 75,
-        "Assists": 124,
-        "Shots on Goal": 650,
+        "Goals": 76,
+        "Assists": 126,
+        "Shots on Goal": 653,
         "Penalties in Minutes": 92,
-        "Plus / Minus": 26,
-        "Average Time on Ice": "234:52",
+        "Plus / Minus": 25,
+        "Average Time on Ice": "234:38",
         "Save Percentage": 0.884,
         "Goals Against Average": 3.77
     },
@@ -20,42 +20,42 @@
         "Goals Against Average": 3.11
     },
     "Alasdair": {
-        "Goals": 77,
-        "Assists": 133,
-        "Shots on Goal": 571,
-        "Penalties in Minutes": 116,
-        "Plus / Minus": 42,
-        "Average Time on Ice": "232:59",
+        "Goals": 79,
+        "Assists": 137,
+        "Shots on Goal": 576,
+        "Penalties in Minutes": 118,
+        "Plus / Minus": 45,
+        "Average Time on Ice": "232:33",
         "Save Percentage": 0.906,
         "Goals Against Average": 3.09
     },
     "Liam": {
-        "Goals": 51,
+        "Goals": 53,
         "Assists": 95,
-        "Shots on Goal": 549,
-        "Penalties in Minutes": 132,
-        "Plus / Minus": -5,
-        "Average Time on Ice": "238:21",
+        "Shots on Goal": 561,
+        "Penalties in Minutes": 134,
+        "Plus / Minus": -6,
+        "Average Time on Ice": "239:16",
         "Save Percentage": 0.935,
         "Goals Against Average": 2.07
     },
     "John": {
         "Goals": 50,
         "Assists": 120,
-        "Shots on Goal": 570,
+        "Shots on Goal": 573,
         "Penalties in Minutes": 92,
-        "Plus / Minus": 17,
-        "Average Time on Ice": "238:15",
+        "Plus / Minus": 16,
+        "Average Time on Ice": "238:09",
         "Save Percentage": 0.917,
         "Goals Against Average": 2.34
     },
     "Carsten": {
         "Goals": 65,
-        "Assists": 101,
-        "Shots on Goal": 561,
-        "Penalties in Minutes": 97,
-        "Plus / Minus": -38,
-        "Average Time on Ice": "228:57",
+        "Assists": 103,
+        "Shots on Goal": 562,
+        "Penalties in Minutes": 99,
+        "Plus / Minus": -37,
+        "Average Time on Ice": "228:51",
         "Save Percentage": 0.909,
         "Goals Against Average": 2.84
     }
