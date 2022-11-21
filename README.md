@@ -6,12 +6,12 @@ Casual Python3 project used by friends to keep track of NHL and WJC players stat
 ## Scoreboard
 | User | [G](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-goals) | [A](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-assists) | [SOG](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-shots-on-goal) | [PIM](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-penalties-in-minutes) | [+/-](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-plus--minus) | [TOI/GP](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-average-time-on-ice) | [S%](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-save-percentage) | [GAA](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-goals-against-average) | Total |
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
-| [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Alasdair) | 6 | 6 | 4 | 5 | 6 | 3 | 3 | 2 | 35 |
-| [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John) | 1 | 4 | 5 | 3 | 4 | 5 | 5 | 5 | 32 |
+| [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Alasdair) | 6 | 6 | 5 | 5 | 6 | 3 | 3 | 3 | 37 |
 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) | 2 | 1 | 2 | 6 | 2 | 6 | 6 | 6 | 31 |
-| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 5 | 5 | 6 | 1 | 5 | 4 | 1 | 1 | 28 |
+| [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John) | 1 | 4 | 4 | 3 | 4 | 5 | 5 | 5 | 31 |
+| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 5 | 5 | 6 | 3 | 5 | 4 | 1 | 1 | 30 |
 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Carsten) | 4 | 2 | 3 | 4 | 1 | 2 | 4 | 4 | 24 |
-| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) | 3 | 3 | 1 | 2 | 3 | 1 | 2 | 3 | 18 |
+| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) | 3 | 3 | 1 | 3 | 3 | 1 | 2 | 2 | 18 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage
