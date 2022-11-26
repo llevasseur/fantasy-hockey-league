@@ -215,12 +215,12 @@ def main():
     pos        VARCHAR(1)  NOT NULL
   )
   """
-
+  """
   connection = sql_module.create_db_connection("localhost", "root", PW, DB)
   create_database_query = "CREATE DATABASE nhl_skaters"
   sql_module.execute_query(connection, create_skater_table)
   sql_module.execute_query(connection, create_goalie_table)
-
+  """
   print(f"Done!")
   
   with open(cwd + '/json/beta-nhl/2022-23/day-'+date+'.json', 'w') as json_file:
