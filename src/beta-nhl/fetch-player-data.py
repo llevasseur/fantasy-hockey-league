@@ -8,14 +8,14 @@ import re
 import json
 import os
 import datetime
-import sql_module
+'''import sql_module
 
 from dotenv import load_dotenv
 
 load_dotenv()
 PW = os.getenv("SQL_PW")
 DB = os.getenv("SQL_DB")
-
+'''
 cwd = os.getcwd()
 
 
