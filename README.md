@@ -8,10 +8,10 @@ Casual Python3 project used by friends to keep track of NHL and WJC players stat
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Alasdair) | 6 | 6 | 4 | 5 | 6 | 3 | 4 | 3 | 37 |
 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) | 3 | 1 | 3 | 6 | 2 | 6 | 6 | 6 | 33 |
-| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 5 | 4 | 6 | 3 | 5 | 4 | 1 | 1 | 29 |
-| [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John) | 1 | 3 | 5 | 1 | 4 | 5 | 5 | 5 | 29 |
-| [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Carsten) | 4 | 2 | 2 | 4 | 1 | 2 | 3 | 4 | 22 |
-| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) | 2 | 5 | 1 | 2 | 4 | 1 | 2 | 2 | 19 |
+| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 5 | 4 | 6 | 4 | 5 | 4 | 1 | 1 | 30 |
+| [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John) | 2 | 3 | 5 | 1 | 4 | 5 | 5 | 5 | 30 |
+| [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Carsten) | 4 | 2 | 2 | 3 | 1 | 2 | 4 | 4 | 22 |
+| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) | 1 | 5 | 1 | 2 | 4 | 1 | 2 | 2 | 18 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage
