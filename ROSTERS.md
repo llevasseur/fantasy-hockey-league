@@ -11,7 +11,9 @@
 | [Evander Kane](https://www.nhl.com/player/8475169) | F |  Edmonton Oilers  | 5 | 8 | 50 | 16 | +4 | 19:30 |
 | [Victor Hedman](https://www.nhl.com/player/8475167) | D |  Tampa Bay Lightning  | 1 | 13 | 53 | 12 | +2 | 24:01 |
 | [Devon Toews](https://www.nhl.com/player/8478038) | D |  Colorado Avalanche  | 2 | 15 | 44 | 6 | +5 | 24:39 |
-| **Totals** | | | 112 | 179 | 839 | 110 | 47 | 190:22 |
+| [Zach Werenski](https://www.nhl.com/player/8478460) | D |  Columbus Blue Jackets  | 3 | 5 | 41 | 0 | -6 | 23:36 |
+| [Jacob Trouba](https://www.nhl.com/player/8476885) | D |  New York Rangers  | 0 | 8 | 85 | 35 | -6 | 21:06 |
+| **Totals** | | | 115 | 192 | 965 | 145 | 35 | 235:04 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
