@@ -1,62 +1,62 @@
 {
     "Timo": {
-        "Goals": 115,
-        "Assists": 192,
-        "Shots on Goal": 965,
-        "Penalties in Minutes": 145,
-        "Plus / Minus": 35,
-        "Average Time on Ice": "235:04",
+        "Goals": 120,
+        "Assists": 210,
+        "Shots on Goal": 1020,
+        "Penalties in Minutes": 149,
+        "Plus / Minus": 38,
+        "Average Time on Ice": "235:10",
         "Save Percentage": 0.883,
         "Goals Against Average": 3.93
     },
     "Leevon": {
-        "Goals": 84,
-        "Assists": 193,
-        "Shots on Goal": 764,
-        "Penalties in Minutes": 139,
-        "Plus / Minus": 16,
-        "Average Time on Ice": "225:06",
-        "Save Percentage": 0.897,
-        "Goals Against Average": 2.81
+        "Goals": 85,
+        "Assists": 200,
+        "Shots on Goal": 801,
+        "Penalties in Minutes": 145,
+        "Plus / Minus": 13,
+        "Average Time on Ice": "225:11",
+        "Save Percentage": 0.892,
+        "Goals Against Average": 2.92
     },
     "Alasdair": {
-        "Goals": 121,
-        "Assists": 212,
-        "Shots on Goal": 889,
-        "Penalties in Minutes": 182,
-        "Plus / Minus": 77,
-        "Average Time on Ice": "234:13",
-        "Save Percentage": 0.908,
-        "Goals Against Average": 2.93
+        "Goals": 127,
+        "Assists": 224,
+        "Shots on Goal": 937,
+        "Penalties in Minutes": 186,
+        "Plus / Minus": 74,
+        "Average Time on Ice": "234:38",
+        "Save Percentage": 0.911,
+        "Goals Against Average": 2.84
     },
     "Liam": {
-        "Goals": 101,
-        "Assists": 160,
-        "Shots on Goal": 939,
-        "Penalties in Minutes": 198,
-        "Plus / Minus": 2,
-        "Average Time on Ice": "239:12",
-        "Save Percentage": 0.926,
-        "Goals Against Average": 2.45
+        "Goals": 110,
+        "Assists": 171,
+        "Shots on Goal": 1008,
+        "Penalties in Minutes": 206,
+        "Plus / Minus": -1,
+        "Average Time on Ice": "239:38",
+        "Save Percentage": 0.928,
+        "Goals Against Average": 2.33
     },
     "John": {
-        "Goals": 86,
-        "Assists": 184,
-        "Shots on Goal": 907,
-        "Penalties in Minutes": 132,
-        "Plus / Minus": 21,
-        "Average Time on Ice": "237:03",
-        "Save Percentage": 0.916,
-        "Goals Against Average": 2.52
+        "Goals": 89,
+        "Assists": 198,
+        "Shots on Goal": 952,
+        "Penalties in Minutes": 144,
+        "Plus / Minus": 18,
+        "Average Time on Ice": "236:04",
+        "Save Percentage": 0.917,
+        "Goals Against Average": 2.45
     },
     "Carsten": {
-        "Goals": 103,
-        "Assists": 159,
-        "Shots on Goal": 884,
-        "Penalties in Minutes": 134,
-        "Plus / Minus": -30,
-        "Average Time on Ice": "229:54",
-        "Save Percentage": 0.913,
-        "Goals Against Average": 2.63
+        "Goals": 111,
+        "Assists": 169,
+        "Shots on Goal": 942,
+        "Penalties in Minutes": 142,
+        "Plus / Minus": -24,
+        "Average Time on Ice": "229:09",
+        "Save Percentage": 0.915,
+        "Goals Against Average": 2.55
     }
 }
