@@ -71,7 +71,11 @@ def main():
         overall_points.items(), key=lambda item: sum(item[1]), reverse=True)}
 
     for user in overall_points:
-        README_md.write(f"| [{user}]({ROSTERS_URL}#{user}) | ")
+        if len(user.split()) > 1: 
+            userName = '-'.join(user.split())
+        else:
+            userName = user
+        README_md.write(f"| [{user}]({ROSTERS_URL}#{userName}) | ")
         for p in overall_points[user]:
             README_md.write(f"{p} | ")
         README_md.write(f"{sum(overall_points[user])} |\n")
