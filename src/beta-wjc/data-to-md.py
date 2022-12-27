@@ -5,10 +5,16 @@ import datetime
 
 cwd = os.getcwd()
 
-START_DATE = datetime.datetime(2022, 10, 11, 0, 0)
+START_DATE = datetime.datetime(2022, 12, 26, 0, 0)
 
-def get_nhl_day(today):
+def get_wjc_day(today):
   return (today - START_DATE).days
+
+def addPM(pm, total):
+  if pm == '-': pm = '0'
+  if '+' in pm:
+    _, pm = re.match('(\+)([0-9]+)', pm).groups()
+  return total + int(pm)
 
 def addTOI(toi, total):
   min, sec = re.match('([0-9]{1,2}):([0-5][0-9])', toi).groups()
@@ -27,40 +33,33 @@ def addTOI(toi, total):
 
   return str(int(tot_min) + int(min)) + ':' + sec
 
-def addPM(pm, total):
-  if '+' in pm:
-    _, pm = re.match('(\+)([0-9]+)', pm).groups()
-  return total + int(pm)
-
 def validatePick(pick):
-    KEYS = [
-        "href",
-        "pos",
-        "team"
-    ]
+  KEYS = [
+    "href",
+    "team",
+    "pos"
+  ]
 
-    for k in KEYS:
-        if k not in pick.keys():
-            print(f"\n### ERROR: Missing {k}")
-            print()
-            print(json.dumps(pick, indent=4))
-            return False
+  for k in KEYS:
+    if k not in pick.keys():
+      print(f"\n### ERROR: Missing {k}")
+      print()
+      print(json.dumps(pick, indent=4))
+      return False
 
-    return True
+  return True
+
 
 def main():
-  date = str(get_nhl_day(datetime.datetime.today()))
+  date = str(get_wjc_day(datetime.datetime.today()))
 
-  with open(cwd + '/json/beta-nhl/draft-picks.json', 'r') as json_file:
+  with open(cwd + '/json/beta-wjc/2022-23/draft-picks.json', 'r') as json_file:
     draft_data = json.loads(json_file.read())
 
-  with open(cwd + '/json/beta-nhl/2022-23/day-'+date+'.json') as json_file:
+  with open(cwd + '/json/beta-wjc/2022-23/merged-player-data-day-'+date+'.json', 'r') as json_file:
     player_data = json.loads(json_file.read())
-  
-  with open(cwd + '/json/beta-nhl/team-lookup-table.json', 'r') as teams_file:
-    teams = json.loads(teams_file.read())
-    
-  md_file = open(cwd + '/public/nhl22-23/ROSTERS.md', 'w')
+
+  md_file = open(cwd + '/ROSTERS.md', 'w')
 
   md_file.write("# Fantasy Rosters\n")
 
@@ -79,25 +78,26 @@ def main():
     pim_total = 0
     pm_total = 0
     sog_total = 0
-    toi_total = "0:00"
+    tpm_total = 0
+    #toi_total = "0.00"
 
-    gaa_list =[]
+    gaa_list = []
     svp_list = []
 
     for pick in roster:
 
-      try: 
+      try:
 
         if validatePick(player_data[pick]):
-          href = player_data[pick]['href']
-          pos = player_data[pick]['pos']
+
+          href=player_data[pick]['href']
+          pos=player_data[pick]['pos']
           team = player_data[pick]['team']
-          #color = teams[team]["col"]
-          team = teams[team]["name"]
+
 
           if pos == "G":
-            gaa = player_data[pick]['gaa']
-            svp = player_data[pick]['svp']
+            gaa=player_data[pick]['gaa']
+            svp=player_data[pick]['svp']
 
             if re.match('[\d\.]+', gaa):
               gaa_list.append(float(gaa))
@@ -107,67 +107,69 @@ def main():
               svp_list.append(float(svp))
             else:
               svp_list.append(0.0)
-        
+
             player_map[pos].append(
               f"| [{pick}]({href}) | {pos} | {team} | {svp} | {gaa} |\n")
-
           else:
-            g = player_data[pick]['g']
-            a = player_data[pick]['a']
-            pim = player_data[pick]['pim']
-            pm = player_data[pick]['+/-']
-            sog = player_data[pick]['sog']
-            toi = player_data[pick]['toi/gp']
+            g=player_data[pick]['g']
+            a=player_data[pick]['a']
+            pim=player_data[pick]['pim']
+            pm=player_data[pick]['pm']
+            sog=player_data[pick]['SOG']
+            tpm=player_data[pick]['TPM']
+            #toi = player_data['toi']
 
             if re.match('\d+', g): g_total += int(g)
             if re.match('\d+', a): a_total += int(a)
             if re.match('\d+', pim): pim_total += int(pim)
             pm_total = addPM(pm, pm_total)
-
-            sog_total += int(sog)
-            toi_total = addTOI(toi, toi_total)
+            #if re.match('\-?\d+', pm): pm_total += int(pm)
+            sog_total += sog
+            tpm_total=round(tpm_total + tpm, 2)
             player_map[pos].append(
-              f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {toi} |\n")
+                f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {sog} | {pim} | {pm} | {tpm} |\n")
       except:
         print(f"skipping (data): {pick}")
 
-    ranking_data[user] = {
+    ranking_data[user]={
       "Goals": g_total,
       "Assists": a_total,
       "Shots on Goal": sog_total,
       "Penalties in Minutes": pim_total,
       "Plus / Minus": pm_total,
-      "Average Time on Ice": toi_total,
+      "Time Played in Minutes": round(tpm_total, 2),
       "Save Percentage": max(svp_list) if svp_list else '-',
       "Goals Against Average": min(gaa_list) if svp_list else '-'
     }
 
     md_file.write(f"## {user}\n")
-    md_file.write(f"| Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |\n")
-    md_file.write(f"| :----- | --- | ---- | - | - | --- | --- | --- | ------ |\n")
+    md_file.write(f"| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |\n")
+    md_file.write(f"| :----- | --- | ---- | - | - | --- | --- | --- | --: |\n")
+
 
     skaters = player_map["F"]
     skaters.extend(player_map["D"])
 
     for sk in skaters:
-        md_file.write(sk)
-    
+      md_file.write(sk)
+
     md_file.write(
-        f"| **Totals** | | | {g_total} | {a_total} | {sog_total} | {pim_total} | {pm_total} | {toi_total} |\n")
+      f"| **Totals** | | | {g_total} | {a_total} | {sog_total} | {pim_total} | {pm_total} | {tpm_total} |\n")
     md_file.write(f"\n| Player | Pos | Team | S% | GAA |\n")
     md_file.write(f"| :----- | --- | ----| -- | --: |\n")
 
-    goalies = player_map["G"]
+    goalies=player_map["G"]
     for g in goalies:
       md_file.write(g)
-    
-  with open(cwd + '/json/beta-nhl/standings.json', 'w') as json_file:
+
+  with open(cwd + '/json/beta-wjc/2022-23/standings.json', 'w') as json_file:
     json_file.write(json.dumps(ranking_data, indent=4))
 
-  print('''
-  Player data from /json/beta-nhl/ep-player-data.json has been used to update public/nhl22-23/ROSTERS.md
-  Run `python src/beta-nhl/parse-standings.py` to update the public/nhl22-23/STANDINGS.md file with this new data
+  print(f'''
+  Player data from /json/beta-wjc/2022-23/merged-player-data-day-{date}.json has been used to update ROSTERS.md
+  Run `python src/alpha-nhl/parse-standings.py` to update the STANDINGS.md file with this new data
   ''')
+
 
 if __name__ == "__main__":
   main()

@@ -8,14 +8,14 @@ import re
 import json
 import os
 import datetime
-'''import sql_module
+import sql_module
 
 from dotenv import load_dotenv
 
 load_dotenv()
 PW = os.getenv("SQL_PW")
 DB = os.getenv("SQL_DB")
-'''
+
 cwd = os.getcwd()
 
 
@@ -227,7 +227,7 @@ def main():
     json_file.write(json.dumps(players, indent=4))
     print(f'''
     Player data has been fetched from https://www.nhl.com and written to /json/beta-nhl/2022-23/{date}json
-    Run `python src/beta-nhl/data-to-md.py` to update the ROSTERS.md file with this new data
+    Run `python src/beta-nhl/data-to-md.py` to update public/nhl22-23/ROSTERS.md file with this new data
     ''')
 
 if __name__ == "__main__":

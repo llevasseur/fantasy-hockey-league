@@ -1,115 +1,169 @@
 # Fantasy Rosters
-## Timo
-| Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
-| :----- | --- | ---- | - | - | --- | --- | --- | ------ |
-| [Connor McDavid](https://www.nhl.com/player/8478402) | F |  Edmonton Oilers  | 29 | 36 | 133 | 16 | +4 | 22:56 |
-| [Nikita Kucherov](https://www.nhl.com/player/8476453) | F |  Tampa Bay Lightning  | 13 | 36 | 113 | 22 | 0 | 21:03 |
-| [Mika Zibanejad](https://www.nhl.com/player/8476459) | F |  New York Rangers  | 15 | 23 | 133 | 8 | +10 | 20:50 |
-| [David Pastrnak](https://www.nhl.com/player/8477956) | F |  Boston Bruins  | 22 | 23 | 162 | 18 | +10 | 19:52 |
-| [Jason Robertson](https://www.nhl.com/player/8480027) | F |  Dallas Stars  | 24 | 24 | 141 | 8 | +19 | 18:18 |
-| [Johnny Gaudreau](https://www.nhl.com/player/8476346) | F |  Columbus Blue Jackets  | 10 | 24 | 90 | 10 | -14 | 19:53 |
-| [Evander Kane](https://www.nhl.com/player/8475169) | F |  Edmonton Oilers  | 5 | 8 | 50 | 16 | +4 | 19:30 |
-| [Victor Hedman](https://www.nhl.com/player/8475167) | D |  Tampa Bay Lightning  | 1 | 17 | 61 | 12 | +2 | 23:55 |
-| [Devon Toews](https://www.nhl.com/player/8478038) | D |  Colorado Avalanche  | 2 | 16 | 54 | 6 | +6 | 24:59 |
-| [Zach Werenski](https://www.nhl.com/player/8478460) | D |  Columbus Blue Jackets  | 3 | 5 | 41 | 0 | -6 | 23:36 |
-| [Jacob Trouba](https://www.nhl.com/player/8476885) | D |  New York Rangers  | 2 | 9 | 101 | 37 | -3 | 21:15 |
-| **Totals** | | | 126 | 221 | 1079 | 153 | 32 | 236:07 |
+## Sean
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
+| [Connor Bedard](https://www.eliteprospects.com/player/535584/connor-bedard) | F |  Canada | 1 | 0 | 11 | 0 | 0 | 20.73 |
+| [Isak Rosén](https://www.eliteprospects.com/player/420269/isak-rosen) | F |  Sweden | 2 | 1 | 5 | 0 | 3 | 15.68 |
+| [Dalibor Dvorský](https://www.eliteprospects.com/player/527424/dalibor-dvorsky) | F |  Slovakia | - | - | 0 | - | - | 0 |
+| [Redmond Savage](https://www.eliteprospects.com/player/512173/redmond-savage) | F |  USA | 1 | 1 | 3 | 0 | 1 | 12.82 |
+| [Servác Petrovský](https://www.eliteprospects.com/player/527429/servac-petrovsky) | F |  Slovakia | - | - | 0 | - | - | 0 |
+| [Aleksanteri Kaskimäki](https://www.eliteprospects.com/player/640621/aleksanteri-kaskimaki) | F |  Finland | 0 | 0 | 1 | 0 | 0 | 8.42 |
+| [Luke Mittelstadt](https://www.eliteprospects.com/player/559036/luke-mittelstadt) | D |  USA | 0 | 0 | 1 | 0 | 0 | 14.63 |
+| [Calle Odelius](https://www.eliteprospects.com/player/607525/calle-odelius) | D |  Sweden | 1 | 0 | 1 | 0 | 1 | 14.92 |
+| [Elias Pettersson](https://www.eliteprospects.com/player/641020/elias-pettersson) | D |  Sweden | 0 | 1 | 2 | 0 | 2 | 16.7 |
+| [Ryan Chesley](https://www.eliteprospects.com/player/556717/ryan-chesley) | D |  USA | 0 | 0 | 1 | 0 | -1 | 12.98 |
+| **Totals** | | | 5 | 3 | 25 | 0 | 6 | 116.88 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
-| [Thatcher Demko](https://www.nhl.com/player/8477967) | G |  Vancouver Canucks  | .883 | 3.93 |
+| [Carl Lindbom](https://www.eliteprospects.com/player/574609/carl-lindbom) | G |  Sweden | 1.000 | 0.00 |
+| [Andrew Oke](https://www.eliteprospects.com/player/574814/andrew-oke) | G |  USA | 0.000 | 100.00 |
+## Karter
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
+| [Logan Cooley](https://www.eliteprospects.com/player/651538/logan-cooley) | F |  USA | 0 | 1 | 2 | 0 | 1 | 18.28 |
+| [Victor Stjernborg](https://www.eliteprospects.com/player/472146/victor-stjernborg) | F |  Sweden | 0 | 1 | 1 | 2 | 2 | 12.62 |
+| [Niko Huuhtanen](https://www.eliteprospects.com/player/525628/niko-huuhtanen) | F |  Finland | - | - | 2 | - | 2 | 15.07 |
+| [Sandi Vilmanis](https://www.eliteprospects.com/player/638444/sandis-vilmanis) | F |  Latvia | - | - | 0 | - | -2 | 15.38 |
+| [Reid Schaefer](https://www.eliteprospects.com/player/506838/reid-schaefer) | F |  Canada | - | - | 0 | - | 0 | 6.15 |
+| [Adam Zlnka](https://www.eliteprospects.com/player/527422/adam-zlnka) | F |  Slovakia | - | - | 0 | - | - | 0 |
+| [Brandt Clarke](https://www.eliteprospects.com/player/336887/brandt-clarke) | D |  Canada | 0 | 0 | 1 | 2 | -1 | 17.57 |
+| [Aleksi Heimosalmi](https://www.eliteprospects.com/player/601642/aleksi-heimosalmi) | D |  Finland | 0 | 0 | 1 | 0 | 0 | 20.52 |
+| [Kevin Korchinski](https://www.eliteprospects.com/player/516605/kevin-korchinski) | D |  Canada | 0 | 1 | 0 | 0 | 0 | 11.97 |
+| [Stanislav Svozil](https://www.eliteprospects.com/player/428002/stanislav-svozil) | D |  Czechia | 1 | 1 | 3 | 0 | 1 | 21.83 |
+| [Philipp Bidoul](https://www.eliteprospects.com/player/560202/philipp-bidoul) | D |  Germany | - | - | 0 | - | - | 0 |
+| **Totals** | | | 1 | 4 | 10 | 4 | 3 | 139.39 |
+
+| Player | Pos | Team | S% | GAA |
+| :----- | --- | ----| -- | --: |
+| [Thomas Milic](https://www.eliteprospects.com/player/539074/thomas-milic) | G |  Canada | 1.000 | 0.00 |
 ## Leevon
-| Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
-| :----- | --- | ---- | - | - | --- | --- | --- | ------ |
-| [Auston Matthews](https://www.nhl.com/player/8479318) | F |  Toronto Maple Leafs  | 17 | 22 | 151 | 10 | +17 | 20:19 |
-| [Jonathan Huberdeau](https://www.nhl.com/player/8476456) | F |  Calgary Flames  | 6 | 17 | 51 | 20 | +4 | 17:09 |
-| [J.T. Miller](https://www.nhl.com/player/8476468) | F |  Vancouver Canucks  | 11 | 17 | 75 | 28 | -12 | 20:53 |
-| [Elias Pettersson](https://www.nhl.com/player/8480012) | F |  Vancouver Canucks  | 15 | 24 | 98 | 4 | +8 | 19:51 |
-| [Kevin Fiala](https://www.nhl.com/player/8477942) | F |  Los Angeles Kings  | 10 | 25 | 106 | 26 | +2 | 17:34 |
-| [Evgeny Kuznetsov](https://www.nhl.com/player/8475744) | F |  Washington Capitals  | 5 | 22 | 89 | 24 | -1 | 18:39 |
-| [Andrei Kuzmenko](https://www.nhl.com/player/8483808) | F |  Vancouver Canucks  | 14 | 15 | 58 | 0 | +7 | 15:47 |
-| [Adam Fox](https://www.nhl.com/player/8479323) | D |  New York Rangers  | 7 | 28 | 70 | 12 | +13 | 24:58 |
-| [Moritz Seider](https://www.nhl.com/player/8481542) | D |  Detroit Red Wings  | 2 | 10 | 50 | 12 | -14 | 22:57 |
-| [Morgan Rielly](https://www.nhl.com/player/8476853) | D |  Toronto Maple Leafs  | 0 | 16 | 34 | 7 | -1 | 23:00 |
-| [Miro Heiskanen](https://www.nhl.com/player/8480036) | D |  Dallas Stars  | 5 | 20 | 82 | 16 | +4 | 25:17 |
-| **Totals** | | | 92 | 216 | 864 | 159 | 27 | 226:24 |
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
+| [Shane Wright](https://www.eliteprospects.com/player/526239/shane-wright) | F |  Canada | 1 | 1 | 2 | 0 | 0 | 18.63 |
+| [Cutter Gauthier](https://www.eliteprospects.com/player/526094/cutter-gauthier) | F |  USA | - | - | 5 | - | 1 | 19.35 |
+| [Jiri Kulich](https://www.eliteprospects.com/player/579198/jiri-kulich) | F |  Czechia | 0 | 0 | 0 | 0 | 1 | 0 |
+| [Tyler Boucher](https://www.eliteprospects.com/player/478374/tyler-boucher) | F |  USA | 0 | 0 | 1 | 0 | 1 | 12.92 |
+| [Nathan Gaucher](https://www.eliteprospects.com/player/340644/nathan-gaucher) | F |  Canada | 0 | 0 | 1 | 4 | 0 | 13.18 |
+| [Simon Robertsson](https://www.eliteprospects.com/player/473175/simon-robertsson) | F |  Sweden | 1 | 0 | 2 | 0 | 2 | 10.95 |
+| [Lane Hutson](https://www.eliteprospects.com/player/526227/lane-hutson) | D |  USA | - | - | 0 | - | - | 14.12 |
+| [Adam Engström](https://www.eliteprospects.com/player/491616/adam-engstrom) | D |  Sweden | 0 | 2 | 2 | 0 | 4 | 15.62 |
+| [Ville Ruotsalainen](https://www.eliteprospects.com/player/557202/ville-ruotsalainen) | D |  Finland | 0 | 0 | 0 | 0 | 1 | 9.17 |
+| [Otto Salin](https://www.eliteprospects.com/player/638727/otto-salin) | D |  Finland | 0 | 0 | 0 | 0 | -1 | 16.67 |
+| [Bogdans Hodass](https://www.eliteprospects.com/player/532642/bogdans-hodass) | D |  Latvia | - | - | 1 | - | -3 | 24.22 |
+| **Totals** | | | 2 | 3 | 14 | 4 | 6 | 154.83 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
-| [Jacob Markstrom](https://www.nhl.com/player/8474593) | G |  Calgary Flames  | .893 | 2.88 |
+| [Benjamin Gaudreau](https://www.eliteprospects.com/player/475275/benjamin-gaudreau) | G |  Canada | .706 | 10.42 |
+## John M
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
+| [Logan Stankoven](https://www.eliteprospects.com/player/556512/logan-stankoven) | F |  Canada | - | - | 0 | - | -2 | 16.12 |
+| [Rutger McGroarty](https://www.eliteprospects.com/player/526095/rutger-mcgroarty) | F |  USA | - | - | 1 | - | 1 | 11.48 |
+| [Joshua Roy](https://www.eliteprospects.com/player/483757/joshua-roy) | F |  Canada | - | - | 3 | - | 0 | 13.13 |
+| [Dans Locmelis](https://www.eliteprospects.com/player/638391/dans-locmelis) | F |  Latvia | 0 | 0 | 1 | 0 | -1 | 18.9 |
+| [Filip Bystedt](https://www.eliteprospects.com/player/578760/filip-bystedt) | F |  Sweden | 2 | 1 | 4 | 2 | 6 | 17.28 |
+| [Vinzenz Rohrer](https://www.eliteprospects.com/player/406803/vinzenz-rohrer) | F |  Austria | - | - | 0 | - | - | 0 |
+| [Lian Bichsel](https://www.eliteprospects.com/player/665087/lian-bichsel) | D |  Switzerland | 0 | 1 | 2 | 0 | 2 | 26.35 |
+| [Simon Nemec](https://www.eliteprospects.com/player/589605/simon-nemec) | D |  Slovakia | - | - | 0 | - | - | 0 |
+| [Nolan Allan](https://www.eliteprospects.com/player/482413/nolan-allan) | D |  Canada | - | - | 3 | - | - | 17.98 |
+| [Ludvig Jansson](https://www.eliteprospects.com/player/590628/ludvig-jansson) | D |  Sweden | 0 | 3 | 0 | 2 | 4 | 17.95 |
+| **Totals** | | | 2 | 5 | 14 | 4 | 10 | 139.19 |
+
+| Player | Pos | Team | S% | GAA |
+| :----- | --- | ----| -- | --: |
+| [Jani Lampinen](https://www.eliteprospects.com/player/525663/jani-lampinen) | G |  Finland | - | - |
+| [Tomas Suchanek](https://www.eliteprospects.com/player/522442/tomas-suchanek) | G |  Czechia | .947 | 2.00 |
 ## Alasdair
-| Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
-| :----- | --- | ---- | - | - | --- | --- | --- | ------ |
-| [Leon Draisaitl](https://www.nhl.com/player/8477934) | F |  Edmonton Oilers  | 21 | 34 | 109 | 16 | +2 | 22:19 |
-| [Mikko Rantanen](https://www.nhl.com/player/8478420) | F |  Colorado Avalanche  | 22 | 18 | 109 | 22 | +6 | 22:44 |
-| [Sidney Crosby](https://www.nhl.com/player/8471675) | F |  Pittsburgh Penguins  | 19 | 24 | 97 | 16 | +4 | 19:55 |
-| [Steven Stamkos](https://www.nhl.com/player/8474564) | F |  Tampa Bay Lightning  | 16 | 22 | 109 | 16 | +3 | 19:22 |
-| [Jake Guentzel](https://www.nhl.com/player/8477404) | F |  Pittsburgh Penguins  | 15 | 18 | 89 | 20 | +3 | 19:42 |
-| [Jack Eichel](https://www.nhl.com/player/8478403) | F |  Vegas Golden Knights  | 13 | 16 | 100 | 0 | +17 | 18:49 |
-| [Evgeni Malkin](https://www.nhl.com/player/8471215) | F |  Pittsburgh Penguins  | 11 | 22 | 99 | 20 | +2 | 18:03 |
-| [Quinn Hughes](https://www.nhl.com/player/8480800) | D |  Vancouver Canucks  | 0 | 28 | 55 | 8 | -4 | 25:07 |
-| [MacKenzie Weegar](https://www.nhl.com/player/8477346) | D |  Calgary Flames  | 0 | 7 | 59 | 26 | +2 | 21:09 |
-| [Shea Theodore](https://www.nhl.com/player/8477447) | D |  Vegas Golden Knights  | 4 | 18 | 74 | 6 | +14 | 21:51 |
-| [Rasmus Dahlin](https://www.nhl.com/player/8480839) | D |  Buffalo Sabres  | 10 | 27 | 97 | 40 | +16 | 26:11 |
-| **Totals** | | | 131 | 234 | 997 | 190 | 65 | 235:12 |
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
+| [Joakim Kemell](https://www.eliteprospects.com/player/526043/joakim-kemell) | F |  Finland | - | - | 3 | - | -2 | 14.07 |
+| [Jimmy Snuggerud](https://www.eliteprospects.com/player/623832/jimmy-snuggerud) | F |  USA | 1 | 0 | 8 | 0 | 1 | 19.05 |
+| [Noah Östlund](https://www.eliteprospects.com/player/535699/noah-ostlund) | F |  Sweden | 0 | 1 | 5 | 0 | 1 | 16.17 |
+| [Jonathan Lekkerimäki](https://www.eliteprospects.com/player/649220/jonathan-lekkerimaki) | F |  Sweden | 1 | 1 | 2 | 0 | 3 | 11.55 |
+| [Jani Nyman](https://www.eliteprospects.com/player/611825/jani-nyman) | F |  Finland | 0 | 0 | 1 | 0 | -1 | 17.57 |
+| [Gavin Brindley](https://www.eliteprospects.com/player/538006/gavin-brindley) | F |  USA | 0 | 0 | 2 | 2 | 1 | 12.22 |
+| [Bennet Roßmy](https://www.eliteprospects.com/player/542979/bennet-ro%C3%9Fmy) | F |  Germany | - | - | 0 | - | - | 0 |
+| [Olen Zellweger](https://www.eliteprospects.com/player/476596/olen-zellweger) | D |  Canada | 0 | 1 | 3 | 0 | -1 | 17.98 |
+| [David Jiricek](https://www.eliteprospects.com/player/559522/david-jiricek) | D |  Czechia | 0 | 1 | 2 | 0 | 0 | 16.77 |
+| [Sean Behrens](https://www.eliteprospects.com/player/464775/sean-behrens) | D |  USA | 1 | 1 | 2 | 0 | 1 | 19.38 |
+| [Tyson Hinds](https://www.eliteprospects.com/player/485317/tyson-hinds) | D |  Canada | - | - | 2 | - | 0 | 14.47 |
+| **Totals** | | | 3 | 5 | 30 | 2 | 3 | 159.23 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
-| [Juuse Saros](https://www.nhl.com/player/8477424) | G |  Nashville Predators  | .913 | 2.81 |
+| [Kaidan Mbereko](https://www.eliteprospects.com/player/512177/kaidan-mbereko) | G |  USA | - | - |
 ## Liam
-| Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
-| :----- | --- | ---- | - | - | --- | --- | --- | ------ |
-| [Kyle Connor](https://www.nhl.com/player/8478398) | F |  Winnipeg Jets  | 15 | 23 | 116 | 2 | +6 | 20:19 |
-| [Alex Ovechkin](https://www.nhl.com/player/8471214) | F |  Washington Capitals  | 20 | 18 | 150 | 16 | -6 | 20:33 |
-| [Matthew Tkachuk](https://www.nhl.com/player/8479314) | F |  Florida Panthers  | 14 | 25 | 114 | 57 | +6 | 20:35 |
-| [Brady Tkachuk](https://www.nhl.com/player/8480801) | F |  Ottawa Senators  | 13 | 24 | 143 | 45 | -11 | 18:32 |
-| [Jack Hughes](https://www.nhl.com/player/8481559) | F |  New Jersey Devils  | 17 | 21 | 136 | 2 | +11 | 19:47 |
-| [Nikolaj Ehlers](https://www.nhl.com/player/8477940) | F |  Winnipeg Jets  | 0 | 3 | 7 | 0 | 0 | 19:00 |
-| [Sam Reinhart](https://www.nhl.com/player/8477933) | F |  Florida Panthers  | 12 | 12 | 99 | 4 | -3 | 19:47 |
-| [Cale Makar](https://www.nhl.com/player/8480069) | D |  Colorado Avalanche  | 7 | 22 | 102 | 22 | +2 | 27:06 |
-| [Aaron Ekblad](https://www.nhl.com/player/8477932) | D |  Florida Panthers  | 4 | 10 | 72 | 30 | -14 | 24:55 |
-| [Thomas Chabot](https://www.nhl.com/player/8478469) | D |  Ottawa Senators  | 7 | 11 | 70 | 22 | -6 | 25:58 |
-| [Darnell Nurse](https://www.nhl.com/player/8477498) | D |  Edmonton Oilers  | 5 | 13 | 80 | 30 | +11 | 24:02 |
-| **Totals** | | | 114 | 182 | 1089 | 230 | -4 | 239:40 |
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
+| [Caedan Bankier](https://www.eliteprospects.com/player/538921/caedan-bankier) | F |  Canada | - | - | 0 | - | 0 | 9.8 |
+| [Leo Carlsson](https://www.eliteprospects.com/player/448944/leo-carlsson) | F |  Sweden | 0 | 2 | 7 | 0 | 3 | 15.85 |
+| [Oskar Pettersson](https://www.eliteprospects.com/player/562987/oskar-pettersson) | F |  Sweden | 1 | 1 | 2 | 0 | 4 | 10.95 |
+| [Oliver Kapanen](https://www.eliteprospects.com/player/639018/oliver-kapanen) | F |  Finland | 0 | 0 | 1 | 0 | -1 | 14.03 |
+| [Fabian Wagner](https://www.eliteprospects.com/player/448938/fabian-wagner) | F |  Sweden | 1 | 2 | 1 | 0 | 2 | 12.85 |
+| [Zach Dean](https://www.eliteprospects.com/player/492218/zach-dean) | F |  Canada | 0 | 0 | 0 | 27 | 0 | 5.97 |
+| [Milton Oscarson](https://www.eliteprospects.com/player/425317/milton-oscarson) | F |  Sweden | 1 | 0 | 4 | 0 | 3 | 14.57 |
+| [Axel Sandin Pellikka](https://www.eliteprospects.com/player/534818/axel-sandin-pellikka) | D |  Sweden | - | - | 3 | - | 1 | 16.7 |
+| [Jack Peart](https://www.eliteprospects.com/player/616254/jack-peart) | D |  USA | 0 | 1 | 1 | 0 | 2 | 16.52 |
+| [David Spacek](https://www.eliteprospects.com/player/559551/david-spacek) | D |  Czechia | 1 | 1 | 3 | 0 | 1 | 22.02 |
+| [Jack Matier](https://www.eliteprospects.com/player/476043/jack-matier) | D |  Canada | 0 | 0 | 1 | 0 | 0 | 8.57 |
+| **Totals** | | | 4 | 7 | 23 | 27 | 15 | 147.83 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
-| [Connor Hellebuyck](https://www.nhl.com/player/8476945) | G |  Winnipeg Jets  | .928 | 2.36 |
-## John
-| Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
-| :----- | --- | ---- | - | - | --- | --- | --- | ------ |
-| [Nathan MacKinnon](https://www.nhl.com/player/8477492) | F |  Colorado Avalanche  | 8 | 26 | 120 | 20 | +7 | 21:53 |
-| [Aleksander Barkov](https://www.nhl.com/player/8477493) | F |  Florida Panthers  | 6 | 16 | 82 | 0 | +5 | 21:33 |
-| [Mitchell Marner](https://www.nhl.com/player/8478483) | F |  Toronto Maple Leafs  | 13 | 27 | 89 | 12 | +4 | 21:23 |
-| [Claude Giroux](https://www.nhl.com/player/8473512) | F |  Ottawa Senators  | 14 | 15 | 82 | 8 | +1 | 18:13 |
-| [Alex DeBrincat](https://www.nhl.com/player/8479337) | F |  Ottawa Senators  | 10 | 22 | 116 | 10 | -10 | 19:33 |
-| [Tim St�tzle](https://www.nhl.com/player/8482116) | F |  Ottawa Senators  | 10 | 18 | 70 | 20 | -10 | 20:05 |
-| [Pavel Buchnevich](https://www.nhl.com/player/8477402) | F |  St. Louis Blues  | 11 | 13 | 53 | 14 | 0 | 18:54 |
-| [John Carlson](https://www.nhl.com/player/8474590) | D |  Washington Capitals  | 8 | 13 | 99 | 6 | -2 | 23:39 |
-| [Brent Burns](https://www.nhl.com/player/8470613) | D |  Carolina Hurricanes  | 4 | 19 | 105 | 24 | +7 | 23:48 |
-| [Drew Doughty](https://www.nhl.com/player/8474563) | D |  Los Angeles Kings  | 2 | 18 | 64 | 20 | +3 | 26:28 |
-| [Dougie Hamilton](https://www.nhl.com/player/8476462) | D |  New Jersey Devils  | 7 | 19 | 117 | 22 | +11 | 22:05 |
-| **Totals** | | | 93 | 206 | 997 | 156 | 16 | 237:34 |
+| [Trey Augustine](https://www.eliteprospects.com/player/710572/trey-augustine) | G |  USA | .882 | 2.00 |
+## Timo
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
+| [Fabian Lysell](https://www.eliteprospects.com/player/472769/fabian-lysell) | F |  Sweden | 0 | 0 | 4 | 2 | 1 | 16.07 |
+| [Filip Mesar](https://www.eliteprospects.com/player/527430/filip-mesar) | F |  Slovakia | - | - | 0 | - | - | 0 |
+| [Adam Sýkora](https://www.eliteprospects.com/player/527426/adam-sykora) | F |  Slovakia | - | - | 0 | - | - | 0 |
+| [Jackson Blake](https://www.eliteprospects.com/player/574744/jackson-blake) | F |  USA | 0 | 1 | 4 | 0 | 0 | 15.28 |
+| [Jakub Brabenec](https://www.eliteprospects.com/player/522504/jakub-brabenec) | F |  Czechia | 0 | 1 | 2 | 0 | 1 | 18.07 |
+| [Colton Dach](https://www.eliteprospects.com/player/413126/colton-dach) | F |  Canada | 0 | 0 | 1 | 0 | 0 | 8.1 |
+| [Jonas Taibel](https://www.eliteprospects.com/player/529832/jonas-taibel) | F |  Switzerland | 0 | 2 | 1 | 0 | 2 | 16.87 |
+| [Luke Hughes](https://www.eliteprospects.com/player/526979/luke-hughes) | D |  USA | 1 | 0 | 3 | 0 | 2 | 19.13 |
+| [Ethan Del Mastro](https://www.eliteprospects.com/player/525637/ethan-del-mastro) | D |  Canada | - | - | 0 | - | -2 | 19.4 |
+| [Victor Sjöholm](https://www.eliteprospects.com/player/509816/victor-sjoholm) | D |  Sweden | 0 | 1 | 1 | 0 | 5 | 17.12 |
+| [Brian Zanetti](https://www.eliteprospects.com/player/577448/brian-zanetti) | D |  Switzerland | 0 | 0 | 2 | 0 | -1 | 17.5 |
+| **Totals** | | | 1 | 5 | 18 | 2 | 8 | 147.54 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
-| [Igor Shesterkin](https://www.nhl.com/player/8478048) | G |  New York Rangers  | .916 | 2.44 |
+| [Patrik Andrisik](https://www.eliteprospects.com/player/561862/patrik-andrisik) | G |  Slovakia | 0.000 | 100.00 |
+## John B
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
+| [Dylan Guenther](https://www.eliteprospects.com/player/476538/dylan-guenther) | F |  Canada | 0 | 1 | 5 | 0 | -2 | 18.07 |
+| [Brennan Othmann](https://www.eliteprospects.com/player/529248/brennan-othmann) | F |  Canada | - | - | 1 | - | 0 | 16.0 |
+| [Liam Öhgren](https://www.eliteprospects.com/player/535698/liam-ohgren) | F |  Sweden | 1 | 0 | 2 | 0 | 1 | 18.1 |
+| [Brad Lambert](https://www.eliteprospects.com/player/414961/brad-lambert) | F |  Finland | 0 | 0 | 1 | 0 | 0 | 14.6 |
+| [Ville Koivunen](https://www.eliteprospects.com/player/525660/ville-koivunen) | F |  Finland | - | - | 0 | - | 0 | 18.62 |
+| [Chaz Lucius](https://www.eliteprospects.com/player/512106/chaz-lucius) | F |  USA | 1 | 0 | 4 | 0 | 0 | 15.08 |
+| [Zack Ostapchuk](https://www.eliteprospects.com/player/476029/zack-ostapchuk) | F |  Canada | 0 | 0 | 0 | 0 | 0 | 12.42 |
+| [Topias Vilén](https://www.eliteprospects.com/player/557184/topias-vilen) | D |  Finland | 0 | 0 | 0 | 0 | -1 | 27.85 |
+| [Tomas Hamara](https://www.eliteprospects.com/player/559537/tomas-hamara) | D |  Czechia | 0 | 0 | 1 | 2 | 0 | 16.1 |
+| [Ryan Ufko](https://www.eliteprospects.com/player/511993/ryan-ufko) | D |  USA | - | - | 3 | - | 2 | 19.77 |
+| [Aleksi Malinen](https://www.eliteprospects.com/player/556743/aleksi-malinen) | D |  Finland | 0 | 0 | 0 | 0 | -1 | 0 |
+| **Totals** | | | 2 | 1 | 17 | 2 | -1 | 176.61 |
+
+| Player | Pos | Team | S% | GAA |
+| :----- | --- | ----| -- | --: |
+| [Aku Koskenvuo](https://www.eliteprospects.com/player/498288/aku-koskenvuo) | G |  Finland | .889 | 2.97 |
 ## Carsten
-| Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
-| :----- | --- | ---- | - | - | --- | --- | --- | ------ |
-| [Kirill Kaprizov](https://www.nhl.com/player/8478864) | F |  Minnesota Wild  | 19 | 24 | 133 | 27 | -3 | 20:52 |
-| [Artemi Panarin](https://www.nhl.com/player/8478550) | F |  New York Rangers  | 9 | 32 | 92 | 12 | -5 | 20:13 |
-| [Sebastian Aho](https://www.nhl.com/player/8478427) | F |  Carolina Hurricanes  | 11 | 16 | 77 | 18 | +2 | 20:00 |
-| [Chris Kreider](https://www.nhl.com/player/8475184) | F |  New York Rangers  | 16 | 10 | 109 | 10 | +8 | 19:18 |
-| [Andrei Svechnikov](https://www.nhl.com/player/8480830) | F |  Carolina Hurricanes  | 17 | 12 | 98 | 20 | 0 | 18:24 |
-| [William Nylander](https://www.nhl.com/player/8477939) | F |  Toronto Maple Leafs  | 20 | 19 | 119 | 10 | +14 | 18:26 |
-| [Patrik Laine](https://www.nhl.com/player/8479339) | F |  Columbus Blue Jackets  | 9 | 7 | 71 | 8 | -5 | 19:50 |
-| [Roman Josi](https://www.nhl.com/player/8474600) | D |  Nashville Predators  | 7 | 18 | 139 | 14 | -4 | 25:26 |
-| [Kris Letang](https://www.nhl.com/player/8471724) | D |  Pittsburgh Penguins  | 2 | 14 | 54 | 10 | -8 | 24:24 |
-| [Torey Krug](https://www.nhl.com/player/8476792) | D |  St. Louis Blues  | 5 | 10 | 64 | 13 | -22 | 19:30 |
-| [Alex Pietrangelo](https://www.nhl.com/player/8474565) | D |  Vegas Golden Knights  | 3 | 21 | 57 | 6 | +2 | 23:42 |
-| **Totals** | | | 118 | 183 | 1013 | 148 | -21 | 230:05 |
+| Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
+| :----- | --- | ---- | - | - | --- | --- | --- | --: |
+| [Adam Fantilli](https://www.eliteprospects.com/player/603785/adam-fantilli) | F |  Canada | 0 | 0 | 4 | 2 | -2 | 11.57 |
+| [Eduard Sale](https://www.eliteprospects.com/player/595291/eduard-sale) | F |  Czechia | 0 | 1 | 1 | 0 | 1 | 20.55 |
+| [Julian Lutz](https://www.eliteprospects.com/player/601111/julian-lutz) | F |  Germany | - | - | 0 | - | - | 0 |
+| [Charlie Stramel](https://www.eliteprospects.com/player/623837/charlie-stramel) | F |  USA | 0 | 1 | 4 | 0 | 1 | 13.35 |
+| [Attilio Biasca](https://www.eliteprospects.com/player/596665/attilio-biasca) | F |  Switzerland | 1 | 0 | 5 | 0 | 1 | 20.08 |
+| [Maxim Strbak](https://www.eliteprospects.com/player/595301/maxim-strbak) | D |  Slovakia | - | - | 0 | - | - | 0 |
+| [Nils Elten](https://www.eliteprospects.com/player/394749/nils-elten) | D |  Germany | - | - | 0 | - | - | 0 |
+| **Totals** | | | 1 | 2 | 14 | 2 | 1 | 65.55 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
-| [Andrei Vasilevskiy](https://www.nhl.com/player/8476883) | G |  Tampa Bay Lightning  | .917 | 2.53 |
+| [Nikita Quapp](https://www.eliteprospects.com/player/641906/nikita-quapp) | G |  Germany | 0.000 | 100.00 |
+| [Matej Marinov](https://www.eliteprospects.com/player/578961/matej-marinov) | G |  Slovakia | 0.000 | 100.00 |

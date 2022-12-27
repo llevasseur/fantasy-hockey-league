@@ -60,7 +60,7 @@ def main():
   with open(cwd + '/json/beta-nhl/team-lookup-table.json', 'r') as teams_file:
     teams = json.loads(teams_file.read())
     
-  md_file = open(cwd + '/public/nhl22-23/ROSTERS.md', 'w')
+  md_file = open(cwd + '/ROSTERS.md', 'w')
 
   md_file.write("# Fantasy Rosters\n")
 
@@ -165,8 +165,8 @@ def main():
     json_file.write(json.dumps(ranking_data, indent=4))
 
   print('''
-  Player data from /json/beta-nhl/ep-player-data.json has been used to update public/nhl22-23/ROSTERS.md
-  Run `python src/beta-nhl/parse-standings.py` to update the public/nhl22-23/STANDINGS.md file with this new data
+  Player data from /json/beta-nhl/ep-player-data.json has been used to update ROSTERS.md
+  Run `python src/beta-nhl/parse-standings.py` to update the STANDINGS.md file with this new data
   ''')
 
 if __name__ == "__main__":

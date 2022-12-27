@@ -4,8 +4,8 @@ import os
 cwd = os.getcwd()
 
 NAME = "fantasy-hockey-league"
-ROSTERS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/public/nhl22-23/ROSTERS.md"
-STANDINGS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/public/nhl22-23/STANDINGS.md"
+ROSTERS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/ROSTERS.md"
+STANDINGS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/STANDINGS.md"
 
 NUMBER_OF_PLAYERS = 6
 
@@ -25,7 +25,7 @@ def main():
         else:
           standings[category] = [(score, user)]
   
-  STANDINGS_md = open(cwd + '/public/nhl22-23/STANDINGS.md', 'w')
+  STANDINGS_md = open(cwd + '/STANDINGS.md', 'w')
 
   overall_points = {}
 
@@ -57,7 +57,7 @@ def main():
       else:
         overall_points[p[1]] = [NUMBER_OF_PLAYERS+1-i]
   
-  README_md = open(cwd + '/public/nhl22-23/README.md', 'w')
+  README_md = open(cwd + '/README.md', 'w')
 
   README_md.write('# Fantasy Hockey League\n### Beta Version: Data parsed with Selenium from nhl.com\nCasual Python3 project used by friends to keep track of NHL and WJC players stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.\n\n Find me on Mastodon! <a rel="me" href="https://techhub.social/@leevonlevasseur">Mastodon</a>\n## Scoreboard\n')
   README_md.write(f"| User | [G]({STANDINGS_URL}#user-content-goals) | [A]({STANDINGS_URL}#user-content-assists) | [SOG]({STANDINGS_URL}#user-content-shots-on-goal) | [PIM]({STANDINGS_URL}#user-content-penalties-in-minutes) | [+/-]({STANDINGS_URL}#user-content-plus--minus) | [TOI/GP]({STANDINGS_URL}#user-content-average-time-on-ice) | [S%]({STANDINGS_URL}#user-content-save-percentage) | [GAA]({STANDINGS_URL}#user-content-goals-against-average) | Total |\n")
@@ -78,7 +78,7 @@ def main():
   README_md.write("## Installation\nFork this repository to contribute. Commits will be analyzed before being added to the source code.\n## Usage\nParticipants can use this github to view stats, including the Scoreboard, Selected Roosters, and Standings in each category.\n\nTo update scores:\n1. Run the python script `python3 ./src/beta-nhl/fetch-player-data.py` to launch a Chrome instance using [Selenium](https://selenium-python.readthedocs.io/) for all Skaters and Goalies\n2. Run `python3 ./src/beta-nhl/data-to-md.py` to look up drafted player data in the newly created json database\n3. Run `python3 ./src/beta-nhl/parse-standings.py` to determine standings and the Scoreboard\n4. Add, commit, and push changes to this github repository.\n## Design Decisions: Beta\nFunctional Requirements:\n1. Request the [Selenium](https://selenium-python.readthedocs.io/) Chrome driver to extract all player data from each [nhl.com/stats](https://www.nhl.com/stats/skaters?reportType=season&seasonFrom=20222023&seasonTo=20222023&gameType=2&filter=gamesPlayed,gte,1&sort=points,goals,assists&page=0&pageSize=100) webpage with player statistics (page=[0,6]) and pageSize=100.\n<kbd>![nhl.com stats webpage example](/public/images/selenium_source.jpg)</kbd>\n\n2. Save data as a readable `json` database.\n\n<kbd>![json database entry example](/public/images/new_json_database.jpg)</kbd>\n\n3. Display the data in 3 locations: \n* ROSTERS.md: A visualizer for each participants drafted players' statistics. \n* STANDINGS.md: A visualizer for each participants overall totals versus each other. This determines rank. \n* README.md/Scoreboard: To make the scoreboard readily available for participants when they view this github repo, the Scoreboard is attached to this README. It is a visualizer for participant points based on rank for each category (Goals, Assists, etc). Participant points determine who's winning, or who wins, and is based off the number of players.\n<p align='center'><kbd><img src='/public/images/roster_example.jpg' width='450' /></kbd><kbd><img src='/public/images/standings_example.jpg' width='300' /></kbd><kbd><img src='/public/images/scoreboard_example.jpg' width='500' /></kbd></p>\n\n## Contributing\nBug reports are welcome on Github at [Issues](https://github.com/llevasseur/world-juniors-2022/issues).\n## License\nThis project is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).\n## Future Work:\nAnticipated additions to this project include:\n1. Add metrics to each stat for each player and participant to detail change using red and green arrows and text.\n2. Plot statistics over games played using [Matplotlib](https://matplotlib.org/). Eventually, a model will be created to predict future performance statistics and outcome probability\n3. Facilitate roster changes including picking up and adding players to waivers, adding players that haven't been drafted, and trades.\n4. Customizable visualizers for each participant. Potentially would require its own website with a login and an SQL database.\n5. Automate all scripts to parse and update data at 12am pst using Make.")
 
   print('''
-  Participant standings parsed!! They have been written to /public/nhl22-23/README.md, /public/nhl22-23/STANDINGS.md, and /public/nhl22-23/ROSTERS.md.
+  Participant standings parsed!! They have been written to README.md, STANDINGS.md, and ROSTERS.md.
   Run `git add -A || git commit -m "{message}" || git push` to update the github repository.
   ''')
 
