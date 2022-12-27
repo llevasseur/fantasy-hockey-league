@@ -42,7 +42,7 @@
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Shane Wright](https://www.eliteprospects.com/player/526239/shane-wright) | F |  Canada | 1 | 1 | 2 | 0 | 0 | 18.63 |
 | [Cutter Gauthier](https://www.eliteprospects.com/player/526094/cutter-gauthier) | F |  USA | - | - | 5 | - | 1 | 19.35 |
-| [Jiri Kulich](https://www.eliteprospects.com/player/579198/jiri-kulich) | F |  Czechia | 0 | 0 | 0 | 0 | 1 | 0 |
+| [Jiri Kulich](https://www.eliteprospects.com/player/579198/jiri-kulich) | F |  Czechia | 0 | 0 | 4 | 0 | 1 | 20.51 |
 | [Tyler Boucher](https://www.eliteprospects.com/player/478374/tyler-boucher) | F |  USA | 0 | 0 | 1 | 0 | 1 | 12.92 |
 | [Nathan Gaucher](https://www.eliteprospects.com/player/340644/nathan-gaucher) | F |  Canada | 0 | 0 | 1 | 4 | 0 | 13.18 |
 | [Simon Robertsson](https://www.eliteprospects.com/player/473175/simon-robertsson) | F |  Sweden | 1 | 0 | 2 | 0 | 2 | 10.95 |
@@ -51,7 +51,7 @@
 | [Ville Ruotsalainen](https://www.eliteprospects.com/player/557202/ville-ruotsalainen) | D |  Finland | 0 | 0 | 0 | 0 | 1 | 9.17 |
 | [Otto Salin](https://www.eliteprospects.com/player/638727/otto-salin) | D |  Finland | 0 | 0 | 0 | 0 | -1 | 16.67 |
 | [Bogdans Hodass](https://www.eliteprospects.com/player/532642/bogdans-hodass) | D |  Latvia | - | - | 1 | - | -3 | 24.22 |
-| **Totals** | | | 2 | 3 | 14 | 4 | 6 | 154.83 |
+| **Totals** | | | 2 | 3 | 18 | 4 | 6 | 175.34 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |

@@ -29,10 +29,10 @@
 | 2 | [Sean](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Sean) |  25 |
 | 3 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) |  23 |
 | 4 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) |  18 |
-| 5 | [John B](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John B) |  17 |
-| 6 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) |  14 |
-| 6 | [John M](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John M) |  14 |
-| 6 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Carsten) |  14 |
+| 4 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) |  18 |
+| 6 | [John B](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John B) |  17 |
+| 7 | [John M](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John M) |  14 |
+| 7 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Carsten) |  14 |
 | 9 | [Karter](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Karter) |  10 |
 ## Penalties in Minutes
 | Rank | User | Penalties in Minutes |
@@ -62,8 +62,8 @@
 | Rank | User | Time Played in Minutes |
 | :--- | ---- | ---------: |
 | 1 | [John B](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John B) |  176.61 |
-| 2 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Alasdair) |  159.23 |
-| 3 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) |  154.83 |
+| 2 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) |  175.34 |
+| 3 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Alasdair) |  159.23 |
 | 4 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) |  147.83 |
 | 5 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) |  147.54 |
 | 6 | [Karter](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Karter) |  139.39 |
