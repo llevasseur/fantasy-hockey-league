@@ -33,7 +33,7 @@ def main():
     st = standings[category]
     st.sort()
     if category != "Goals Against Average":
-      st.reverse()
+      st.reverse() 
 
     STANDINGS_md.write(f"## {category}\n")
     STANDINGS_md.write(f"| Rank | User | {category} |\n")
