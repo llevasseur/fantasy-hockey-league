@@ -98,6 +98,9 @@ def main():
           if pos == "G":
             gaa=player_data[pick]['gaa']
             svp=player_data[pick]['svp']
+            g=player_data[pick]['g']
+            a=player_data[pick]['a']
+            pim=player_data[pick]['pim']
 
             if re.match('[\d\.]+', gaa):
               gaa_list.append(float(gaa))
@@ -107,9 +110,12 @@ def main():
               svp_list.append(float(svp))
             else:
               svp_list.append(0.0)
+            if re.match('\d+', g): g_total += int(g)
+            if re.match('\d+', a): a_total += int(a)
+            if re.match('\d+', pim): pim_total += int(pim)
 
             player_map[pos].append(
-              f"| [{pick}]({href}) | {pos} | {team} | {svp} | {gaa} |\n")
+              f"| [{pick}]({href}) | {pos} | {team} | {g} | {a} | {pim} | {svp} | {gaa} |\n")
           else:
             g=player_data[pick]['g']
             a=player_data[pick]['a']
@@ -155,8 +161,8 @@ def main():
 
     md_file.write(
       f"| **Totals** | | | {g_total} | {a_total} | {sog_total} | {pim_total} | {pm_total} | {tpm_total} |\n")
-    md_file.write(f"\n| Player | Pos | Team | S% | GAA |\n")
-    md_file.write(f"| :----- | --- | ----| -- | --: |\n")
+    md_file.write(f"\n| Player | Pos | Team | G | A | PIM | S% | GAA |\n")
+    md_file.write(f"| :----- | --- | ----| - | - | --- | -- | --: |\n")
 
     goalies=player_map["G"]
     for g in goalies:

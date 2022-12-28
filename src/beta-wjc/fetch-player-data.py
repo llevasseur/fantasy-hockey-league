@@ -33,6 +33,8 @@ def handleTd(obj, td):
       elif a.text != "\n\n":
         obj["name"] = a.text
         obj["pos"] = "G"
+        # Account for goalies getting points and penalties
+        obj["g"], obj["a"], obj["pim"] = "0", "0", "0" 
       else: continue
       obj["href"] = a.get('href')
 
@@ -52,6 +54,7 @@ def handleTd(obj, td):
 
   elif cl and 'svp' in cl:
     obj['svp'] = td.text.strip()
+
 
 def getInnerWrapper(soup):
   div_list = soup.find_all('div')

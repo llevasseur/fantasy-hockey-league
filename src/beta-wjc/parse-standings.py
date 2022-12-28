@@ -49,8 +49,12 @@ def main():
                 j = 1
             else:
                 j += 1
+            if len(p[1].split()) > 1: 
+                userName = '-'.join(p[1].split())
+            else:
+                userName = p[1]
             STANDINGS_md.write(
-                f"| {i} | [{p[1]}]({ROSTERS_URL}#{p[1]}) |  {p[0]} |\n")
+                f"| {i} | [{p[1]}]({ROSTERS_URL}#{userName}) |  {p[0]} |\n")
             last_p0 = p[0]
 
             if p[1] in overall_points.keys():

@@ -16,6 +16,9 @@
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/539074/thomas-milic",
         "team": " Canada",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
         "gaa": "100.00",
         "svp": "0.000"
     },
@@ -192,6 +195,9 @@
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/710572/trey-augustine",
         "team": " USA",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
         "gaa": "100.00",
         "svp": "0.000"
     },
@@ -208,6 +214,9 @@
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/574814/andrew-oke",
         "team": " USA",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
         "gaa": "100.00",
         "svp": "0.000"
     },
@@ -360,6 +369,9 @@
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/522442/tomas-suchanek",
         "team": " Czechia",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
         "gaa": "100.00",
         "svp": "0.000"
     },
@@ -368,6 +380,9 @@
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/561862/patrik-andrisik",
         "team": " Slovakia",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
         "gaa": "100.00",
         "svp": "0.000"
     },
@@ -376,6 +391,9 @@
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/578961/matej-marinov",
         "team": " Slovakia",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
         "gaa": "100.00",
         "svp": "0.000"
     },
@@ -384,6 +402,9 @@
         "pos": "G",
         "href": "https://www.eliteprospects.com/player/641906/nikita-quapp",
         "team": " Germany",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
         "gaa": "100.00",
         "svp": "0.000"
     },
@@ -454,7 +475,7 @@
         "team": " Latvia",
 		"g":"-",
         "a": "-",
-        "pim": "-",
+        "pim": "2",
         "pm": "-2",
         "SOG": 0,
         "TPM": 0
