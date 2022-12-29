@@ -2208,70 +2208,70 @@
         "pos": "D",
         "href": "https://www.eliteprospects.com/player/394749/nils-elten",
         "team": " Germany",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
     "Jere Lassila": {
         "name": "Jere Lassila",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/526041/jere-lassila",
         "team": " Finland",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
     "Lukas Pajer": {
         "name": "Lukas Pajer",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/529386/lukas-pajer",
         "team": " Czechia",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
     "Marek Alscher": {
         "name": "Marek Alscher",
         "pos": "D",
         "href": "https://www.eliteprospects.com/player/537884/marek-alscher",
         "team": " Czechia",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
     "Bennet Ro\u00dfmy": {
         "name": "Bennet Ro\u00dfmy",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/542979/bennet-ro%C3%9Fmy",
         "team": " Germany",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
     "Kristians Samitis": {
         "name": "Kristians Samitis",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/556649/kristians-samitis",
         "team": " Latvia",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
     "Robin Sapousek": {
         "name": "Robin Sapousek",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/579263/robin-sapousek",
         "team": " Czechia",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
     "Ondrej Becher": {
         "name": "Ondrej Becher",
@@ -2283,45 +2283,25 @@
         "pim": "-",
         "pm": "-"
     },
-    "Luca Deussen": {
-        "name": "Luca Deussen",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/596662/luca-deussen",
-        "team": " Switzerland",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
-    "Tim Muggli": {
-        "name": "Tim Muggli",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/596667/tim-muggli",
-        "team": " Switzerland",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
-    },
     "Ondrej Chabada": {
         "name": "Ondrej Chabada",
         "pos": "D",
         "href": "https://www.eliteprospects.com/player/615562/ondrej-chabada",
         "team": " Czechia",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
     "Elvis Laskovs": {
         "name": "Elvis Laskovs",
         "pos": "D",
         "href": "https://www.eliteprospects.com/player/789823/elvis-laskovs",
         "team": " Latvia",
-        "g": "-",
-        "a": "-",
-        "pim": "-",
-        "pm": "-"
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
     "Noah Laba": {
         "name": "Noah Laba",
@@ -2350,8 +2330,8 @@
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/638444/sandis-vilmanis",
         "team": " Latvia",
-		"g":"0",
-        "a": "0",
+		"g":"-",
+        "a": "-",
         "pim": "2",
         "pm": "-2",
         "SOG": 0,
