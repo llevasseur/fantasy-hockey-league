@@ -4,15 +4,15 @@ Casual Python3 project used by friends to keep track of NHL and WJC players' sta
 ## Scoreboard
 | User | [G](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-goals) | [A](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-assists) | [SOG](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-shots-on-goal) | [PIM](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-penalties-in-minutes) | [+/-](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-plus--minus) | [TPM](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-time-played-in-minutes) | [S%](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-save-percentage) | [GAA](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-goals-against-average) | Total |
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
-| [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) | 9 | 7 | 5 | 9 | 9 | 4 | 4 | 5 | 52 |
-| [John M](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-M) | 5 | 8 | 8 | 6 | 6 | 6 | 6 | 7 | 52 |
-| [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Carsten) | 3 | 9 | 6 | 5 | 8 | 1 | 7 | 6 | 45 |
-| [Sean](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Sean) | 7 | 3 | 7 | 5 | 2 | 2 | 9 | 9 | 44 |
-| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) | 9 | 3 | 4 | 5 | 8 | 7 | 2 | 2 | 40 |
-| [Karter](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Karter) | 1 | 6 | 1 | 8 | 1 | 5 | 9 | 9 | 40 |
-| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 3 | 4 | 4 | 7 | 5 | 8 | 3 | 3 | 37 |
-| [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Alasdair) | 7 | 6 | 9 | 5 | 4 | 3 | 1 | 1 | 36 |
-| [John B](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-B) | 5 | 1 | 2 | 5 | 3 | 9 | 5 | 4 | 34 |
+| [John M](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-M) | 4 | 9 | 7 | 7 | 8 | 8 | 7 | 8 | 58 |
+| [Sean](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Sean) | 8 | 3 | 8 | 2 | 6 | 3 | 9 | 9 | 48 |
+| [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) | 6 | 6 | 2 | 9 | 9 | 2 | 4 | 5 | 43 |
+| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) | 9 | 6 | 6 | 4 | 7 | 6 | 1 | 1 | 40 |
+| [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Carsten) | 2 | 9 | 3 | 7 | 3 | 1 | 8 | 7 | 40 |
+| [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Alasdair) | 6 | 6 | 9 | 4 | 2 | 4 | 3 | 3 | 37 |
+| [Karter](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Karter) | 2 | 7 | 1 | 8 | 1 | 5 | 6 | 6 | 36 |
+| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 3 | 2 | 5 | 7 | 5 | 9 | 2 | 2 | 35 |
+| [John B](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-B) | 7 | 1 | 4 | 1 | 4 | 7 | 5 | 4 | 33 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage
@@ -37,7 +37,7 @@ Extract the html from the response and pull out data using [Beautiful Soup](http
 
 In the Beta version, a [selenium](https://selenium-python.readthedocs.io/) web scraper will be used, however, it has not been perfected for the alpha version. In the mean time, player data is added manually to a separate `json` file. `write-manual-data.py` is a CLI API to do this easily, taking FirstInitial. Lastname, SOG, M, SS, ... , as input. Save data as a `json` database.
 
-3. Merge the fetched player database and the manual player database using `player_name` as the primary key. As some players have ascii characters not available on English keyboards, like `Tim StÃ¼tzle`, a separate database has been created to determine player names based on the `FirstInitial. Lastname` input.
+3. Merge the fetched player database and the manual player database using `player_name` as the primary key. As some players have ascii characters not available on English keyboards, like `Tim Stützle`, a separate database has been created to determine player names based on the `FirstInitial. Lastname` input.
 
 4. Display the data in 3 locations: 
 * ROSTERS.md: A visualizer for each participants drafted players' statistics. 
