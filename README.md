@@ -6,13 +6,13 @@ Casual Python3 project used by friends to keep track of NHL and WJC players' sta
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
 | [John M](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-M) | 4 | 9 | 7 | 7 | 8 | 8 | 7 | 8 | 58 |
 | [Sean](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Sean) | 8 | 3 | 8 | 2 | 6 | 3 | 9 | 9 | 48 |
-| [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) | 6 | 6 | 2 | 9 | 9 | 2 | 4 | 5 | 43 |
-| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) | 9 | 6 | 6 | 4 | 7 | 6 | 1 | 1 | 40 |
-| [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Carsten) | 2 | 9 | 3 | 7 | 3 | 1 | 8 | 7 | 40 |
-| [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Alasdair) | 6 | 6 | 9 | 4 | 2 | 4 | 3 | 3 | 37 |
+| [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Alasdair) | 7 | 6 | 9 | 7 | 6 | 4 | 3 | 3 | 45 |
+| [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) | 5 | 6 | 2 | 9 | 9 | 2 | 4 | 5 | 42 |
+| [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) | 9 | 6 | 6 | 3 | 7 | 6 | 1 | 1 | 39 |
+| [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Carsten) | 2 | 9 | 3 | 7 | 2 | 1 | 8 | 7 | 39 |
 | [Karter](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Karter) | 2 | 7 | 1 | 8 | 1 | 5 | 6 | 6 | 36 |
-| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 3 | 2 | 5 | 7 | 5 | 9 | 2 | 2 | 35 |
-| [John B](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-B) | 7 | 1 | 4 | 1 | 4 | 7 | 5 | 4 | 33 |
+| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 3 | 2 | 5 | 7 | 4 | 9 | 2 | 2 | 34 |
+| [John B](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-B) | 6 | 1 | 4 | 1 | 3 | 7 | 5 | 4 | 31 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage

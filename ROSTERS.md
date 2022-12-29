@@ -24,16 +24,10 @@
 | [Logan Cooley](https://www.eliteprospects.com/player/651538/logan-cooley) | F |  USA | 0 | 2 | 5 | 0 | -1 | 36.1 |
 | [Victor Stjernborg](https://www.eliteprospects.com/player/472146/victor-stjernborg) | F |  Sweden | 0 | 1 | 2 | 2 | 2 | 27.15 |
 | [Niko Huuhtanen](https://www.eliteprospects.com/player/525628/niko-huuhtanen) | F |  Finland | 0 | 0 | 2 | 2 | -2 | 28.57 |
-| [Sandi Vilmanis](https://www.eliteprospects.com/player/638444/sandis-vilmanis) | F |  Latvia | 0 | 0 | 1 | 2 | -2 | 35.06 |
-<<<<<<< HEAD
+| [Sandi Vilmanis](https://www.eliteprospects.com/player/638444/sandis-vilmanis) | F |  Latvia | - | - | 1 | 2 | -2 | 35.06 |
 | [Reid Schaefer](https://www.eliteprospects.com/player/506838/reid-schaefer) | F |  Canada | 0 | 0 | 1 | 2 | 0 | 15.65 |
 | [Adam Zlnka](https://www.eliteprospects.com/player/527422/adam-zlnka) | F |  Slovakia | 0 | 1 | 3 | 0 | 1 | 30.55 |
 | [Brandt Clarke](https://www.eliteprospects.com/player/336887/brandt-clarke) | D |  Canada | 1 | 1 | 3 | 2 | 0 | 34.27 |
-=======
-| [Reid Schaefer](https://www.eliteprospects.com/player/506838/reid-schaefer) | F |  Canada | 0 | 0 | 0 | 0 | 0 | 6.15 |
-| [Adam Zlnka](https://www.eliteprospects.com/player/527422/adam-zlnka) | F |  Slovakia | 0 | 0 | 1 | 0 | -1 | 18.97 |
-| [Brandt Clarke](https://www.eliteprospects.com/player/336887/brandt-clarke) | D |  Canada | 0 | 0 | 1 | 2 | -1 | 17.57 |
->>>>>>> d0ba496fe0ff2a66d8f9a07a9a30962ad39f7912
 | [Aleksi Heimosalmi](https://www.eliteprospects.com/player/601642/aleksi-heimosalmi) | D |  Finland | 0 | 0 | 1 | 4 | 1 | 42.44 |
 | [Kevin Korchinski](https://www.eliteprospects.com/player/516605/kevin-korchinski) | D |  Canada | 0 | 3 | 0 | 0 | 1 | 27.55 |
 | [Stanislav Svozil](https://www.eliteprospects.com/player/428002/stanislav-svozil) | D |  Czechia | 1 | 4 | 5 | 0 | 4 | 35.85 |
@@ -46,7 +40,6 @@
 ## Leevon
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
-<<<<<<< HEAD
 | [Shane Wright](https://www.eliteprospects.com/player/526239/shane-wright) | F |  Canada | 2 | 2 | 5 | 0 | 0 | 35.71 |
 | [Cutter Gauthier](https://www.eliteprospects.com/player/526094/cutter-gauthier) | F |  USA | 0 | 2 | 9 | 0 | -1 | 37.2 |
 | [Jiri Kulich](https://www.eliteprospects.com/player/579198/jiri-kulich) | F |  Czechia | 3 | 0 | 11 | 0 | 5 | 37.73 |
@@ -56,17 +49,6 @@
 | [Simon Robertsson](https://www.eliteprospects.com/player/473175/simon-robertsson) | F |  Sweden | 1 | 0 | 2 | 0 | 2 | 21.83 |
 | [Lane Hutson](https://www.eliteprospects.com/player/526227/lane-hutson) | D |  USA | 0 | 1 | 0 | 2 | -2 | 28.7 |
 | [Adam Engström](https://www.eliteprospects.com/player/491616/adam-engstrom) | D |  Sweden | 1 | 2 | 3 | 0 | 5 | 32.75 |
-=======
-| [Shane Wright](https://www.eliteprospects.com/player/526239/shane-wright) | F |  Canada | 1 | 1 | 2 | 0 | 0 | 18.63 |
-| [Cutter Gauthier](https://www.eliteprospects.com/player/526094/cutter-gauthier) | F |  USA | 0 | 0 | 5 | 0 | 1 | 19.35 |
-| [Jiri Kulich](https://www.eliteprospects.com/player/579198/jiri-kulich) | F |  Czechia | 3 | 0 | 11 | 0 | 5 | 37.73 |
-| [Tyler Boucher](https://www.eliteprospects.com/player/478374/tyler-boucher) | F |  USA | 0 | 0 | 1 | 0 | 0 | 12.92 |
-| [Nathan Gaucher](https://www.eliteprospects.com/player/340644/nathan-gaucher) | F |  Canada | 0 | 0 | 1 | 4 | 0 | 13.18 |
-| [Simon Robertsson](https://www.eliteprospects.com/player/473175/simon-robertsson) | F |  Sweden | 1 | 0 | 2 | 0 | 2 | 21.83 |
-| [Lane Hutson](https://www.eliteprospects.com/player/526227/lane-hutson) | D |  USA | 0 | 0 | 0 | 0 | 0 | 14.12 |
-| [Adam EngstrÃ¶m](https://www.eliteprospects.com/player/491616/adam-engstrom) | D |  Sweden | 1 | 2 | 3 | 0 | 5 | 32.75 |
-| [Ville Ruotsalainen](https://www.eliteprospects.com/player/557202/ville-ruotsalainen) | D |  Finland | 0 | 0 | 0 | 0 | 1 | 18.37 |
->>>>>>> d0ba496fe0ff2a66d8f9a07a9a30962ad39f7912
 | [Otto Salin](https://www.eliteprospects.com/player/638727/otto-salin) | D |  Finland | 0 | 1 | 1 | 0 | 1 | 32.82 |
 | [Bogdans Hodass](https://www.eliteprospects.com/player/532642/bogdans-hodass) | D |  Latvia | 0 | 0 | 5 | 0 | -3 | 49.02 |
 | **Totals** | | | 10 | 10 | 47 | 8 | 10 | 360.53 |
@@ -77,21 +59,12 @@
 ## John M
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
-<<<<<<< HEAD
 | [Logan Stankoven](https://www.eliteprospects.com/player/556512/logan-stankoven) | F |  Canada | 1 | 2 | 4 | 0 | 1 | 31.55 |
 | [Rutger McGroarty](https://www.eliteprospects.com/player/526095/rutger-mcgroarty) | F |  USA | 0 | 1 | 3 | 0 | 0 | 29.06 |
 | [Joshua Roy](https://www.eliteprospects.com/player/483757/joshua-roy) | F |  Canada | 1 | 1 | 6 | 0 | 2 | 26.46 |
 | [Dans Locmelis](https://www.eliteprospects.com/player/638391/dans-locmelis) | F |  Latvia | 1 | 0 | 5 | 0 | 0 | 39.72 |
 | [Filip Bystedt](https://www.eliteprospects.com/player/578760/filip-bystedt) | F |  Sweden | 2 | 2 | 11 | 2 | 7 | 34.76 |
 | [Martin Rysavy](https://www.eliteprospects.com/player/522440/martin-rysavy) | F |  Czechia | 0 | 0 | 4 | 2 | -1 | 26.24 |
-=======
-| [Logan Stankoven](https://www.eliteprospects.com/player/556512/logan-stankoven) | F |  Canada | 0 | 0 | 0 | 0 | -2 | 16.12 |
-| [Rutger McGroarty](https://www.eliteprospects.com/player/526095/rutger-mcgroarty) | F |  USA | 0 | 0 | 1 | 0 | 1 | 11.48 |
-| [Joshua Roy](https://www.eliteprospects.com/player/483757/joshua-roy) | F |  Canada | 0 | 0 | 3 | 0 | 0 | 13.13 |
-| [Dans Locmelis](https://www.eliteprospects.com/player/638391/dans-locmelis) | F |  Latvia | 1 | 0 | 5 | 0 | 0 | 39.72 |
-| [Filip Bystedt](https://www.eliteprospects.com/player/578760/filip-bystedt) | F |  Sweden | 2 | 2 | 11 | 2 | 7 | 34.76 |
-| [Vinzenz Rohrer](https://www.eliteprospects.com/player/406803/vinzenz-rohrer) | F |  Austria | 0 | 0 | 1 | 0 | 0 | 19.55 |
->>>>>>> d0ba496fe0ff2a66d8f9a07a9a30962ad39f7912
 | [Lian Bichsel](https://www.eliteprospects.com/player/665087/lian-bichsel) | D |  Switzerland | 0 | 2 | 6 | 0 | 3 | 54.58 |
 | [Simon Nemec](https://www.eliteprospects.com/player/589605/simon-nemec) | D |  Slovakia | 0 | 3 | 6 | 2 | 1 | 52.35 |
 | [Nolan Allan](https://www.eliteprospects.com/player/482413/nolan-allan) | D |  Canada | 0 | 0 | 4 | 0 | 1 | 34.9 |
@@ -110,23 +83,13 @@
 | [Noah Östlund](https://www.eliteprospects.com/player/535699/noah-ostlund) | F |  Sweden | 0 | 1 | 9 | 0 | 1 | 30.74 |
 | [Jonathan Lekkerimäki](https://www.eliteprospects.com/player/649220/jonathan-lekkerimaki) | F |  Sweden | 1 | 1 | 4 | 2 | 3 | 23.25 |
 | [Jani Nyman](https://www.eliteprospects.com/player/611825/jani-nyman) | F |  Finland | 1 | 0 | 7 | 0 | 0 | 32.05 |
-<<<<<<< HEAD
 | [Gavin Brindley](https://www.eliteprospects.com/player/538006/gavin-brindley) | F |  USA | 1 | 0 | 3 | 2 | -2 | 25.29 |
-| [Bennet Roßmy](https://www.eliteprospects.com/player/542979/bennet-ro%C3%9Fmy) | F |  Germany | - | - | 0 | - | - | 0 |
+| [Gabriel Szturc](https://www.eliteprospects.com/player/426117/gabriel-szturc) | F |  Czechia | 2 | 0 | 6 | 2 | 4 | 29.75 |
 | [Olen Zellweger](https://www.eliteprospects.com/player/476596/olen-zellweger) | D |  Canada | 0 | 4 | 9 | 2 | -1 | 36.41 |
 | [David Jiricek](https://www.eliteprospects.com/player/559522/david-jiricek) | D |  Czechia | 0 | 2 | 8 | 0 | 2 | 34.7 |
 | [Sean Behrens](https://www.eliteprospects.com/player/464775/sean-behrens) | D |  USA | 1 | 1 | 6 | 0 | 0 | 38.33 |
 | [Tyson Hinds](https://www.eliteprospects.com/player/485317/tyson-hinds) | D |  Canada | 0 | 0 | 5 | 0 | 2 | 30.35 |
-| **Totals** | | | 6 | 10 | 67 | 8 | 5 | 317.05 |
-=======
-| [Gavin Brindley](https://www.eliteprospects.com/player/538006/gavin-brindley) | F |  USA | 0 | 0 | 2 | 2 | 1 | 12.22 |
-| [Bennet RoÃŸmy](https://www.eliteprospects.com/player/542979/bennet-ro%C3%9Fmy) | F |  Germany | 0 | 0 | 0 | 0 | 0 | 0 |
-| [Olen Zellweger](https://www.eliteprospects.com/player/476596/olen-zellweger) | D |  Canada | 0 | 1 | 3 | 0 | -1 | 17.98 |
-| [David Jiricek](https://www.eliteprospects.com/player/559522/david-jiricek) | D |  Czechia | 0 | 2 | 8 | 0 | 2 | 34.7 |
-| [Sean Behrens](https://www.eliteprospects.com/player/464775/sean-behrens) | D |  USA | 1 | 1 | 2 | 0 | 1 | 19.38 |
-| [Tyson Hinds](https://www.eliteprospects.com/player/485317/tyson-hinds) | D |  Canada | 0 | 0 | 2 | 0 | 0 | 14.47 |
-| **Totals** | | | 5 | 7 | 50 | 4 | 8 | 233.74 |
->>>>>>> d0ba496fe0ff2a66d8f9a07a9a30962ad39f7912
+| **Totals** | | | 8 | 10 | 73 | 10 | 9 | 346.8 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
@@ -158,11 +121,7 @@
 | [Adam Sýkora](https://www.eliteprospects.com/player/527426/adam-sykora) | F |  Slovakia | 0 | 0 | 1 | 0 | 0 | 43.5 |
 | [Jackson Blake](https://www.eliteprospects.com/player/574744/jackson-blake) | F |  USA | 0 | 1 | 6 | 0 | -1 | 30.18 |
 | [Jakub Brabenec](https://www.eliteprospects.com/player/522504/jakub-brabenec) | F |  Czechia | 1 | 1 | 5 | 4 | 3 | 32.6 |
-<<<<<<< HEAD
 | [Colton Dach](https://www.eliteprospects.com/player/413126/colton-dach) | F |  Canada | 0 | 1 | 4 | 0 | 1 | 21.97 |
-=======
-| [Colton Dach](https://www.eliteprospects.com/player/413126/colton-dach) | F |  Canada | 0 | 0 | 1 | 0 | 0 | 8.1 |
->>>>>>> d0ba496fe0ff2a66d8f9a07a9a30962ad39f7912
 | [Jonas Taibel](https://www.eliteprospects.com/player/529832/jonas-taibel) | F |  Switzerland | 0 | 2 | 2 | 0 | 3 | 37.65 |
 | [Luke Hughes](https://www.eliteprospects.com/player/526979/luke-hughes) | D |  USA | 1 | 0 | 5 | 0 | -1 | 44.13 |
 | [Ethan Del Mastro](https://www.eliteprospects.com/player/525637/ethan-del-mastro) | D |  Canada | 0 | 0 | 0 | 2 | -2 | 34.73 |
@@ -200,17 +159,10 @@
 | [Julian Lutz](https://www.eliteprospects.com/player/601111/julian-lutz) | F |  Germany | 0 | 0 | 9 | 6 | -2 | 29.5 |
 | [Charlie Stramel](https://www.eliteprospects.com/player/623837/charlie-stramel) | F |  USA | 0 | 2 | 5 | 0 | -1 | 29.27 |
 | [Attilio Biasca](https://www.eliteprospects.com/player/596665/attilio-biasca) | F |  Switzerland | 1 | 1 | 10 | 0 | 3 | 45.51 |
-<<<<<<< HEAD
 | [Kalle Väisänen](https://www.eliteprospects.com/player/559937/kalle-vaisanen) | F |  Finland | 1 | 1 | 3 | 0 | 3 | 30.1 |
 | [Maxim Strbak](https://www.eliteprospects.com/player/595301/maxim-strbak) | D |  Slovakia | 0 | 3 | 2 | 0 | 0 | 36.84 |
-| [Nils Elten](https://www.eliteprospects.com/player/394749/nils-elten) | D |  Germany | - | - | 0 | - | - | 0 |
-| [Adrian Klein](https://www.eliteprospects.com/player/381680/adrian-klein) | D |  Germany | 0 | 0 | 0 | 2 | -1 | 42.59 |
-=======
-| [Kalle VÃ¤isÃ¤nen](https://www.eliteprospects.com/player/559937/kalle-vaisanen) | F |  Finland | 1 | 1 | 3 | 0 | 3 | 30.1 |
-| [Maxim Strbak](https://www.eliteprospects.com/player/595301/maxim-strbak) | D |  Slovakia | 0 | 2 | 2 | 0 | 0 | 16.62 |
 | [Nils Elten](https://www.eliteprospects.com/player/394749/nils-elten) | D |  Germany | 0 | 0 | 0 | 0 | 0 | 0 |
-| [Adrian Klein](https://www.eliteprospects.com/player/381680/adrian-klein) | D |  Germany | 0 | 0 | 0 | 2 | 0 | 17.52 |
->>>>>>> d0ba496fe0ff2a66d8f9a07a9a30962ad39f7912
+| [Adrian Klein](https://www.eliteprospects.com/player/381680/adrian-klein) | D |  Germany | 0 | 0 | 0 | 2 | -1 | 42.59 |
 | [Kalle Ervasti](https://www.eliteprospects.com/player/470503/kalle-ervasti) | D |  Finland | 0 | 3 | 1 | 0 | 3 | 27.72 |
 | **Totals** | | | 2 | 14 | 41 | 10 | 6 | 302.05 |
 
