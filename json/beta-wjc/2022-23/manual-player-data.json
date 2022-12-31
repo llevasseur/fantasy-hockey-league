@@ -371,54 +371,54 @@
     },
     "Slovakia": {
         "Simon Nemec": {
-            "SOG": 6,
-            "TPM": 52.35
+            "SOG": 9,
+            "TPM": 79.1
         },
         "Dalibor Dvorsk\u00fd": {
-            "SOG": 6,
-            "TPM": 44.0
+            "SOG": 7,
+            "TPM": 63.1
         },
         "Serv\u00e1c Petrovsk\u00fd": {
-            "SOG": 5,
-            "TPM": 38.9
+            "SOG": 8,
+            "TPM": 57.85
         },
         "Adam Zlnka": {
-            "SOG": 3,
-            "TPM": 30.55
+            "SOG": 4,
+            "TPM": 43.55
         },
         "Filip Mesar": {
-            "SOG": 6,
-            "TPM": 41.02
+            "SOG": 7,
+            "TPM": 60.95
         },
         "Adam S\u00fdkora": {
-            "SOG": 1,
-            "TPM": 43.5
+            "SOG": 5,
+            "TPM": 63.77
         },
         "Maxim Strbak": {
-            "SOG": 2,
-            "TPM": 36.84
+            "SOG": 3,
+            "TPM": 55.22
         }
     },
     "Germany": {
         "Julian Lutz": {
-            "SOG": 9,
-            "TPM": 29.5
+            "SOG": 11,
+            "TPM": 47.23
         },
         "Nils Elten": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 10.78
         },
         "Bennet Ro\u00dfmy": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 17.48
         },
         "Philipp Bidoul": {
             "SOG": 3,
-            "TPM": 42.07
+            "TPM": 62.32
         },
         "Adrian Klein": {
-            "SOG": 0,
-            "TPM": 42.59
+            "SOG": 2,
+            "TPM": 61.97
         }
     },
     "Switzerland": {
@@ -447,16 +447,16 @@
     },
     "Latvia": {
         "Bogdans Hodass": {
-            "SOG": 6,
-            "TPM": 74.3
+            "SOG": 7,
+            "TPM": 96.07
         },
         "Dans Locmelis": {
-            "SOG": 7,
-            "TPM": 56.75
+            "SOG": 10,
+            "TPM": 77.67
         },
         "Sandi Vilmanis": {
-            "SOG": 3,
-            "TPM": 50.89
+            "SOG": 5,
+            "TPM": 71.02
         }
     }
 }

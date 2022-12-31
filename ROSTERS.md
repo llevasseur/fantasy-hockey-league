@@ -4,15 +4,15 @@
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Connor Bedard](https://www.eliteprospects.com/player/535584/connor-bedard) | F |  Canada | 6 | 8 | 23 | 0 | 8 | 54.65 |
 | [Isak Rosén](https://www.eliteprospects.com/player/420269/isak-rosen) | F |  Sweden | 2 | 1 | 10 | 2 | 5 | 49.28 |
-| [Dalibor Dvorský](https://www.eliteprospects.com/player/527424/dalibor-dvorsky) | F |  Slovakia | 1 | 1 | 6 | 0 | 0 | 44.0 |
+| [Dalibor Dvorský](https://www.eliteprospects.com/player/527424/dalibor-dvorsky) | F |  Slovakia | 1 | 2 | 7 | 0 | 0 | 63.1 |
 | [Redmond Savage](https://www.eliteprospects.com/player/512173/redmond-savage) | F |  USA | 1 | 2 | 8 | 0 | 3 | 41.93 |
-| [Servác Petrovský](https://www.eliteprospects.com/player/527429/servac-petrovsky) | F |  Slovakia | 0 | 0 | 5 | 2 | -1 | 38.9 |
+| [Servác Petrovský](https://www.eliteprospects.com/player/527429/servac-petrovsky) | F |  Slovakia | 0 | 0 | 8 | 2 | 1 | 57.85 |
 | [Aleksanteri Kaskimäki](https://www.eliteprospects.com/player/640621/aleksanteri-kaskimaki) | F |  Finland | 0 | 0 | 2 | 0 | 0 | 18.49 |
 | [Luke Mittelstadt](https://www.eliteprospects.com/player/559036/luke-mittelstadt) | D |  USA | 0 | 0 | 1 | 0 | 1 | 42.73 |
 | [Calle Odelius](https://www.eliteprospects.com/player/607525/calle-odelius) | D |  Sweden | 1 | 0 | 2 | 0 | 0 | 49.93 |
 | [Elias Pettersson](https://www.eliteprospects.com/player/641020/elias-pettersson) | D |  Sweden | 0 | 1 | 6 | 4 | 2 | 55.32 |
 | [Ryan Chesley](https://www.eliteprospects.com/player/556717/ryan-chesley) | D |  USA | 0 | 1 | 3 | 0 | -1 | 27.31 |
-| **Totals** | | | 11 | 14 | 66 | 8 | 17 | 422.54 |
+| **Totals** | | | 11 | 15 | 70 | 8 | 19 | 460.59 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
@@ -24,15 +24,15 @@
 | [Logan Cooley](https://www.eliteprospects.com/player/651538/logan-cooley) | F |  USA | 1 | 3 | 11 | 0 | -1 | 52.25 |
 | [Victor Stjernborg](https://www.eliteprospects.com/player/472146/victor-stjernborg) | F |  Sweden | 0 | 1 | 2 | 2 | 1 | 41.18 |
 | [Niko Huuhtanen](https://www.eliteprospects.com/player/525628/niko-huuhtanen) | F |  Finland | 1 | 0 | 9 | 2 | 0 | 43.09 |
-| [Sandi Vilmanis](https://www.eliteprospects.com/player/638444/sandis-vilmanis) | F |  Latvia | 0 | 0 | 3 | 2 | -3 | 50.89 |
+| [Sandi Vilmanis](https://www.eliteprospects.com/player/638444/sandis-vilmanis) | F |  Latvia | 0 | 0 | 5 | 2 | -4 | 71.02 |
 | [Reid Schaefer](https://www.eliteprospects.com/player/506838/reid-schaefer) | F |  Canada | 0 | 1 | 2 | 2 | 1 | 25.53 |
-| [Adam Zlnka](https://www.eliteprospects.com/player/527422/adam-zlnka) | F |  Slovakia | 0 | 1 | 3 | 0 | 1 | 30.55 |
+| [Adam Zlnka](https://www.eliteprospects.com/player/527422/adam-zlnka) | F |  Slovakia | 0 | 1 | 4 | 0 | 1 | 43.55 |
 | [Brandt Clarke](https://www.eliteprospects.com/player/336887/brandt-clarke) | D |  Canada | 1 | 2 | 7 | 4 | 3 | 52.92 |
 | [Aleksi Heimosalmi](https://www.eliteprospects.com/player/601642/aleksi-heimosalmi) | D |  Finland | 0 | 0 | 2 | 4 | 1 | 70.36 |
 | [Kevin Korchinski](https://www.eliteprospects.com/player/516605/kevin-korchinski) | D |  Canada | 0 | 3 | 2 | 0 | 3 | 43.25 |
 | [Stanislav Svozil](https://www.eliteprospects.com/player/428002/stanislav-svozil) | D |  Czechia | 1 | 4 | 7 | 0 | 3 | 60.78 |
-| [Philipp Bidoul](https://www.eliteprospects.com/player/560202/philipp-bidoul) | D |  Germany | 0 | 0 | 3 | 0 | -1 | 42.07 |
-| **Totals** | | | 4 | 15 | 51 | 16 | 8 | 512.87 |
+| [Philipp Bidoul](https://www.eliteprospects.com/player/560202/philipp-bidoul) | D |  Germany | 0 | 0 | 3 | 0 | 0 | 62.32 |
+| **Totals** | | | 4 | 15 | 54 | 16 | 8 | 566.25 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
@@ -50,8 +50,8 @@
 | [Lane Hutson](https://www.eliteprospects.com/player/526227/lane-hutson) | D |  USA | 0 | 1 | 0 | 2 | -2 | 46.42 |
 | [Adam Engström](https://www.eliteprospects.com/player/491616/adam-engstrom) | D |  Sweden | 1 | 2 | 4 | 0 | 6 | 51.33 |
 | [Otto Salin](https://www.eliteprospects.com/player/638727/otto-salin) | D |  Finland | 0 | 3 | 1 | 0 | 3 | 47.92 |
-| [Bogdans Hodass](https://www.eliteprospects.com/player/532642/bogdans-hodass) | D |  Latvia | 0 | 0 | 6 | 0 | -3 | 74.3 |
-| **Totals** | | | 13 | 18 | 64 | 14 | 18 | 545.4 |
+| [Bogdans Hodass](https://www.eliteprospects.com/player/532642/bogdans-hodass) | D |  Latvia | 0 | 0 | 7 | 0 | -3 | 96.07 |
+| **Totals** | | | 13 | 18 | 65 | 14 | 18 | 567.17 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
@@ -62,14 +62,14 @@
 | [Logan Stankoven](https://www.eliteprospects.com/player/556512/logan-stankoven) | F |  Canada | 2 | 5 | 10 | 0 | 6 | 47.28 |
 | [Rutger McGroarty](https://www.eliteprospects.com/player/526095/rutger-mcgroarty) | F |  USA | 0 | 2 | 5 | 0 | 0 | 40.14 |
 | [Joshua Roy](https://www.eliteprospects.com/player/483757/joshua-roy) | F |  Canada | 2 | 3 | 8 | 0 | 7 | 42.38 |
-| [Dans Locmelis](https://www.eliteprospects.com/player/638391/dans-locmelis) | F |  Latvia | 1 | 0 | 7 | 0 | -1 | 56.75 |
+| [Dans Locmelis](https://www.eliteprospects.com/player/638391/dans-locmelis) | F |  Latvia | 1 | 0 | 10 | 0 | -1 | 77.67 |
 | [Filip Bystedt](https://www.eliteprospects.com/player/578760/filip-bystedt) | F |  Sweden | 2 | 2 | 14 | 2 | 6 | 54.39 |
 | [Matyas Sapovaliv](https://www.eliteprospects.com/player/559506/matyas-sapovaliv) | F |  Czechia | 0 | 5 | 3 | 0 | 5 | 61.7 |
 | [Lian Bichsel](https://www.eliteprospects.com/player/665087/lian-bichsel) | D |  Switzerland | 0 | 2 | 7 | 0 | 2 | 69.9 |
-| [Simon Nemec](https://www.eliteprospects.com/player/589605/simon-nemec) | D |  Slovakia | 0 | 3 | 6 | 2 | 1 | 52.35 |
+| [Simon Nemec](https://www.eliteprospects.com/player/589605/simon-nemec) | D |  Slovakia | 1 | 3 | 9 | 2 | 2 | 79.1 |
 | [Nolan Allan](https://www.eliteprospects.com/player/482413/nolan-allan) | D |  Canada | 1 | 0 | 6 | 0 | 3 | 51.57 |
 | [Ludvig Jansson](https://www.eliteprospects.com/player/590628/ludvig-jansson) | D |  Sweden | 2 | 3 | 5 | 4 | 5 | 54.82 |
-| **Totals** | | | 10 | 25 | 71 | 8 | 34 | 531.28 |
+| **Totals** | | | 11 | 25 | 77 | 8 | 35 | 578.95 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
@@ -117,8 +117,8 @@
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Fabian Lysell](https://www.eliteprospects.com/player/472769/fabian-lysell) | F |  Sweden | 0 | 0 | 6 | 2 | 1 | 36.49 |
-| [Filip Mesar](https://www.eliteprospects.com/player/527430/filip-mesar) | F |  Slovakia | 1 | 0 | 6 | 0 | -1 | 41.02 |
-| [Adam Sýkora](https://www.eliteprospects.com/player/527426/adam-sykora) | F |  Slovakia | 0 | 0 | 1 | 0 | 0 | 43.5 |
+| [Filip Mesar](https://www.eliteprospects.com/player/527430/filip-mesar) | F |  Slovakia | 2 | 1 | 7 | 2 | 1 | 60.95 |
+| [Adam Sýkora](https://www.eliteprospects.com/player/527426/adam-sykora) | F |  Slovakia | 0 | 0 | 5 | 0 | 0 | 63.77 |
 | [Jackson Blake](https://www.eliteprospects.com/player/574744/jackson-blake) | F |  USA | 0 | 2 | 7 | 0 | 0 | 41.81 |
 | [Jakub Brabenec](https://www.eliteprospects.com/player/522504/jakub-brabenec) | F |  Czechia | 1 | 1 | 9 | 4 | 2 | 49.28 |
 | [Colton Dach](https://www.eliteprospects.com/player/413126/colton-dach) | F |  Canada | 0 | 2 | 5 | 0 | 3 | 33.7 |
@@ -127,7 +127,7 @@
 | [Ethan Del Mastro](https://www.eliteprospects.com/player/525637/ethan-del-mastro) | D |  Canada | 0 | 1 | 1 | 2 | -1 | 54.03 |
 | [Victor Sjöholm](https://www.eliteprospects.com/player/509816/victor-sjoholm) | D |  Sweden | 0 | 1 | 6 | 4 | 6 | 56.99 |
 | [Brian Zanetti](https://www.eliteprospects.com/player/577448/brian-zanetti) | D |  Switzerland | 0 | 1 | 4 | 0 | 0 | 53.9 |
-| **Totals** | | | 4 | 10 | 56 | 12 | 12 | 532.14 |
+| **Totals** | | | 5 | 11 | 61 | 14 | 14 | 572.34 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
@@ -156,17 +156,17 @@
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Adam Fantilli](https://www.eliteprospects.com/player/603785/adam-fantilli) | F |  Canada | 1 | 2 | 11 | 2 | -1 | 38.42 |
 | [Eduard Sale](https://www.eliteprospects.com/player/595291/eduard-sale) | F |  Czechia | 0 | 3 | 3 | 0 | 4 | 49.87 |
-| [Julian Lutz](https://www.eliteprospects.com/player/601111/julian-lutz) | F |  Germany | 0 | 0 | 9 | 6 | -2 | 29.5 |
+| [Julian Lutz](https://www.eliteprospects.com/player/601111/julian-lutz) | F |  Germany | 0 | 2 | 11 | 6 | 0 | 47.23 |
 | [Charlie Stramel](https://www.eliteprospects.com/player/623837/charlie-stramel) | F |  USA | 0 | 2 | 9 | 2 | -1 | 44.72 |
 | [Attilio Biasca](https://www.eliteprospects.com/player/596665/attilio-biasca) | F |  Switzerland | 2 | 1 | 13 | 0 | 4 | 65.08 |
 | [Kalle Väisänen](https://www.eliteprospects.com/player/559937/kalle-vaisanen) | F |  Finland | 1 | 1 | 5 | 0 | 4 | 45.28 |
-| [Maxim Strbak](https://www.eliteprospects.com/player/595301/maxim-strbak) | D |  Slovakia | 0 | 3 | 2 | 0 | 0 | 36.84 |
-| [Nils Elten](https://www.eliteprospects.com/player/394749/nils-elten) | D |  Germany | - | - | 0 | - | - | 0 |
-| [Adrian Klein](https://www.eliteprospects.com/player/381680/adrian-klein) | D |  Germany | 0 | 0 | 0 | 2 | -1 | 42.59 |
+| [Maxim Strbak](https://www.eliteprospects.com/player/595301/maxim-strbak) | D |  Slovakia | 0 | 3 | 3 | 2 | 1 | 55.22 |
+| [Nils Elten](https://www.eliteprospects.com/player/394749/nils-elten) | D |  Germany | 0 | 0 | 2 | 0 | 0 | 10.78 |
+| [Adrian Klein](https://www.eliteprospects.com/player/381680/adrian-klein) | D |  Germany | 0 | 0 | 2 | 2 | 0 | 61.97 |
 | [Kalle Ervasti](https://www.eliteprospects.com/player/470503/kalle-ervasti) | D |  Finland | 0 | 3 | 1 | 0 | 3 | 27.72 |
-| **Totals** | | | 4 | 15 | 53 | 12 | 10 | 380.02 |
+| **Totals** | | | 4 | 17 | 60 | 14 | 14 | 446.29 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
-| [Nikita Quapp](https://www.eliteprospects.com/player/641906/nikita-quapp) | G |  Germany | 0 | 0 | 0 | .977 | 1.01 |
+| [Nikita Quapp](https://www.eliteprospects.com/player/641906/nikita-quapp) | G |  Germany | 0 | 0 | 0 | .961 | 1.51 |
 | [Matej Marinov](https://www.eliteprospects.com/player/578961/matej-marinov) | G |  Slovakia | 0 | 0 | 0 | .875 | 2.30 |
