@@ -5,15 +5,15 @@
 | [Connor McDavid](https://www.nhl.com/player/8478402) | F |  Edmonton Oilers  | 32 | 40 | 145 | 18 | +5 | 22:45 |
 | [Nikita Kucherov](https://www.nhl.com/player/8476453) | F |  Tampa Bay Lightning  | 13 | 40 | 127 | 22 | +4 | 20:56 |
 | [Mika Zibanejad](https://www.nhl.com/player/8476459) | F |  New York Rangers  | 18 | 23 | 145 | 8 | +12 | 20:51 |
-| [David Pastrnak](https://www.nhl.com/player/8477956) | F |  Boston Bruins  | 25 | 25 | 181 | 18 | +13 | 19:57 |
+| [David Pastrnak](https://www.nhl.com/player/8477956) | F |  Boston Bruins  | 25 | 25 | 183 | 20 | +14 | 19:54 |
 | [Jason Robertson](https://www.nhl.com/player/8480027) | F |  Dallas Stars  | 25 | 29 | 156 | 8 | +19 | 18:29 |
 | [Johnny Gaudreau](https://www.nhl.com/player/8476346) | F |  Columbus Blue Jackets  | 10 | 27 | 97 | 14 | -15 | 19:47 |
 | [Evander Kane](https://www.nhl.com/player/8475169) | F |  Edmonton Oilers  | 5 | 8 | 50 | 16 | +4 | 19:30 |
 | [Victor Hedman](https://www.nhl.com/player/8475167) | D |  Tampa Bay Lightning  | 1 | 22 | 68 | 14 | +8 | 24:14 |
-| [Devon Toews](https://www.nhl.com/player/8478038) | D |  Colorado Avalanche  | 3 | 17 | 62 | 6 | +8 | 25:15 |
+| [Devon Toews](https://www.nhl.com/player/8478038) | D |  Colorado Avalanche  | 3 | 17 | 63 | 6 | +9 | 25:20 |
 | [Zach Werenski](https://www.nhl.com/player/8478460) | D |  Columbus Blue Jackets  | 3 | 5 | 41 | 0 | -6 | 23:36 |
 | [Jacob Trouba](https://www.nhl.com/player/8476885) | D |  New York Rangers  | 2 | 9 | 106 | 37 | -4 | 21:15 |
-| **Totals** | | | 137 | 245 | 1178 | 161 | 48 | 236:35 |
+| **Totals** | | | 137 | 245 | 1181 | 163 | 50 | 236:37 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -41,17 +41,17 @@
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
 | :----- | --- | ---- | - | - | --- | --- | --- | ------ |
 | [Leon Draisaitl](https://www.nhl.com/player/8477934) | F |  Edmonton Oilers  | 21 | 36 | 118 | 16 | +4 | 22:14 |
-| [Mikko Rantanen](https://www.nhl.com/player/8478420) | F |  Colorado Avalanche  | 24 | 21 | 128 | 26 | +6 | 22:56 |
-| [Sidney Crosby](https://www.nhl.com/player/8471675) | F |  Pittsburgh Penguins  | 19 | 24 | 102 | 20 | -2 | 20:03 |
+| [Mikko Rantanen](https://www.nhl.com/player/8478420) | F |  Colorado Avalanche  | 25 | 22 | 131 | 26 | +6 | 23:03 |
+| [Sidney Crosby](https://www.nhl.com/player/8471675) | F |  Pittsburgh Penguins  | 19 | 24 | 104 | 20 | -2 | 20:09 |
 | [Steven Stamkos](https://www.nhl.com/player/8474564) | F |  Tampa Bay Lightning  | 17 | 24 | 117 | 16 | +3 | 19:12 |
-| [Jake Guentzel](https://www.nhl.com/player/8477404) | F |  Pittsburgh Penguins  | 15 | 18 | 92 | 22 | -2 | 19:54 |
+| [Jake Guentzel](https://www.nhl.com/player/8477404) | F |  Pittsburgh Penguins  | 15 | 18 | 93 | 22 | -2 | 20:01 |
 | [Jack Eichel](https://www.nhl.com/player/8478403) | F |  Vegas Golden Knights  | 13 | 16 | 100 | 0 | +17 | 18:49 |
-| [Evgeni Malkin](https://www.nhl.com/player/8471215) | F |  Pittsburgh Penguins  | 12 | 22 | 104 | 20 | 0 | 18:04 |
+| [Evgeni Malkin](https://www.nhl.com/player/8471215) | F |  Pittsburgh Penguins  | 12 | 22 | 107 | 20 | -1 | 18:10 |
 | [Quinn Hughes](https://www.nhl.com/player/8480800) | D |  Vancouver Canucks  | 1 | 29 | 61 | 10 | +2 | 25:05 |
 | [MacKenzie Weegar](https://www.nhl.com/player/8477346) | D |  Calgary Flames  | 1 | 8 | 64 | 28 | +3 | 21:00 |
 | [Shea Theodore](https://www.nhl.com/player/8477447) | D |  Vegas Golden Knights  | 4 | 18 | 74 | 6 | +14 | 21:51 |
 | [Rasmus Dahlin](https://www.nhl.com/player/8480839) | D |  Buffalo Sabres  | 10 | 28 | 108 | 44 | +15 | 26:18 |
-| **Totals** | | | 137 | 244 | 1068 | 208 | 60 | 235:26 |
+| **Totals** | | | 138 | 245 | 1077 | 208 | 59 | 235:52 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -66,11 +66,11 @@
 | [Jack Hughes](https://www.nhl.com/player/8481559) | F |  New Jersey Devils  | 21 | 21 | 159 | 2 | +11 | 19:53 |
 | [Nikolaj Ehlers](https://www.nhl.com/player/8477940) | F |  Winnipeg Jets  | 0 | 3 | 7 | 0 | 0 | 19:00 |
 | [Sam Reinhart](https://www.nhl.com/player/8477933) | F |  Florida Panthers  | 12 | 13 | 102 | 6 | -3 | 19:35 |
-| [Cale Makar](https://www.nhl.com/player/8480069) | D |  Colorado Avalanche  | 9 | 25 | 116 | 22 | +3 | 27:08 |
+| [Cale Makar](https://www.nhl.com/player/8480069) | D |  Colorado Avalanche  | 9 | 25 | 118 | 24 | +3 | 27:09 |
 | [Aaron Ekblad](https://www.nhl.com/player/8477932) | D |  Florida Panthers  | 4 | 10 | 77 | 32 | -15 | 23:51 |
 | [Thomas Chabot](https://www.nhl.com/player/8478469) | D |  Ottawa Senators  | 7 | 13 | 79 | 26 | -7 | 26:08 |
 | [Darnell Nurse](https://www.nhl.com/player/8477498) | D |  Edmonton Oilers  | 6 | 14 | 94 | 32 | +13 | 23:54 |
-| **Totals** | | | 131 | 196 | 1219 | 246 | 0 | 238:20 |
+| **Totals** | | | 131 | 196 | 1221 | 248 | 0 | 239:15 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -78,7 +78,7 @@
 ## John
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
 | :----- | --- | ---- | - | - | --- | --- | --- | ------ |
-| [Nathan MacKinnon](https://www.nhl.com/player/8477492) | F |  Colorado Avalanche  | 8 | 26 | 123 | 20 | +4 | 21:55 |
+| [Nathan MacKinnon](https://www.nhl.com/player/8477492) | F |  Colorado Avalanche  | 9 | 27 | 131 | 20 | +4 | 22:07 |
 | [Aleksander Barkov](https://www.nhl.com/player/8477493) | F |  Florida Panthers  | 9 | 18 | 91 | 0 | +7 | 21:24 |
 | [Mitchell Marner](https://www.nhl.com/player/8478483) | F |  Toronto Maple Leafs  | 14 | 28 | 95 | 14 | +2 | 21:16 |
 | [Claude Giroux](https://www.nhl.com/player/8473512) | F |  Ottawa Senators  | 15 | 19 | 88 | 8 | +2 | 18:15 |
@@ -89,7 +89,7 @@
 | [Brent Burns](https://www.nhl.com/player/8470613) | D |  Carolina Hurricanes  | 4 | 23 | 119 | 26 | +6 | 23:47 |
 | [Drew Doughty](https://www.nhl.com/player/8474563) | D |  Los Angeles Kings  | 2 | 19 | 75 | 22 | +5 | 26:26 |
 | [Dougie Hamilton](https://www.nhl.com/player/8476462) | D |  New Jersey Devils  | 8 | 23 | 130 | 22 | +12 | 22:07 |
-| **Totals** | | | 107 | 227 | 1097 | 168 | 18 | 237:37 |
+| **Totals** | | | 108 | 228 | 1105 | 168 | 18 | 236:55 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -107,8 +107,8 @@
 | [Roman Josi](https://www.nhl.com/player/8474600) | D |  Nashville Predators  | 8 | 20 | 150 | 20 | -5 | 25:19 |
 | [Kris Letang](https://www.nhl.com/player/8471724) | D |  Pittsburgh Penguins  | 2 | 14 | 57 | 12 | -12 | 24:32 |
 | [Torey Krug](https://www.nhl.com/player/8476792) | D |  St. Louis Blues  | 5 | 12 | 65 | 13 | -20 | 19:37 |
-| [Alex Pietrangelo](https://www.nhl.com/player/8474565) | D |  Vegas Golden Knights  | 4 | 23 | 70 | 6 | 0 | 24:31 |
-| **Totals** | | | 127 | 197 | 1121 | 164 | -32 | 227:59 |
+| [Alex Pietrangelo](https://www.nhl.com/player/8474565) | D |  Vegas Golden Knights  | 4 | 24 | 72 | 6 | 0 | 24:39 |
+| **Totals** | | | 127 | 198 | 1123 | 164 | -32 | 228:07 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |

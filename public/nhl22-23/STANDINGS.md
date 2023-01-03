@@ -1,44 +1,44 @@
 ## Goals
 | Rank | User | Goals |
 | :--- | ---- | ---------: |
-| 1 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) |  137 |
-| 1 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) |  137 |
+| 1 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) |  138 |
+| 2 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) |  137 |
 | 3 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Liam) |  131 |
 | 4 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Carsten) |  127 |
-| 5 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#John) |  107 |
+| 5 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#John) |  108 |
 | 6 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Leevon) |  100 |
 ## Assists
 | Rank | User | Assists |
 | :--- | ---- | ---------: |
 | 1 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) |  245 |
-| 2 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) |  244 |
+| 1 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) |  245 |
 | 3 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Leevon) |  238 |
-| 4 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#John) |  227 |
-| 5 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Carsten) |  197 |
+| 4 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#John) |  228 |
+| 5 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Carsten) |  198 |
 | 6 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Liam) |  196 |
 ## Shots on Goal
 | Rank | User | Shots on Goal |
 | :--- | ---- | ---------: |
-| 1 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Liam) |  1219 |
-| 2 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) |  1178 |
-| 3 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Carsten) |  1121 |
-| 4 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#John) |  1097 |
-| 5 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) |  1068 |
+| 1 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Liam) |  1221 |
+| 2 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) |  1181 |
+| 3 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Carsten) |  1123 |
+| 4 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#John) |  1105 |
+| 5 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) |  1077 |
 | 6 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Leevon) |  950 |
 ## Penalties in Minutes
 | Rank | User | Penalties in Minutes |
 | :--- | ---- | ---------: |
-| 1 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Liam) |  246 |
+| 1 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Liam) |  248 |
 | 2 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) |  208 |
 | 3 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#John) |  168 |
 | 4 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Leevon) |  167 |
 | 5 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Carsten) |  164 |
-| 6 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) |  161 |
+| 6 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) |  163 |
 ## Plus / Minus
 | Rank | User | Plus / Minus |
 | :--- | ---- | ---------: |
-| 1 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) |  60 |
-| 2 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) |  48 |
+| 1 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) |  59 |
+| 2 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) |  50 |
 | 3 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Leevon) |  29 |
 | 4 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#John) |  18 |
 | 5 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Liam) |  0 |
@@ -46,11 +46,11 @@
 ## Average Time on Ice
 | Rank | User | Average Time on Ice |
 | :--- | ---- | ---------: |
-| 1 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Liam) |  238:20 |
-| 2 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#John) |  237:37 |
-| 3 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) |  236:35 |
-| 4 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) |  235:26 |
-| 5 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Carsten) |  227:59 |
+| 1 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Liam) |  239:15 |
+| 2 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#John) |  236:55 |
+| 3 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) |  236:37 |
+| 4 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) |  235:52 |
+| 5 | [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Carsten) |  228:07 |
 | 6 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Leevon) |  225:51 |
 ## Save Percentage
 | Rank | User | Save Percentage |
