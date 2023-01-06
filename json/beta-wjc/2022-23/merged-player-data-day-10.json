@@ -8,20 +8,20 @@
         "a": "14",
         "pim": "2",
         "pm": "14",
-        "SOG": 41,
-        "TPM": 113.58
+        "SOG": 44,
+        "TPM": 137.26
     },
     "Logan Cooley": {
         "name": "Logan Cooley",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/651538/logan-cooley",
         "team": " USA",
-        "g": "6",
-        "a": "6",
-        "pim": "0",
-        "pm": "5",
-        "SOG": 21,
-        "TPM": 98.95
+        "g": "7",
+        "a": "7",
+        "pim": "2",
+        "pm": "3",
+        "SOG": 25,
+        "TPM": 119.92
     },
     "Jimmy Snuggerud": {
         "name": "Jimmy Snuggerud",
@@ -29,11 +29,23 @@
         "href": "https://www.eliteprospects.com/player/623832/jimmy-snuggerud",
         "team": " USA",
         "g": "5",
-        "a": "6",
+        "a": "8",
         "pim": "2",
-        "pm": "6",
-        "SOG": 32,
-        "TPM": 94.18
+        "pm": "5",
+        "SOG": 37,
+        "TPM": 114.08
+    },
+    "Joshua Roy": {
+        "name": "Joshua Roy",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/483757/joshua-roy",
+        "team": " Canada",
+        "g": "5",
+        "a": "6",
+        "pim": "0",
+        "pm": "14",
+        "SOG": 20,
+        "TPM": 115.91
     },
     "Logan Stankoven": {
         "name": "Logan Stankoven",
@@ -44,32 +56,80 @@
         "a": "8",
         "pim": "0",
         "pm": "12",
-        "SOG": 21,
-        "TPM": 97.92
+        "SOG": 25,
+        "TPM": 118.0
     },
-    "Joshua Roy": {
-        "name": "Joshua Roy",
+    "Dylan Guenther": {
+        "name": "Dylan Guenther",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/483757/joshua-roy",
+        "href": "https://www.eliteprospects.com/player/476538/dylan-guenther",
         "team": " Canada",
-        "g": "5",
-        "a": "5",
-        "pim": "0",
-        "pm": "13",
-        "SOG": 17,
-        "TPM": 96.79
+        "g": "7",
+        "a": "3",
+        "pim": "4",
+        "pm": "-1",
+        "SOG": 38,
+        "TPM": 131.07
+    },
+    "Cutter Gauthier": {
+        "name": "Cutter Gauthier",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/526094/cutter-gauthier",
+        "team": " USA",
+        "g": "4",
+        "a": "6",
+        "pim": "2",
+        "pm": "7",
+        "SOG": 31,
+        "TPM": 119.88
+    },
+    "Ludvig Jansson": {
+        "name": "Ludvig Jansson",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/590628/ludvig-jansson",
+        "team": " Sweden",
+        "g": "4",
+        "a": "6",
+        "pim": "4",
+        "pm": "9",
+        "SOG": 12,
+        "TPM": 134.76
+    },
+    "Filip Bystedt": {
+        "name": "Filip Bystedt",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/578760/filip-bystedt",
+        "team": " Sweden",
+        "g": "4",
+        "a": "6",
+        "pim": "4",
+        "pm": "8",
+        "SOG": 26,
+        "TPM": 130.73
+    },
+    "Ryan Ufko": {
+        "name": "Ryan Ufko",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/511993/ryan-ufko",
+        "team": " USA",
+        "g": "1",
+        "a": "9",
+        "pim": "2",
+        "pm": "3",
+        "SOG": 8,
+        "TPM": 128.03
     },
     "Jiri Kulich": {
         "name": "Jiri Kulich",
         "pos": "F",
         "href": "https://www.eliteprospects.com/player/579198/jiri-kulich",
         "team": " Czechia",
-        "g": "6",
+        "g": "7",
         "a": "2",
         "pim": "2",
         "pm": "10",
-        "SOG": 32,
-        "TPM": 117.09
+        "SOG": 39,
+        "TPM": 138.89
     },
     "Gabriel Szturc": {
         "name": "Gabriel Szturc",
@@ -80,20 +140,8 @@
         "a": "3",
         "pim": "4",
         "pm": "9",
-        "SOG": 16,
-        "TPM": 94.26
-    },
-    "Ludvig Jansson": {
-        "name": "Ludvig Jansson",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/590628/ludvig-jansson",
-        "team": " Sweden",
-        "g": "4",
-        "a": "4",
-        "pim": "4",
-        "pm": "7",
-        "SOG": 10,
-        "TPM": 115.16
+        "SOG": 17,
+        "TPM": 114.24
     },
     "David Spacek": {
         "name": "David Spacek",
@@ -104,20 +152,20 @@
         "a": "5",
         "pim": "0",
         "pm": "7",
-        "SOG": 9,
-        "TPM": 116.16
+        "SOG": 11,
+        "TPM": 137.54
     },
-    "Cutter Gauthier": {
-        "name": "Cutter Gauthier",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/526094/cutter-gauthier",
-        "team": " USA",
+    "Brandt Clarke": {
+        "name": "Brandt Clarke",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/336887/brandt-clarke",
+        "team": " Canada",
         "g": "2",
         "a": "6",
-        "pim": "2",
-        "pm": "8",
-        "SOG": 27,
-        "TPM": 100.45
+        "pim": "6",
+        "pm": "5",
+        "SOG": 19,
+        "TPM": 136.12
     },
     "Stanislav Svozil": {
         "name": "Stanislav Svozil",
@@ -127,33 +175,33 @@
         "g": "1",
         "a": "7",
         "pim": "0",
-        "pm": "4",
-        "SOG": 11,
-        "TPM": 117.38
+        "pm": "3",
+        "SOG": 13,
+        "TPM": 136.95
     },
-    "Ryan Ufko": {
-        "name": "Ryan Ufko",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/511993/ryan-ufko",
-        "team": " USA",
-        "g": "0",
-        "a": "8",
-        "pim": "0",
-        "pm": "4",
-        "SOG": 7,
-        "TPM": 109.23
-    },
-    "Dylan Guenther": {
-        "name": "Dylan Guenther",
+    "Chaz Lucius": {
+        "name": "Chaz Lucius",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/476538/dylan-guenther",
-        "team": " Canada",
+        "href": "https://www.eliteprospects.com/player/512106/chaz-lucius",
+        "team": " USA",
         "g": "5",
         "a": "2",
-        "pim": "4",
-        "pm": "-2",
-        "SOG": 33,
-        "TPM": 110.17
+        "pim": "0",
+        "pm": "3",
+        "SOG": 19,
+        "TPM": 100.18
+    },
+    "Shane Wright": {
+        "name": "Shane Wright",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/526239/shane-wright",
+        "team": " Canada",
+        "g": "4",
+        "a": "3",
+        "pim": "0",
+        "pm": "0",
+        "SOG": 23,
+        "TPM": 132.31
     },
     "David Jiricek": {
         "name": "David Jiricek",
@@ -162,22 +210,22 @@
         "team": " Czechia",
         "g": "3",
         "a": "4",
-        "pim": "0",
-        "pm": "9",
-        "SOG": 30,
-        "TPM": 114.95
-    },
-    "Filip Bystedt": {
-        "name": "Filip Bystedt",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/578760/filip-bystedt",
-        "team": " Sweden",
-        "g": "2",
-        "a": "5",
         "pim": "2",
-        "pm": "7",
-        "SOG": 22,
-        "TPM": 113.76
+        "pm": "10",
+        "SOG": 30,
+        "TPM": 136.68
+    },
+    "Rutger McGroarty": {
+        "name": "Rutger McGroarty",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/526095/rutger-mcgroarty",
+        "team": " USA",
+        "g": "1",
+        "a": "6",
+        "pim": "0",
+        "pm": "-2",
+        "SOG": 11,
+        "TPM": 94.73
     },
     "Jakub Brabenec": {
         "name": "Jakub Brabenec",
@@ -186,10 +234,22 @@
         "team": " Czechia",
         "g": "1",
         "a": "6",
-        "pim": "8",
+        "pim": "10",
         "pm": "7",
         "SOG": 11,
-        "TPM": 99.83
+        "TPM": 117.01
+    },
+    "Matyas Sapovaliv": {
+        "name": "Matyas Sapovaliv",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/559506/matyas-sapovaliv",
+        "team": " Czechia",
+        "g": "0",
+        "a": "7",
+        "pim": "4",
+        "pm": "9",
+        "SOG": 7,
+        "TPM": 144.53
     },
     "Peter Repcik": {
         "name": "Peter Repcik",
@@ -211,17 +271,29 @@
         "pim": "4",
         "pm": "3"
     },
-    "Shane Wright": {
-        "name": "Shane Wright",
+    "Redmond Savage": {
+        "name": "Redmond Savage",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/526239/shane-wright",
-        "team": " Canada",
+        "href": "https://www.eliteprospects.com/player/512173/redmond-savage",
+        "team": " USA",
         "g": "3",
         "a": "3",
         "pim": "0",
-        "pm": "0",
-        "SOG": 18,
-        "TPM": 111.01
+        "pm": "2",
+        "SOG": 15,
+        "TPM": 102.28
+    },
+    "Leo Carlsson": {
+        "name": "Leo Carlsson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/448944/leo-carlsson",
+        "team": " Sweden",
+        "g": "3",
+        "a": "3",
+        "pim": "2",
+        "pm": "4",
+        "SOG": 22,
+        "TPM": 107.33
     },
     "Filip Mesar": {
         "name": "Filip Mesar",
@@ -235,6 +307,18 @@
         "SOG": 12,
         "TPM": 99.82
     },
+    "Brennan Othmann": {
+        "name": "Brennan Othmann",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/529248/brennan-othmann",
+        "team": " Canada",
+        "g": "2",
+        "a": "4",
+        "pim": "0",
+        "pm": "1",
+        "SOG": 25,
+        "TPM": 122.89
+    },
     "Marcel Marcel": {
         "name": "Marcel Marcel",
         "pos": "F",
@@ -245,17 +329,53 @@
         "pim": "0",
         "pm": "5"
     },
-    "Brandt Clarke": {
-        "name": "Brandt Clarke",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/336887/brandt-clarke",
-        "team": " Canada",
+    "Fabian Wagner": {
+        "name": "Fabian Wagner",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/448938/fabian-wagner",
+        "team": " Sweden",
         "g": "2",
         "a": "4",
-        "pim": "6",
-        "pm": "5",
-        "SOG": 18,
-        "TPM": 112.27
+        "pim": "2",
+        "pm": "-3",
+        "SOG": 7,
+        "TPM": 108.4
+    },
+    "Isak Ros\u00e9n": {
+        "name": "Isak Ros\u00e9n",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/420269/isak-rosen",
+        "team": " Sweden",
+        "g": "2",
+        "a": "4",
+        "pim": "4",
+        "pm": "7",
+        "SOG": 17,
+        "TPM": 119.32
+    },
+    "Eduard Sale": {
+        "name": "Eduard Sale",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/595291/eduard-sale",
+        "team": " Czechia",
+        "g": "1",
+        "a": "5",
+        "pim": "2",
+        "pm": "6",
+        "SOG": 7,
+        "TPM": 108.58
+    },
+    "Jackson Blake": {
+        "name": "Jackson Blake",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/574744/jackson-blake",
+        "team": " USA",
+        "g": "1",
+        "a": "5",
+        "pim": "2",
+        "pm": "1",
+        "SOG": 10,
+        "TPM": 98.19
     },
     "Olen Zellweger": {
         "name": "Olen Zellweger",
@@ -265,21 +385,21 @@
         "g": "0",
         "a": "6",
         "pim": "4",
-        "pm": "1",
-        "SOG": 16,
-        "TPM": 131.22
+        "pm": "0",
+        "SOG": 18,
+        "TPM": 159.12
     },
-    "Matyas Sapovaliv": {
-        "name": "Matyas Sapovaliv",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/559506/matyas-sapovaliv",
-        "team": " Czechia",
-        "g": "0",
-        "a": "6",
-        "pim": "4",
-        "pm": "8",
-        "SOG": 5,
-        "TPM": 121.3
+    "Luke Hughes": {
+        "name": "Luke Hughes",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/526979/luke-hughes",
+        "team": " USA",
+        "g": "4",
+        "a": "1",
+        "pim": "2",
+        "pm": "3",
+        "SOG": 28,
+        "TPM": 161.14
     },
     "Jaroslav Chmelar": {
         "name": "Jaroslav Chmelar",
@@ -290,32 +410,18 @@
         "a": "2",
         "pim": "0",
         "pm": "8",
-        "SOG": 15,
-        "TPM": 95.55
+        "SOG": 16,
+        "TPM": 114.6
     },
-    "Redmond Savage": {
-        "name": "Redmond Savage",
+    "Jakub Kos": {
+        "name": "Jakub Kos",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/512173/redmond-savage",
-        "team": " USA",
-        "g": "3",
-        "a": "2",
-        "pim": "0",
-        "pm": "3",
-        "SOG": 15,
-        "TPM": 87.96
-    },
-    "Fabian Wagner": {
-        "name": "Fabian Wagner",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/448938/fabian-wagner",
-        "team": " Sweden",
+        "href": "https://www.eliteprospects.com/player/522505/jakub-kos",
+        "team": " Czechia",
         "g": "2",
         "a": "3",
         "pim": "2",
-        "pm": "-1",
-        "SOG": 4,
-        "TPM": 90.12
+        "pm": "4"
     },
     "Adam Fantilli": {
         "name": "Adam Fantilli",
@@ -324,10 +430,10 @@
         "team": " Canada",
         "g": "2",
         "a": "3",
-        "pim": "2",
-        "pm": "1",
-        "SOG": 19,
-        "TPM": 70.81
+        "pim": "4",
+        "pm": "0",
+        "SOG": 21,
+        "TPM": 80.73
     },
     "Simon Nemec": {
         "name": "Simon Nemec",
@@ -341,40 +447,6 @@
         "SOG": 14,
         "TPM": 131.2
     },
-    "Eduard Sale": {
-        "name": "Eduard Sale",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/595291/eduard-sale",
-        "team": " Czechia",
-        "g": "1",
-        "a": "4",
-        "pim": "2",
-        "pm": "6",
-        "SOG": 6,
-        "TPM": 86.85
-    },
-    "Luke Hughes": {
-        "name": "Luke Hughes",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/526979/luke-hughes",
-        "team": " USA",
-        "g": "3",
-        "a": "1",
-        "pim": "2",
-        "pm": "2",
-        "SOG": 24,
-        "TPM": 135.06
-    },
-    "Petr Hauser": {
-        "name": "Petr Hauser",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/527493/petr-hauser",
-        "team": " Czechia",
-        "g": "3",
-        "a": "1",
-        "pim": "6",
-        "pm": "6"
-    },
     "Tyler Boucher": {
         "name": "Tyler Boucher",
         "pos": "F",
@@ -386,6 +458,16 @@
         "pm": "2",
         "SOG": 16,
         "TPM": 76.51
+    },
+    "Petr Hauser": {
+        "name": "Petr Hauser",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/527493/petr-hauser",
+        "team": " Czechia",
+        "g": "3",
+        "a": "1",
+        "pim": "6",
+        "pm": "5"
     },
     "Attilio Biasca": {
         "name": "Attilio Biasca",
@@ -411,42 +493,6 @@
         "SOG": 18,
         "TPM": 82.78
     },
-    "Leo Carlsson": {
-        "name": "Leo Carlsson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/448944/leo-carlsson",
-        "team": " Sweden",
-        "g": "2",
-        "a": "2",
-        "pim": "0",
-        "pm": "4",
-        "SOG": 18,
-        "TPM": 92.15
-    },
-    "Chaz Lucius": {
-        "name": "Chaz Lucius",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/512106/chaz-lucius",
-        "team": " USA",
-        "g": "2",
-        "a": "2",
-        "pim": "0",
-        "pm": "0",
-        "SOG": 14,
-        "TPM": 84.7
-    },
-    "Brennan Othmann": {
-        "name": "Brennan Othmann",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/529248/brennan-othmann",
-        "team": " Canada",
-        "g": "2",
-        "a": "2",
-        "pim": "0",
-        "pm": "1",
-        "SOG": 20,
-        "TPM": 105.39
-    },
     "Bogdans Hodass": {
         "name": "Bogdans Hodass",
         "pos": "D",
@@ -459,18 +505,6 @@
         "SOG": 14,
         "TPM": 147.22
     },
-    "Isak Ros\u00e9n": {
-        "name": "Isak Ros\u00e9n",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/420269/isak-rosen",
-        "team": " Sweden",
-        "g": "2",
-        "a": "2",
-        "pim": "4",
-        "pm": "4",
-        "SOG": 17,
-        "TPM": 104.37
-    },
     "Luca Auer": {
         "name": "Luca Auer",
         "pos": "F",
@@ -480,6 +514,18 @@
         "a": "2",
         "pim": "4",
         "pm": "-5"
+    },
+    "Oskar Pettersson": {
+        "name": "Oskar Pettersson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/562987/oskar-pettersson",
+        "team": " Sweden",
+        "g": "2",
+        "a": "2",
+        "pim": "4",
+        "pm": "7",
+        "SOG": 7,
+        "TPM": 82.52
     },
     "Jiri Tichacek": {
         "name": "Jiri Tichacek",
@@ -503,52 +549,6 @@
         "SOG": 7,
         "TPM": 77.59
     },
-    "Kevin Korchinski": {
-        "name": "Kevin Korchinski",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/516605/kevin-korchinski",
-        "team": " Canada",
-        "g": "1",
-        "a": "3",
-        "pim": "0",
-        "pm": "5",
-        "SOG": 3,
-        "TPM": 65.02
-    },
-    "Rutger McGroarty": {
-        "name": "Rutger McGroarty",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/526095/rutger-mcgroarty",
-        "team": " USA",
-        "g": "1",
-        "a": "3",
-        "pim": "0",
-        "pm": "-1",
-        "SOG": 7,
-        "TPM": 79.91
-    },
-    "Jackson Blake": {
-        "name": "Jackson Blake",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/574744/jackson-blake",
-        "team": " USA",
-        "g": "1",
-        "a": "3",
-        "pim": "2",
-        "pm": "0",
-        "SOG": 10,
-        "TPM": 82.69
-    },
-    "Jakub Kos": {
-        "name": "Jakub Kos",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/522505/jakub-kos",
-        "team": " Czechia",
-        "g": "1",
-        "a": "3",
-        "pim": "2",
-        "pm": "3"
-    },
     "Ian Scherzer": {
         "name": "Ian Scherzer",
         "pos": "F",
@@ -559,6 +559,66 @@
         "pim": "4",
         "pm": "-5"
     },
+    "Kevin Korchinski": {
+        "name": "Kevin Korchinski",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/516605/kevin-korchinski",
+        "team": " Canada",
+        "g": "1",
+        "a": "3",
+        "pim": "0",
+        "pm": "6",
+        "SOG": 3,
+        "TPM": 70.15
+    },
+    "Lane Hutson": {
+        "name": "Lane Hutson",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/526227/lane-hutson",
+        "team": " USA",
+        "g": "1",
+        "a": "3",
+        "pim": "2",
+        "pm": "1",
+        "SOG": 8,
+        "TPM": 110.49
+    },
+    "Noah \u00d6stlund": {
+        "name": "Noah \u00d6stlund",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/535699/noah-ostlund",
+        "team": " Sweden",
+        "g": "1",
+        "a": "3",
+        "pim": "2",
+        "pm": "0",
+        "SOG": 16,
+        "TPM": 112.56
+    },
+    "Jonathan Lekkerim\u00e4ki": {
+        "name": "Jonathan Lekkerim\u00e4ki",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/649220/jonathan-lekkerimaki",
+        "team": " Sweden",
+        "g": "1",
+        "a": "3",
+        "pim": "4",
+        "pm": "3",
+        "SOG": 7,
+        "TPM": 76.76
+    },
+    "Gavin Brindley": {
+        "name": "Gavin Brindley",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/538006/gavin-brindley",
+        "team": " USA",
+        "g": "1",
+        "a": "3",
+        "pim": "4",
+        "pm": "-1",
+        "SOG": 12,
+        "TPM": 100.34
+    },
     "Dylan Duke": {
         "name": "Dylan Duke",
         "pos": "F",
@@ -567,9 +627,9 @@
         "g": "1",
         "a": "3",
         "pim": "4",
-        "pm": "4",
-        "SOG": 8,
-        "TPM": 71.8
+        "pm": "2",
+        "SOG": 10,
+        "TPM": 86.27
     },
     "Nathan Gaucher": {
         "name": "Nathan Gaucher",
@@ -578,10 +638,10 @@
         "team": " Canada",
         "g": "1",
         "a": "3",
-        "pim": "8",
+        "pim": "10",
         "pm": "1",
         "SOG": 16,
-        "TPM": 86.2
+        "TPM": 99.58
     },
     "Gustavs Ozolins": {
         "name": "Gustavs Ozolins",
@@ -605,17 +665,15 @@
         "SOG": 14,
         "TPM": 117.22
     },
-    "Oliver Kapanen": {
-        "name": "Oliver Kapanen",
+    "Lorenzo Canonica": {
+        "name": "Lorenzo Canonica",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/639018/oliver-kapanen",
-        "team": " Finland",
+        "href": "https://www.eliteprospects.com/player/541803/lorenzo-canonica",
+        "team": " Switzerland",
         "g": "2",
         "a": "1",
         "pim": "0",
-        "pm": "-1",
-        "SOG": 13,
-        "TPM": 87.97
+        "pm": "-1"
     },
     "Jani Nyman": {
         "name": "Jani Nyman",
@@ -639,25 +697,17 @@
         "pim": "0",
         "pm": "0"
     },
-    "Lorenzo Canonica": {
-        "name": "Lorenzo Canonica",
+    "Oliver Kapanen": {
+        "name": "Oliver Kapanen",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/541803/lorenzo-canonica",
-        "team": " Switzerland",
+        "href": "https://www.eliteprospects.com/player/639018/oliver-kapanen",
+        "team": " Finland",
         "g": "2",
         "a": "1",
         "pim": "0",
-        "pm": "-1"
-    },
-    "Roman Kechter": {
-        "name": "Roman Kechter",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/564243/roman-kechter",
-        "team": " Germany",
-        "g": "2",
-        "a": "1",
-        "pim": "2",
-        "pm": "-2"
+        "pm": "-1",
+        "SOG": 13,
+        "TPM": 87.97
     },
     "Serv\u00e1c Petrovsk\u00fd": {
         "name": "Serv\u00e1c Petrovsk\u00fd",
@@ -670,6 +720,16 @@
         "pm": "3",
         "SOG": 14,
         "TPM": 94.92
+    },
+    "Roman Kechter": {
+        "name": "Roman Kechter",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/564243/roman-kechter",
+        "team": " Germany",
+        "g": "2",
+        "a": "1",
+        "pim": "2",
+        "pm": "-2"
     },
     "Alex Ciernik": {
         "name": "Alex Ciernik",
@@ -702,20 +762,8 @@
         "a": "1",
         "pim": "25",
         "pm": "2",
-        "SOG": 7,
-        "TPM": 67.75
-    },
-    "Vinzenz Rohrer": {
-        "name": "Vinzenz Rohrer",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/406803/vinzenz-rohrer",
-        "team": " Austria",
-        "g": "1",
-        "a": "2",
-        "pim": "0",
-        "pm": "-3",
-        "SOG": 1,
-        "TPM": 19.55
+        "SOG": 8,
+        "TPM": 83.02
     },
     "Dalibor Dvorsk\u00fd": {
         "name": "Dalibor Dvorsk\u00fd",
@@ -728,6 +776,18 @@
         "pm": "0",
         "SOG": 12,
         "TPM": 102.8
+    },
+    "Vinzenz Rohrer": {
+        "name": "Vinzenz Rohrer",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/406803/vinzenz-rohrer",
+        "team": " Austria",
+        "g": "1",
+        "a": "2",
+        "pim": "0",
+        "pm": "-3",
+        "SOG": 1,
+        "TPM": 19.55
     },
     "Philipp Krening": {
         "name": "Philipp Krening",
@@ -749,90 +809,6 @@
         "pim": "2",
         "pm": "-8"
     },
-    "Sean Behrens": {
-        "name": "Sean Behrens",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/464775/sean-behrens",
-        "team": " USA",
-        "g": "1",
-        "a": "2",
-        "pim": "0",
-        "pm": "4",
-        "SOG": 10,
-        "TPM": 119.22
-    },
-    "Oskar Pettersson": {
-        "name": "Oskar Pettersson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/562987/oskar-pettersson",
-        "team": " Sweden",
-        "g": "1",
-        "a": "2",
-        "pim": "2",
-        "pm": "6",
-        "SOG": 5,
-        "TPM": 71.24
-    },
-    "Adam Engstr\u00f6m": {
-        "name": "Adam Engstr\u00f6m",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/491616/adam-engstrom",
-        "team": " Sweden",
-        "g": "1",
-        "a": "2",
-        "pim": "2",
-        "pm": "6",
-        "SOG": 9,
-        "TPM": 108.75
-    },
-    "Lane Hutson": {
-        "name": "Lane Hutson",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/526227/lane-hutson",
-        "team": " USA",
-        "g": "1",
-        "a": "2",
-        "pim": "2",
-        "pm": "1",
-        "SOG": 6,
-        "TPM": 94.47
-    },
-    "Gavin Brindley": {
-        "name": "Gavin Brindley",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/538006/gavin-brindley",
-        "team": " USA",
-        "g": "1",
-        "a": "2",
-        "pim": "2",
-        "pm": "0",
-        "SOG": 10,
-        "TPM": 85.31
-    },
-    "Jonathan Lekkerim\u00e4ki": {
-        "name": "Jonathan Lekkerim\u00e4ki",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/649220/jonathan-lekkerimaki",
-        "team": " Sweden",
-        "g": "1",
-        "a": "2",
-        "pim": "4",
-        "pm": "2",
-        "SOG": 7,
-        "TPM": 64.84
-    },
-    "Martin Rysavy": {
-        "name": "Martin Rysavy",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/522440/martin-rysavy",
-        "team": " Czechia",
-        "g": "1",
-        "a": "2",
-        "pim": "4",
-        "pm": "1",
-        "SOG": 12,
-        "TPM": 82.79
-    },
     "Anri Ravinskis": {
         "name": "Anri Ravinskis",
         "pos": "F",
@@ -843,6 +819,42 @@
         "pim": "4",
         "pm": "0"
     },
+    "Sean Behrens": {
+        "name": "Sean Behrens",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/464775/sean-behrens",
+        "team": " USA",
+        "g": "1",
+        "a": "2",
+        "pim": "0",
+        "pm": "5",
+        "SOG": 10,
+        "TPM": 139.84
+    },
+    "Adam Engstr\u00f6m": {
+        "name": "Adam Engstr\u00f6m",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/491616/adam-engstrom",
+        "team": " Sweden",
+        "g": "1",
+        "a": "2",
+        "pim": "2",
+        "pm": "6",
+        "SOG": 11,
+        "TPM": 129.57
+    },
+    "Martin Rysavy": {
+        "name": "Martin Rysavy",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/522440/martin-rysavy",
+        "team": " Czechia",
+        "g": "1",
+        "a": "2",
+        "pim": "4",
+        "pm": "2",
+        "SOG": 14,
+        "TPM": 98.44
+    },
     "Zach Dean": {
         "name": "Zach Dean",
         "pos": "F",
@@ -852,8 +864,8 @@
         "a": "2",
         "pim": "33",
         "pm": "1",
-        "SOG": 5,
-        "TPM": 65.26
+        "SOG": 7,
+        "TPM": 79.78
     },
     "Kalle Ervasti": {
         "name": "Kalle Ervasti",
@@ -867,18 +879,6 @@
         "SOG": 3,
         "TPM": 53.1
     },
-    "Jonas Taibel": {
-        "name": "Jonas Taibel",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/529832/jonas-taibel",
-        "team": " Switzerland",
-        "g": "0",
-        "a": "3",
-        "pim": "0",
-        "pm": "-2",
-        "SOG": 4,
-        "TPM": 97.3
-    },
     "Otto Salin": {
         "name": "Otto Salin",
         "pos": "D",
@@ -890,6 +890,18 @@
         "pm": "4",
         "SOG": 5,
         "TPM": 81.82
+    },
+    "Jonas Taibel": {
+        "name": "Jonas Taibel",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/529832/jonas-taibel",
+        "team": " Switzerland",
+        "g": "0",
+        "a": "3",
+        "pim": "0",
+        "pm": "-2",
+        "SOG": 4,
+        "TPM": 97.3
     },
     "Maxim Strbak": {
         "name": "Maxim Strbak",
@@ -903,52 +915,6 @@
         "SOG": 8,
         "TPM": 98.62
     },
-    "Adam Mechura": {
-        "name": "Adam Mechura",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/579284/adam-mechura",
-        "team": " Czechia",
-        "g": "0",
-        "a": "3",
-        "pim": "0",
-        "pm": "4"
-    },
-    "Luke Mittelstadt": {
-        "name": "Luke Mittelstadt",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/559036/luke-mittelstadt",
-        "team": " USA",
-        "g": "0",
-        "a": "3",
-        "pim": "0",
-        "pm": "4",
-        "SOG": 3,
-        "TPM": 86.91
-    },
-    "Noah \u00d6stlund": {
-        "name": "Noah \u00d6stlund",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/535699/noah-ostlund",
-        "team": " Sweden",
-        "g": "0",
-        "a": "3",
-        "pim": "0",
-        "pm": "0",
-        "SOG": 14,
-        "TPM": 96.14
-    },
-    "Jack Peart": {
-        "name": "Jack Peart",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/616254/jack-peart",
-        "team": " USA",
-        "g": "0",
-        "a": "3",
-        "pim": "0",
-        "pm": "5",
-        "SOG": 4,
-        "TPM": 106.59
-    },
     "Martins Lavins": {
         "name": "Martins Lavins",
         "pos": "F",
@@ -959,6 +925,40 @@
         "pim": "2",
         "pm": "-1"
     },
+    "Adam Mechura": {
+        "name": "Adam Mechura",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/579284/adam-mechura",
+        "team": " Czechia",
+        "g": "0",
+        "a": "3",
+        "pim": "0",
+        "pm": "3"
+    },
+    "Luke Mittelstadt": {
+        "name": "Luke Mittelstadt",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/559036/luke-mittelstadt",
+        "team": " USA",
+        "g": "0",
+        "a": "3",
+        "pim": "0",
+        "pm": "3",
+        "SOG": 3,
+        "TPM": 100.81
+    },
+    "Jack Peart": {
+        "name": "Jack Peart",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/616254/jack-peart",
+        "team": " USA",
+        "g": "0",
+        "a": "3",
+        "pim": "0",
+        "pm": "3",
+        "SOG": 6,
+        "TPM": 123.72
+    },
     "Charlie Stramel": {
         "name": "Charlie Stramel",
         "pos": "F",
@@ -967,9 +967,21 @@
         "g": "0",
         "a": "3",
         "pim": "4",
-        "pm": "0",
+        "pm": "-1",
         "SOG": 12,
-        "TPM": 87.61
+        "TPM": 99.68
+    },
+    "Elias Pettersson": {
+        "name": "Elias Pettersson",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/641020/elias-pettersson",
+        "team": " Sweden",
+        "g": "0",
+        "a": "3",
+        "pim": "6",
+        "pm": "4",
+        "SOG": 9,
+        "TPM": 125.11
     },
     "Ethan Del Mastro": {
         "name": "Ethan Del Mastro",
@@ -978,10 +990,10 @@
         "team": " Canada",
         "g": "0",
         "a": "3",
-        "pim": "6",
-        "pm": "4",
-        "SOG": 2,
-        "TPM": 125.3
+        "pim": "8",
+        "pm": "3",
+        "SOG": 4,
+        "TPM": 149.83
     },
     "Robert Baco": {
         "name": "Robert Baco",
@@ -1015,6 +1027,30 @@
         "pim": "0",
         "pm": "2"
     },
+    "Liam \u00d6hgren": {
+        "name": "Liam \u00d6hgren",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/535698/liam-ohgren",
+        "team": " Sweden",
+        "g": "2",
+        "a": "0",
+        "pim": "0",
+        "pm": "-3",
+        "SOG": 14,
+        "TPM": 123.78
+    },
+    "Milton Oscarson": {
+        "name": "Milton Oscarson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/425317/milton-oscarson",
+        "team": " Sweden",
+        "g": "2",
+        "a": "0",
+        "pim": "0",
+        "pm": "3",
+        "SOG": 7,
+        "TPM": 91.02
+    },
     "Tyson Hinds": {
         "name": "Tyson Hinds",
         "pos": "D",
@@ -1023,9 +1059,9 @@
         "g": "2",
         "a": "0",
         "pim": "2",
-        "pm": "10",
-        "SOG": 12,
-        "TPM": 102.87
+        "pm": "9",
+        "SOG": 13,
+        "TPM": 125.54
     },
     "Kenny Connors": {
         "name": "Kenny Connors",
@@ -1035,9 +1071,9 @@
         "g": "2",
         "a": "0",
         "pim": "25",
-        "pm": "2",
+        "pm": "1",
         "SOG": 6,
-        "TPM": 69.14
+        "TPM": 81.27
     },
     "Lenni H\u00e4meenaho": {
         "name": "Lenni H\u00e4meenaho",
@@ -1083,28 +1119,6 @@
         "SOG": 10,
         "TPM": 73.0
     },
-    "Simon Robertsson": {
-        "name": "Simon Robertsson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/473175/simon-robertsson",
-        "team": " Sweden",
-        "g": "1",
-        "a": "1",
-        "pim": "0",
-        "pm": "2",
-        "SOG": 4,
-        "TPM": 60.71
-    },
-    "David Moravec": {
-        "name": "David Moravec",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/522532/david-moravec",
-        "team": " Czechia",
-        "g": "1",
-        "a": "1",
-        "pim": "0",
-        "pm": "5"
-    },
     "Rodzers Bukarts": {
         "name": "Rodzers Bukarts",
         "pos": "F",
@@ -1125,49 +1139,17 @@
         "pim": "0",
         "pm": "-4"
     },
-    "Ales Cech": {
-        "name": "Ales Cech",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/527438/ales-cech",
-        "team": " Czechia",
-        "g": "1",
-        "a": "1",
-        "pim": "2",
-        "pm": "5"
-    },
-    "Victor Stjernborg": {
-        "name": "Victor Stjernborg",
+    "Sandis Vilmanis": {
+        "name": "Sandis Vilmanis",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/472146/victor-stjernborg",
-        "team": " Sweden",
+        "href": "https://www.eliteprospects.com/player/638444/sandis-vilmanis",
+        "team": " Latvia",
         "g": "1",
         "a": "1",
-        "pim": "2",
-        "pm": "0",
-        "SOG": 6,
-        "TPM": 88.63
-    },
-    "Carl Lindbom": {
-        "name": "Carl Lindbom",
-        "pos": "G",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "href": "https://www.eliteprospects.com/player/574609/carl-lindbom",
-        "team": " Sweden",
-        "gaa": "1.78",
-        "svp": ".941"
-    },
-    "Tomas Suchanek": {
-        "name": "Tomas Suchanek",
-        "pos": "G",
-        "g": "0",
-        "a": "4",
-        "pim": "0",
-        "href": "https://www.eliteprospects.com/player/522442/tomas-suchanek",
-        "team": " Czechia",
-        "gaa": "1.30",
-        "svp": ".938"
+        "pim": "4",
+        "pm": "-4",
+        "SOG": 11,
+        "TPM": 103.06
     },
     "Adam Gajan": {
         "name": "Adam Gajan",
@@ -1180,15 +1162,15 @@
         "gaa": "2.40",
         "svp": ".936"
     },
-    "Thomas Milic": {
-        "name": "Thomas Milic",
+    "Tomas Suchanek": {
+        "name": "Tomas Suchanek",
         "pos": "G",
         "g": "0",
-        "a": "0",
+        "a": "4",
         "pim": "0",
-        "href": "https://www.eliteprospects.com/player/539074/thomas-milic",
-        "team": " Canada",
-        "gaa": "1.75",
+        "href": "https://www.eliteprospects.com/player/522442/tomas-suchanek",
+        "team": " Czechia",
+        "gaa": "1.52",
         "svp": ".934"
     },
     "Jani Lampinen": {
@@ -1202,16 +1184,16 @@
         "gaa": "1.68",
         "svp": ".933"
     },
-    "Trey Augustine": {
-        "name": "Trey Augustine",
+    "Thomas Milic": {
+        "name": "Thomas Milic",
         "pos": "G",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "href": "https://www.eliteprospects.com/player/710572/trey-augustine",
-        "team": " USA",
-        "gaa": "2.17",
-        "svp": ".915"
+        "href": "https://www.eliteprospects.com/player/539074/thomas-milic",
+        "team": " Canada",
+        "gaa": "1.76",
+        "svp": ".932"
     },
     "Patriks Berzins": {
         "name": "Patriks Berzins",
@@ -1224,6 +1206,17 @@
         "gaa": "2.47",
         "svp": ".914"
     },
+    "Carl Lindbom": {
+        "name": "Carl Lindbom",
+        "pos": "G",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "href": "https://www.eliteprospects.com/player/574609/carl-lindbom",
+        "team": " Sweden",
+        "gaa": "2.59",
+        "svp": ".914"
+    },
     "Nikita Quapp": {
         "name": "Nikita Quapp",
         "pos": "G",
@@ -1234,6 +1227,17 @@
         "team": " Germany",
         "gaa": "4.14",
         "svp": ".901"
+    },
+    "Trey Augustine": {
+        "name": "Trey Augustine",
+        "pos": "G",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "href": "https://www.eliteprospects.com/player/710572/trey-augustine",
+        "team": " USA",
+        "gaa": "2.85",
+        "svp": ".891"
     },
     "Matej Marinov": {
         "name": "Matej Marinov",
@@ -1301,6 +1305,17 @@
         "gaa": "6.07",
         "svp": ".831"
     },
+    "Kaidan Mbereko": {
+        "name": "Kaidan Mbereko",
+        "pos": "G",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "href": "https://www.eliteprospects.com/player/512177/kaidan-mbereko",
+        "team": " USA",
+        "gaa": "4.64",
+        "svp": ".829"
+    },
     "Benjamin Gaudreau": {
         "name": "Benjamin Gaudreau",
         "pos": "G",
@@ -1322,17 +1337,6 @@
         "team": " Germany",
         "gaa": "7.50",
         "svp": ".808"
-    },
-    "Kaidan Mbereko": {
-        "name": "Kaidan Mbereko",
-        "pos": "G",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "href": "https://www.eliteprospects.com/player/512177/kaidan-mbereko",
-        "team": " USA",
-        "gaa": "4.95",
-        "svp": ".800"
     },
     "Michael Sicher": {
         "name": "Michael Sicher",
@@ -1444,40 +1448,6 @@
         "gaa": "-",
         "svp": "-"
     },
-    "Matous Mensik": {
-        "name": "Matous Mensik",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/522527/matous-mensik",
-        "team": " Czechia",
-        "g": "1",
-        "a": "1",
-        "pim": "4",
-        "pm": "-1"
-    },
-    "Nolan Allan": {
-        "name": "Nolan Allan",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/482413/nolan-allan",
-        "team": " Canada",
-        "g": "1",
-        "a": "1",
-        "pim": "4",
-        "pm": "6",
-        "SOG": 6,
-        "TPM": 98.22
-    },
-    "Sandis Vilmanis": {
-        "name": "Sandis Vilmanis",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/638444/sandis-vilmanis",
-        "team": " Latvia",
-        "g": "1",
-        "a": "1",
-        "pim": "4",
-        "pm": "-4",
-        "SOG": 11,
-        "TPM": 103.06
-    },
     "Finn van Ee": {
         "name": "Finn van Ee",
         "pos": "F",
@@ -1487,6 +1457,72 @@
         "a": "1",
         "pim": "31",
         "pm": "-8"
+    },
+    "Simon Robertsson": {
+        "name": "Simon Robertsson",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/473175/simon-robertsson",
+        "team": " Sweden",
+        "g": "1",
+        "a": "1",
+        "pim": "0",
+        "pm": "2",
+        "SOG": 4,
+        "TPM": 71.53
+    },
+    "David Moravec": {
+        "name": "David Moravec",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/522532/david-moravec",
+        "team": " Czechia",
+        "g": "1",
+        "a": "1",
+        "pim": "0",
+        "pm": "5"
+    },
+    "Victor Stjernborg": {
+        "name": "Victor Stjernborg",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/472146/victor-stjernborg",
+        "team": " Sweden",
+        "g": "1",
+        "a": "1",
+        "pim": "2",
+        "pm": "1",
+        "SOG": 7,
+        "TPM": 106.9
+    },
+    "Ales Cech": {
+        "name": "Ales Cech",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/527438/ales-cech",
+        "team": " Czechia",
+        "g": "1",
+        "a": "1",
+        "pim": "2",
+        "pm": "5"
+    },
+    "Nolan Allan": {
+        "name": "Nolan Allan",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/482413/nolan-allan",
+        "team": " Canada",
+        "g": "1",
+        "a": "1",
+        "pim": "4",
+        "pm": "7",
+        "SOG": 6,
+        "TPM": 115.25
+    },
+    "Matous Mensik": {
+        "name": "Matous Mensik",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/522527/matous-mensik",
+        "team": " Czechia",
+        "g": "1",
+        "a": "1",
+        "pim": "4",
+        "pm": "-1"
     },
     "Colton Dach": {
         "name": "Colton Dach",
@@ -1618,18 +1654,6 @@
         "pim": "4",
         "pm": "-1"
     },
-    "Elias Pettersson": {
-        "name": "Elias Pettersson",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/641020/elias-pettersson",
-        "team": " Sweden",
-        "g": "0",
-        "a": "2",
-        "pim": "6",
-        "pm": "2",
-        "SOG": 8,
-        "TPM": 107.38
-    },
     "Adam S\u00fdkora": {
         "name": "Adam S\u00fdkora",
         "pos": "F",
@@ -1714,29 +1738,15 @@
         "pim": "10",
         "pm": "-4"
     },
-    "Liam \u00d6hgren": {
-        "name": "Liam \u00d6hgren",
+    "Darels Dukurs": {
+        "name": "Darels Dukurs",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/535698/liam-ohgren",
-        "team": " Sweden",
+        "href": "https://www.eliteprospects.com/player/557692/darels-dukurs",
+        "team": " Latvia",
         "g": "1",
         "a": "0",
-        "pim": "0",
-        "pm": "-2",
-        "SOG": 10,
-        "TPM": 107.25
-    },
-    "Milton Oscarson": {
-        "name": "Milton Oscarson",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/425317/milton-oscarson",
-        "team": " Sweden",
-        "g": "1",
-        "a": "0",
-        "pim": "0",
-        "pm": "2",
-        "SOG": 5,
-        "TPM": 79.25
+        "pim": "2",
+        "pm": "-6"
     },
     "Girts Silkalns": {
         "name": "Girts Silkalns",
@@ -1748,14 +1758,14 @@
         "pim": "2",
         "pm": "1"
     },
-    "Darels Dukurs": {
-        "name": "Darels Dukurs",
+    "Jonas Dobnig": {
+        "name": "Jonas Dobnig",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/557692/darels-dukurs",
-        "team": " Latvia",
+        "href": "https://www.eliteprospects.com/player/639347/jonas-dobnig",
+        "team": " Austria",
         "g": "1",
         "a": "0",
-        "pim": "2",
+        "pim": "4",
         "pm": "-6"
     },
     "Calle Odelius": {
@@ -1768,17 +1778,7 @@
         "pim": "2",
         "pm": "-4",
         "SOG": 4,
-        "TPM": 68.17
-    },
-    "Jonas Dobnig": {
-        "name": "Jonas Dobnig",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/639347/jonas-dobnig",
-        "team": " Austria",
-        "g": "1",
-        "a": "0",
-        "pim": "4",
-        "pm": "-6"
+        "TPM": 68.7
     },
     "Owen Beck": {
         "name": "Owen Beck",
@@ -1788,7 +1788,7 @@
         "g": "0",
         "a": "1",
         "pim": "0",
-        "pm": "1"
+        "pm": "0"
     },
     "Bennet Ro\u00dfmy": {
         "name": "Bennet Ro\u00dfmy",
@@ -1822,16 +1822,6 @@
         "pim": "0",
         "pm": "2"
     },
-    "Nikolaus Heigl": {
-        "name": "Nikolaus Heigl",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/560407/nikolaus-heigl",
-        "team": " Germany",
-        "g": "0",
-        "a": "1",
-        "pim": "0",
-        "pm": "-3"
-    },
     "Mats Alge": {
         "name": "Mats Alge",
         "pos": "F",
@@ -1851,6 +1841,16 @@
         "a": "1",
         "pim": "0",
         "pm": "-2"
+    },
+    "Nikolaus Heigl": {
+        "name": "Nikolaus Heigl",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/560407/nikolaus-heigl",
+        "team": " Germany",
+        "g": "0",
+        "a": "1",
+        "pim": "0",
+        "pm": "-3"
     },
     "Topias Vil\u00e9n": {
         "name": "Topias Vil\u00e9n",
@@ -1964,18 +1964,6 @@
         "pim": "31",
         "pm": "-4"
     },
-    "Ryan Chesley": {
-        "name": "Ryan Chesley",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/556717/ryan-chesley",
-        "team": " USA",
-        "g": "0",
-        "a": "1",
-        "pim": "0",
-        "pm": "1",
-        "SOG": 3,
-        "TPM": 39.96
-    },
     "Edgars Kazaks": {
         "name": "Edgars Kazaks",
         "pos": "D",
@@ -1985,42 +1973,6 @@
         "a": "1",
         "pim": "0",
         "pm": "-3"
-    },
-    "Jack Matier": {
-        "name": "Jack Matier",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/476043/jack-matier",
-        "team": " Canada",
-        "g": "0",
-        "a": "1",
-        "pim": "0",
-        "pm": "4",
-        "SOG": 2,
-        "TPM": 49.66
-    },
-    "Caedan Bankier": {
-        "name": "Caedan Bankier",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/538921/caedan-bankier",
-        "team": " Canada",
-        "g": "0",
-        "a": "1",
-        "pim": "0",
-        "pm": "4",
-        "SOG": 7,
-        "TPM": 63.39
-    },
-    "Reid Schaefer": {
-        "name": "Reid Schaefer",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/506838/reid-schaefer",
-        "team": " Canada",
-        "g": "0",
-        "a": "1",
-        "pim": "2",
-        "pm": "1",
-        "SOG": 3,
-        "TPM": 42.53
     },
     "Peteris Purmalis": {
         "name": "Peteris Purmalis",
@@ -2032,30 +1984,6 @@
         "pim": "2",
         "pm": "-3"
     },
-    "Victor Sj\u00f6holm": {
-        "name": "Victor Sj\u00f6holm",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/509816/victor-sjoholm",
-        "team": " Sweden",
-        "g": "0",
-        "a": "1",
-        "pim": "4",
-        "pm": "5",
-        "SOG": 10,
-        "TPM": 116.46
-    },
-    "Samuel Lipkin": {
-        "name": "Samuel Lipkin",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/478367/samuel-lipkin",
-        "team": " USA",
-        "g": "0",
-        "a": "1",
-        "pim": "6",
-        "pm": "0",
-        "SOG": 4,
-        "TPM": 51.7
-    },
     "Tobias Sablattnig": {
         "name": "Tobias Sablattnig",
         "pos": "D",
@@ -2065,6 +1993,124 @@
         "a": "1",
         "pim": "6",
         "pm": "-11"
+    },
+    "Caedan Bankier": {
+        "name": "Caedan Bankier",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/538921/caedan-bankier",
+        "team": " Canada",
+        "g": "0",
+        "a": "1",
+        "pim": "0",
+        "pm": "3",
+        "SOG": 8,
+        "TPM": 71.24
+    },
+    "Ryan Chesley": {
+        "name": "Ryan Chesley",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/556717/ryan-chesley",
+        "team": " USA",
+        "g": "0",
+        "a": "1",
+        "pim": "0",
+        "pm": "1",
+        "SOG": 3,
+        "TPM": 40.74
+    },
+    "Jack Matier": {
+        "name": "Jack Matier",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/476043/jack-matier",
+        "team": " Canada",
+        "g": "0",
+        "a": "1",
+        "pim": "0",
+        "pm": "4",
+        "SOG": 2,
+        "TPM": 51.56
+    },
+    "William Str\u00f6mgren": {
+        "name": "William Str\u00f6mgren",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/486944/william-stromgren",
+        "team": " Sweden",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "2",
+        "SOG": 2,
+        "TPM": 73.68
+    },
+    "Reid Schaefer": {
+        "name": "Reid Schaefer",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/506838/reid-schaefer",
+        "team": " Canada",
+        "g": "0",
+        "a": "1",
+        "pim": "2",
+        "pm": "1",
+        "SOG": 4,
+        "TPM": 46.2
+    },
+    "Victor Sj\u00f6holm": {
+        "name": "Victor Sj\u00f6holm",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/509816/victor-sjoholm",
+        "team": " Sweden",
+        "g": "0",
+        "a": "1",
+        "pim": "4",
+        "pm": "4",
+        "SOG": 11,
+        "TPM": 137.34
+    },
+    "Samuel Lipkin": {
+        "name": "Samuel Lipkin",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/478367/samuel-lipkin",
+        "team": " USA",
+        "g": "0",
+        "a": "1",
+        "pim": "6",
+        "pm": "2",
+        "SOG": 5,
+        "TPM": 64.93
+    },
+    "Axel Sandin Pellikka": {
+        "name": "Axel Sandin Pellikka",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/534818/axel-sandin-pellikka",
+        "team": " Sweden",
+        "g": "0",
+        "a": "1",
+        "pim": "6",
+        "pm": "-4",
+        "SOG": 14,
+        "TPM": 137.31
+    },
+    "Tomas Hamara": {
+        "name": "Tomas Hamara",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/559537/tomas-hamara",
+        "team": " Czechia",
+        "g": "0",
+        "a": "1",
+        "pim": "8",
+        "pm": "7",
+        "SOG": 11,
+        "TPM": 118.08
+    },
+    "Noah Laba": {
+        "name": "Noah Laba",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/512166/noah-laba",
+        "team": " USA",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0"
     },
     "Elvis Laskovs": {
         "name": "Elvis Laskovs",
@@ -2076,20 +2122,10 @@
         "pim": "0",
         "pm": "0"
     },
-    "Sebastian Cimmerman": {
-        "name": "Sebastian Cimmerman",
+    "Ryan Del Monte": {
+        "name": "Ryan Del Monte",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/399187/sebastian-cimmerman",
-        "team": " Germany",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "-3"
-    },
-    "Yannick Proske": {
-        "name": "Yannick Proske",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/475445/yannick-proske",
+        "href": "https://www.eliteprospects.com/player/623019/ryan-del-monte",
         "team": " Germany",
         "g": "0",
         "a": "0",
@@ -2106,15 +2142,25 @@
         "pim": "0",
         "pm": "0"
     },
-    "Ryan Del Monte": {
-        "name": "Ryan Del Monte",
+    "Yannick Proske": {
+        "name": "Yannick Proske",
         "pos": "F",
-        "href": "https://www.eliteprospects.com/player/623019/ryan-del-monte",
+        "href": "https://www.eliteprospects.com/player/475445/yannick-proske",
         "team": " Germany",
         "g": "0",
         "a": "0",
         "pim": "0",
         "pm": "-1"
+    },
+    "Sebastian Cimmerman": {
+        "name": "Sebastian Cimmerman",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/399187/sebastian-cimmerman",
+        "team": " Germany",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "-3"
     },
     "Samuel Honzek": {
         "name": "Samuel Honzek",
@@ -2148,16 +2194,6 @@
         "SOG": 3,
         "TPM": 46.28
     },
-    "Tim Muggli": {
-        "name": "Tim Muggli",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/596667/tim-muggli",
-        "team": " Switzerland",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "-1"
-    },
     "Luca Deussen": {
         "name": "Luca Deussen",
         "pos": "D",
@@ -2167,6 +2203,16 @@
         "a": "0",
         "pim": "0",
         "pm": "1"
+    },
+    "Tim Muggli": {
+        "name": "Tim Muggli",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/596667/tim-muggli",
+        "team": " Switzerland",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "-1"
     },
     "Martin Misiak": {
         "name": "Martin Misiak",
@@ -2197,6 +2243,18 @@
         "a": "0",
         "pim": "0",
         "pm": "0"
+    },
+    "Ville Ruotsalainen": {
+        "name": "Ville Ruotsalainen",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/557202/ville-ruotsalainen",
+        "team": " Finland",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "pm": "0",
+        "SOG": 0,
+        "TPM": 34.1
     },
     "Nick Meile": {
         "name": "Nick Meile",
@@ -2250,15 +2308,15 @@
         "pim": "0",
         "pm": "-2"
     },
-    "Eric H\u00f6rdler": {
-        "name": "Eric H\u00f6rdler",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/601781/eric-hordler",
-        "team": " Germany",
+    "Pavol Funtek": {
+        "name": "Pavol Funtek",
+        "pos": "D",
+        "href": "https://www.eliteprospects.com/player/566894/pavol-funtek",
+        "team": " Slovakia",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "-5"
+        "pm": "0"
     },
     "Julian W\u00e4ser": {
         "name": "Julian W\u00e4ser",
@@ -2282,18 +2340,6 @@
         "SOG": 4,
         "TPM": 95.17
     },
-    "Ville Ruotsalainen": {
-        "name": "Ville Ruotsalainen",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/557202/ville-ruotsalainen",
-        "team": " Finland",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "0",
-        "SOG": 0,
-        "TPM": 34.1
-    },
     "Marcel Stefancik": {
         "name": "Marcel Stefancik",
         "pos": "F",
@@ -2304,15 +2350,15 @@
         "pim": "0",
         "pm": "0"
     },
-    "Pavol Funtek": {
-        "name": "Pavol Funtek",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/566894/pavol-funtek",
-        "team": " Slovakia",
+    "Eric H\u00f6rdler": {
+        "name": "Eric H\u00f6rdler",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/601781/eric-hordler",
+        "team": " Germany",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "0"
+        "pm": "-5"
     },
     "Adrian Klein": {
         "name": "Adrian Klein",
@@ -2358,15 +2404,15 @@
         "SOG": 2,
         "TPM": 43.88
     },
-    "Christoph Tialler": {
-        "name": "Christoph Tialler",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/639341/christoph-tialler",
-        "team": " Austria",
+    "Rainers Darzins": {
+        "name": "Rainers Darzins",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/558437/rainers-darzins",
+        "team": " Latvia",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "-8"
+        "pm": "-1"
     },
     "Dario Mackevics": {
         "name": "Dario Mackevics",
@@ -2408,27 +2454,15 @@
         "pim": "0",
         "pm": "-9"
     },
-    "Rainers Darzins": {
-        "name": "Rainers Darzins",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/558437/rainers-darzins",
-        "team": " Latvia",
-        "g": "0",
-        "a": "0",
-        "pim": "0",
-        "pm": "-1"
-    },
-    "Jakob Nor\u00e9n": {
-        "name": "Jakob Nor\u00e9n",
+    "Christoph Tialler": {
+        "name": "Christoph Tialler",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/535688/jakob-noren",
-        "team": " Sweden",
+        "href": "https://www.eliteprospects.com/player/639341/christoph-tialler",
+        "team": " Austria",
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "1",
-        "SOG": 5,
-        "TPM": 56.9
+        "pm": "-8"
     },
     "Roberts Cjunskis": {
         "name": "Roberts Cjunskis",
@@ -2439,18 +2473,6 @@
         "a": "0",
         "pim": "0",
         "pm": "0"
-    },
-    "William Str\u00f6mgren": {
-        "name": "William Str\u00f6mgren",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/486944/william-stromgren",
-        "team": " Sweden",
-        "g": "0",
-        "a": "0",
-        "pim": "2",
-        "pm": "2",
-        "SOG": 1,
-        "TPM": 60.7
     },
     "Tim Geifes": {
         "name": "Tim Geifes",
@@ -2522,18 +2544,6 @@
         "pim": "2",
         "pm": "-7"
     },
-    "Fabian Lysell": {
-        "name": "Fabian Lysell",
-        "pos": "F",
-        "href": "https://www.eliteprospects.com/player/472769/fabian-lysell",
-        "team": " Sweden",
-        "g": "0",
-        "a": "0",
-        "pim": "4",
-        "pm": "-1",
-        "SOG": 9,
-        "TPM": 83.21
-    },
     "Lukas H\u00f6rl": {
         "name": "Lukas H\u00f6rl",
         "pos": "D",
@@ -2554,28 +2564,28 @@
         "pim": "4",
         "pm": "-7"
     },
-    "Axel Sandin Pellikka": {
-        "name": "Axel Sandin Pellikka",
+    "Jakob Nor\u00e9n": {
+        "name": "Jakob Nor\u00e9n",
         "pos": "D",
-        "href": "https://www.eliteprospects.com/player/534818/axel-sandin-pellikka",
+        "href": "https://www.eliteprospects.com/player/535688/jakob-noren",
         "team": " Sweden",
         "g": "0",
         "a": "0",
-        "pim": "6",
-        "pm": "-3",
-        "SOG": 8,
-        "TPM": 116.49
+        "pim": "0",
+        "pm": "2",
+        "SOG": 6,
+        "TPM": 75.82
     },
-    "Tomas Hamara": {
-        "name": "Tomas Hamara",
-        "pos": "D",
-        "href": "https://www.eliteprospects.com/player/559537/tomas-hamara",
-        "team": " Czechia",
+    "Fabian Lysell": {
+        "name": "Fabian Lysell",
+        "pos": "F",
+        "href": "https://www.eliteprospects.com/player/472769/fabian-lysell",
+        "team": " Sweden",
         "g": "0",
         "a": "0",
-        "pim": "8",
-        "pm": "6",
-        "SOG": 10,
-        "TPM": 103.78
+        "pim": "29",
+        "pm": "-1",
+        "SOG": 9,
+        "TPM": 83.69
     }
 }
