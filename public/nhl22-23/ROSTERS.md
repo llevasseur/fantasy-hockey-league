@@ -2,7 +2,7 @@
 ## Timo
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
 | :----- | --- | ---- | - | - | --- | --- | --- | ------ |
-| [Connor McDavid](https://www.nhl.com/player/8478402) | F |  Edmonton Oilers  | 35 | 44 | 170 | 20 | +2 | 22:40 |
+| [Connor McDavid](https://www.nhl.com/player/8478402) | F |  Edmonton Oilers  | 37 | 45 | 175 | 20 | +2 | 22:34 |
 | [Nikita Kucherov](https://www.nhl.com/player/8476453) | F |  Tampa Bay Lightning  | 17 | 44 | 143 | 22 | +1 | 20:45 |
 | [Mika Zibanejad](https://www.nhl.com/player/8476459) | F |  New York Rangers  | 19 | 26 | 156 | 8 | +15 | 20:59 |
 | [David Pastrnak](https://www.nhl.com/player/8477956) | F |  Boston Bruins  | 32 | 26 | 208 | 24 | +19 | 19:50 |
@@ -13,7 +13,7 @@
 | [Devon Toews](https://www.nhl.com/player/8478038) | D |  Colorado Avalanche  | 3 | 17 | 73 | 10 | +6 | 25:29 |
 | [Zach Werenski](https://www.nhl.com/player/8478460) | D |  Columbus Blue Jackets  | 3 | 5 | 41 | 0 | -6 | 23:36 |
 | [Jacob Trouba](https://www.nhl.com/player/8476885) | D |  New York Rangers  | 3 | 11 | 118 | 37 | -5 | 21:12 |
-| **Totals** | | | 159 | 263 | 1317 | 177 | 52 | 236:16 |
+| **Totals** | | | 161 | 264 | 1322 | 177 | 52 | 236:10 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -40,18 +40,18 @@
 ## Alasdair
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
 | :----- | --- | ---- | - | - | --- | --- | --- | ------ |
-| [Leon Draisaitl](https://www.nhl.com/player/8477934) | F |  Edmonton Oilers  | 23 | 40 | 132 | 20 | +3 | 22:15 |
+| [Leon Draisaitl](https://www.nhl.com/player/8477934) | F |  Edmonton Oilers  | 24 | 42 | 137 | 20 | +3 | 22:09 |
 | [Mikko Rantanen](https://www.nhl.com/player/8478420) | F |  Colorado Avalanche  | 27 | 24 | 157 | 28 | +6 | 23:08 |
-| [Sidney Crosby](https://www.nhl.com/player/8471675) | F |  Pittsburgh Penguins  | 21 | 27 | 112 | 22 | +1 | 20:13 |
+| [Sidney Crosby](https://www.nhl.com/player/8471675) | F |  Pittsburgh Penguins  | 21 | 27 | 112 | 22 | +1 | 20:10 |
 | [Steven Stamkos](https://www.nhl.com/player/8474564) | F |  Tampa Bay Lightning  | 18 | 29 | 136 | 20 | +4 | 19:09 |
-| [Jake Guentzel](https://www.nhl.com/player/8477404) | F |  Pittsburgh Penguins  | 17 | 20 | 108 | 26 | +1 | 20:07 |
+| [Jake Guentzel](https://www.nhl.com/player/8477404) | F |  Pittsburgh Penguins  | 17 | 20 | 111 | 28 | +1 | 20:06 |
 | [Jack Eichel](https://www.nhl.com/player/8478403) | F |  Vegas Golden Knights  | 15 | 18 | 116 | 4 | +15 | 18:52 |
-| [Evgeni Malkin](https://www.nhl.com/player/8471215) | F |  Pittsburgh Penguins  | 14 | 25 | 117 | 20 | -1 | 18:19 |
+| [Evgeni Malkin](https://www.nhl.com/player/8471215) | F |  Pittsburgh Penguins  | 14 | 25 | 118 | 20 | -2 | 18:21 |
 | [Quinn Hughes](https://www.nhl.com/player/8480800) | D |  Vancouver Canucks  | 3 | 33 | 71 | 12 | +4 | 25:01 |
 | [MacKenzie Weegar](https://www.nhl.com/player/8477346) | D |  Calgary Flames  | 1 | 9 | 77 | 30 | +2 | 20:53 |
 | [Shea Theodore](https://www.nhl.com/player/8477447) | D |  Vegas Golden Knights  | 4 | 18 | 74 | 6 | +14 | 21:51 |
 | [Rasmus Dahlin](https://www.nhl.com/player/8480839) | D |  Buffalo Sabres  | 13 | 34 | 118 | 46 | +16 | 26:21 |
-| **Totals** | | | 156 | 277 | 1218 | 234 | 65 | 236:09 |
+| **Totals** | | | 157 | 279 | 1227 | 236 | 64 | 236:01 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -59,18 +59,18 @@
 ## Liam
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TOI/GP |
 | :----- | --- | ---- | - | - | --- | --- | --- | ------ |
-| [Kyle Connor](https://www.nhl.com/player/8478398) | F |  Winnipeg Jets  | 21 | 31 | 141 | 6 | +10 | 20:26 |
+| [Kyle Connor](https://www.nhl.com/player/8478398) | F |  Winnipeg Jets  | 21 | 32 | 141 | 6 | +11 | 20:22 |
 | [Alex Ovechkin](https://www.nhl.com/player/8471214) | F |  Washington Capitals  | 29 | 19 | 193 | 20 | 0 | 20:29 |
 | [Matthew Tkachuk](https://www.nhl.com/player/8479314) | F |  Florida Panthers  | 22 | 30 | 149 | 63 | +5 | 20:14 |
 | [Brady Tkachuk](https://www.nhl.com/player/8480801) | F |  Ottawa Senators  | 15 | 26 | 179 | 49 | -10 | 18:35 |
-| [Jack Hughes](https://www.nhl.com/player/8481559) | F |  New Jersey Devils  | 26 | 23 | 187 | 2 | +14 | 20:01 |
-| [Nikolaj Ehlers](https://www.nhl.com/player/8477940) | F |  Winnipeg Jets  | 2 | 8 | 17 | 2 | +1 | 17:06 |
+| [Jack Hughes](https://www.nhl.com/player/8481559) | F |  New Jersey Devils  | 28 | 24 | 190 | 2 | +15 | 19:53 |
+| [Nikolaj Ehlers](https://www.nhl.com/player/8477940) | F |  Winnipeg Jets  | 3 | 8 | 22 | 2 | +2 | 16:58 |
 | [Sam Reinhart](https://www.nhl.com/player/8477933) | F |  Florida Panthers  | 13 | 15 | 110 | 8 | -8 | 19:33 |
 | [Cale Makar](https://www.nhl.com/player/8480069) | D |  Colorado Avalanche  | 11 | 28 | 129 | 26 | +4 | 27:29 |
 | [Aaron Ekblad](https://www.nhl.com/player/8477932) | D |  Florida Panthers  | 6 | 11 | 85 | 38 | -18 | 23:51 |
 | [Thomas Chabot](https://www.nhl.com/player/8478469) | D |  Ottawa Senators  | 7 | 15 | 91 | 32 | -7 | 26:04 |
-| [Darnell Nurse](https://www.nhl.com/player/8477498) | D |  Edmonton Oilers  | 6 | 15 | 112 | 36 | +12 | 24:03 |
-| **Totals** | | | 158 | 221 | 1393 | 282 | 3 | 237:51 |
+| [Darnell Nurse](https://www.nhl.com/player/8477498) | D |  Edmonton Oilers  | 6 | 15 | 113 | 38 | +12 | 23:57 |
+| **Totals** | | | 161 | 223 | 1402 | 284 | 6 | 236:31 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
@@ -88,8 +88,8 @@
 | [John Carlson](https://www.nhl.com/player/8474590) | D |  Washington Capitals  | 8 | 13 | 101 | 6 | -1 | 23:24 |
 | [Brent Burns](https://www.nhl.com/player/8470613) | D |  Carolina Hurricanes  | 6 | 23 | 136 | 32 | +1 | 23:39 |
 | [Drew Doughty](https://www.nhl.com/player/8474563) | D |  Los Angeles Kings  | 3 | 22 | 84 | 24 | +5 | 26:17 |
-| [Dougie Hamilton](https://www.nhl.com/player/8476462) | D |  New Jersey Devils  | 9 | 26 | 140 | 28 | +10 | 22:11 |
-| **Totals** | | | 124 | 261 | 1225 | 186 | 7 | 237:30 |
+| [Dougie Hamilton](https://www.nhl.com/player/8476462) | D |  New Jersey Devils  | 10 | 27 | 146 | 30 | +13 | 22:05 |
+| **Totals** | | | 125 | 262 | 1231 | 188 | 10 | 238:18 |
 
 | Player | Pos | Team | S% | GAA |
 | :----- | --- | ----| -- | --: |
