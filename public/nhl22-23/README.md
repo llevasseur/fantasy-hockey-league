@@ -7,10 +7,10 @@ Casual Python3 project used by friends to keep track of NHL and WJC players stat
 | User | [G](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/STANDINGS.md#user-content-goals) | [A](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/STANDINGS.md#user-content-assists) | [SOG](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/STANDINGS.md#user-content-shots-on-goal) | [PIM](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/STANDINGS.md#user-content-penalties-in-minutes) | [+/-](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/STANDINGS.md#user-content-plus--minus) | [TOI/GP](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/STANDINGS.md#user-content-average-time-on-ice) | [S%](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/STANDINGS.md#user-content-save-percentage) | [GAA](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/STANDINGS.md#user-content-goals-against-average) | Total |
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Liam) | 6 | 2 | 6 | 6 | 2 | 5 | 6 | 6 | 39 |
-| [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) | 4 | 6 | 2 | 5 | 6 | 3 | 5 | 3 | 34 |
+| [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Alasdair) | 4 | 6 | 2 | 5 | 5 | 4 | 5 | 3 | 34 |
 | [John](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#John) | 2 | 3 | 3 | 2 | 3 | 6 | 4 | 5 | 28 |
-| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) | 5 | 4 | 5 | 1 | 5 | 4 | 1 | 1 | 26 |
-| [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Carsten) | 3 | 1 | 4 | 3 | 1 | 2 | 3 | 4 | 21 |
+| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Timo) | 6 | 4 | 5 | 1 | 6 | 3 | 1 | 1 | 27 |
+| [Carsten](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Carsten) | 3 | 1 | 4 | 3 | 1 | 2 | 4 | 4 | 22 |
 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/public/nhl22-23/ROSTERS.md#Leevon) | 1 | 5 | 1 | 4 | 4 | 1 | 2 | 2 | 20 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
