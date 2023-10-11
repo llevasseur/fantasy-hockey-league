@@ -4,3 +4,4 @@ selenium
 chromeDriver (check version of Chrome)
 pandas
 mysql-connector-python
+pymongo
