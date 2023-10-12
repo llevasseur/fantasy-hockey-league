@@ -18,7 +18,7 @@ cv = "0.0.1"
 cwd = os.getcwd()
 
 # Number of SKATER PAGES on hockeystatcards.com
-SKATER_PAGES = 4
+SKATER_PAGES = 11
 # Number of GOALIE PAGES on hockeystatcards.com
 GOALIE_PAGES = 1
 
