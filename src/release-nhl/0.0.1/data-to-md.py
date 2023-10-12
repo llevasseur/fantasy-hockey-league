@@ -1,42 +1,29 @@
+from datetime import datetime
+
 import json
 import re
 import os
-import datetime
 
+# Current Version
+cv = "0.0.1"
+
+# Current Working Directroy
 cwd = os.getcwd()
 
-START_DATE = datetime.datetime(2022, 10, 11, 0, 0)
+# Error Handling
+ERROR_CODE = '100'
+with open(cwd + '/json/error-code-list.json', 'r') as json_file:
+  ERROR_CODE_LIST = json.loads(json_file.read())
 
-def get_nhl_day(today):
-  return (today - START_DATE).days
+# Start date info
+START_DATE = datetime(2023, 10, 10, 0, 0)
 
-def addTOI(toi, total):
-  min, sec = re.match('([0-9]{1,2}):([0-5][0-9])', toi).groups()
-  tot_min, tot_sec = re.match('([0-9]+):([0-5]{0,1}[0-9])', total).groups()
-  sec = int(tot_sec) + int(sec)
-
-  # If remainder, add to minutes and remove from seconds
-  if sec > 60:
-    sec -= 60
-    min = str(int(min) + 1)
-  
-  if sec < 10:
-    sec = '0' + str(sec)
-  else:
-    sec = str(sec)
-
-  return str(int(tot_min) + int(min)) + ':' + sec
-
-def addPM(pm, total):
-  if '+' in pm:
-    _, pm = re.match('(\+)([0-9]+)', pm).groups()
-  return total + int(pm)
 
 def validatePick(pick):
     KEYS = [
-        "href",
-        "pos",
-        "team"
+        "PLAYER"
+        "POS",
+        "TEAM"
     ]
 
     for k in KEYS:
@@ -48,19 +35,19 @@ def validatePick(pick):
 
     return True
 
-def main():
-  date = str(get_nhl_day(datetime.datetime.today()))
 
-  with open(cwd + '/json/beta-nhl/draft-picks.json', 'r') as json_file:
+def main():
+  # Create Date (file name)
+  date = datetime.today()
+  date = '' + str(date.year) + '-' + str(date.month) + '-' + str(date.day)
+
+  with open(cwd + '/json/release-nhl/2023-24/draft-picks.json', 'r') as json_file:
     draft_data = json.loads(json_file.read())
 
-  with open(cwd + '/json/beta-nhl/2022-23/day-'+date+'.json') as json_file:
+  with open(cwd + f'/json/release-nhl/2023-24/{date}.json') as json_file:
     player_data = json.loads(json_file.read())
-  
-  with open(cwd + '/json/beta-nhl/team-lookup-table.json', 'r') as teams_file:
-    teams = json.loads(teams_file.read())
-    
-  md_file = open(cwd + '/ROSTERS.md', 'w')
+
+  md_file = open(cwd + '/public/nhl23-24/ROSTERS.md', 'w')
 
   md_file.write("# Fantasy Rosters\n")
 
@@ -76,46 +63,26 @@ def main():
 
     g_total = 0
     a_total = 0
-    pim_total = 0
     pm_total = 0
     sog_total = 0
-    toi_total = "0:00"
+    toi_total = "0"
 
-    gaa_list =[]
+    gaa_list = []
     svp_list = []
 
     for pick in roster:
-
-      try: 
-
+      
+      try:
         if validatePick(player_data[pick]):
-          href = player_data[pick]['href']
-          pos = player_data[pick]['pos']
-          team = player_data[pick]['team']
-          #color = teams[team]["col"]
-          team = teams[team]["name"]
+          pos = player_data[pick]['POS']
+          team = player_data[pick]['TEAM']
 
           if pos == "G":
-            gaa = player_data[pick]['gaa']
-            svp = player_data[pick]['svp']
-
-            if re.match('[\d\.]+', gaa):
-              gaa_list.append(float(gaa))
-            else:
-              gaa_list.append(100.0)
-            if re.match('[\d\.]+', svp):
-              svp_list.append(float(svp))
-            else:
-              svp_list.append(0.0)
-        
-            player_map[pos].append(
-              f"| [{pick}]({href}) | {pos} | {team} | {svp} | {gaa} |\n")
-
+            print("TODO: Wait for dev to figure out goalie stats on hockeystatcards.com")
           else:
-            g = player_data[pick]['g']
-            a = player_data[pick]['a']
-            pim = player_data[pick]['pim']
-            pm = player_data[pick]['+/-']
+            g = player_data[pick]['G']
+            a = player_data[pick]['A']
+            pen = player_data[pick]['PEN']
             sog = player_data[pick]['sog']
             toi = player_data[pick]['toi/gp']
 
@@ -165,8 +132,8 @@ def main():
     json_file.write(json.dumps(ranking_data, indent=4))
 
   print('''
-  Player data from /json/beta-nhl/ep-player-data.json has been used to update ROSTERS.md
-  Run `python src/beta-nhl/parse-standings.py` to update the STANDINGS.md file with this new data
+  Player data from /json/beta-nhl/ep-player-data.json has been used to update public/nhl22-23/ROSTERS.md
+  Run `python src/beta-nhl/parse-standings.py` to update the public/nhl22-23/STANDINGS.md file with this new data
   ''')
 
 if __name__ == "__main__":
