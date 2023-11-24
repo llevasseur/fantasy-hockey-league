@@ -2,6 +2,7 @@
 
 ### VSCode
 1. To create a default html page, in a .html file start with a '!' and hit enter.
+2. Comment out multiple lines using ctrl + k, ctrl + c
 
 ### Markdown
 1. View markdown files in VSCode using the key bind Ctrl + Shift + v.
@@ -18,6 +19,18 @@
 <p align="center">
   <img src="images/html_element_as_a_box.jpg" />
 </p>
+
+3. When using an input form, you can get the value onChange using onChange={(e) => setText(e.target.value)} where setText is some javascript function and if value is defined like so: value={text} where text is some javascript defined value. Ex:
+< div className="form-control">
+    < label>Task</>
+    < input type="text" placeholder="Add Task" value={text} onChange={(e) => setText(e.target.value)}></>
+< /div>
+
+Same goes for checkboxes except onChange checks e.currentTarget.checked: onChange={(e) => setReminder(e.currentTarget.checked)}. Example:
+< div className="form-control form-control-check">
+    < label>Set Reminder</>
+    < input type="checkbox" value={reminder} onChange={(e) => setReminder(e.currentTarget.checked)}></>
+< /div>
 
 ### CSS Styling
 1. CSS fundamentals are fonts, colours, box model, positioning.
@@ -72,6 +85,15 @@
 </p>
 
 4. JSON is the format used to send data between the client and server.
+5. Use .map() on an object to create a collection, or list, of key/value pairs.
+6. Use .filter() on a list to make a sub-list of anything that returns true from a boolean function.
+7. When setting up event functions, sometimes a necessary thing to do is prevent the default action of the event. For example, if setting up an onSubmit function, use e.preventDefault to prevent it opening on a new page.
+<p align="center">
+  <img src="images/preventDefault.jpg" />
+</p>
+
+8. Copy an array with this syntax: copiedList = [...myList]
+9. A shorter way of writing a ternary is to use this syntax {myBool && what-to-do-when-true} 
 
 ### UI Design Principles
 1. Scale
