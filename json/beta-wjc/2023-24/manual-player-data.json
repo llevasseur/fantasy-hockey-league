@@ -74,85 +74,85 @@
         }
     },
     "USA": {
-        "Ryan Chesley": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Lane Hutson": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Gavin Brindley": {
-            "SOG": 0,
-            "TPM": 0
+        "Rutger McGroarty": {
+            "SOG": 1,
+            "TPM": 16.27
         },
         "Cutter Gauthier": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 1,
+            "TPM": 17.5
         },
-        "Rutger McGroarty": {
+        "Lane Hutson": {
+            "SOG": 2,
+            "TPM": 22.93
+        },
+        "Ryan Chesley": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 18.45
         },
         "Jimmy Snuggerud": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 6,
+            "TPM": 16.98
         },
-        "Zeev Buium": {
-            "SOG": 0,
-            "TPM": 0
+        "Gavin Brindley": {
+            "SOG": 6,
+            "TPM": 16.0
+        },
+        "Drew Fortescue": {
+            "SOG": 2,
+            "TPM": 18.82
+        },
+        "Isaac Howard": {
+            "SOG": 6,
+            "TPM": 13.45
         },
         "Seamus Casey": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 15.7
+        },
+        "Frank Nazar": {
+            "SOG": 2,
+            "TPM": 12.03
+        },
+        "Will Smith": {
+            "SOG": 3,
+            "TPM": 15.05
         },
         "Sam Rinzel": {
             "SOG": 0,
-            "TPM": 0
-        },
-        "Quinn Finley": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Frank Nazar": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Isaac Howard": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Eric Pohlkamp": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Gabe Perreault": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Drew Fortescue": {
-            "SOG": 0,
-            "TPM": 0
+            "TPM": 12.55
         },
         "Ryan Leonard": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 8,
+            "TPM": 16.03
         },
-        "Oliver Moore": {
+        "Zeev Buium": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 15.18
+        },
+        "Gabe Perreault": {
+            "SOG": 2,
+            "TPM": 15.05
+        },
+        "Quinn Finley": {
+            "SOG": 1,
+            "TPM": 12.88
         },
         "Danny Nelson": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 15.15
         },
-        "Will Smith": {
-            "SOG": 0,
-            "TPM": 0
+        "Eric Pohlkamp": {
+            "SOG": 1,
+            "TPM": 7.58
         },
         "Gavin Hayes": {
+            "SOG": 1,
+            "TPM": 9.42
+        },
+        "Oliver Moore": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 4.93
         }
     },
     "Finland": {
@@ -352,17 +352,17 @@
         }
     },
     "Norway": {
-        "Michael Brandsegg-Nyg\u00e5rd": {
-            "SOG": 0,
-            "TPM": 0
-        },
         "Noah Steen": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 3,
+            "TPM": 21.18
+        },
+        "Michael Brandsegg-Nyg\u00e5rd": {
+            "SOG": 2,
+            "TPM": 17.98
         },
         "Patrik Dalen": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 9.88
         }
     },
     "Latvia": {
