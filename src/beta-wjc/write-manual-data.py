@@ -5,7 +5,7 @@ import datetime
 
 cwd = os.getcwd()
 
-START_DATE = datetime.datetime(2022, 12, 26, 0, 0)
+START_DATE = datetime.datetime(2023, 12, 26, 0, 0)
 
 def get_wjc_day(today):
   return (today - START_DATE).days
@@ -17,17 +17,17 @@ def time_to_float(x):
 
 def write_to_data(manual_player_data, date):
   # Make a json with updated reference to json
-  with open(cwd + '/json/beta-wjc/2022-23/manual-player-data.json', 'w') as json_file:
+  with open(cwd + '/json/beta-wjc/2023-24/manual-player-data.json', 'w') as json_file:
     json_file.write(json.dumps(manual_player_data, indent=4))
   return
 
 def parse_manual_data(matches, date):
   # manual-player-data.json data for reference
   manual_player_data = {}
-  with open(cwd + '/json/beta-wjc/2022-23/manual-player-data.json', 'r') as json_file:
+  with open(cwd + '/json/beta-wjc/2023-24/manual-player-data.json', 'r') as json_file:
     manual_player_data = json.loads(json_file.read())
     # name-lookup-table.json translates short hand name to reference name 
-    with open(cwd + '/json/beta-wjc/2022-23/name-lookup-table.json', 'r') as json_file_2:
+    with open(cwd + '/json/beta-wjc/2023-24/name-lookup-table.json', 'r') as json_file_2:
       name_lookup_table = json.loads(json_file_2.read())
       #print(f"\t### Manual Player Data: {manual_player_data}")
 
@@ -73,8 +73,8 @@ def main():
   parse_manual_data(matches, date)
 
   print(f'''
-  Manual player data has been updated and written to /json/beta-wjc/manual-player-data.json
-  Run `python src/beta-wjc/merge-data.py` to update the data in /json/beta-wjc/2022-2023/manual-player-data.json
+  Manual player data has been updated and written to /json/beta-wjc/2023-24/manual-player-data.json
+  Run `python src/beta-wjc/merge-data.py` to update the data in /json/beta-wjc/2023-2024/manual-player-data.json
   ''')
         
 

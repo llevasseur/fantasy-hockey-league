@@ -1,0 +1,121 @@
+{
+    "Canada": {
+        "M. Savoie": "Matthew Savoie",
+        "D. Mateychuk": "Denton Mateychuk",
+        "J. Dumais": "Jordan Dumais",
+        "B. Yager": "Brayden Yager",
+        "N. Warren": "Noah Warren",
+        "O. Allard": "Owen Allard",
+        "M. Celebrini": "Macklin Celebrini",
+        "E. Cowan": "Easton Cowan",
+        "M. Wood": "Matthew Wood",
+        "O. Bonk": "Oliver Bonk",
+        "F. Minten": "Fraser Minten",
+        "N. Danielson": "Nate Danielson",
+        "M. Poitras": "Matthew Poitras",
+        "S. St-Hilaire": "Samuel St-Hilaire",
+        "C. Geekie": "Conor Geekie",
+        "M. Lamoureux": "Maveric Lamoureux",
+        "J. Donovan": "Jordan Donovan",
+        "O. Beck": "Owen Beck",
+        "T. Nelson": "Ty Nelson",
+        "M. Rousseau": "Mathis Rousseau"
+    },
+    "USA": {
+        "T. Augustine": "Trey Augustine",
+        "R. Chesley": "Ryan Chesley",
+        "L. Hutson": "Lane Hutson",
+        "G. Brindley": "Gavin Brindley",
+        "C. Gauthier": "Cutter Gauthier",
+        "R. McGroarty": "Rutger McGroarty",
+        "J. Snuggerud": "Jimmy Snuggerud",
+        "Z. Buium": "Zeev Buium",
+        "S. Casey": "Seamus Casey",
+        "S. Rinzel": "Sam Rinzel",
+        "Q. Finley": "Quinn Finley",
+        "F. Nazar": "Frank Nazar",
+        "I. Howard": "Isaac Howard",
+        "E. Pohlkamp": "Eric Pohlkamp",
+        "G. Perreault": "Gabe Perreault",
+        "D. Fortescue": "Drew Fortescue",
+        "R. Leonard": "Ryan Leonard",
+        "J. Fowler": "Jacob Fowler",
+        "O. Moore": "Oliver Moore",
+        "D. Nelson": "Danny Nelson",
+        "S. Hillebrandt": "Sam Hillebrandt",
+        "W. Smith": "Will Smith",
+        "G. Hayes": "Gavin Hayes"
+    },
+    "Finland": {
+        "N. Kokko": "Niklas Kokko",
+        "O. Salin": "Otto Salin",
+        "L. Hameenaho": "Lenni H\u00e4meenaho",
+        "A. Kaskimaki": "Aleksanteri Kaskim\u00e4ki",
+        "J. Nyman": "Jani Nyman",
+        "J. Vaisanen": "Joona V\u00e4is\u00e4nen",
+        "K. Helenius": "Konsta Helenius",
+        "A. Karki": "Arttu K\u00e4rki",
+        "E. Vinni": "Eemil Vinni",
+        "N. Vali": "Noa Vali",
+        "E. Hemming": "Emil Hemming",
+        "K. Halttunen": "Kasper Halttunen",
+        "J. Pulkkinen": "Jesse Pulkkinen"
+    },
+    "Sweden": {
+        "D. Edstrom": "David Edstrom",
+        "E. Pettersson": "Elias Pettersson",
+        "A. Sandin Pellikka": "Axel Sandin Pellikka",
+        "F. Bystedt": "Filip Bystedt",
+        "J. Lekkerimaki": "Jonathan Lekkerim\u00e4ki",
+        "O. Pettersson": "Oskar Pettersson",
+        "F. Wagner": "Fabian Wagner",
+        "L. Ohgren": "Liam \u00D6hgren",
+        "N. Ostlund": "Noah \u00D6stlund",
+        "M. Havelid": "Mattias H\u00e4velid",
+        "O. Stenberg": "Otto Stenberg",
+        "A. Johansson": "Anton Johansson",
+        "A. Wahlberg": "Anton Wahlberg",
+        "H. Havelid": "Hugo H\u00e4velid",
+        "T. Willander": "Tom Willander",
+        "F. Unger Sorum": "Felix Unger S\u00d6rum",
+        "E. Salomonsson": "Elias Salomonsson",
+        "M. Thelin": "Melker Thelin"
+    },
+    "Czechia": {
+        "A. Jiricek": "Adam Jiricek",
+        "E. Sale": "Eduard Sale",
+        "J. Kulich": "Jiri Kulich",
+        "T. Suchanek": "Tomas Suchanek",
+        "M. Sapovaliv": "Matyas Sapovaliv",
+        "R. Sapousek": "Robin Sapousek" ,
+        "D. Rymon": "Dominik Rymon"
+    },
+    "Slovakia": {
+        "D. Dvorsky": "Dalibor Dvorsk\u00fd",
+        "S. Petrovsky": "Serv\u00e1c Petrovsk\u00fd",
+        "F. Mesar": "Filip Mesar",
+        "A. Sykora": "Adam S\u00fdkora",
+        "M. Strbak": "Maxim Strbak",
+        "M. Misiak": "Martin Misiak",
+        "A. Sotek": "Alex Sotek",
+        "A. Gajan": "Adam Gajan",
+        "S. Honzek": "Samuel Honzek"
+    },
+    "Switzerland": {
+        "J. Taibel": "Jonas Taibel",
+        "R. Dionicio": "Rodwin Dionicio",
+        "M. Muller": "Miles M\u00fcller",
+        "T. Jenni": "Timo Jenni"
+    },
+    "Germany": {
+        "J. Lutz": "Julian Lutz"
+    },  
+    "Norway": {
+        "M. Brandsegg-Nygard": "Michael Brandsegg-Nyg\u00e5rd",
+        "N. Steen": "Noah Steen",
+        "P. Dalen": "Patrik Dalen"
+    },
+    "Latvia": { 
+        "R. Ozollapa": "Rauls Ozollapa"
+    }
+}

@@ -11,7 +11,7 @@ NUMBER_OF_PLAYERS = 9
 
 
 def main():
-    with open(cwd + '/json/beta-wjc/2022-23/standings.json', 'r') as json_file:
+    with open(cwd + '/json/beta-wjc/2023-24/standings.json', 'r') as json_file:
         ranking_data = json.loads(json_file.read())
 
     standings = {}

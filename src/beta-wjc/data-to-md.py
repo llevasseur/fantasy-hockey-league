@@ -5,7 +5,7 @@ import datetime
 
 cwd = os.getcwd()
 
-START_DATE = datetime.datetime(2022, 12, 26, 0, 0)
+START_DATE = datetime.datetime(2023, 12, 26, 0, 0)
 
 def get_wjc_day(today):
   return (today - START_DATE).days
@@ -53,10 +53,10 @@ def validatePick(pick):
 def main():
   date = str(get_wjc_day(datetime.datetime.today()))
 
-  with open(cwd + '/json/beta-wjc/2022-23/draft-picks.json', 'r') as json_file:
+  with open(cwd + '/json/beta-wjc/2023-24/draft-picks.json', 'r') as json_file:
     draft_data = json.loads(json_file.read())
 
-  with open(cwd + '/json/beta-wjc/2022-23/merged-player-data-day-'+date+'.json', 'r') as json_file:
+  with open(cwd + '/json/beta-wjc/2023-24/merged-player-data-day-'+date+'.json', 'r') as json_file:
     player_data = json.loads(json_file.read())
 
   md_file = open(cwd + '/ROSTERS.md', 'w')
@@ -168,11 +168,11 @@ def main():
     for g in goalies:
       md_file.write(g)
 
-  with open(cwd + '/json/beta-wjc/2022-23/standings.json', 'w') as json_file:
+  with open(cwd + '/json/beta-wjc/2023-24/standings.json', 'w') as json_file:
     json_file.write(json.dumps(ranking_data, indent=4))
 
   print(f'''
-  Player data from /json/beta-wjc/2022-23/merged-player-data-day-{date}.json has been used to update ROSTERS.md
+  Player data from /json/beta-wjc/2023-24/merged-player-data-day-{date}.json has been used to update ROSTERS.md
   Run `python src/alpha-nhl/parse-standings.py` to update the STANDINGS.md file with this new data
   ''')
 

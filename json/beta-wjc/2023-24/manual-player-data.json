@@ -1,0 +1,288 @@
+{
+    "Canada": {
+        "Matthew Savoie": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Denton Mateychuk": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Jordan Dumais": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Brayden Yager": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Noah Warren": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Owen Allard": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Macklin Celebrini": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Easton Cowan": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Matthew Wood": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Oliver Bonk": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Fraser Minten": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Nate Danielson": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Matthew Poitras": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Conor Geekie": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Maveric Lamoureux": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Jordan Donovan": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Owen Beck": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Ty Nelson": {
+            "SOG": 0,
+            "TPM": 0
+        }
+    },
+    "Finland": {
+        "Otto Salin": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Lenni H\u00e4meenaho": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Aleksanteri Kaskim\u00e4ki": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Jani Nyman": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Joona V\u00e4is\u00e4nen": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Konsta Helenius": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Arttu K\u00e4rki": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Emil Hemming": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Kasper Halttunen": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Jesse Pulkkinen": {
+            "SOG": 0,
+            "TPM": 0
+        }
+    },
+    "Sweden": {
+        "David Edstrom": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Elias Pettersson": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Axel Sandin Pellikka": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Filip Bystedt": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Jonathan Lekkerim\u00e4ki": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Oskar Pettersson": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Fabian Wagner": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Liam \u00d6hgren": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Noah \u00d6stlund": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Mattias H\u00e4velid": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Otto Stenberg": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Anton Johansson": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Anton Wahlberg": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Tom Willander": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Felix Unger S\u00d6rum": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Elias Salomonsson": {
+            "SOG": 0,
+            "TPM": 0
+        }
+    },
+    "Czechia": {
+        "Matyas Sapovaliv": {
+            "SOG": 1,
+            "TPM": 20.22
+        },
+        "Jiri Kulich": {
+            "SOG": 5,
+            "TPM": 19.35
+        },
+        "Eduard Sale": {
+            "SOG": 3,
+            "TPM": 17.63
+        },
+        "Adam Jiricek": {
+            "SOG": 0,
+            "TPM": 9.57
+        },
+        "Dominik Rymon": {
+            "SOG": 3,
+            "TPM": 11.9
+        },
+        "Robin Sapousek": {
+            "SOG": 2,
+            "TPM": 15.53
+        }
+    },
+    "Slovakia": {
+        "Maxim Strbak": {
+            "SOG": 5,
+            "TPM": 23.53
+        },
+        "Filip Mesar": {
+            "SOG": 0,
+            "TPM": 18.02
+        },
+        "Adam S\u00fdkora": {
+            "SOG": 1,
+            "TPM": 22.85
+        },
+        "Serv\u00e1c Petrovsk\u00fd": {
+            "SOG": 4,
+            "TPM": 19.32
+        },
+        "Dalibor Dvorsk\u00fd": {
+            "SOG": 3,
+            "TPM": 20.18
+        },
+        "Martin Misiak": {
+            "SOG": 2,
+            "TPM": 14.9
+        },
+        "Samuel Honzek": {
+            "SOG": 1,
+            "TPM": 16.2
+        },
+        "Alex Sotek": {
+            "SOG": 1,
+            "TPM": 5.83
+        }
+    },
+    "Germany": {
+        "Julian Lutz": {
+            "SOG": 0,
+            "TPM": 0
+        }
+    },
+    "Switzerland": {
+        "Jonas Taibel": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Rodwin Dionicio": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Miles M\u00fcller": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Timo Jenni": {
+            "SOG": 0,
+            "TPM": 0
+        }
+    },
+    "Norway": {
+        "Michael Brandsegg-Nyg\u00e5rd": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Noah Steen": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Patrik Dalen": {
+            "SOG": 0,
+            "TPM": 0
+        }
+    },
+    "Latvia": {
+        "Rauls Ozollapa": {
+            "SOG": 0,
+            "TPM": 0
+        }
+    }
+}

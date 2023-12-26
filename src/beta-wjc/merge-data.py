@@ -4,7 +4,7 @@ import datetime
 
 cwd = os.getcwd()
 
-START_DATE = datetime.datetime(2022, 12, 26, 0, 0)
+START_DATE = datetime.datetime(2023, 12, 26, 0, 0)
 
 def get_wjc_day(today):
   return (today - START_DATE).days
@@ -16,8 +16,8 @@ def readJSON(path):
 def main():
   date = str(get_wjc_day(datetime.datetime.today()))
 
-  ep_player_data = readJSON(cwd + "/json/beta-wjc/2022-23/ep-player-data.json")
-  manual_player_data = readJSON(cwd + "/json/beta-wjc/2022-23/manual-player-data.json")
+  ep_player_data = readJSON(cwd + "/json/beta-wjc/2023-24/ep-player-data.json")
+  manual_player_data = readJSON(cwd + "/json/beta-wjc/2023-24/manual-player-data.json")
 
   for team in manual_player_data:
     players = manual_player_data[team]
@@ -30,12 +30,12 @@ def main():
         print("skipping (in merge) "+ name)
       
 
-  with open(cwd + '/json/beta-wjc/2022-23/merged-player-data-day-'+date+'.json', 'w') as json_file:
+  with open(cwd + '/json/beta-wjc/2023-24/merged-player-data-day-'+date+'.json', 'w') as json_file:
     json_file.write(json.dumps(ep_player_data, indent=4))
 
   print(f'''
-  Player data has been merged from /json/beta-wjc/2022-23/ep-player-data.json and /json/beta-wjc/2022-23/manual-player-data.json
-  into /json/beta-wjc/2022-23/merged-player-data-day-{date}.json
+  Player data has been merged from /json/beta-wjc/2023-24/ep-player-data.json and /json/beta-wjc/2023-24/manual-player-data.json
+  into /json/beta-wjc/2023-24/merged-player-data-day-{date}.json
   Run `python src/beta-wjc/data-to-md.py` to update the ROSTERS.md file with this new data
   ''')
   

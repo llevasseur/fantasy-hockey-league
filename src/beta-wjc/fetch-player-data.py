@@ -86,18 +86,18 @@ def main():
   
   for i in range(1, 4):
     print(f"Processing skater webpage {i}...")
-    soup = getSoup("https://www.eliteprospects.com/league/wjc-20/stats/2022-2023?page="+str(i))
+    soup = getSoup("https://www.eliteprospects.com/league/wjc-20/stats/2023-2024?page="+str(i))
 
     getPlayersFromSoup(players, soup)
 
   print(f"Done!")
   
-  with open(cwd + '/json/beta-wjc/2022-23/ep-player-data.json', 'w') as json_file:
+  with open(cwd + '/json/beta-wjc/2023-24/ep-player-data.json', 'w') as json_file:
     json_file.write(json.dumps(players, indent=4))
 
     print(f'''
-    Player data has been fetched from https://www.eliteprospects.com and written to /json/beta-wjc/2022-23/ep-player-data.json
-    Run `python src/beta-wjc/write-manual-data.py` to add SOG and TPM to the data in /json/beta-wjc/2022-23/manual-player-data.json
+    Player data has been fetched from https://www.eliteprospects.com and written to /json/beta-wjc/2023-24/ep-player-data.json
+    Run `python src/beta-wjc/write-manual-data.py` to add SOG and TPM to the data in /json/beta-wjc/2023-24/manual-player-data.json
     ''')
 
 if __name__ == "__main__":
