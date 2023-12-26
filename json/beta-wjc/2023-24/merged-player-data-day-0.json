@@ -2262,5 +2262,71 @@
         "pm": "-",
         "SOG": 0,
         "TPM": 0
+    },
+    "Eemil Vinni": {
+        "name": "Eemil Vinni",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/709425/eemil-vinni",
+        "team": " Finland",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "gaa": "100.00",
+        "svp": "0.000"
+    },
+    "Jacob Fowler": {
+        "name": "Jacob Fowler",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/603653/jacob-fowler",
+        "team": " USA",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "gaa": "100.00",
+        "svp": "0.000"
+    },
+    "Trey Augustine": {
+        "name": "Trey Augustine",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/710572/trey-augustine",
+        "team": " USA",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "gaa": "100.00",
+        "svp": "0.000"
+    },
+    "Melker Thelin": {
+        "name": "Melker Thelin",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/707277/melker-thelin",
+        "team": " Sweden",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "gaa": "100.00",
+        "svp": "0.000"
+    },
+    "Hugo H\u00e4velid": {
+        "name": "Hugo H\u00e4velid",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/578759/hugo-havelid",
+        "team": " Sweden",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "gaa": "100.00",
+        "svp": "0.000"
+    },
+    "Sam Hillebrandt": {
+        "name": "Sam Hillebrandt",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/701600/sam-hillebrandt",
+        "team": " USA",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "gaa": "100.00",
+        "svp": "0.000"
     }
 }

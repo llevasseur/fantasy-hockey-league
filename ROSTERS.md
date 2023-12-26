@@ -35,6 +35,7 @@
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
+| [Eemil Vinni](https://www.eliteprospects.com/player/709425/eemil-vinni) | G |  Finland | 0 | 0 | 0 | 0.000 | 100.00 |
 | [Noa Vali](https://www.eliteprospects.com/player/618613/noa-vali) | G |  Finland | 0 | 0 | 0 | - | - |
 ## Liam
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
@@ -53,6 +54,8 @@
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
+| [Jacob Fowler](https://www.eliteprospects.com/player/603653/jacob-fowler) | G |  USA | 0 | 0 | 0 | 0.000 | 100.00 |
+| [Sam Hillebrandt](https://www.eliteprospects.com/player/701600/sam-hillebrandt) | G |  USA | 0 | 0 | 0 | 0.000 | 100.00 |
 ## Leevon
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
@@ -90,6 +93,7 @@
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
+| [Trey Augustine](https://www.eliteprospects.com/player/710572/trey-augustine) | G |  USA | 0 | 0 | 0 | 0.000 | 100.00 |
 ## Timo
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
@@ -108,6 +112,7 @@
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
+| [Melker Thelin](https://www.eliteprospects.com/player/707277/melker-thelin) | G |  Sweden | 0 | 0 | 0 | 0.000 | 100.00 |
 ## Kyle
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
@@ -126,6 +131,7 @@
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
+| [Hugo Hävelid](https://www.eliteprospects.com/player/578759/hugo-havelid) | G |  Sweden | 0 | 0 | 0 | 0.000 | 100.00 |
 ## Alasdair
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |

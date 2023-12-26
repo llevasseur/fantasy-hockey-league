@@ -26,8 +26,8 @@
         "Penalties in Minutes": 2,
         "Plus / Minus": 2,
         "Time Played in Minutes": 106.48,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
     },
     "Leevon": {
         "Goals": 3,
@@ -46,8 +46,8 @@
         "Penalties in Minutes": 6,
         "Plus / Minus": 3,
         "Time Played in Minutes": 129.94,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
     },
     "Timo": {
         "Goals": 0,
@@ -56,8 +56,8 @@
         "Penalties in Minutes": 2,
         "Plus / Minus": 1,
         "Time Played in Minutes": 28.98,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
     },
     "Kyle": {
         "Goals": 1,
@@ -66,8 +66,8 @@
         "Penalties in Minutes": 6,
         "Plus / Minus": 2,
         "Time Played in Minutes": 67.4,
-        "Save Percentage": "-",
-        "Goals Against Average": "-"
+        "Save Percentage": 0.0,
+        "Goals Against Average": 100.0
     },
     "Alasdair": {
         "Goals": 0,
