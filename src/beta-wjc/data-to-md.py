@@ -173,7 +173,7 @@ def main():
 
   print(f'''
   Player data from /json/beta-wjc/2023-24/merged-player-data-day-{date}.json has been used to update ROSTERS.md
-  Run `python src/alpha-nhl/parse-standings.py` to update the STANDINGS.md file with this new data
+  Run `python src/beta-wjc/parse-standings.py` to update the STANDINGS.md file with this new data
   ''')
 
 
