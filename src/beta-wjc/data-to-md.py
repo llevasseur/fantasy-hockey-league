@@ -93,7 +93,7 @@ def main():
           href=player_data[pick]['href']
           pos=player_data[pick]['pos']
           team = player_data[pick]['team']
-
+          #print("checkpoint 1")
 
           if pos == "G":
             gaa=player_data[pick]['gaa']
@@ -123,12 +123,14 @@ def main():
             pm=player_data[pick]['pm']
             sog=player_data[pick]['SOG']
             tpm=player_data[pick]['TPM']
+            #print("checkpoint 2")
             #toi = player_data['toi']
 
             if re.match('\d+', g): g_total += int(g)
             if re.match('\d+', a): a_total += int(a)
             if re.match('\d+', pim): pim_total += int(pim)
-            pm_total = addPM(pm, pm_total)
+            if re.match('-?\d+', pm): pm_total = addPM(pm, pm_total)
+            #print("checkpoint 3")
             #if re.match('\-?\d+', pm): pm_total += int(pm)
             sog_total += sog
             tpm_total=round(tpm_total + tpm, 2)

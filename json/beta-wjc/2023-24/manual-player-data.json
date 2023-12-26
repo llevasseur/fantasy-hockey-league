@@ -60,7 +60,7 @@
             "SOG": 0,
             "TPM": 0
         },
-        "Jordan Donovan": {
+        "Jorian Donovan": {
             "SOG": 0,
             "TPM": 0
         },
@@ -69,6 +69,88 @@
             "TPM": 0
         },
         "Ty Nelson": {
+            "SOG": 0,
+            "TPM": 0
+        }
+    },
+    "USA": {
+        "Ryan Chesley": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Lane Hutson": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Gavin Brindley": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Cutter Gauthier": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Rutger McGroarty": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Jimmy Snuggerud": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Zeev Buium": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Seamus Casey": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Sam Rinzel": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Quinn Finley": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Frank Nazar": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Isaac Howard": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Eric Pohlkamp": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Gabe Perreault": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Drew Fortescue": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Ryan Leonard": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Oliver Moore": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Danny Nelson": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Will Smith": {
+            "SOG": 0,
+            "TPM": 0
+        },
+        "Gavin Hayes": {
             "SOG": 0,
             "TPM": 0
         }
@@ -172,7 +254,7 @@
             "SOG": 0,
             "TPM": 0
         },
-        "Felix Unger S\u00d6rum": {
+        "Felix Unger S\u00f6rum": {
             "SOG": 0,
             "TPM": 0
         },
@@ -201,6 +283,10 @@
         "Dominik Rymon": {
             "SOG": 3,
             "TPM": 11.9
+        },
+        "Ales Cech": {
+            "SOG": 0,
+            "TPM": 17.23
         },
         "Robin Sapousek": {
             "SOG": 2,

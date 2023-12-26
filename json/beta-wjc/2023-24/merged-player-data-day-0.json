@@ -333,7 +333,9 @@
         "g": "0",
         "a": "0",
         "pim": "2",
-        "pm": "0"
+        "pm": "0",
+        "SOG": 0,
+        "TPM": 17.23
     },
     "Tomas Hamara": {
         "name": "Tomas Hamara",
@@ -495,7 +497,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Phillip Sinn": {
         "name": "Phillip Sinn",
@@ -549,7 +553,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Owen Allard": {
         "name": "Owen Allard",
@@ -673,7 +679,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Tom Willander": {
         "name": "Tom Willander",
@@ -737,7 +745,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Axel Sandin Pellikka": {
         "name": "Axel Sandin Pellikka",
@@ -813,7 +823,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Rutger McGroarty": {
         "name": "Rutger McGroarty",
@@ -823,7 +835,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Lane Hutson": {
         "name": "Lane Hutson",
@@ -833,7 +847,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Seamus Casey": {
         "name": "Seamus Casey",
@@ -843,7 +859,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Lennard Nieleck": {
         "name": "Lennard Nieleck",
@@ -1007,7 +1025,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Mattheo Reinhard": {
         "name": "Mattheo Reinhard",
@@ -1037,7 +1057,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Davis Borozinskis": {
         "name": "Davis Borozinskis",
@@ -1313,7 +1335,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Thierry Schild": {
         "name": "Thierry Schild",
@@ -1333,7 +1357,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Matthew Poitras": {
         "name": "Matthew Poitras",
@@ -1355,7 +1381,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Jonathan Lekkerim\u00e4ki": {
         "name": "Jonathan Lekkerim\u00e4ki",
@@ -1789,7 +1817,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Felix Unger S\u00f6rum": {
         "name": "Felix Unger S\u00f6rum",
@@ -1799,7 +1829,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Will Smith": {
         "name": "Will Smith",
@@ -1809,7 +1841,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Jani Nyman": {
         "name": "Jani Nyman",
@@ -1867,7 +1901,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Matthew Wood": {
         "name": "Matthew Wood",
@@ -1909,7 +1945,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Arttu K\u00e4rki": {
         "name": "Arttu K\u00e4rki",
@@ -2061,7 +2099,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Sandis Vilmanis": {
         "name": "Sandis Vilmanis",
@@ -2131,7 +2171,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Gavin Hayes": {
         "name": "Gavin Hayes",
@@ -2141,7 +2183,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Samu Bau": {
         "name": "Samu Bau",
@@ -2161,7 +2205,9 @@
         "g": "-",
         "a": "-",
         "pim": "-",
-        "pm": "-"
+        "pm": "-",
+        "SOG": 0,
+        "TPM": 0
     },
     "Oiva Keskinen": {
         "name": "Oiva Keskinen",

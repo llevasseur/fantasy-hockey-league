@@ -6,7 +6,7 @@ Casual Python3 project used by friends to keep track of NHL and WJC players' sta
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
 | [Karter](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Karter) | 9 | 8 | 8 | 7 | 9 | 8 | 9 | 9 | 67 |
 | [John B](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-B) | 7 | 9 | 6 | 9 | 8 | 9 | 48 |
-| [Kyle](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Kyle) | 7 | 7 | 8 | 9 | 8 | 6 | 45 |
+| [Kyle](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Kyle) | 7 | 7 | 8 | 8 | 8 | 6 | 44 |
 | [John M](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-M) | 7 | 6 | 9 | 7 | 2 | 7 | 38 |
 | [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 7 | 6 | 4 | 7 | 8 | 4 | 36 |
 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) | 7 | 6 | 4 | 7 | 8 | 4 | 36 |
