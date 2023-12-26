@@ -7,13 +7,12 @@ NAME = "fantasy-hockey-league"
 ROSTERS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/ROSTERS.md"
 STANDINGS_URL = "https://github.com/llevasseur/"+NAME+"/blob/main/STANDINGS.md"
 
-NUMBER_OF_PLAYERS = 9
+NUMBER_OF_PLAYERS = 8
 
 
 def main():
     with open(cwd + '/json/beta-wjc/2023-24/standings.json', 'r') as json_file:
         ranking_data = json.loads(json_file.read())
-
     standings = {}
 
     for user in ranking_data:
