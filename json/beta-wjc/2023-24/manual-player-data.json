@@ -1,76 +1,76 @@
 {
     "Canada": {
-        "Matthew Savoie": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Denton Mateychuk": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Jordan Dumais": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Brayden Yager": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Noah Warren": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Owen Allard": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Macklin Celebrini": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Easton Cowan": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Matthew Wood": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Oliver Bonk": {
-            "SOG": 0,
-            "TPM": 0
-        },
         "Fraser Minten": {
             "SOG": 0,
             "TPM": 0
         },
-        "Nate Danielson": {
-            "SOG": 0,
-            "TPM": 0
+        "Maveric Lamoureux": {
+            "SOG": 2,
+            "TPM": 26.13
         },
-        "Matthew Poitras": {
+        "Jordan Dumais": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 13.52
+        },
+        "Denton Mateychuk": {
+            "SOG": 1,
+            "TPM": 25.42
         },
         "Conor Geekie": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 19.72
         },
-        "Maveric Lamoureux": {
+        "Noah Warren": {
+            "SOG": 2,
+            "TPM": 16.98
+        },
+        "Matthew Poitras": {
+            "SOG": 3,
+            "TPM": 18.08
+        },
+        "Matthew Savoie": {
+            "SOG": 3,
+            "TPM": 22.08
+        },
+        "Easton Cowan": {
+            "SOG": 1,
+            "TPM": 15.67
+        },
+        "Oliver Bonk": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 20.37
         },
         "Jorian Donovan": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 15.53
         },
         "Owen Beck": {
+            "SOG": 1,
+            "TPM": 13.87
+        },
+        "Nate Danielson": {
+            "SOG": 4,
+            "TPM": 13.87
+        },
+        "Owen Allard": {
+            "SOG": 3,
+            "TPM": 14.42
+        },
+        "Macklin Celebrini": {
+            "SOG": 4,
+            "TPM": 14.53
+        },
+        "Matthew Wood": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 6.03
         },
         "Ty Nelson": {
+            "SOG": 2,
+            "TPM": 10.13
+        },
+        "Brayden Yager": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 12.17
         }
     },
     "USA": {
@@ -156,45 +156,45 @@
         }
     },
     "Finland": {
-        "Otto Salin": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Lenni H\u00e4meenaho": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Aleksanteri Kaskim\u00e4ki": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Jani Nyman": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Joona V\u00e4is\u00e4nen": {
-            "SOG": 0,
-            "TPM": 0
+        "Jesse Pulkkinen": {
+            "SOG": 2,
+            "TPM": 18.85
         },
         "Konsta Helenius": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 22.18
+        },
+        "Lenni H\u00e4meenaho": {
+            "SOG": 4,
+            "TPM": 22.35
+        },
+        "Otto Salin": {
+            "SOG": 0,
+            "TPM": 21.55
+        },
+        "Kasper Halttunen": {
+            "SOG": 3,
+            "TPM": 14.5
+        },
+        "Aleksanteri Kaskim\u00e4ki": {
+            "SOG": 2,
+            "TPM": 16.73
         },
         "Arttu K\u00e4rki": {
+            "SOG": 4,
+            "TPM": 18.8
+        },
+        "Joona V\u00e4is\u00e4nen": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 15.48
+        },
+        "Jani Nyman": {
+            "SOG": 3,
+            "TPM": 19.35
         },
         "Emil Hemming": {
             "SOG": 0,
-            "TPM": 0
-        },
-        "Kasper Halttunen": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Jesse Pulkkinen": {
-            "SOG": 0,
-            "TPM": 0
+            "TPM": 11.72
         }
     },
     "Sweden": {
