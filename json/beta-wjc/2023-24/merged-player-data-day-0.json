@@ -1808,8 +1808,8 @@
         "a": "0",
         "pim": "2",
         "pm": "0",
-        "SOG": 0,
-        "TPM": 0
+        "SOG": 3,
+        "TPM": 16.72
     },
     "Ales Cech": {
         "name": "Ales Cech",

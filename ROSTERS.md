@@ -117,7 +117,7 @@
 | Player | Pos | Team | G | A | SOG | PIM | +/- | TPM |
 | :----- | --- | ---- | - | - | --- | --- | --- | --: |
 | [Frank Nazar](https://www.eliteprospects.com/player/574819/frank-nazar) | F |  USA | 0 | 1 | 2 | 0 | 2 | 12.03 |
-| [Fraser Minten](https://www.eliteprospects.com/player/529809/fraser-minten) | F |  Canada | 0 | 0 | 0 | 2 | 0 | 0 |
+| [Fraser Minten](https://www.eliteprospects.com/player/529809/fraser-minten) | F |  Canada | 0 | 0 | 3 | 2 | 0 | 16.72 |
 | [Isaac Howard](https://www.eliteprospects.com/player/603668/isaac-howard) | F |  USA | 1 | 0 | 6 | 0 | 2 | 13.45 |
 | [Eduard Sale](https://www.eliteprospects.com/player/595291/eduard-sale) | F |  Czechia | 0 | 1 | 3 | 0 | 0 | 17.63 |
 | [Nate Danielson](https://www.eliteprospects.com/player/562426/nate-danielson) | F |  Canada | 1 | 1 | 4 | 0 | 3 | 13.87 |
@@ -127,7 +127,7 @@
 | [Axel Sandin Pellikka](https://www.eliteprospects.com/player/534818/axel-sandin-pellikka) | D |  Sweden | 0 | 1 | 2 | 2 | 1 | 17.52 |
 | [Oliver Bonk](https://www.eliteprospects.com/player/590255/oliver-bonk) | D |  Canada | 0 | 0 | 0 | 0 | -1 | 20.37 |
 | [Eric Pohlkamp](https://www.eliteprospects.com/player/656832/eric-pohlkamp) | D |  USA | 0 | 0 | 1 | 0 | 0 | 7.58 |
-| **Totals** | | | 2 | 5 | 23 | 8 | 8 | 124.75 |
+| **Totals** | | | 2 | 5 | 26 | 8 | 8 | 141.47 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
