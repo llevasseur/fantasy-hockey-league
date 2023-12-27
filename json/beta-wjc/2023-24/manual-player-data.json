@@ -198,69 +198,69 @@
         }
     },
     "Sweden": {
-        "David Edstrom": {
-            "SOG": 0,
-            "TPM": 0
-        },
         "Elias Pettersson": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Axel Sandin Pellikka": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Filip Bystedt": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Jonathan Lekkerim\u00e4ki": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Oskar Pettersson": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Fabian Wagner": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Liam \u00d6hgren": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Noah \u00d6stlund": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Mattias H\u00e4velid": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Otto Stenberg": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Anton Johansson": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Anton Wahlberg": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Tom Willander": {
-            "SOG": 0,
-            "TPM": 0
-        },
-        "Felix Unger S\u00f6rum": {
-            "SOG": 0,
-            "TPM": 0
+            "SOG": 2,
+            "TPM": 21.12
         },
         "Elias Salomonsson": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 0.42
+        },
+        "Noah \u00d6stlund": {
+            "SOG": 2,
+            "TPM": 19.22
+        },
+        "Anton Wahlberg": {
+            "SOG": 3,
+            "TPM": 18.2
+        },
+        "Jonathan Lekkerim\u00e4ki": {
+            "SOG": 5,
+            "TPM": 14.33
+        },
+        "Mattias H\u00e4velid": {
+            "SOG": 0,
+            "TPM": 15.32
+        },
+        "Fabian Wagner": {
+            "SOG": 2,
+            "TPM": 14.57
+        },
+        "Filip Bystedt": {
+            "SOG": 3,
+            "TPM": 13.07
+        },
+        "Liam \u00d6hgren": {
+            "SOG": 5,
+            "TPM": 15.73
+        },
+        "Tom Willander": {
+            "SOG": 0,
+            "TPM": 19.45
+        },
+        "Axel Sandin Pellikka": {
+            "SOG": 2,
+            "TPM": 17.52
+        },
+        "Anton Johansson": {
+            "SOG": 3,
+            "TPM": 20.05
+        },
+        "David Edstrom": {
+            "SOG": 0,
+            "TPM": 16.47
+        },
+        "Felix Unger S\u00f6rum": {
+            "SOG": 2,
+            "TPM": 14.35
+        },
+        "Otto Stenberg": {
+            "SOG": 0,
+            "TPM": 13.18
+        },
+        "Oskar Pettersson": {
+            "SOG": 3,
+            "TPM": 6.77
         }
     },
     "Czechia": {
@@ -368,7 +368,7 @@
     "Latvia": {
         "Rauls Ozollapa": {
             "SOG": 0,
-            "TPM": 0
+            "TPM": 10.67
         }
     }
 }
