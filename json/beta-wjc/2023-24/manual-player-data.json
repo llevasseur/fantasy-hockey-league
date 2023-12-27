@@ -264,33 +264,33 @@
         }
     },
     "Czechia": {
+        "Tomas Hamara": {
+            "SOG": 6,
+            "TPM": 48.98
+        },
         "Matyas Sapovaliv": {
-            "SOG": 1,
-            "TPM": 20.22
+            "SOG": 6,
+            "TPM": 38.69
         },
         "Jiri Kulich": {
-            "SOG": 5,
-            "TPM": 19.35
-        },
-        "Eduard Sale": {
-            "SOG": 3,
-            "TPM": 17.63
-        },
-        "Adam Jiricek": {
-            "SOG": 0,
-            "TPM": 9.57
-        },
-        "Dominik Rymon": {
-            "SOG": 3,
-            "TPM": 11.9
+            "SOG": 13,
+            "TPM": 35.73
         },
         "Ales Cech": {
-            "SOG": 0,
-            "TPM": 17.23
+            "SOG": 1,
+            "TPM": 35.86
+        },
+        "Eduard Sale": {
+            "SOG": 8,
+            "TPM": 31.41
         },
         "Robin Sapousek": {
-            "SOG": 2,
-            "TPM": 15.53
+            "SOG": 3,
+            "TPM": 32.06
+        },
+        "Dominik Rymon": {
+            "SOG": 7,
+            "TPM": 26.45
         }
     },
     "Slovakia": {
@@ -353,16 +353,16 @@
     },
     "Norway": {
         "Noah Steen": {
-            "SOG": 3,
-            "TPM": 21.18
+            "SOG": 5,
+            "TPM": 43.51
         },
         "Michael Brandsegg-Nyg\u00e5rd": {
-            "SOG": 2,
-            "TPM": 17.98
+            "SOG": 4,
+            "TPM": 34.43
         },
         "Patrik Dalen": {
             "SOG": 0,
-            "TPM": 9.88
+            "TPM": 14.76
         }
     },
     "Latvia": {

@@ -1,21 +1,21 @@
 {
     "Karter": {
         "Goals": 7,
-        "Assists": 2,
-        "Shots on Goal": 26,
-        "Penalties in Minutes": 2,
-        "Plus / Minus": 8,
-        "Time Played in Minutes": 197.12,
+        "Assists": 4,
+        "Shots on Goal": 32,
+        "Penalties in Minutes": 4,
+        "Plus / Minus": 9,
+        "Time Played in Minutes": 236.53,
         "Save Percentage": 0.969,
         "Goals Against Average": 1.0
     },
     "John M": {
         "Goals": 6,
         "Assists": 2,
-        "Shots on Goal": 26,
+        "Shots on Goal": 36,
         "Penalties in Minutes": 0,
         "Plus / Minus": -2,
-        "Time Played in Minutes": 215.46,
+        "Time Played in Minutes": 254.17,
         "Save Percentage": 0.0,
         "Goals Against Average": 100.0
     },
@@ -32,20 +32,20 @@
     "Leevon": {
         "Goals": 5,
         "Assists": 7,
-        "Shots on Goal": 17,
+        "Shots on Goal": 26,
         "Penalties in Minutes": 29,
         "Plus / Minus": 5,
-        "Time Played in Minutes": 174.95,
+        "Time Played in Minutes": 207.97,
         "Save Percentage": 0.0,
         "Goals Against Average": 100.0
     },
     "John B": {
         "Goals": 1,
         "Assists": 6,
-        "Shots on Goal": 14,
+        "Shots on Goal": 15,
         "Penalties in Minutes": 10,
         "Plus / Minus": 6,
-        "Time Played in Minutes": 229.41,
+        "Time Played in Minutes": 248.04,
         "Save Percentage": 0.957,
         "Goals Against Average": 1.0
     },
@@ -55,27 +55,27 @@
         "Shots on Goal": 26,
         "Penalties in Minutes": 8,
         "Plus / Minus": 0,
-        "Time Played in Minutes": 181.9,
+        "Time Played in Minutes": 186.78,
         "Save Percentage": 0.0,
         "Goals Against Average": 100.0
     },
     "Kyle": {
         "Goals": 5,
         "Assists": 6,
-        "Shots on Goal": 30,
+        "Shots on Goal": 36,
         "Penalties in Minutes": 10,
         "Plus / Minus": 9,
-        "Time Played in Minutes": 159.07,
+        "Time Played in Minutes": 189.38,
         "Save Percentage": 1.0,
         "Goals Against Average": 0.0
     },
     "Alasdair": {
         "Goals": 2,
         "Assists": 6,
-        "Shots on Goal": 47,
+        "Shots on Goal": 49,
         "Penalties in Minutes": 6,
         "Plus / Minus": -5,
-        "Time Played in Minutes": 270.47,
+        "Time Played in Minutes": 286.92,
         "Save Percentage": 0.923,
         "Goals Against Average": 2.0
     }

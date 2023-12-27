@@ -8,8 +8,8 @@
         "a": "2",
         "pim": "0",
         "pm": "1",
-        "SOG": 5,
-        "TPM": 19.35
+        "SOG": 13,
+        "TPM": 35.73
     },
     "Serv\u00e1c Petrovsk\u00fd": {
         "name": "Serv\u00e1c Petrovsk\u00fd",
@@ -32,8 +32,8 @@
         "a": "1",
         "pim": "0",
         "pm": "1",
-        "SOG": 3,
-        "TPM": 17.63
+        "SOG": 8,
+        "TPM": 31.41
     },
     "Matyas Melovsky": {
         "name": "Matyas Melovsky",
@@ -54,8 +54,8 @@
         "a": "1",
         "pim": "0",
         "pm": "2",
-        "SOG": 1,
-        "TPM": 20.22
+        "SOG": 6,
+        "TPM": 38.69
     },
     "Samuel Honzek": {
         "name": "Samuel Honzek",
@@ -194,8 +194,8 @@
         "a": "1",
         "pim": "0",
         "pm": "0",
-        "SOG": 3,
-        "TPM": 11.9
+        "SOG": 7,
+        "TPM": 26.45
     },
     "Samu Bau": {
         "name": "Samu Bau",
@@ -267,7 +267,9 @@
         "g": "0",
         "a": "2",
         "pim": "2",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 6,
+        "TPM": 48.98
     },
     "Roman Kechter": {
         "name": "Roman Kechter",
@@ -434,8 +436,8 @@
         "a": "0",
         "pim": "2",
         "pm": "0",
-        "SOG": 0,
-        "TPM": 17.23
+        "SOG": 1,
+        "TPM": 35.86
     },
     "Petter Vesterheim": {
         "name": "Petter Vesterheim",
@@ -772,8 +774,8 @@
         "a": "1",
         "pim": "4",
         "pm": "0",
-        "SOG": 2,
-        "TPM": 15.53
+        "SOG": 3,
+        "TPM": 32.06
     },
     "Jesse Pulkkinen": {
         "name": "Jesse Pulkkinen",
@@ -1507,9 +1509,7 @@
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "0",
-        "SOG": 0,
-        "TPM": 9.57
+        "pm": "0"
     },
     "Lua Niehus": {
         "name": "Lua Niehus",
@@ -2206,8 +2206,8 @@
         "a": "0",
         "pim": "0",
         "pm": "1",
-        "SOG": 3,
-        "TPM": 21.18
+        "SOG": 5,
+        "TPM": 43.51
     },
     "Alieu Moldal Bah": {
         "name": "Alieu Moldal Bah",
@@ -2228,8 +2228,8 @@
         "a": "0",
         "pim": "0",
         "pm": "0",
-        "SOG": 2,
-        "TPM": 17.98
+        "SOG": 4,
+        "TPM": 34.43
     },
     "Oskar Kind Bakkevig": {
         "name": "Oskar Kind Bakkevig",
@@ -2373,7 +2373,7 @@
         "pim": "4",
         "pm": "-2",
         "SOG": 0,
-        "TPM": 9.88
+        "TPM": 14.76
     },
     "Marek Alscher": {
         "name": "Marek Alscher",
