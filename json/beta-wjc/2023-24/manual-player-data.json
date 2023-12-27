@@ -1,76 +1,76 @@
 {
     "Canada": {
         "Fraser Minten": {
-            "SOG": 3,
-            "TPM": 16.72
+            "SOG": 5,
+            "TPM": 33.65
         },
         "Maveric Lamoureux": {
-            "SOG": 2,
-            "TPM": 26.13
+            "SOG": 3,
+            "TPM": 47.31
         },
         "Jordan Dumais": {
-            "SOG": 0,
-            "TPM": 13.52
+            "SOG": 5,
+            "TPM": 27.34
         },
         "Denton Mateychuk": {
             "SOG": 1,
-            "TPM": 25.42
+            "TPM": 49.15
         },
         "Conor Geekie": {
-            "SOG": 2,
-            "TPM": 19.72
+            "SOG": 6,
+            "TPM": 36.5
         },
         "Noah Warren": {
-            "SOG": 2,
-            "TPM": 16.98
+            "SOG": 3,
+            "TPM": 35.66
         },
         "Matthew Poitras": {
-            "SOG": 3,
-            "TPM": 18.08
+            "SOG": 4,
+            "TPM": 34.9
         },
         "Matthew Savoie": {
-            "SOG": 3,
-            "TPM": 22.08
+            "SOG": 4,
+            "TPM": 35.63
         },
         "Easton Cowan": {
-            "SOG": 1,
-            "TPM": 15.67
+            "SOG": 4,
+            "TPM": 31.52
         },
         "Oliver Bonk": {
-            "SOG": 0,
-            "TPM": 20.37
+            "SOG": 1,
+            "TPM": 36.45
         },
         "Jorian Donovan": {
-            "SOG": 0,
-            "TPM": 15.53
+            "SOG": 3,
+            "TPM": 23.45
         },
         "Owen Beck": {
-            "SOG": 1,
-            "TPM": 13.87
+            "SOG": 5,
+            "TPM": 28.2
         },
         "Nate Danielson": {
-            "SOG": 4,
-            "TPM": 13.87
+            "SOG": 5,
+            "TPM": 26.72
         },
         "Owen Allard": {
-            "SOG": 3,
-            "TPM": 14.42
+            "SOG": 4,
+            "TPM": 27.72
         },
         "Macklin Celebrini": {
-            "SOG": 4,
-            "TPM": 14.53
-        },
-        "Matthew Wood": {
-            "SOG": 0,
-            "TPM": 6.03
+            "SOG": 7,
+            "TPM": 28.1
         },
         "Ty Nelson": {
             "SOG": 2,
-            "TPM": 10.13
+            "TPM": 19.31
         },
         "Brayden Yager": {
-            "SOG": 0,
-            "TPM": 12.17
+            "SOG": 1,
+            "TPM": 24.25
+        },
+        "Matthew Wood": {
+            "SOG": 6,
+            "TPM": 16.38
         }
     },
     "USA": {
@@ -368,7 +368,7 @@
     "Latvia": {
         "Rauls Ozollapa": {
             "SOG": 0,
-            "TPM": 10.67
+            "TPM": 18.0
         }
     }
 }
