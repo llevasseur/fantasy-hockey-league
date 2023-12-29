@@ -84,7 +84,7 @@ def getPlayersFromSoup(players, soup):
 def main():
   players = {}
   
-  for i in range(1, 4):
+  for i in range(1, 5):
     print(f"Processing skater webpage {i}...")
     soup = getSoup("https://www.eliteprospects.com/league/wjc-20/stats/2023-2024?page="+str(i))
 
