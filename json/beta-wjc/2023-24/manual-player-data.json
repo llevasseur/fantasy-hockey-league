@@ -329,46 +329,46 @@
     },
     "Germany": {
         "Julian Lutz": {
-            "SOG": 7,
-            "TPM": 33.55
+            "SOG": 9,
+            "TPM": 50.67
         }
     },
     "Switzerland": {
         "Rodwin Dionicio": {
-            "SOG": 6,
-            "TPM": 39.8
+            "SOG": 9,
+            "TPM": 65.63
         },
         "Jonas Taibel": {
-            "SOG": 3,
-            "TPM": 37.82
+            "SOG": 8,
+            "TPM": 59.8
         },
         "Miles M\u00fcller": {
-            "SOG": 4,
-            "TPM": 35.94
+            "SOG": 9,
+            "TPM": 58.17
         },
         "Timo Jenni": {
-            "SOG": 1,
-            "TPM": 25.07
+            "SOG": 2,
+            "TPM": 35.09
         }
     },
     "Norway": {
         "Noah Steen": {
-            "SOG": 7,
-            "TPM": 64.09
+            "SOG": 9,
+            "TPM": 83.99
         },
         "Michael Brandsegg-Nyg\u00e5rd": {
             "SOG": 8,
-            "TPM": 50.5
+            "TPM": 67.0
         },
         "Patrik Dalen": {
-            "SOG": 0,
-            "TPM": 17.99
+            "SOG": 2,
+            "TPM": 30.81
         }
     },
     "Latvia": {
         "Rauls Ozollapa": {
             "SOG": 0,
-            "TPM": 26.17
+            "TPM": 30.2
         }
     }
 }

@@ -5,17 +5,17 @@
         "Shots on Goal": 69,
         "Penalties in Minutes": 12,
         "Plus / Minus": 24,
-        "Time Played in Minutes": 510.09,
+        "Time Played in Minutes": 514.12,
         "Save Percentage": 0.934,
         "Goals Against Average": 2.0
     },
     "John M": {
-        "Goals": 10,
-        "Assists": 8,
-        "Shots on Goal": 64,
-        "Penalties in Minutes": 6,
-        "Plus / Minus": -1,
-        "Time Played in Minutes": 484.42,
+        "Goals": 13,
+        "Assists": 11,
+        "Shots on Goal": 74,
+        "Penalties in Minutes": 8,
+        "Plus / Minus": 1,
+        "Time Played in Minutes": 552.13,
         "Save Percentage": 1.0,
         "Goals Against Average": 0.0
     },
@@ -50,22 +50,22 @@
         "Goals Against Average": 1.0
     },
     "Timo": {
-        "Goals": 12,
-        "Assists": 9,
-        "Shots on Goal": 60,
+        "Goals": 13,
+        "Assists": 11,
+        "Shots on Goal": 68,
         "Penalties in Minutes": 12,
-        "Plus / Minus": 12,
-        "Time Played in Minutes": 450.83,
+        "Plus / Minus": 15,
+        "Time Played in Minutes": 495.9,
         "Save Percentage": 1.0,
         "Goals Against Average": 0.0
     },
     "Kyle": {
         "Goals": 10,
         "Assists": 16,
-        "Shots on Goal": 73,
+        "Shots on Goal": 75,
         "Penalties in Minutes": 20,
         "Plus / Minus": 24,
-        "Time Played in Minutes": 487.37,
+        "Time Played in Minutes": 504.49,
         "Save Percentage": 1.0,
         "Goals Against Average": 0.0
     },
@@ -74,8 +74,8 @@
         "Assists": 14,
         "Shots on Goal": 89,
         "Penalties in Minutes": 10,
-        "Plus / Minus": 8,
-        "Time Played in Minutes": 537.3,
+        "Plus / Minus": 7,
+        "Time Played in Minutes": 553.8,
         "Save Percentage": 0.944,
         "Goals Against Average": 1.33
     }

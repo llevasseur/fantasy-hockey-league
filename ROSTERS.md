@@ -9,11 +9,11 @@
 | [Matthew Wood](https://www.eliteprospects.com/player/603587/matthew-wood) | F |  Canada | 1 | 2 | 6 | 0 | 2 | 21.43 |
 | [Anton Wahlberg](https://www.eliteprospects.com/player/643681/anton-wahlberg) | F |  Sweden | 1 | 0 | 7 | 0 | 3 | 52.5 |
 | [Servác Petrovský](https://www.eliteprospects.com/player/527429/servac-petrovsky) | F |  Slovakia | 5 | 3 | 14 | 0 | 3 | 51.38 |
-| [Rauls Ozollapa](https://www.eliteprospects.com/player/708548/rauls-ozollapa) | F |  Latvia | 0 | 0 | 0 | 2 | -3 | 26.17 |
+| [Rauls Ozollapa](https://www.eliteprospects.com/player/708548/rauls-ozollapa) | F |  Latvia | 0 | 0 | 0 | 2 | -3 | 30.2 |
 | [Zeev Buium](https://www.eliteprospects.com/player/603229/zeev-buium) | D |  USA | 1 | 1 | 1 | 2 | 5 | 56.0 |
 | [Anton Johansson](https://www.eliteprospects.com/player/701870/anton-johansson) | D |  Sweden | 0 | 0 | 4 | 2 | 1 | 38.55 |
 | [Tomas Hamara](https://www.eliteprospects.com/player/559537/tomas-hamara) | D |  Czechia | 0 | 2 | 7 | 2 | 1 | 75.13 |
-| **Totals** | | | 13 | 15 | 69 | 12 | 24 | 510.09 |
+| **Totals** | | | 13 | 15 | 69 | 12 | 24 | 514.12 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
@@ -25,13 +25,13 @@
 | [Dalibor Dvorský](https://www.eliteprospects.com/player/527424/dalibor-dvorsky) | F |  Slovakia | 2 | 2 | 7 | 0 | -1 | 53.8 |
 | [Filip Bystedt](https://www.eliteprospects.com/player/578760/filip-bystedt) | F |  Sweden | 2 | 1 | 6 | 0 | 2 | 44.42 |
 | [Owen Allard](https://www.eliteprospects.com/player/562236/owen-allard) | F |  Canada | 2 | 0 | 4 | 2 | 2 | 38.9 |
-| [Jonas Taibel](https://www.eliteprospects.com/player/529832/jonas-taibel) | F |  Switzerland | 0 | 1 | 3 | 2 | -4 | 37.82 |
-| [Noah Steen](https://www.eliteprospects.com/player/607471/noah-steen) | F |  Norway | 0 | 1 | 7 | 0 | 2 | 64.09 |
+| [Jonas Taibel](https://www.eliteprospects.com/player/529832/jonas-taibel) | F |  Switzerland | 1 | 4 | 8 | 2 | -1 | 59.8 |
+| [Noah Steen](https://www.eliteprospects.com/player/607471/noah-steen) | F |  Norway | 0 | 1 | 9 | 2 | 0 | 83.99 |
 | [Quinn Finley](https://www.eliteprospects.com/player/630047/quinn-finley) | F |  USA | 1 | 1 | 5 | 0 | 0 | 36.7 |
 | [Otto Salin](https://www.eliteprospects.com/player/638727/otto-salin) | D |  Finland | 0 | 0 | 6 | 0 | -1 | 60.15 |
-| [Rodwin Dionicio](https://www.eliteprospects.com/player/704354/rodwin-dionicio) | D |  Switzerland | 0 | 0 | 6 | 2 | -3 | 39.8 |
+| [Rodwin Dionicio](https://www.eliteprospects.com/player/704354/rodwin-dionicio) | D |  Switzerland | 2 | 0 | 9 | 2 | -2 | 65.63 |
 | [Noah Warren](https://www.eliteprospects.com/player/574586/noah-warren) | D |  Canada | 0 | 0 | 3 | 0 | 1 | 52.34 |
-| **Totals** | | | 10 | 8 | 64 | 6 | -1 | 484.42 |
+| **Totals** | | | 13 | 11 | 74 | 8 | 1 | 552.13 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
@@ -101,14 +101,14 @@
 | [Noah Östlund](https://www.eliteprospects.com/player/535699/noah-ostlund) | F |  Sweden | 2 | 2 | 7 | 0 | 3 | 55.41 |
 | [Will Smith](https://www.eliteprospects.com/player/615470/will-smith) | F |  USA | 2 | 0 | 8 | 0 | -1 | 44.5 |
 | [Jimmy Snuggerud](https://www.eliteprospects.com/player/623832/jimmy-snuggerud) | F |  USA | 4 | 1 | 16 | 2 | 3 | 52.82 |
-| [Miles Müller](https://www.eliteprospects.com/player/703512/miles-muller) | F |  Switzerland | 0 | 0 | 4 | 0 | -4 | 35.94 |
-| [Patrik Dalen](https://www.eliteprospects.com/player/535865/patrik-dalen) | F |  Norway | 0 | 0 | 0 | 4 | -2 | 17.99 |
+| [Miles Müller](https://www.eliteprospects.com/player/703512/miles-muller) | F |  Switzerland | 0 | 2 | 9 | 0 | -2 | 58.17 |
+| [Patrik Dalen](https://www.eliteprospects.com/player/535865/patrik-dalen) | F |  Norway | 1 | 0 | 2 | 4 | -2 | 30.81 |
 | [Gavin Hayes](https://www.eliteprospects.com/player/635399/gavin-hayes) | F |  USA | 0 | 1 | 6 | 0 | 1 | 33.24 |
-| [Timo Jenni](https://www.eliteprospects.com/player/529831/timo-jenni) | F |  Switzerland | 0 | 0 | 1 | 0 | -1 | 25.07 |
+| [Timo Jenni](https://www.eliteprospects.com/player/529831/timo-jenni) | F |  Switzerland | 0 | 0 | 2 | 0 | 0 | 35.09 |
 | [Jesse Pulkkinen](https://www.eliteprospects.com/player/709399/jesse-pulkkinen) | D |  Finland | 1 | 1 | 4 | 6 | 3 | 53.7 |
 | [Ryan Chesley](https://www.eliteprospects.com/player/556717/ryan-chesley) | D |  USA | 1 | 0 | 2 | 0 | 3 | 60.17 |
 | [Ty Nelson](https://www.eliteprospects.com/player/603794/ty-nelson) | D |  Canada | 0 | 2 | 3 | 0 | 4 | 25.61 |
-| **Totals** | | | 12 | 9 | 60 | 12 | 12 | 450.83 |
+| **Totals** | | | 13 | 11 | 68 | 12 | 15 | 495.9 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
@@ -123,11 +123,11 @@
 | [Nate Danielson](https://www.eliteprospects.com/player/562426/nate-danielson) | F |  Canada | 1 | 1 | 5 | 0 | 2 | 41.5 |
 | [Oskar Pettersson](https://www.eliteprospects.com/player/562987/oskar-pettersson) | F |  Sweden | 0 | 1 | 3 | 0 | 2 | 29.37 |
 | [Robin Sapousek](https://www.eliteprospects.com/player/579263/robin-sapousek) | F |  Czechia | 1 | 1 | 4 | 4 | 0 | 51.09 |
-| [Julian Lutz](https://www.eliteprospects.com/player/601111/julian-lutz) | F |  Germany | 0 | 0 | 7 | 2 | 0 | 33.55 |
+| [Julian Lutz](https://www.eliteprospects.com/player/601111/julian-lutz) | F |  Germany | 0 | 0 | 9 | 2 | 0 | 50.67 |
 | [Axel Sandin Pellikka](https://www.eliteprospects.com/player/534818/axel-sandin-pellikka) | D |  Sweden | 0 | 1 | 8 | 4 | 1 | 55.83 |
 | [Oliver Bonk](https://www.eliteprospects.com/player/590255/oliver-bonk) | D |  Canada | 0 | 1 | 2 | 0 | 3 | 52.47 |
 | [Eric Pohlkamp](https://www.eliteprospects.com/player/656832/eric-pohlkamp) | D |  USA | 1 | 1 | 5 | 2 | 2 | 36.3 |
-| **Totals** | | | 10 | 16 | 73 | 20 | 24 | 487.37 |
+| **Totals** | | | 10 | 16 | 75 | 20 | 24 | 504.49 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
@@ -142,11 +142,11 @@
 | [Lenni Hämeenaho](https://www.eliteprospects.com/player/642183/lenni-hameenaho) | F |  Finland | 0 | 1 | 11 | 2 | 0 | 55.28 |
 | [Gavin Brindley](https://www.eliteprospects.com/player/538006/gavin-brindley) | F |  USA | 4 | 1 | 9 | 0 | 2 | 50.13 |
 | [Otto Stenberg](https://www.eliteprospects.com/player/534828/otto-stenberg) | F |  Sweden | 3 | 2 | 6 | 0 | 4 | 40.85 |
-| [Michael Brandsegg-Nygård](https://www.eliteprospects.com/player/619176/michael-brandsegg-nygard) | F |  Norway | 2 | 1 | 8 | 0 | 2 | 50.5 |
+| [Michael Brandsegg-Nygård](https://www.eliteprospects.com/player/619176/michael-brandsegg-nygard) | F |  Norway | 2 | 1 | 8 | 0 | 1 | 67.0 |
 | [Seamus Casey](https://www.eliteprospects.com/player/526229/seamus-casey) | D |  USA | 0 | 2 | 4 | 0 | 1 | 32.18 |
 | [Mattias Hävelid](https://www.eliteprospects.com/player/577575/mattias-havelid) | D |  Sweden | 1 | 2 | 4 | 2 | 2 | 54.02 |
 | [Arttu Kärki](https://www.eliteprospects.com/player/638705/arttu-karki) | D |  Finland | 0 | 2 | 7 | 0 | -4 | 50.98 |
-| **Totals** | | | 10 | 14 | 89 | 10 | 8 | 537.3 |
+| **Totals** | | | 10 | 14 | 89 | 10 | 7 | 553.8 |
 
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
