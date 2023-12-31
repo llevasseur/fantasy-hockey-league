@@ -157,140 +157,140 @@
     },
     "Finland": {
         "Jesse Pulkkinen": {
-            "SOG": 4,
-            "TPM": 53.7
+            "SOG": 7,
+            "TPM": 75.33
         },
         "Konsta Helenius": {
-            "SOG": 8,
-            "TPM": 60.39
+            "SOG": 9,
+            "TPM": 83.49
         },
         "Lenni H\u00e4meenaho": {
-            "SOG": 11,
-            "TPM": 55.28
+            "SOG": 12,
+            "TPM": 70.93
         },
         "Otto Salin": {
             "SOG": 6,
-            "TPM": 60.15
+            "TPM": 83.5
         },
         "Kasper Halttunen": {
-            "SOG": 14,
-            "TPM": 41.45
+            "SOG": 20,
+            "TPM": 57.38
         },
         "Aleksanteri Kaskim\u00e4ki": {
-            "SOG": 8,
-            "TPM": 51.75
+            "SOG": 12,
+            "TPM": 71.85
         },
         "Arttu K\u00e4rki": {
-            "SOG": 7,
-            "TPM": 50.98
+            "SOG": 9,
+            "TPM": 65.95
         },
         "Joona V\u00e4is\u00e4nen": {
             "SOG": 2,
-            "TPM": 34.83
+            "TPM": 45.35
         },
         "Jani Nyman": {
-            "SOG": 18,
-            "TPM": 53.8
+            "SOG": 23,
+            "TPM": 73.15
         },
         "Emil Hemming": {
             "SOG": 6,
-            "TPM": 34.64
+            "TPM": 44.52
         }
     },
     "Sweden": {
         "Elias Pettersson": {
             "SOG": 3,
-            "TPM": 65.0
+            "TPM": 82.38
         },
         "Elias Salomonsson": {
-            "SOG": 0,
-            "TPM": 17.47
+            "SOG": 1,
+            "TPM": 37.05
         },
         "Noah \u00d6stlund": {
-            "SOG": 7,
-            "TPM": 55.41
+            "SOG": 9,
+            "TPM": 78.64
         },
         "Anton Wahlberg": {
-            "SOG": 7,
-            "TPM": 52.5
+            "SOG": 11,
+            "TPM": 71.17
         },
         "Jonathan Lekkerim\u00e4ki": {
-            "SOG": 9,
-            "TPM": 46.38
+            "SOG": 12,
+            "TPM": 67.65
         },
         "Mattias H\u00e4velid": {
-            "SOG": 4,
-            "TPM": 54.02
+            "SOG": 6,
+            "TPM": 68.42
         },
         "Fabian Wagner": {
             "SOG": 7,
-            "TPM": 37.17
+            "TPM": 50.54
         },
         "Filip Bystedt": {
-            "SOG": 6,
-            "TPM": 44.42
+            "SOG": 8,
+            "TPM": 62.22
         },
         "Liam \u00d6hgren": {
-            "SOG": 13,
-            "TPM": 51.79
+            "SOG": 17,
+            "TPM": 71.59
         },
         "Tom Willander": {
-            "SOG": 3,
-            "TPM": 56.96
+            "SOG": 4,
+            "TPM": 78.43
         },
         "Axel Sandin Pellikka": {
-            "SOG": 8,
-            "TPM": 55.83
+            "SOG": 12,
+            "TPM": 80.63
         },
         "Anton Johansson": {
             "SOG": 4,
-            "TPM": 38.55
+            "TPM": 43.42
         },
         "David Edstrom": {
-            "SOG": 6,
-            "TPM": 48.65
+            "SOG": 8,
+            "TPM": 63.13
         },
         "Felix Unger S\u00f6rum": {
-            "SOG": 6,
-            "TPM": 45.52
+            "SOG": 8,
+            "TPM": 59.77
         },
         "Otto Stenberg": {
-            "SOG": 6,
-            "TPM": 40.85
+            "SOG": 7,
+            "TPM": 54.27
         },
         "Oskar Pettersson": {
             "SOG": 3,
-            "TPM": 29.37
+            "TPM": 39.6
         }
     },
     "Czechia": {
         "Tomas Hamara": {
-            "SOG": 7,
-            "TPM": 75.13
+            "SOG": 9,
+            "TPM": 100.18
         },
         "Matyas Sapovaliv": {
-            "SOG": 8,
-            "TPM": 59.94
+            "SOG": 10,
+            "TPM": 77.06
         },
         "Jiri Kulich": {
-            "SOG": 17,
-            "TPM": 56.4
+            "SOG": 22,
+            "TPM": 75.78
         },
         "Ales Cech": {
             "SOG": 2,
-            "TPM": 56.26
+            "TPM": 60.98
         },
         "Eduard Sale": {
-            "SOG": 9,
-            "TPM": 50.28
+            "SOG": 14,
+            "TPM": 67.95
         },
         "Robin Sapousek": {
-            "SOG": 4,
-            "TPM": 51.09
+            "SOG": 5,
+            "TPM": 64.49
         },
         "Dominik Rymon": {
-            "SOG": 8,
-            "TPM": 38.62
+            "SOG": 9,
+            "TPM": 54.54
         }
     },
     "Slovakia": {
@@ -335,20 +335,20 @@
     },
     "Switzerland": {
         "Rodwin Dionicio": {
-            "SOG": 9,
-            "TPM": 65.63
+            "SOG": 12,
+            "TPM": 91.95
         },
         "Jonas Taibel": {
-            "SOG": 8,
-            "TPM": 59.8
+            "SOG": 10,
+            "TPM": 78.02
         },
         "Miles M\u00fcller": {
             "SOG": 9,
-            "TPM": 58.17
+            "TPM": 75.65
         },
         "Timo Jenni": {
             "SOG": 2,
-            "TPM": 35.09
+            "TPM": 45.46
         }
     },
     "Norway": {
