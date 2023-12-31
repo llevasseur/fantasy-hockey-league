@@ -1,76 +1,76 @@
 {
     "Canada": {
         "Fraser Minten": {
-            "SOG": 10,
-            "TPM": 52.78
+            "SOG": 12,
+            "TPM": 72.63
         },
         "Maveric Lamoureux": {
             "SOG": 5,
-            "TPM": 73.59
+            "TPM": 97.66
         },
         "Jordan Dumais": {
-            "SOG": 5,
-            "TPM": 43.04
+            "SOG": 8,
+            "TPM": 59.21
         },
         "Denton Mateychuk": {
-            "SOG": 1,
-            "TPM": 72.0
+            "SOG": 2,
+            "TPM": 98.98
         },
         "Conor Geekie": {
             "SOG": 7,
-            "TPM": 54.18
+            "TPM": 54.35
         },
         "Noah Warren": {
             "SOG": 3,
-            "TPM": 52.34
+            "TPM": 68.56
         },
         "Matthew Poitras": {
-            "SOG": 4,
-            "TPM": 49.42
+            "SOG": 8,
+            "TPM": 68.77
         },
         "Matthew Savoie": {
             "SOG": 7,
             "TPM": 52.0
         },
         "Easton Cowan": {
-            "SOG": 6,
-            "TPM": 44.64
+            "SOG": 8,
+            "TPM": 59.46
         },
         "Oliver Bonk": {
             "SOG": 2,
-            "TPM": 52.47
+            "TPM": 68.12
         },
         "Jorian Donovan": {
-            "SOG": 4,
-            "TPM": 32.13
+            "SOG": 5,
+            "TPM": 36.35
         },
         "Owen Beck": {
-            "SOG": 6,
-            "TPM": 43.57
+            "SOG": 8,
+            "TPM": 61.14
         },
         "Nate Danielson": {
-            "SOG": 5,
-            "TPM": 41.5
+            "SOG": 7,
+            "TPM": 57.25
         },
         "Owen Allard": {
             "SOG": 4,
-            "TPM": 38.9
+            "TPM": 49.85
         },
         "Macklin Celebrini": {
-            "SOG": 9,
-            "TPM": 44.75
+            "SOG": 17,
+            "TPM": 64.2
         },
         "Ty Nelson": {
-            "SOG": 3,
-            "TPM": 25.61
+            "SOG": 6,
+            "TPM": 32.39
         },
         "Brayden Yager": {
-            "SOG": 2,
-            "TPM": 36.12
+            "SOG": 4,
+            "TPM": 50.9
         },
         "Matthew Wood": {
-            "SOG": 6,
-            "TPM": 21.43
+            "SOG": 7,
+            "TPM": 32.26
         }
     },
     "USA": {
@@ -329,8 +329,8 @@
     },
     "Germany": {
         "Julian Lutz": {
-            "SOG": 9,
-            "TPM": 50.67
+            "SOG": 12,
+            "TPM": 69.02
         }
     },
     "Switzerland": {
