@@ -7,7 +7,9 @@
         "g": "5",
         "a": "4",
         "pim": "0",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 18,
+        "TPM": 66.85
     },
     "Gavin Brindley": {
         "name": "Gavin Brindley",
@@ -17,7 +19,20 @@
         "g": "6",
         "a": "2",
         "pim": "0",
-        "pm": "6"
+        "pm": "6",
+        "SOG": 12,
+        "TPM": 66.93
+    },
+    "Eemil Vinni": {
+        "name": "Eemil Vinni",
+        "pos": "G",
+        "href": "https://www.eliteprospects.com/player/709425/eemil-vinni",
+        "team": " Finland",
+        "g": "0",
+        "a": "0",
+        "pim": "0",
+        "gaa": "100.00",
+        "svp": "0.000"
     },
     "Macklin Celebrini": {
         "name": "Macklin Celebrini",
@@ -27,7 +42,9 @@
         "g": "4",
         "a": "4",
         "pim": "0",
-        "pm": "6"
+        "pm": "6",
+        "SOG": 17,
+        "TPM": 64.2
     },
     "Cutter Gauthier": {
         "name": "Cutter Gauthier",
@@ -37,7 +54,9 @@
         "g": "1",
         "a": "7",
         "pim": "0",
-        "pm": "5"
+        "pm": "5",
+        "SOG": 16,
+        "TPM": 69.05
     },
     "Frank Nazar": {
         "name": "Frank Nazar",
@@ -47,7 +66,9 @@
         "g": "0",
         "a": "8",
         "pim": "2",
-        "pm": "9"
+        "pm": "9",
+        "SOG": 8,
+        "TPM": 63.07
     },
     "Jiri Kulich": {
         "name": "Jiri Kulich",
@@ -57,7 +78,9 @@
         "g": "4",
         "a": "3",
         "pim": "0",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 22,
+        "TPM": 75.78
     },
     "Filip Mesar": {
         "name": "Filip Mesar",
@@ -67,7 +90,9 @@
         "g": "1",
         "a": "6",
         "pim": "4",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 8,
+        "TPM": 63.54
     },
     "Matyas Melovsky": {
         "name": "Matyas Melovsky",
@@ -87,7 +112,9 @@
         "g": "5",
         "a": "1",
         "pim": "0",
-        "pm": "9"
+        "pm": "9",
+        "SOG": 16,
+        "TPM": 57.28
     },
     "Otto Stenberg": {
         "name": "Otto Stenberg",
@@ -97,7 +124,9 @@
         "g": "3",
         "a": "3",
         "pim": "0",
-        "pm": "4"
+        "pm": "4",
+        "SOG": 7,
+        "TPM": 54.27
     },
     "Peter Repcik": {
         "name": "Peter Repcik",
@@ -117,7 +146,9 @@
         "g": "3",
         "a": "3",
         "pim": "4",
-        "pm": "-3"
+        "pm": "-3",
+        "SOG": 20,
+        "TPM": 57.38
     },
     "Noah \u00d6stlund": {
         "name": "Noah \u00d6stlund",
@@ -127,7 +158,9 @@
         "g": "2",
         "a": "4",
         "pim": "0",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 9,
+        "TPM": 78.64
     },
     "Theo Lindstein": {
         "name": "Theo Lindstein",
@@ -147,7 +180,9 @@
         "g": "1",
         "a": "5",
         "pim": "0",
-        "pm": "5"
+        "pm": "5",
+        "SOG": 8,
+        "TPM": 59.77
     },
     "Maxim Strbak": {
         "name": "Maxim Strbak",
@@ -157,7 +192,9 @@
         "g": "1",
         "a": "5",
         "pim": "2",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 12,
+        "TPM": 92.19
     },
     "Jimmy Snuggerud": {
         "name": "Jimmy Snuggerud",
@@ -167,7 +204,9 @@
         "g": "4",
         "a": "1",
         "pim": "2",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 16,
+        "TPM": 52.82
     },
     "Jonathan Lekkerim\u00e4ki": {
         "name": "Jonathan Lekkerim\u00e4ki",
@@ -177,7 +216,9 @@
         "g": "3",
         "a": "2",
         "pim": "0",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 12,
+        "TPM": 67.65
     },
     "Rutger McGroarty": {
         "name": "Rutger McGroarty",
@@ -187,7 +228,9 @@
         "g": "3",
         "a": "2",
         "pim": "0",
-        "pm": "5"
+        "pm": "5",
+        "SOG": 13,
+        "TPM": 65.64
     },
     "Eduard Sale": {
         "name": "Eduard Sale",
@@ -197,7 +240,9 @@
         "g": "3",
         "a": "2",
         "pim": "0",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 14,
+        "TPM": 67.95
     },
     "Jere Lassila": {
         "name": "Jere Lassila",
@@ -217,7 +262,9 @@
         "g": "1",
         "a": "4",
         "pim": "2",
-        "pm": "-2"
+        "pm": "-2",
+        "SOG": 10,
+        "TPM": 78.02
     },
     "Lane Hutson": {
         "name": "Lane Hutson",
@@ -227,7 +274,9 @@
         "g": "0",
         "a": "5",
         "pim": "2",
-        "pm": "6"
+        "pm": "6",
+        "SOG": 9,
+        "TPM": 91.25
     },
     "Matyas Sapovaliv": {
         "name": "Matyas Sapovaliv",
@@ -237,7 +286,9 @@
         "g": "3",
         "a": "1",
         "pim": "0",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 10,
+        "TPM": 77.06
     },
     "Filip Bystedt": {
         "name": "Filip Bystedt",
@@ -247,7 +298,9 @@
         "g": "3",
         "a": "1",
         "pim": "0",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 8,
+        "TPM": 62.22
     },
     "Samuel Honzek": {
         "name": "Samuel Honzek",
@@ -257,7 +310,9 @@
         "g": "3",
         "a": "1",
         "pim": "2",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 9,
+        "TPM": 67.85
     },
     "Carson Rehkopf": {
         "name": "Carson Rehkopf",
@@ -277,7 +332,9 @@
         "g": "2",
         "a": "2",
         "pim": "0",
-        "pm": "-3"
+        "pm": "-3",
+        "SOG": 9,
+        "TPM": 74.33
     },
     "Rodwin Dionicio": {
         "name": "Rodwin Dionicio",
@@ -287,7 +344,9 @@
         "g": "2",
         "a": "2",
         "pim": "2",
-        "pm": "0"
+        "pm": "0",
+        "SOG": 12,
+        "TPM": 91.95
     },
     "Zeev Buium": {
         "name": "Zeev Buium",
@@ -297,7 +356,9 @@
         "g": "2",
         "a": "2",
         "pim": "2",
-        "pm": "9"
+        "pm": "9",
+        "SOG": 2,
+        "TPM": 74.58
     },
     "Brayden Yager": {
         "name": "Brayden Yager",
@@ -307,7 +368,9 @@
         "g": "2",
         "a": "2",
         "pim": "2",
-        "pm": "5"
+        "pm": "5",
+        "SOG": 4,
+        "TPM": 50.9
     },
     "Ryan Leonard": {
         "name": "Ryan Leonard",
@@ -317,7 +380,9 @@
         "g": "2",
         "a": "2",
         "pim": "4",
-        "pm": "-1"
+        "pm": "-1",
+        "SOG": 12,
+        "TPM": 61.09
     },
     "Gregory Weber": {
         "name": "Gregory Weber",
@@ -337,7 +402,9 @@
         "g": "1",
         "a": "3",
         "pim": "2",
-        "pm": "0"
+        "pm": "0",
+        "SOG": 6,
+        "TPM": 68.42
     },
     "Tomas Hamara": {
         "name": "Tomas Hamara",
@@ -347,7 +414,9 @@
         "g": "1",
         "a": "3",
         "pim": "4",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 9,
+        "TPM": 100.18
     },
     "Viliam Kmec": {
         "name": "Viliam Kmec",
@@ -367,7 +436,9 @@
         "g": "0",
         "a": "4",
         "pim": "0",
-        "pm": "6"
+        "pm": "6",
+        "SOG": 2,
+        "TPM": 98.98
     },
     "Ondrej Becher": {
         "name": "Ondrej Becher",
@@ -397,7 +468,9 @@
         "g": "2",
         "a": "1",
         "pim": "0",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 8,
+        "TPM": 67.0
     },
     "Will Smith": {
         "name": "Will Smith",
@@ -407,7 +480,9 @@
         "g": "2",
         "a": "1",
         "pim": "0",
-        "pm": "-1"
+        "pm": "-1",
+        "SOG": 10,
+        "TPM": 59.55
     },
     "Owen Allard": {
         "name": "Owen Allard",
@@ -417,7 +492,9 @@
         "g": "2",
         "a": "1",
         "pim": "2",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 4,
+        "TPM": 49.85
     },
     "Matthew Poitras": {
         "name": "Matthew Poitras",
@@ -427,7 +504,9 @@
         "g": "2",
         "a": "1",
         "pim": "4",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 8,
+        "TPM": 68.77
     },
     "Robin Sapousek": {
         "name": "Robin Sapousek",
@@ -437,7 +516,9 @@
         "g": "2",
         "a": "1",
         "pim": "4",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 5,
+        "TPM": 64.49
     },
     "Petter Vesterheim": {
         "name": "Petter Vesterheim",
@@ -457,7 +538,9 @@
         "g": "2",
         "a": "1",
         "pim": "27",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 7,
+        "TPM": 54.35
     },
     "Maveric Lamoureux": {
         "name": "Maveric Lamoureux",
@@ -467,7 +550,9 @@
         "g": "1",
         "a": "2",
         "pim": "0",
-        "pm": "6"
+        "pm": "6",
+        "SOG": 5,
+        "TPM": 97.66
     },
     "Nate Danielson": {
         "name": "Nate Danielson",
@@ -477,7 +562,9 @@
         "g": "1",
         "a": "2",
         "pim": "0",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 7,
+        "TPM": 57.25
     },
     "Matthew Wood": {
         "name": "Matthew Wood",
@@ -487,7 +574,9 @@
         "g": "1",
         "a": "2",
         "pim": "0",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 7,
+        "TPM": 32.26
     },
     "Dominik Rymon": {
         "name": "Dominik Rymon",
@@ -497,7 +586,9 @@
         "g": "1",
         "a": "2",
         "pim": "0",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 9,
+        "TPM": 54.54
     },
     "Jani Nyman": {
         "name": "Jani Nyman",
@@ -507,7 +598,9 @@
         "g": "1",
         "a": "2",
         "pim": "0",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 23,
+        "TPM": 73.15
     },
     "Oiva Keskinen": {
         "name": "Oiva Keskinen",
@@ -527,7 +620,9 @@
         "g": "1",
         "a": "2",
         "pim": "0",
-        "pm": "7"
+        "pm": "7",
+        "SOG": 3,
+        "TPM": 78.62
     },
     "Eric Pohlkamp": {
         "name": "Eric Pohlkamp",
@@ -537,7 +632,9 @@
         "g": "1",
         "a": "2",
         "pim": "2",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 6,
+        "TPM": 43.07
     },
     "Lenni H\u00e4meenaho": {
         "name": "Lenni H\u00e4meenaho",
@@ -547,7 +644,9 @@
         "g": "1",
         "a": "2",
         "pim": "2",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 12,
+        "TPM": 70.93
     },
     "Fraser Minten": {
         "name": "Fraser Minten",
@@ -557,7 +656,9 @@
         "g": "1",
         "a": "2",
         "pim": "6",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 12,
+        "TPM": 72.63
     },
     "Simone Terraneo": {
         "name": "Simone Terraneo",
@@ -587,7 +688,9 @@
         "g": "0",
         "a": "3",
         "pim": "0",
-        "pm": "-1"
+        "pm": "-1",
+        "SOG": 5,
+        "TPM": 58.04
     },
     "Ty Nelson": {
         "name": "Ty Nelson",
@@ -597,7 +700,9 @@
         "g": "0",
         "a": "3",
         "pim": "0",
-        "pm": "5"
+        "pm": "5",
+        "SOG": 6,
+        "TPM": 32.39
     },
     "Oliver Bonk": {
         "name": "Oliver Bonk",
@@ -607,7 +712,9 @@
         "g": "0",
         "a": "3",
         "pim": "2",
-        "pm": "5"
+        "pm": "5",
+        "SOG": 2,
+        "TPM": 68.12
     },
     "Martin Misiak": {
         "name": "Martin Misiak",
@@ -617,7 +724,9 @@
         "g": "0",
         "a": "3",
         "pim": "6",
-        "pm": "-5"
+        "pm": "-5",
+        "SOG": 7,
+        "TPM": 62.04
     },
     "Veit Oswald": {
         "name": "Veit Oswald",
@@ -687,7 +796,9 @@
         "g": "1",
         "a": "1",
         "pim": "0",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 8,
+        "TPM": 51.78
     },
     "Adam Bares": {
         "name": "Adam Bares",
@@ -717,7 +828,9 @@
         "g": "1",
         "a": "1",
         "pim": "0",
-        "pm": "8"
+        "pm": "8",
+        "SOG": 4,
+        "TPM": 78.43
     },
     "Juraj Pekarcik": {
         "name": "Juraj Pekarcik",
@@ -777,7 +890,9 @@
         "g": "1",
         "a": "1",
         "pim": "4",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 8,
+        "TPM": 59.21
     },
     "Martin Johnsen": {
         "name": "Martin Johnsen",
@@ -797,7 +912,9 @@
         "g": "1",
         "a": "1",
         "pim": "6",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 7,
+        "TPM": 75.33
     },
     "Julian Lutz": {
         "name": "Julian Lutz",
@@ -807,7 +924,9 @@
         "g": "1",
         "a": "1",
         "pim": "8",
-        "pm": "-3"
+        "pm": "-3",
+        "SOG": 12,
+        "TPM": 69.02
     },
     "Louis F\u00fcllemann": {
         "name": "Louis F\u00fcllemann",
@@ -827,7 +946,9 @@
         "g": "0",
         "a": "2",
         "pim": "0",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 5,
+        "TPM": 46.08
     },
     "Matej Prcik": {
         "name": "Matej Prcik",
@@ -847,7 +968,9 @@
         "g": "0",
         "a": "2",
         "pim": "0",
-        "pm": "-3"
+        "pm": "-3",
+        "SOG": 9,
+        "TPM": 65.95
     },
     "Gabriel Koch": {
         "name": "Gabriel Koch",
@@ -877,7 +1000,9 @@
         "g": "0",
         "a": "2",
         "pim": "0",
-        "pm": "-3"
+        "pm": "-3",
+        "SOG": 9,
+        "TPM": 75.65
     },
     "David Edstrom": {
         "name": "David Edstrom",
@@ -887,7 +1012,9 @@
         "g": "0",
         "a": "2",
         "pim": "0",
-        "pm": "4"
+        "pm": "4",
+        "SOG": 8,
+        "TPM": 63.13
     },
     "Daniil Ustinkov": {
         "name": "Daniil Ustinkov",
@@ -927,7 +1054,9 @@
         "g": "0",
         "a": "2",
         "pim": "4",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 4,
+        "TPM": 71.45
     },
     "Emil Hemming": {
         "name": "Emil Hemming",
@@ -937,7 +1066,9 @@
         "g": "0",
         "a": "2",
         "pim": "4",
-        "pm": "-2"
+        "pm": "-2",
+        "SOG": 6,
+        "TPM": 44.52
     },
     "Axel Sandin Pellikka": {
         "name": "Axel Sandin Pellikka",
@@ -947,7 +1078,9 @@
         "g": "0",
         "a": "2",
         "pim": "4",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 12,
+        "TPM": 80.63
     },
     "Jakob Weber": {
         "name": "Jakob Weber",
@@ -977,7 +1110,9 @@
         "g": "0",
         "a": "2",
         "pim": "25",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 7,
+        "TPM": 36.99
     },
     "Isac Born": {
         "name": "Isac Born",
@@ -1353,7 +1488,9 @@
         "g": "1",
         "a": "0",
         "pim": "2",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 8,
+        "TPM": 59.46
     },
     "Luka Radivojevic": {
         "name": "Luka Radivojevic",
@@ -1373,7 +1510,9 @@
         "g": "1",
         "a": "0",
         "pim": "2",
-        "pm": "4"
+        "pm": "4",
+        "SOG": 11,
+        "TPM": 71.17
     },
     "Aleksanteri Kaskim\u00e4ki": {
         "name": "Aleksanteri Kaskim\u00e4ki",
@@ -1383,7 +1522,9 @@
         "g": "1",
         "a": "0",
         "pim": "2",
-        "pm": "0"
+        "pm": "0",
+        "SOG": 12,
+        "TPM": 71.85
     },
     "Samuel Schindler": {
         "name": "Samuel Schindler",
@@ -1413,7 +1554,9 @@
         "g": "1",
         "a": "0",
         "pim": "2",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 8,
+        "TPM": 61.14
     },
     "Ales Cech": {
         "name": "Ales Cech",
@@ -1423,7 +1566,9 @@
         "g": "1",
         "a": "0",
         "pim": "4",
-        "pm": "-2"
+        "pm": "-2",
+        "SOG": 2,
+        "TPM": 60.98
     },
     "Patrik Dalen": {
         "name": "Patrik Dalen",
@@ -1433,7 +1578,9 @@
         "g": "1",
         "a": "0",
         "pim": "4",
-        "pm": "-2"
+        "pm": "-2",
+        "SOG": 2,
+        "TPM": 30.81
     },
     "Eriks Mateiko": {
         "name": "Eriks Mateiko",
@@ -1473,7 +1620,9 @@
         "g": "0",
         "a": "1",
         "pim": "4",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 7,
+        "TPM": 52.0
     },
     "Leon Muggli": {
         "name": "Leon Muggli",
@@ -1513,7 +1662,9 @@
         "g": "0",
         "a": "1",
         "pim": "0",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 3,
+        "TPM": 50.99
     },
     "Zeb Forsfj\u00e4ll": {
         "name": "Zeb Forsfj\u00e4ll",
@@ -1543,7 +1694,9 @@
         "g": "0",
         "a": "1",
         "pim": "0",
-        "pm": "3"
+        "pm": "3",
+        "SOG": 4,
+        "TPM": 35.01
     },
     "Oskar Pettersson": {
         "name": "Oskar Pettersson",
@@ -1553,7 +1706,9 @@
         "g": "0",
         "a": "1",
         "pim": "0",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 3,
+        "TPM": 39.6
     },
     "Moritz Elias": {
         "name": "Moritz Elias",
@@ -1593,7 +1748,9 @@
         "g": "0",
         "a": "1",
         "pim": "2",
-        "pm": "0"
+        "pm": "0",
+        "SOG": 7,
+        "TPM": 76.58
     },
     "Sander Wold": {
         "name": "Sander Wold",
@@ -1623,7 +1780,9 @@
         "g": "0",
         "a": "1",
         "pim": "2",
-        "pm": "0"
+        "pm": "0",
+        "SOG": 9,
+        "TPM": 83.99
     },
     "Janne Naukkarinen": {
         "name": "Janne Naukkarinen",
@@ -1653,7 +1812,9 @@
         "g": "0",
         "a": "1",
         "pim": "2",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 2,
+        "TPM": 61.03
     },
     "Liam \u00d6hgren": {
         "name": "Liam \u00d6hgren",
@@ -1663,7 +1824,9 @@
         "g": "0",
         "a": "1",
         "pim": "4",
-        "pm": "0"
+        "pm": "0",
+        "SOG": 17,
+        "TPM": 71.59
     },
     "Phillip Sinn": {
         "name": "Phillip Sinn",
@@ -1713,7 +1876,9 @@
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "0"
+        "pm": "0",
+        "SOG": 1,
+        "TPM": 5.83
     },
     "Adam Jiricek": {
         "name": "Adam Jiricek",
@@ -1823,7 +1988,9 @@
         "g": "0",
         "a": "0",
         "pim": "29",
-        "pm": "0"
+        "pm": "0",
+        "SOG": 1,
+        "TPM": 37.05
     },
     "Otto Salin": {
         "name": "Otto Salin",
@@ -1833,7 +2000,9 @@
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "0"
+        "pm": "0",
+        "SOG": 6,
+        "TPM": 83.5
     },
     "Viktors Kurbaka": {
         "name": "Viktors Kurbaka",
@@ -1863,7 +2032,9 @@
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "-2"
+        "pm": "-2",
+        "SOG": 3,
+        "TPM": 82.38
     },
     "Max Koskipirtti": {
         "name": "Max Koskipirtti",
@@ -1903,7 +2074,9 @@
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "-2"
+        "pm": "-2",
+        "SOG": 2,
+        "TPM": 45.35
     },
     "Timo B\u00fcnzli": {
         "name": "Timo B\u00fcnzli",
@@ -1993,7 +2166,9 @@
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "-1"
+        "pm": "-1",
+        "SOG": 7,
+        "TPM": 50.54
     },
     "Michael Reich": {
         "name": "Michael Reich",
@@ -2013,7 +2188,9 @@
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "0"
+        "pm": "0",
+        "SOG": 2,
+        "TPM": 45.46
     },
     "Jorian Donovan": {
         "name": "Jorian Donovan",
@@ -2023,7 +2200,9 @@
         "g": "0",
         "a": "0",
         "pim": "0",
-        "pm": "-2"
+        "pm": "-2",
+        "SOG": 5,
+        "TPM": 36.35
     },
     "Jake Furlong": {
         "name": "Jake Furlong",
@@ -2113,7 +2292,9 @@
         "g": "0",
         "a": "0",
         "pim": "2",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 9,
+        "TPM": 83.49
     },
     "Tobias Bjercke Larsen": {
         "name": "Tobias Bjercke Larsen",
@@ -2163,7 +2344,9 @@
         "g": "0",
         "a": "0",
         "pim": "2",
-        "pm": "-3"
+        "pm": "-3",
+        "SOG": 0,
+        "TPM": 30.2
     },
     "Anton Johansson": {
         "name": "Anton Johansson",
@@ -2173,7 +2356,9 @@
         "g": "0",
         "a": "0",
         "pim": "2",
-        "pm": "1"
+        "pm": "1",
+        "SOG": 4,
+        "TPM": 43.42
     },
     "Emils Veckaktins": {
         "name": "Emils Veckaktins",
@@ -2203,7 +2388,9 @@
         "g": "0",
         "a": "0",
         "pim": "2",
-        "pm": "2"
+        "pm": "2",
+        "SOG": 3,
+        "TPM": 68.56
     },
     "Matej Pribyl": {
         "name": "Matej Pribyl",
