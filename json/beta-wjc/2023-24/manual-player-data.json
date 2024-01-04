@@ -199,48 +199,48 @@
     },
     "Sweden": {
         "Elias Pettersson": {
-            "SOG": 4,
-            "TPM": 101.4
+            "SOG": 5,
+            "TPM": 122.87
         },
         "Elias Salomonsson": {
-            "SOG": 3,
-            "TPM": 54.57
+            "SOG": 4,
+            "TPM": 74.49
         },
         "Noah \u00d6stlund": {
-            "SOG": 9,
-            "TPM": 102.72
+            "SOG": 11,
+            "TPM": 120.8
         },
         "Anton Wahlberg": {
-            "SOG": 14,
-            "TPM": 89.94
+            "SOG": 16,
+            "TPM": 107.01
         },
         "Jonathan Lekkerim\u00e4ki": {
-            "SOG": 21,
-            "TPM": 90.08
+            "SOG": 30,
+            "TPM": 106.45
         },
         "Mattias H\u00e4velid": {
-            "SOG": 11,
-            "TPM": 86.24
+            "SOG": 12,
+            "TPM": 103.31
         },
         "Fabian Wagner": {
             "SOG": 8,
-            "TPM": 59.74
+            "TPM": 70.22
         },
         "Filip Bystedt": {
-            "SOG": 10,
-            "TPM": 78.59
+            "SOG": 11,
+            "TPM": 94.24
         },
         "Liam \u00d6hgren": {
-            "SOG": 18,
-            "TPM": 91.89
+            "SOG": 23,
+            "TPM": 109.24
         },
         "Tom Willander": {
-            "SOG": 5,
-            "TPM": 99.8
+            "SOG": 7,
+            "TPM": 119.68
         },
         "Axel Sandin Pellikka": {
-            "SOG": 16,
-            "TPM": 103.9
+            "SOG": 17,
+            "TPM": 123.92
         },
         "Anton Johansson": {
             "SOG": 4,
@@ -248,49 +248,49 @@
         },
         "David Edstrom": {
             "SOG": 8,
-            "TPM": 80.96
+            "TPM": 97.66
         },
         "Felix Unger S\u00f6rum": {
-            "SOG": 8,
-            "TPM": 75.05
+            "SOG": 9,
+            "TPM": 88.58
         },
         "Otto Stenberg": {
-            "SOG": 9,
-            "TPM": 69.4
+            "SOG": 12,
+            "TPM": 84.68
         },
         "Oskar Pettersson": {
-            "SOG": 3,
-            "TPM": 50.85
+            "SOG": 4,
+            "TPM": 60.9
         }
     },
     "Czechia": {
         "Tomas Hamara": {
-            "SOG": 10,
-            "TPM": 121.01
+            "SOG": 11,
+            "TPM": 141.36
         },
         "Matyas Sapovaliv": {
-            "SOG": 11,
-            "TPM": 93.93
+            "SOG": 12,
+            "TPM": 110.96
         },
         "Jiri Kulich": {
-            "SOG": 23,
-            "TPM": 94.21
+            "SOG": 28,
+            "TPM": 113.59
         },
         "Ales Cech": {
             "SOG": 3,
-            "TPM": 81.86
+            "TPM": 100.63
         },
         "Eduard Sale": {
-            "SOG": 19,
-            "TPM": 85.37
+            "SOG": 21,
+            "TPM": 104.92
         },
         "Robin Sapousek": {
             "SOG": 5,
             "TPM": 64.49
         },
         "Dominik Rymon": {
-            "SOG": 11,
-            "TPM": 69.11
+            "SOG": 12,
+            "TPM": 84.01
         }
     },
     "Slovakia": {
