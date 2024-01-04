@@ -4,14 +4,14 @@ Casual Python3 project used by friends to keep track of NHL and WJC players' sta
 ## Scoreboard
 | User | [G](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-goals) | [A](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-assists) | [SOG](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-shots-on-goal) | [PIM](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-penalties-in-minutes) | [+/-](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-plus--minus) | [TPM](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-time-played-in-minutes) | [S%](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-save-percentage) | [GAA](https://github.com/llevasseur/fantasy-hockey-league/blob/main/STANDINGS.md#user-content-goals-against-average) | Total |
 | :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
-| [Kyle](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Kyle) | 4 | 7 | 6 | 5 | 6 | 3 | 8 | 8 | 47 |
-| [Karter](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Karter) | 8 | 3 | 7 | 3 | 7 | 4 | 5 | 3 | 40 |
+| [Kyle](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Kyle) | 4 | 7 | 6 | 5 | 6 | 4 | 8 | 8 | 48 |
 | [Alasdair](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Alasdair) | 7 | 6 | 8 | 1 | 4 | 6 | 4 | 4 | 40 |
-| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 7 | 4 | 3 | 6 | 5 | 2 | 3 | 6 | 36 |
-| [John M](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-M) | 7 | 2 | 5 | 2 | 1 | 8 | 6 | 5 | 36 |
+| [Karter](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Karter) | 8 | 3 | 7 | 3 | 7 | 3 | 5 | 3 | 39 |
+| [John M](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-M) | 7 | 2 | 5 | 3 | 1 | 8 | 6 | 5 | 37 |
 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) | 2 | 8 | 2 | 8 | 8 | 5 | 1 | 1 | 35 |
+| [Timo](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Timo) | 5 | 4 | 3 | 6 | 5 | 2 | 3 | 6 | 34 |
 | [John B](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#John-B) | 1 | 5 | 1 | 4 | 2 | 7 | 7 | 7 | 34 |
-| [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) | 3 | 2 | 4 | 7 | 4 | 1 | 2 | 2 | 25 |
+| [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) | 3 | 1 | 4 | 7 | 4 | 1 | 2 | 2 | 24 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
 ## Usage
@@ -36,7 +36,7 @@ Extract the html from the response and pull out data using [Beautiful Soup](http
 
 In the Beta version, a [selenium](https://selenium-python.readthedocs.io/) web scraper will be used, however, it has not been perfected for the alpha version. In the mean time, player data is added manually to a separate `json` file. `write-manual-data.py` is a CLI API to do this easily, taking FirstInitial. Lastname, SOG, M, SS, ... , as input. Save data as a `json` database.
 
-3. Merge the fetched player database and the manual player database using `player_name` as the primary key. As some players have ascii characters not available on English keyboards, like `Tim Stützle`, a separate database has been created to determine player names based on the `FirstInitial. Lastname` input.
+3. Merge the fetched player database and the manual player database using `player_name` as the primary key. As some players have ascii characters not available on English keyboards, like `Tim StÃ¼tzle`, a separate database has been created to determine player names based on the `FirstInitial. Lastname` input.
 
 4. Display the data in 3 locations: 
 * ROSTERS.md: A visualizer for each participants drafted players' statistics. 

@@ -10,12 +10,12 @@
         "Goals Against Average": 2.5
     },
     "John M": {
-        "Goals": 16,
-        "Assists": 18,
-        "Shots on Goal": 107,
-        "Penalties in Minutes": 14,
-        "Plus / Minus": 5,
-        "Time Played in Minutes": 880.26,
+        "Goals": 17,
+        "Assists": 19,
+        "Shots on Goal": 110,
+        "Penalties in Minutes": 16,
+        "Plus / Minus": 4,
+        "Time Played in Minutes": 900.94,
         "Save Percentage": 0.929,
         "Goals Against Average": 1.94
     },
@@ -34,8 +34,8 @@
         "Assists": 32,
         "Shots on Goal": 96,
         "Penalties in Minutes": 43,
-        "Plus / Minus": 35,
-        "Time Played in Minutes": 842.07,
+        "Plus / Minus": 34,
+        "Time Played in Minutes": 859.9,
         "Save Percentage": 0.0,
         "Goals Against Average": 100.0
     },
@@ -62,20 +62,20 @@
     "Kyle": {
         "Goals": 15,
         "Assists": 26,
-        "Shots on Goal": 118,
+        "Shots on Goal": 119,
         "Penalties in Minutes": 30,
-        "Plus / Minus": 29,
-        "Time Played in Minutes": 818.78,
+        "Plus / Minus": 28,
+        "Time Played in Minutes": 837.78,
         "Save Percentage": 0.966,
         "Goals Against Average": 0.65
     },
     "Alasdair": {
-        "Goals": 16,
-        "Assists": 24,
-        "Shots on Goal": 127,
+        "Goals": 17,
+        "Assists": 25,
+        "Shots on Goal": 128,
         "Penalties in Minutes": 10,
         "Plus / Minus": 23,
-        "Time Played in Minutes": 855.12,
+        "Time Played in Minutes": 875.04,
         "Save Percentage": 0.912,
         "Goals Against Average": 2.0
     }
