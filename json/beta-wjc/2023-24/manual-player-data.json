@@ -75,72 +75,72 @@
     },
     "USA": {
         "Rutger McGroarty": {
-            "SOG": 18,
-            "TPM": 83.71
+            "SOG": 19,
+            "TPM": 101.09
         },
         "Cutter Gauthier": {
-            "SOG": 22,
-            "TPM": 87.23
+            "SOG": 24,
+            "TPM": 103.86
         },
         "Lane Hutson": {
-            "SOG": 11,
-            "TPM": 115.25
+            "SOG": 14,
+            "TPM": 140.45
         },
         "Ryan Chesley": {
-            "SOG": 6,
-            "TPM": 96.69
+            "SOG": 11,
+            "TPM": 121.89
         },
         "Jimmy Snuggerud": {
-            "SOG": 17,
-            "TPM": 70.52
+            "SOG": 21,
+            "TPM": 88.47
         },
         "Gavin Brindley": {
-            "SOG": 12,
-            "TPM": 83.98
+            "SOG": 13,
+            "TPM": 100.53
         },
         "Drew Fortescue": {
-            "SOG": 5,
-            "TPM": 87.8
+            "SOG": 7,
+            "TPM": 103.72
         },
         "Isaac Howard": {
-            "SOG": 19,
-            "TPM": 73.28
+            "SOG": 21,
+            "TPM": 89.01
         },
         "Seamus Casey": {
-            "SOG": 5,
-            "TPM": 62.6
+            "SOG": 6,
+            "TPM": 84.13
         },
         "Frank Nazar": {
             "SOG": 10,
-            "TPM": 77.02
+            "TPM": 94.19
         },
         "Will Smith": {
-            "SOG": 12,
-            "TPM": 73.85
+            "SOG": 13,
+            "TPM": 86.63
         },
         "Sam Rinzel": {
             "SOG": 4,
-            "TPM": 76.13
+            "TPM": 89.65
         },
         "Ryan Leonard": {
             "SOG": 15,
-            "TPM": 74.86
+            "TPM": 87.93
         },
         "Zeev Buium": {
-            "SOG": 2,
-            "TPM": 94.61
+            "SOG": 3,
+            "TPM": 111.08
         },
         "Gabe Perreault": {
             "SOG": 7,
-            "TPM": 72.56
+            "TPM": 85.18
         },
         "Quinn Finley": {
-            "SOG": 9,
-            "TPM": 64.6
+            "SOG": 10,
+            "TPM": 78.47
         },
         "Danny Nelson": {
-            "SOG": 6,
-            "TPM": 63.24
+            "SOG": 9,
+            "TPM": 75.81
         },
         "Eric Pohlkamp": {
             "SOG": 8,
@@ -151,50 +151,50 @@
             "TPM": 39.42
         },
         "Oliver Moore": {
-            "SOG": 6,
-            "TPM": 45.46
+            "SOG": 9,
+            "TPM": 57.68
         }
     },
     "Finland": {
         "Jesse Pulkkinen": {
             "SOG": 7,
-            "TPM": 93.43
+            "TPM": 112.01
         },
         "Konsta Helenius": {
             "SOG": 11,
-            "TPM": 100.89
+            "TPM": 118.72
         },
         "Lenni H\u00e4meenaho": {
             "SOG": 16,
-            "TPM": 87.55
+            "TPM": 103.98
         },
         "Otto Salin": {
             "SOG": 7,
-            "TPM": 103.65
+            "TPM": 121.87
         },
         "Kasper Halttunen": {
-            "SOG": 25,
-            "TPM": 69.73
+            "SOG": 28,
+            "TPM": 85.2
         },
         "Aleksanteri Kaskim\u00e4ki": {
             "SOG": 16,
-            "TPM": 90.03
+            "TPM": 105.85
         },
         "Arttu K\u00e4rki": {
-            "SOG": 9,
-            "TPM": 79.12
+            "SOG": 11,
+            "TPM": 94.84
         },
         "Joona V\u00e4is\u00e4nen": {
             "SOG": 2,
-            "TPM": 56.37
+            "TPM": 65.02
         },
         "Jani Nyman": {
-            "SOG": 29,
-            "TPM": 90.72
+            "SOG": 33,
+            "TPM": 108.1
         },
         "Emil Hemming": {
-            "SOG": 6,
-            "TPM": 54.09
+            "SOG": 8,
+            "TPM": 61.36
         }
     },
     "Sweden": {
