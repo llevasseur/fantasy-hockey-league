@@ -86,3 +86,4 @@
 | 6 | [Karter](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Karter) |  2.5 |
 | 7 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) |  2.59 |
 | 8 | [Leevon](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Leevon) |  100.0 |
+ 

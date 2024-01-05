@@ -14,7 +14,7 @@ Casual Python3 project used by friends to keep track of NHL and WJC players' sta
 | [Liam](https://github.com/llevasseur/fantasy-hockey-league/blob/main/ROSTERS.md#Liam) | 2 | 1 | 3 | 8 | 4 | 1 | 2 | 2 | 23 |
 ## Installation
 Fork this repository to contribute. Commits will be analyzed before being added to the source code.
-## Usage
+## Usage 
 Participants can use this github to view stats, including the Scoreboard, Selected Roosters, and Standings in each category.
 
 To update scores:

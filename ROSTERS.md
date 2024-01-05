@@ -151,3 +151,4 @@
 | Player | Pos | Team | G | A | PIM | S% | GAA |
 | :----- | --- | ----| - | - | --- | -- | --: |
 | [Mathis Rousseau](https://www.eliteprospects.com/player/577924/mathis-rousseau) | G |  Canada | 0 | 0 | 0 | .912 | 2.00 |
+ 
