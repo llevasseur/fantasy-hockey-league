@@ -1,4 +1,4 @@
-# Fantasy Hockey League
+# WJC Fantasy
 ### Beta Version: Data parsed with BeautifulSoup from eliteprospects.com
 Casual Python3 project used by friends to keep track of NHL and WJC players' stats. Statistics of players drafted by participants are totaled to determine Scoreboard ranking and to determine the winner.
 ## Scoreboard
