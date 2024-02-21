@@ -34,7 +34,7 @@ Extract the html from the response and pull out data using [Selenium](https://ww
 2. Some information is not provided on eliteprospect.com, including Shots on Goal and Time Played in Minutes. This information can be found on [iihf.com](https://www.iihf.com/en/events/2022/wm20/gamecenter/statistics/37416/5-lat-vs-can) or [nhl.com](https://www.nhl.com/gamecenter/bos-vs-nyr/2022/11/03/2022020161/recap/stats#game=2022020161,game_state=final,lock_state=final,game_tab=stats) game statistics summaries.
 <kbd>![iihf stats summary webpage example](/public/images/additional_source.jpg)</kbd>
 
-In the Beta version, a [selenium](https://selenium-python.readthedocs.io/) web scraper will be used, however, it has not been perfected for the alpha version. In the mean time, player data is added manually to a separate `json` file. `write-manual-data.py` is a CLI API to do this easily, taking FirstInitial. Lastname, SOG, M, SS, ... , as input. Save data as a `json` database.
+Some data is added manually to a separate json file. `write-manual-data.py` is a CLI API to do this easily, taking FirstInitial. Lastname, SOG, M, SS, ... , as input. Save data as a `json` database.
 
 3. Merge the fetched player database and the manual player database using `player_name` as the primary key. As some players have ascii characters not available on English keyboards, like `Tim Stützle`, a separate database has been created to determine player names based on the `FirstInitial. Lastname` input.
 
