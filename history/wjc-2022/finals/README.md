@@ -1,7 +1,0 @@
-| User | [G](https://github.com/llevasseur/world-juniors-2022/blob/master/history/2022/finals/STANDINGS.md#goals) | [A](https://github.com/llevasseur/world-juniors-2022/blob/master/history/2022/finals/STANDINGS.md#assists) | SOG | [PIM](https://github.com/llevasseur/world-juniors-2022/blob/master/history/2022/finals/STANDINGS.md#penalties-in-minutes) | [+/-](https://github.com/llevasseur/world-juniors-2022/blob/master/history/2022/finals/STANDINGS.md#plus--minus) | TPM | [S%](https://github.com/llevasseur/world-juniors-2022/blob/master/history/2022/finals/STANDINGS.md#save-percentage) | [GAA](https://github.com/llevasseur/world-juniors-2022/blob/master/history/2022/finals/STANDINGS.md#goals-against-average) | Total |
-| :--- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  -----: |
-| [John](https://github.com/llevasseur/world-juniors-2022/blob/master/history/2022/finals/ROSTERS.md#John) | 5 | 4 | 5 | 2 | 5 | 2 | 2 | 2 | 27 |
-| [Alasdair](https://github.com/llevasseur/world-juniors-2022/blob/master/history/2022/finals/ROSTERS.md#Alasdair) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 25 |
-| [Leevon](https://github.com/llevasseur/world-juniors-2022/blob/master/history/2022/finals/ROSTERS.md#Leevon) | 3 | 5 | 4 | 1 | 5 | 5 | 1 | 1 | 25 |
-| [Liam](https://github.com/llevasseur/world-juniors-2022/blob/master/history/2022/finals/ROSTERS.md#Liam) | 2 | 2 | 2 | 4 | 2 | 4 | 4 | 4 | 24 |
-| [Timo](https://github.com/llevasseur/world-juniors-2022/blob/master/history/2022/finals/ROSTERS.md#Timo) | 1 | 1 | 1 | 5 | 1 | 1 | 5 | 5 | 20 |
