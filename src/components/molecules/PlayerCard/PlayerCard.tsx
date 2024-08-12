@@ -3,8 +3,13 @@
  * Displays when a user clicks on their name in the table
  * @returns
  */
+import "./PlayerCard.scss";
 const PlayerCard = () => {
-  return <div>PlayerCard</div>;
+  return (
+    <div className="player-card">
+      <p className="player-card__text">PlayerCard</p>
+    </div>
+  );
 };
 
 export default PlayerCard;

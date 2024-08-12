@@ -3,7 +3,11 @@
  * @returns
  */
 const TeamsTable = () => {
-  return <div>TeamsTable</div>;
+  return (
+    <div className="table">
+      <p className="team-table__text">TeamsTable</p>
+    </div>
+  );
 };
 
 export default TeamsTable;

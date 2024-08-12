@@ -4,7 +4,11 @@
  * @returns
  */
 const DraftResultsTable = () => {
-  return <div>DraftResultsTable</div>;
+  return (
+    <div className="table draft-results-table">
+      <p className="draft-results-table__text">DraftResultsTable</p>
+    </div>
+  );
 };
 
 export default DraftResultsTable;

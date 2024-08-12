@@ -1,0 +1,11 @@
+@use "../../../styles/partials/mixins" as *;
+
+.player-card {
+  position: relative;
+  width: 100%;
+  border: 1px solid black;
+
+  &__text {
+    margin: 1rem;
+  }
+}

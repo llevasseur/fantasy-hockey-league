@@ -3,7 +3,11 @@
  * @returns
  */
 const PlayersTable = () => {
-  return <div>PlayersTable</div>;
+  return (
+    <div className=" table players-table">
+      <p className="players-table__text">PlayersTable</p>
+    </div>
+  );
 };
 
 export default PlayersTable;
