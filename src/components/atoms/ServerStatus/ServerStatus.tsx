@@ -1,6 +1,6 @@
 import "./ServerStatus.scss";
 import { useState, useEffect } from "react";
-import { useParams, useLocation } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import axios from "axios";
 
 const API_URL = import.meta.env.VITE_API_URL;
@@ -9,7 +9,7 @@ const API_URL = import.meta.env.VITE_API_URL;
 const ServerStatus = () => {
   const [status, setStatus] = useState("");
   const location = useLocation().pathname;
-  const params = useParams();
+  // const params = useParams();
 
   useEffect(() => {
     const fetchStatus = async () => {
